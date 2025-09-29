@@ -31,10 +31,14 @@ jobs:
       - name: Run Fetch Data Script
         run: python fetch_data.py
 
+      - name: Run Analysis Script
+        run: python analysis.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add poe1_economy.db  # Make sure this matches your DB_FILE name
-          git diff --staged --quiet || git commit -m "Update PoE 1 economy data"
+          # Add the database, the README, and the new charts folder
+          git add *.db README.md charts/
+          git diff --staged --quiet || git commit -m "Update economy data and analysis"
           git push
