@@ -7,7 +7,7 @@ import os
 
 # --- Configuration ---
 DB_FILE = "poe1_economy.db"
-LEAGUE = "mercenaries" 
+LEAGUE = "Mercenaries" 
 # This set contains the item types that use the special 'currencyoverview' endpoint.
 CURRENCY_TYPES = {"Currency", "Fragment"}
 
