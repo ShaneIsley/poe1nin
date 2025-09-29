@@ -39,20 +39,33 @@ def create_database_schema(cursor, conn):
 
 # --- API Fetching (Adapted for multiple endpoints) ---
 def fetch_all_item_overviews():
-    """Fetches and parses the JS file to get all PoE 1 item category API endpoints."""
+    """
+    Fetches and parses the JS file to get all PoE 1 item category API endpoints.
+    Ensures the final list is unique.
+    """
     url = 'https://poe.ninja/chunk.D3O5eA5x.mjs'
     print(f"Fetching item category list from: {url}")
     try:
         response = requests.get(url)
         response.raise_for_status()
         js_content = response.text
+        
+        # Find all the pairs from the main 'Ct' array
         overview_pairs = re.findall(r'{url:"[^"]+",type:"([^"]+)",name:"([^"]+)"', js_content)
+        
+        # Manually add the two special categories
         all_pairs = [("Currency", "Currency"), ("Fragment", "Fragments")] + overview_pairs
-        if not all_pairs:
+        
+        # --- FIX ---
+        # Convert to a dictionary and back to a list to remove duplicates while preserving order
+        unique_pairs = list(dict.fromkeys(all_pairs))
+        
+        if not unique_pairs:
             print("Could not find any item category pairs.")
             return []
-        print(f"Successfully extracted {len(all_pairs)} item overview pairs.")
-        return all_pairs
+            
+        print(f"Successfully extracted {len(unique_pairs)} unique item overview pairs.")
+        return unique_pairs
     except requests.exceptions.RequestException as e:
         print(f"Error fetching JavaScript file: {e}")
         return []
