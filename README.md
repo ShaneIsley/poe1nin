@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 19:43:31.865405` |
-| Total Price Entries in DB | `748,188` |
+| Last Successful Run (UTC) | `2025-09-30 20:13:53.838875` |
+| Total Price Entries in DB | `773,087` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 871713.7 |
-| Base Types | Supreme Spiked Shield | 349141.0 |
-| Unique Accessories | Original Sin | 246144.4 |
-| Unique Jewels | Voices | 244079.8 |
-| Unique Relics | The Original Scripture | 176316.2 |
-| Runegrafts | Runegraft of the Angler | 60478.8 |
-| Unique Armours | The Tempest's Liberation | 52575.4 |
+| Skill Gems | Awakened Enlighten Support | 877888.6 |
+| Base Types | Supreme Spiked Shield | 351155.4 |
+| Unique Accessories | Original Sin | 247564.6 |
+| Unique Jewels | Voices | 245229.7 |
+| Unique Relics | The Original Scripture | 176915.7 |
+| Runegrafts | Runegraft of the Angler | 60877.0 |
+| Unique Armours | The Tempest's Liberation | 52754.2 |
 | Divination Cards | House of Mirrors | 25023.9 |
-| Unique Flasks | Wine of the Prophet | 23912.3 |
-| Unique Weapons | The Winds of Fate | 11956.7 |
-| Omens | Omen of Fortune | 9579.8 |
-| Vials | Vial of the Ghost | 7563.0 |
-| Tattoos | Journey Tattoo of the Body | 882.4 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 881.3 |
-| Oils | Tainted Oil | 612.6 |
+| Unique Flasks | Wine of the Prophet | 23980.3 |
+| Unique Weapons | The Winds of Fate | 12053.6 |
+| Omens | Omen of Fortune | 9615.5 |
+| Vials | Vial of the Ghost | 7612.8 |
+| Tattoos | Journey Tattoo of the Body | 885.6 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 884.6 |
+| Oils | Tainted Oil | 616.6 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 871713.7 |
-| Awakened Empower Support | 523028.2 |
-| Supreme Spiked Shield | 349141.0 |
-| Awakened Enhance Support | 348685.5 |
-| Original Sin | 246144.4 |
-| Voices | 244079.8 |
-| Awakened Enlighten Support | 240123.2 |
+| Awakened Enlighten Support | 877888.6 |
+| Awakened Empower Support | 526733.2 |
+| Supreme Spiked Shield | 351155.4 |
+| Awakened Enhance Support | 351155.4 |
+| Original Sin | 247564.6 |
+| Voices | 245229.7 |
+| Awakened Enlighten Support | 242019.4 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 176316.2 |
-| Arcanist Slippers | 174570.5 |
+| The Original Scripture | 176915.7 |
+| Anarchic Spiritblade | 175577.7 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Minions deal 10% increased Damage | 14.1 | 683.3% |
-| Vaal Molten Shell | 2513.2 | 100.0% |
-| Sanctum of Immortality (Tier 3) | 13.3 | 33.0% |
-| 6% increased Mana Reservation Efficiency of Skills | 13.0 | 30.0% |
-| 10% increased Damage while affected by a Herald | 15.0 | 20.0% |
-| The Iron Fortress | 504.2 | 11.3% |
-| Atziri's Splendour | 39.5 | 11.3% |
-| Belly of the Beast | 176.47 | 7.9% |
-| Fenumus' Spinnerets | 32.0 | 6.7% |
-| 6% increased Mana Reservation Efficiency of Skills | 881.34 | 6.3% |
+| Coral Amulet | 1903.2 | 909.7% |
+| Convoking Wand | 1446.43 | 782.7% |
+| Praetor Crown | 262.32 | 719.8% |
+| Lightning Arrow of Electrocution | 2537.6 | 662.7% |
+| Ezomyte Blade | 100.0 | 660.5% |
+| Titan Greaves | 253.76 | 487.3% |
+| Vermillion Ring | 177.63 | 434.9% |
+| Fancy Foil | 57.69 | 365.2% |
+| Varnished Coat | 2309.22 | 339.9% |
+| Wintertide Brand | 126.88 | 314.8% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Sanctum of Unity (Tier 2) | 12.0 | -20.0% |
-| The Arkhon's Tools | 25.0 | -14.1% |
-| 12% increased Physical Damage | 22.0 | -12.0% |
-| Font of Thunder | 50.0 | -10.1% |
-| Nebuloch | 16.8 | -9.2% |
-| Olroth's Resolve | 506.08 | -8.8% |
-| Rakiata's Dance | 1016.95 | -8.2% |
-| Tattoo of the Hinekora Storyteller | 40.0 | -6.6% |
-| Abberath's Hooves | 31.2 | -5.5% |
-| Pledge of Hands | 339.82 | -3.6% |
+| Lacquered Helmet | 1015.04 | -91.9% |
+| Bone Bow | 1015.04 | -91.9% |
+| Tomahawk | 1522.56 | -87.9% |
+| Auric Mace | 171.07 | -86.8% |
+| Royal Burgonet | 105.38 | -83.6% |
+| Spiked Round Shield | 33.38 | -81.1% |
+| Spidersilk Robe | 246.38 | -80.7% |
+| Latticed Ringmail | 317.2 | -78.7% |
+| Omen Wand | 3159.31 | -76.1% |
+| Burnished Foil | 61.38 | -75.7% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
