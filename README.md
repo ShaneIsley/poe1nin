@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 18:17:43.590401` |
-| Total Price Entries in DB | `648,553` |
+| Last Successful Run (UTC) | `2025-09-30 18:41:55.979075` |
+| Total Price Entries in DB | `673,463` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,7 +18,7 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 870296.2 |
+| Skill Gems | Awakened Enlighten Support | 871713.4 |
 | Base Types | Supreme Spiked Shield | 348118.5 |
 | Unique Jewels | Voices | 243683.0 |
 | Unique Accessories | Original Sin | 240201.8 |
@@ -27,11 +27,11 @@ This repository tracks data the **Mercenaries** league.
 | Unique Armours | The Tempest's Liberation | 52421.3 |
 | Divination Cards | House of Mirrors | 24866.1 |
 | Unique Flasks | Wine of the Prophet | 23875.4 |
-| Unique Weapons | The Winds of Fate | 11937.7 |
+| Unique Weapons | The Winds of Fate | 11952.9 |
 | Omens | Omen of Fortune | 9550.2 |
 | Vials | Vial of the Ghost | 7539.6 |
 | Tattoos | Journey Tattoo of the Body | 879.6 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 754.0 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 754.9 |
 | Oils | Tainted Oil | 610.7 |
 
 
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 870296.2 |
-| Awakened Empower Support | 522177.8 |
-| Awakened Enhance Support | 348118.5 |
+| Awakened Enlighten Support | 871713.4 |
+| Awakened Empower Support | 523028.0 |
+| Awakened Enhance Support | 348685.4 |
 | Supreme Spiked Shield | 348118.5 |
 | Voices | 243683.0 |
 | Original Sin | 240201.8 |
-| Awakened Enlighten Support | 239739.8 |
+| Awakened Enlighten Support | 240062.4 |
 | Divine Crown | 213787.0 |
 | The Original Scripture | 175799.8 |
-| Archdemon Crown | 174059.2 |
+| Automation | 174342.7 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Demon Dagger | 50.0 | 900.0% |
-| Cutthroat's Garb | 1256.6 | 721.1% |
-| Lightning Strike | 198.0 | 714.8% |
-| Phantom Mitts | 143.66 | 618.3% |
-| Headman's Sword | 628.3 | 558.5% |
-| Blizzard Crown | 3706.97 | 488.3% |
-| Ezomyte Axe | 125.66 | 481.8% |
-| Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments | 13.2 | 450.0% |
-| Manifold Ring | 25132.0 | 369.2% |
-| Full Dragonscale | 100.0 | 342.5% |
+| Haunted Bascinet | 62830.0 | 892.9% |
+| Thicket Bow | 139.16 | 827.7% |
+| Gladius | 100.0 | 316.7% |
+| Sekhem | 94.33 | 310.1% |
+| Full Wyrmscale | 50.0 | 281.7% |
+| Great White Claw | 68.26 | 241.3% |
+| Frostbite | 40.0 | 207.7% |
+| Gladiator Helmet | 52.0 | 173.7% |
+| The Annihilating Light | 981.4 | 100.3% |
+| Dusk Ring | 439.81 | 100.0% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Pig-Faced Bascinet | 753.96 | -84.7% |
-| Citrine Amulet | 301.58 | -84.0% |
-| Blighted Jungle Valley Map | 19.0 | -81.0% |
-| Viper Strike of the Mamba | 578.04 | -69.3% |
-| Marshall's Brigandine | 20.0 | -68.8% |
-| Hunter Hood | 23.0 | -58.2% |
-| Shattering Steel | 30.0 | -56.5% |
-| Warlock Boots | 21299.37 | -52.4% |
-| Bone Spirit Shield | 251.32 | -50.1% |
-| Spectral Shield Throw of Shattering | 596.88 | -46.6% |
+| Iron Ring | 14.0 | -87.0% |
+| Sorcerer Boots | 17.07 | -86.4% |
+| Silk Gloves | 17.07 | -86.4% |
+| Samite Slippers | 20.0 | -84.1% |
+| Blizzard Crown | 564.21 | -76.6% |
+| Two-Toned Boots | 37.13 | -75.4% |
+| Legion Boots | 27.6 | -74.4% |
+| General's Helmet | 11.4 | -73.1% |
+| Precursor Gauntlets | 52.0 | -66.0% |
+| Ebony Tower Shield | 43.53 | -65.4% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
