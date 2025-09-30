@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 12:25:49.756053` |
-| Total Price Entries in DB | `274,624` |
+| Last Successful Run (UTC) | `2025-09-30 13:08:53.567482` |
+| Total Price Entries in DB | `299,563` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 887894.1 |
-| Base Types | Supreme Spiked Shield | 356091.9 |
-| Unique Accessories | Original Sin | 256386.2 |
-| Unique Jewels | Voices | 249264.3 |
-| Unique Relics | The Original Scripture | 179826.4 |
-| Runegrafts | Runegraft of the Angler | 61433.6 |
-| Unique Armours | The Tempest's Liberation | 53621.9 |
-| Divination Cards | House of Mirrors | 25368.9 |
-| Unique Flasks | Wine of the Prophet | 24403.6 |
-| Unique Weapons | The Winds of Fate | 12201.8 |
-| Omens | Omen of Fortune | 9603.0 |
-| Vials | Vial of the Ghost | 7706.4 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 770.6 |
-| Tattoos | Journey Tattoo of the Body | 717.0 |
-| Oils | Tainted Oil | 622.3 |
+| Skill Gems | Awakened Enlighten Support | 885745.6 |
+| Base Types | Supreme Spiked Shield | 353363.4 |
+| Unique Accessories | Original Sin | 254421.7 |
+| Unique Jewels | Voices | 248008.8 |
+| Unique Relics | The Original Scripture | 178920.6 |
+| Runegrafts | Runegraft of the Angler | 61246.5 |
+| Unique Armours | The Tempest's Liberation | 53210.7 |
+| Divination Cards | House of Mirrors | 25240.8 |
+| Unique Flasks | Wine of the Prophet | 24253.5 |
+| Unique Weapons | The Winds of Fate | 12089.7 |
+| Omens | Omen of Fortune | 9573.8 |
+| Vials | Vial of the Ghost | 7659.0 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 765.9 |
+| Tattoos | Journey Tattoo of the Body | 714.8 |
+| Oils | Tainted Oil | 620.4 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 887894.1 |
-| Awakened Empower Support | 532736.5 |
-| Supreme Spiked Shield | 356091.9 |
-| Awakened Enhance Support | 355157.6 |
-| Original Sin | 256386.2 |
-| Voices | 249264.3 |
-| Awakened Enlighten Support | 244342.9 |
+| Awakened Enlighten Support | 885745.6 |
+| Awakened Empower Support | 531447.4 |
+| Awakened Enhance Support | 354298.2 |
+| Supreme Spiked Shield | 353363.4 |
+| Original Sin | 254421.7 |
+| Voices | 248008.8 |
+| Awakened Enlighten Support | 243629.8 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 179826.4 |
-| Anarchic Spiritblade | 178046.0 |
+| The Original Scripture | 178920.6 |
+| Volatility Support | 177149.1 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Karui Chopper | 10768.43 | 1536.0% |
-| Siege Axe | 385.32 | 710.7% |
-| Vile Arrow Quiver | 231.85 | 624.5% |
-| Supreme Spiked Shield | 385.32 | 316.4% |
-| Highborn Bow | 642.2 | 257.1% |
-| Convoking Wand | 32.9 | 199.1% |
-| Rustic Sash | 96.38 | 183.5% |
-| The Thaumaturgist | 30.8 | 156.7% |
-| High-Impact Mine Support | 120.24 | 140.5% |
-| 10% increased Projectile Damage | 52.84 | 140.2% |
+| Scarlet Round Shield | 1018.08 | 2985.1% |
+| Karui Chopper | 1705.28 | 1227.7% |
+| Eye Gouger | 6363.0 | 866.4% |
+| Golden Mask | 190.0 | 708.5% |
+| Spike-Point Arrow Quiver | 127.26 | 633.9% |
+| Barbute Helmet | 28.5 | 470.0% |
+| Decurve Bow | 70.45 | 468.1% |
+| Twilight Blade | 254.52 | 383.1% |
+| Champion Kite Shield | 127.26 | 338.2% |
+| Storm Rain | 133.53 | 317.3% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| 12% increased Cold Damage over Time | 20.0 | -96.2% |
-| Spiraled Foil | 137.44 | -89.3% |
-| Blighted Moon Temple Map | 16.01 | -87.5% |
-| Decurve Bow | 12.4 | -82.5% |
-| Storm Rain | 32.0 | -76.0% |
-| Harpy Rapier | 12.0 | -72.5% |
-| Awakened Minion Damage Support | 6658.08 | -66.8% |
-| Sapphire Ring | 15.4 | -55.4% |
-| Sunder of Earthbreaking | 20.0 | -54.5% |
-| Infiltrator Mitts | 23.0 | -54.0% |
+| Jewelled Foil | 15.0 | -98.1% |
+| Tyrant's Sekhem | 131.76 | -89.7% |
+| Ezomyte Tower Shield | 16.41 | -81.2% |
+| Rock Breaker | 19.0 | -81.0% |
+| Lich's Circlet | 127.26 | -78.5% |
+| Headsman Axe | 125.99 | -75.5% |
+| Marble Amulet | 36.9 | -72.1% |
+| Highborn Bow | 14.0 | -72.0% |
+| Slink Gloves | 20.0 | -71.2% |
+| Highborn Bow | 79.45 | -69.1% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
