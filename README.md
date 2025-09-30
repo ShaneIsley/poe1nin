@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 11:43:28.113230` |
-| Total Price Entries in DB | `249,680` |
+| Last Successful Run (UTC) | `2025-09-30 12:25:49.756053` |
+| Total Price Entries in DB | `274,624` |
 
 <!-- END_MAINTENANCE -->
 
@@ -20,19 +20,19 @@ This repository tracks data the **Mercenaries** league.
 | :--- | :--- | :--- |
 | Skill Gems | Awakened Enlighten Support | 887894.1 |
 | Base Types | Supreme Spiked Shield | 356091.9 |
-| Unique Accessories | Original Sin | 255713.5 |
+| Unique Accessories | Original Sin | 256386.2 |
 | Unique Jewels | Voices | 249264.3 |
 | Unique Relics | The Original Scripture | 179826.4 |
 | Runegrafts | Runegraft of the Angler | 61433.6 |
-| Unique Armours | The Tempest's Liberation | 53481.1 |
-| Divination Cards | House of Mirrors | 25435.6 |
+| Unique Armours | The Tempest's Liberation | 53621.9 |
+| Divination Cards | House of Mirrors | 25368.9 |
 | Unique Flasks | Wine of the Prophet | 24403.6 |
 | Unique Weapons | The Winds of Fate | 12201.8 |
 | Omens | Omen of Fortune | 9603.0 |
-| Vials | Vial of the Ghost | 7682.4 |
+| Vials | Vial of the Ghost | 7706.4 |
 | Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 770.6 |
 | Tattoos | Journey Tattoo of the Body | 717.0 |
-| Oils | Tainted Oil | 616.5 |
+| Oils | Tainted Oil | 622.3 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -48,40 +48,40 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Empower Support | 532736.5 |
 | Supreme Spiked Shield | 356091.9 |
 | Awakened Enhance Support | 355157.6 |
-| Original Sin | 255713.5 |
+| Original Sin | 256386.2 |
 | Voices | 249264.3 |
 | Awakened Enlighten Support | 244342.9 |
 | Divine Crown | 213787.0 |
 | The Original Scripture | 179826.4 |
-| Satin Gloves | 178046.0 |
+| Anarchic Spiritblade | 178046.0 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Leviathan Gauntlets | 232.5 | 675.0% |
-| Royal Burgonet | 655.04 | 631.0% |
-| Volatility Support | 177578.82 | 508.7% |
-| Spine Bow | 59.38 | 493.8% |
-| Profane Wand | 128.44 | 489.2% |
-| Decurve Bow | 70.69 | 470.1% |
-| Vaal Axe | 30.84 | 285.5% |
-| Harlequin Mask | 693.58 | 238.6% |
-| Serrated Arrow Quiver | 42.5 | 203.6% |
-| Pinnacle Tower Shield | 706.42 | 201.3% |
+| Karui Chopper | 10768.43 | 1536.0% |
+| Siege Axe | 385.32 | 710.7% |
+| Vile Arrow Quiver | 231.85 | 624.5% |
+| Supreme Spiked Shield | 385.32 | 316.4% |
+| Highborn Bow | 642.2 | 257.1% |
+| Convoking Wand | 32.9 | 199.1% |
+| Rustic Sash | 96.38 | 183.5% |
+| The Thaumaturgist | 30.8 | 156.7% |
+| High-Impact Mine Support | 120.24 | 140.5% |
+| 10% increased Projectile Damage | 52.84 | 140.2% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Karui Axe | 60.38 | -88.2% |
-| Chest Splitter | 43.69 | -82.9% |
-| Nubuck Gloves | 244.04 | -80.9% |
-| Conqueror's Helmet | 41.69 | -76.7% |
-| Karui Sceptre | 16.0 | -73.3% |
-| Lion Sword | 14.0 | -72.0% |
-| Nightmare Bascinet | 20.0 | -64.5% |
-| Serpentscale Gauntlets | 46.0 | -54.0% |
-| Leather Belt | 17.0 | -47.5% |
-| Fortress Map | 63.32 | -46.1% |
+| 12% increased Cold Damage over Time | 20.0 | -96.2% |
+| Spiraled Foil | 137.44 | -89.3% |
+| Blighted Moon Temple Map | 16.01 | -87.5% |
+| Decurve Bow | 12.4 | -82.5% |
+| Storm Rain | 32.0 | -76.0% |
+| Harpy Rapier | 12.0 | -72.5% |
+| Awakened Minion Damage Support | 6658.08 | -66.8% |
+| Sapphire Ring | 15.4 | -55.4% |
+| Sunder of Earthbreaking | 20.0 | -54.5% |
+| Infiltrator Mitts | 23.0 | -54.0% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
