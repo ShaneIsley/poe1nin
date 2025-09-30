@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 09:45:59.933306` |
-| Total Price Entries in DB | `99,901` |
+| Last Successful Run (UTC) | `2025-09-30 10:13:42.112885` |
+| Total Price Entries in DB | `124,871` |
 
 <!-- END_MAINTENANCE -->
 
@@ -28,10 +28,10 @@ This repository tracks data the **Mercenaries** league.
 | Divination Cards | House of Mirrors | 25451.3 |
 | Unique Flasks | Wine of the Prophet | 24403.6 |
 | Unique Weapons | The Winds of Fate | 12201.8 |
-| Omens | Omen of Fortune | 9026.8 |
-| Vials | Vial of the Ghost | 7682.4 |
-| Tattoos | Journey Tattoo of the Body | 793.8 |
+| Omens | Omen of Fortune | 9055.0 |
+| Vials | Vial of the Ghost | 7706.4 |
 | Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 770.6 |
+| Tattoos | Journey Tattoo of the Body | 719.3 |
 | Oils | Tainted Oil | 616.5 |
 
 
@@ -53,35 +53,35 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 245112.4 |
 | Divine Crown | 213787.0 |
 | The Original Scripture | 179937.4 |
-| Anarchic Spiritblade | 178155.8 |
+| Simplex Amulet | 178155.8 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Galvanic Arrow of Surging | 100.0 | 127.3% |
-| Tornado Shot of Cloudburst | 69.5 | 104.4% |
-| Cremation of Exhuming | 53.0 | 65.6% |
-| Rebirth and Renewal | 19.0 | 40.7% |
-| Sanctum of Unity (Tier 2) | 14.0 | 40.0% |
-| Lightning Workshop (Tier 1) | 12.0 | 20.0% |
-| Fortify Support | 132.75 | 18.7% |
-| Ice Nova of Frostbolts | 98.0 | 18.1% |
-| Flame Workshop (Tier 1) | 11.8 | 18.0% |
-| 12% increased Lightning Damage | 25.0 | 16.3% |
+| Crusader Gloves | 100.0 | 589.7% |
+| Engraved Hatchet | 282.57 | 410.2% |
+| Murder Boots | 37.0 | 362.5% |
+| Crusader Chainmail | 15.0 | 150.0% |
+| Unset Ring | 65.0 | 103.1% |
+| Crackling Lance of Branching | 202.13 | 93.9% |
+| Stormbind | 56.0 | 80.6% |
+| Paua Amulet | 36.0 | 80.0% |
+| Trap and Mine Damage Support | 17.0 | 77.1% |
+| Flamewood Support | 12.0 | 66.7% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Toxic Rain of Withering | 642.2 | -66.6% |
-| Enhance Support | 58.0 | -37.0% |
-| Blasphemy Support | 30.0 | -21.1% |
-| Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments | 20.0 | -20.0% |
-| Awakened Chain Support | 924.77 | -19.7% |
-| Less Duration Support | 411.01 | -19.7% |
-| Toxic Rain | 31.0 | -16.2% |
-| Knockback Support | 22.0 | -15.4% |
-| Brutal Restraint | 100.0 | -14.6% |
-| Unnatural Instinct | 321.1 | -13.8% |
+| Hellion's Paw | 26.0 | -85.0% |
+| Blight of Atrophy | 265.6 | -82.3% |
+| Sun Leather | 141.38 | -72.5% |
+| Saintly Chainmail | 11.2 | -66.9% |
+| Commander's Brigandine | 12.02 | -61.1% |
+| Tiger's Paw | 39.84 | -49.2% |
+| Ornate Mace | 14.5 | -38.0% |
+| Faithful Helmet | 192.66 | -37.5% |
+| Ambush | 19.9 | -37.4% |
+| Chain Hauberk | 11.0 | -35.3% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
