@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 06:46:28.304410` |
-| Total Price Entries in DB | `400,091` |
+| Last Successful Run (UTC) | `2025-09-30 07:13:08.104634` |
+| Total Price Entries in DB | `425,058` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,20 +19,20 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Awakened Enlighten Support | 899925.0 |
-| Base Types | Supreme Spiked Shield | 359970.0 |
-| Unique Accessories | Original Sin | 259178.4 |
-| Unique Jewels | Voices | 251979.0 |
+| Base Types | Supreme Spiked Shield | 359943.3 |
+| Unique Accessories | Original Sin | 259056.7 |
+| Unique Jewels | Voices | 251860.7 |
 | Unique Relics | The Original Scripture | 181784.9 |
-| Currency | Mirror of Kalandra | 179985.0 |
-| Runegrafts | Runegraft of the Angler | 61721.9 |
-| Unique Armours | The Tempest's Liberation | 54206.7 |
-| Divination Cards | House of Mirrors | 25712.7 |
-| Unique Flasks | Wine of the Prophet | 24641.8 |
-| Unique Weapons | The Winds of Fate | 12386.1 |
+| Currency | Mirror of Kalandra | 179900.5 |
+| Runegrafts | Runegraft of the Angler | 61688.8 |
+| Unique Armours | The Tempest's Liberation | 54181.2 |
+| Divination Cards | House of Mirrors | 25710.8 |
+| Unique Flasks | Wine of the Prophet | 24641.6 |
+| Unique Weapons | The Winds of Fate | 12379.4 |
 | Omens | Omen of Fortune | 9191.8 |
 | Vials | Vial of the Ghost | 7822.8 |
 | Fragments | Syndicate Medallion | 1170.0 |
-| Tattoos | Journey Tattoo of the Body | 808.4 |
+| Tattoos | Journey Tattoo of the Body | 807.9 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -47,41 +47,41 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 899925.0 |
 | Awakened Empower Support | 539955.0 |
 | Awakened Enhance Support | 385167.9 |
-| Supreme Spiked Shield | 359970.0 |
-| Original Sin | 259178.4 |
-| Voices | 251979.0 |
+| Supreme Spiked Shield | 359943.3 |
+| Original Sin | 259056.7 |
+| Voices | 251860.7 |
 | Awakened Enlighten Support | 248573.4 |
-| Divine Crown | 215982.0 |
+| Divine Crown | 215966.0 |
 | The Original Scripture | 181784.9 |
-| Mirror of Kalandra | 179985.0 |
+| Automation | 179985.0 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Blue Pearl Amulet | 1564.56 | 3029.1% |
-| Ivory Spirit Shield | 422.64 | 1875.0% |
-| Stealth Boots | 135.34 | 221.6% |
-| Blight-ravaged Ashen Wood Map | 100.0 | 198.8% |
-| Focused Channelling Support | 12.0 | 144.9% |
-| Crystal Wand | 84.15 | 139.7% |
-| Sekhem | 44.08 | 120.4% |
-| Sorcerer Gloves | 111.09 | 117.8% |
-| Boneshatter | 22.5 | 100.0% |
-| Close Combat Support | 15.0 | 74.4% |
+| Twilight Regalia | 418.99 | 2106.4% |
+| Syndicate's Garb | 223.5 | 893.3% |
+| Fire Arrow Quiver | 338.81 | 705.3% |
+| Steel Kite Shield | 1042.48 | 598.2% |
+| Vaal Spirit Shield | 95.69 | 498.1% |
+| Conqueror's Helmet | 4169.92 | 407.1% |
+| Estoc | 125.98 | 386.4% |
+| 12% increased Damage with Two Handed Weapons | 28.0 | 180.0% |
+| Commander's Brigandine | 31.12 | 158.9% |
+| Serpentine Staff | 182.43 | 146.2% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Zealot Gloves | 130.38 | -88.8% |
-| Accumulator Wand | 61.61 | -84.2% |
-| Twilight Blade | 53.08 | -79.6% |
-| Sniper Bow | 12.5 | -77.3% |
-| Lightning Tendrils of Eccentricity | 2764.06 | -72.5% |
-| Boot Blade | 14.08 | -65.8% |
-| Void Fangs | 24.0 | -64.2% |
-| Prismatic Burst Support | 14.0 | -62.6% |
-| Mesh Boots | 40.0 | -60.5% |
-| Painted Tower Shield | 40.0 | -60.5% |
+| Tyrant's Sekhem | 42.06 | -99.6% |
+| Warlock Boots | 2475.89 | -76.8% |
+| Exquisite Blade | 31.03 | -76.2% |
+| Bone Ring | 20.0 | -51.2% |
+| Samite Slippers | 27.2 | -50.7% |
+| Astrolabe Amulet | 242.43 | -41.9% |
+| Full Dragonscale | 20.0 | -35.6% |
+| Carnal Armour | 158.19 | -28.2% |
+| Martyr Boots | 24.0 | -27.3% |
+| Redwood Spiked Shield | 14.6 | -27.0% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
