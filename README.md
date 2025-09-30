@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 04:15:11.517306` |
-| Total Price Entries in DB | `225,258` |
+| Last Successful Run (UTC) | `2025-09-30 04:35:46.823274` |
+| Total Price Entries in DB | `250,232` |
 
 <!-- END_MAINTENANCE -->
 
@@ -27,35 +27,35 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 249352.3 |
 | Divine Crown | 216649.2 |
 | The Original Scripture | 182346.4 |
-| Mirror of Kalandra | 180874.7 |
+| Satin Gloves | 180541.0 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Reaver Axe | 5249.6 | 26148.0% |
-| Diamond Ring | 18144.1 | 16991.3% |
-| Harmonic Spirit Shield | 568.2 | 2580.0% |
-| Torturer Garb | 130.8 | 492.3% |
-| Demon's Horn | 27.1 | 463.8% |
-| Spiny Maul | 30.0 | 300.0% |
-| Fiend Dagger | 280.2 | 259.2% |
-| Apex Rapier | 104.0 | 225.0% |
-| Coral Amulet | 48.2 | 201.5% |
-| Leviathan Greaves | 575.5 | 193.3% |
+| Vaal Blade Vortex | 340.0 | 194.7% |
+| Strand Map | 12.9 | 166.0% |
+| Summon Carrion Golem of Hordes | 287.7 | 69.2% |
+| Craicic Chimeral | 220.1 | 68.3% |
+| 12% increased Trap Damage, 12% increased Mine Damage | 20.0 | 42.9% |
+| Hallowed Ground | 21.0 | 40.0% |
+| Incinerate | 16.0 | 39.1% |
+| 10% increased Elemental Damage | 12.4 | 36.3% |
+| Summon Carrion Golem | 33.0 | 36.1% |
+| Lesser Multiple Projectiles Support | 21.6 | 29.3% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Vaal Sceptre | 340.0 | -98.1% |
-| Warlock Gloves | 47.5 | -90.5% |
-| Aventail Helmet | 78.0 | -88.1% |
-| Pinnacle Tower Shield | 308.8 | -77.3% |
-| Fluted Bascinet | 13.4 | -73.2% |
-| Coral Amulet | 64.6 | -67.1% |
-| Vaal Blade Vortex | 115.4 | -66.1% |
-| Lacerate of Butchering | 483.9 | -63.0% |
-| Penetrating Arrow Quiver | 14.2 | -61.0% |
-| Lich's Circlet | 15694.8 | -60.0% |
+| Blight-ravaged Ancient City Map | 74.6 | -52.5% |
+| Blight-ravaged Cursed Crypt Map | 65.4 | -50.0% |
+| Blight-ravaged Museum Map | 65.4 | -50.0% |
+| Blight-ravaged Vault Map | 65.4 | -50.0% |
+| Blight-ravaged Promenade Map | 65.4 | -50.0% |
+| Blight-ravaged Dark Forest Map | 65.4 | -50.0% |
+| Blight-ravaged Belfry Map | 71.9 | -45.0% |
+| Blight-ravaged Colonnade Map | 71.9 | -45.0% |
+| Blight-ravaged Necropolis Map | 71.9 | -45.0% |
+| Summon Stone Golem | 221.2 | -43.6% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
