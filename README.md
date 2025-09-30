@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 15:44:43.141538` |
-| Total Price Entries in DB | `474,144` |
+| Last Successful Run (UTC) | `2025-09-30 16:15:49.320154` |
+| Total Price Entries in DB | `499,061` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 875099.0 |
-| Base Types | Supreme Spiked Shield | 350039.6 |
-| Unique Accessories | Original Sin | 252028.5 |
-| Unique Jewels | Voices | 245027.7 |
-| Unique Relics | The Original Scripture | 176770.0 |
-| Runegrafts | Runegraft of the Angler | 59476.0 |
-| Unique Armours | The Tempest's Liberation | 52709.7 |
-| Divination Cards | House of Mirrors | 25003.3 |
-| Unique Flasks | Wine of the Prophet | 23905.8 |
-| Unique Weapons | The Winds of Fate | 11952.9 |
-| Omens | Omen of Fortune | 9499.4 |
-| Vials | Vial of the Ghost | 7549.2 |
+| Skill Gems | Awakened Enlighten Support | 873900.8 |
+| Base Types | Supreme Spiked Shield | 349380.2 |
+| Unique Accessories | Original Sin | 251553.7 |
+| Unique Jewels | Voices | 244692.2 |
+| Unique Relics | The Original Scripture | 176528.0 |
+| Runegrafts | Runegraft of the Angler | 60358.8 |
+| Unique Armours | The Tempest's Liberation | 52610.8 |
+| Divination Cards | House of Mirrors | 24956.2 |
+| Unique Flasks | Wine of the Prophet | 23896.3 |
+| Unique Weapons | The Winds of Fate | 11948.2 |
+| Omens | Omen of Fortune | 9558.5 |
+| Vials | Vial of the Ghost | 7548.0 |
 | Tattoos | Journey Tattoo of the Body | 880.6 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 754.9 |
-| Oils | Tainted Oil | 614.0 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 754.6 |
+| Oils | Tainted Oil | 611.2 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 875099.0 |
-| Awakened Empower Support | 525059.4 |
-| Awakened Enhance Support | 350039.6 |
-| Supreme Spiked Shield | 350039.6 |
-| Original Sin | 252028.5 |
-| Voices | 245027.7 |
-| Awakened Enlighten Support | 240251.9 |
+| Awakened Enlighten Support | 873900.8 |
+| Awakened Empower Support | 524340.5 |
+| Awakened Enhance Support | 349560.3 |
+| Supreme Spiked Shield | 349380.2 |
+| Original Sin | 251553.7 |
+| Voices | 244692.2 |
+| Awakened Enlighten Support | 240154.4 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 176770.0 |
-| Divine Crown | 175019.8 |
+| The Original Scripture | 176528.0 |
+| Awakened Empower Support | 174780.2 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Sanctuary Map | 95.5 | 91.0% |
-| The Iron Fortress | 503.2 | 42.9% |
-| Replica Poorjoy's Asylum | 44.0 | 26.4% |
-| Utula's Hunger | 15.0 | 11.1% |
-| Seven Teachings | 805.12 | 8.2% |
-| Shaper's Touch | 10.8 | 8.0% |
-| Replica Tukohama's Fortress | 792.54 | 6.6% |
-| Replica Soul Strike | 15.4 | 6.2% |
-| The Perfect Form | 220.15 | 4.5% |
-| Replica Volkuur's Guidance | 13.2 | 3.1% |
+| Vermillion Ring | 6615.5 | 7823.7% |
+| Infiltrator Boots | 1257.7 | 6188.5% |
+| Ezomyte Burgonet | 1118.54 | 4042.7% |
+| Moonstone Ring | 269.54 | 1082.2% |
+| Gripped Gloves | 2565.71 | 919.6% |
+| Paua Ring | 377.31 | 707.1% |
+| Jewelled Foil | 50.0 | 549.4% |
+| Sacred Chainmail | 641.43 | 490.3% |
+| Full Scale Armour | 503.08 | 453.9% |
+| Brain Rattler | 100.0 | 426.3% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Farrul, First of the Plains | 30.9 | -8.6% |
-| Doppelgänger Guise | 190.82 | -8.3% |
-| Black Mórrigan | 343.01 | -7.8% |
-| Entropic Devastation | 125.8 | -7.7% |
-| Vaults of Atziri | 63.0 | -3.8% |
-| The Celestial Brace | 7548.0 | -3.3% |
-| Cloak of Flame | 12.0 | -3.2% |
-| Apep's Slumber | 12.6 | -3.1% |
-| Shattershard | 38.6 | -3.0% |
-| The Eternal War | 18.5 | -2.6% |
+| Sun Plate | 14.5 | -85.5% |
+| Primordial Staff | 339.58 | -85.0% |
+| 12% increased Attack Damage while holding a Shield | 11.0 | -78.7% |
+| Imbued Wand | 188.66 | -75.0% |
+| Fingerless Silk Gloves | 125.77 | -61.6% |
+| Lathi | 30.0 | -61.2% |
+| Thicket Bow | 15.0 | -61.2% |
+| Engraved Hatchet | 36.0 | -60.0% |
+| Exerted Attacks deal 20% increased Damage | 58.73 | -53.3% |
+| Ebony Tower Shield | 16.86 | -50.4% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
