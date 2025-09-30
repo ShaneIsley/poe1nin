@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 17:44:01.253514` |
-| Total Price Entries in DB | `623,652` |
+| Last Successful Run (UTC) | `2025-09-30 18:17:43.590401` |
+| Total Price Entries in DB | `648,553` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 871537.4 |
-| Base Types | Supreme Spiked Shield | 349510.3 |
-| Unique Accessories | Original Sin | 244445.8 |
-| Unique Jewels | Voices | 244030.5 |
-| Unique Relics | The Original Scripture | 176050.5 |
-| Runegrafts | Runegraft of the Angler | 60469.2 |
-| Unique Armours | The Tempest's Liberation | 52630.7 |
-| Divination Cards | House of Mirrors | 24901.6 |
-| Unique Flasks | Wine of the Prophet | 23945.7 |
-| Unique Weapons | The Winds of Fate | 11972.8 |
-| Omens | Omen of Fortune | 9569.2 |
+| Skill Gems | Awakened Enlighten Support | 870296.2 |
+| Base Types | Supreme Spiked Shield | 348118.5 |
+| Unique Jewels | Voices | 243683.0 |
+| Unique Accessories | Original Sin | 240201.8 |
+| Unique Relics | The Original Scripture | 175799.8 |
+| Runegrafts | Runegraft of the Angler | 60291.7 |
+| Unique Armours | The Tempest's Liberation | 52421.3 |
+| Divination Cards | House of Mirrors | 24866.1 |
+| Unique Flasks | Wine of the Prophet | 23875.4 |
+| Unique Weapons | The Winds of Fate | 11937.7 |
+| Omens | Omen of Fortune | 9550.2 |
 | Vials | Vial of the Ghost | 7539.6 |
-| Tattoos | Journey Tattoo of the Body | 882.2 |
+| Tattoos | Journey Tattoo of the Body | 879.6 |
 | Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 754.0 |
-| Oils | Tainted Oil | 612.5 |
+| Oils | Tainted Oil | 610.7 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 871537.4 |
-| Awakened Empower Support | 522922.4 |
-| Supreme Spiked Shield | 349510.3 |
-| Awakened Enhance Support | 348614.9 |
-| Original Sin | 244445.8 |
-| Voices | 244030.5 |
-| Awakened Enlighten Support | 239809.3 |
+| Awakened Enlighten Support | 870296.2 |
+| Awakened Empower Support | 522177.8 |
+| Awakened Enhance Support | 348118.5 |
+| Supreme Spiked Shield | 348118.5 |
+| Voices | 243683.0 |
+| Original Sin | 240201.8 |
+| Awakened Enlighten Support | 239739.8 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 176050.5 |
-| Archdemon Crown | 174755.2 |
+| The Original Scripture | 175799.8 |
+| Archdemon Crown | 174059.2 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Lightning Spire Trap of Overloading | 603.17 | 926.3% |
-| Leap Slam of Groundbreaking | 753.96 | 146.6% |
-| 12% increased Fire Damage | 502.64 | 110.1% |
-| Critical Strike Affliction Support | 52.0 | 108.0% |
-| Blighted Jungle Valley Map | 50.0 | 101.6% |
-| Herald of Agony | 326.72 | 99.6% |
-| Flame Surge | 13.99 | 86.5% |
-| Multiple Totems Support | 43.4 | 60.7% |
-| Divine Retribution | 44.0 | 60.0% |
-| Ambush | 31.8 | 59.8% |
+| Demon Dagger | 50.0 | 900.0% |
+| Cutthroat's Garb | 1256.6 | 721.1% |
+| Lightning Strike | 198.0 | 714.8% |
+| Phantom Mitts | 143.66 | 618.3% |
+| Headman's Sword | 628.3 | 558.5% |
+| Blizzard Crown | 3706.97 | 488.3% |
+| Ezomyte Axe | 125.66 | 481.8% |
+| Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments | 13.2 | 450.0% |
+| Manifold Ring | 25132.0 | 369.2% |
+| Full Dragonscale | 100.0 | 342.5% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Artillery Ballista of Cross Strafe | 70.13 | -72.2% |
-| Vaal Power Siphon | 10.2 | -40.0% |
-| Vaal Fireball | 65.0 | -35.0% |
-| Awakened Chain Support | 1884.9 | -28.0% |
-| 12% increased Chaos Damage over Time | 14.4 | -24.2% |
-| 12% increased Lightning Damage | 11.5 | -23.3% |
-| Automation | 15.0 | -23.1% |
-| Blade Blast | 33.0 | -21.4% |
-| Awakened Melee Physical Damage Support | 515.21 | -18.2% |
-| Perforate of Duality | 125.66 | -16.8% |
+| Pig-Faced Bascinet | 753.96 | -84.7% |
+| Citrine Amulet | 301.58 | -84.0% |
+| Blighted Jungle Valley Map | 19.0 | -81.0% |
+| Viper Strike of the Mamba | 578.04 | -69.3% |
+| Marshall's Brigandine | 20.0 | -68.8% |
+| Hunter Hood | 23.0 | -58.2% |
+| Shattering Steel | 30.0 | -56.5% |
+| Warlock Boots | 21299.37 | -52.4% |
+| Bone Spirit Shield | 251.32 | -50.1% |
+| Spectral Shield Throw of Shattering | 596.88 | -46.6% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
