@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 00:57:27.767411` |
-| Total Price Entries in DB | `125,352` |
+| Last Successful Run (UTC) | `2025-09-30 02:19:31.932625` |
+| Total Price Entries in DB | `150,340` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,44 +18,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 904419.4 |
-| Awakened Empower Support | 542651.7 |
-| Awakened Enhance Support | 387091.5 |
-| Supreme Spiked Shield | 361767.8 |
-| Original Sin | 267708.2 |
-| Voices | 253237.4 |
-| Awakened Enlighten Support | 249509.1 |
-| The Original Scripture | 182692.7 |
-| Archdemon Crown | 180883.9 |
-| Solaris Circlet | 180883.9 |
+| Awakened Enlighten Support | 903723.2 |
+| Awakened Empower Support | 542233.9 |
+| Awakened Enhance Support | 386793.5 |
+| Supreme Spiked Shield | 361489.3 |
+| Original Sin | 267502.1 |
+| Voices | 253042.5 |
+| Awakened Enlighten Support | 249546.1 |
+| The Original Scripture | 182552.1 |
+| Solaris Circlet | 180744.6 |
+| Arcanist Slippers | 180744.6 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| 15% increased Evasion Rating | 14.9 | 1140.0% |
-| Zodiac Leather | 3270.8 | 779.0% |
-| 12% increased Lightning Damage | 18.5 | 611.5% |
-| Colossal Tower Shield | 27.1 | 464.0% |
-| Crypt Armour | 1308.3 | 426.3% |
-| Imbued Wand | 7849.8 | 417.2% |
-| Apex Rapier | 40.0 | 370.6% |
-| Glorious Leather | 147.8 | 332.4% |
-| Geodesic Ring | 130.8 | 297.9% |
-| Sage Wand | 38.0 | 280.0% |
+| Wrist Chopper | 134.7 | 3040.8% |
+| Pernach | 48.3 | 828.1% |
+| Gripped Gloves | 13088.0 | 747.8% |
+| 12% increased Physical Damage over Time | 22.1 | 688.9% |
+| Lich's Circlet | 39264.0 | 502.6% |
+| Colosseum Plate | 183.2 | 380.0% |
+| Lightning Trap of Sparking | 523.5 | 300.2% |
+| Firestorm of Pelting | 772.2 | 227.9% |
+| Conjurer Boots | 46.5 | 210.0% |
+| Corrugated Buckler | 80.0 | 207.7% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Chiming Spirit Shield | 393.4 | -90.0% |
-| Harmonic Spirit Shield | 131.8 | -84.3% |
-| Titan Gauntlets | 75.2 | -80.8% |
-| Simplex Amulet | 23622.7 | -80.1% |
-| Thresher Claw | 222.4 | -78.8% |
-| Blighted Geode Map | 31.1 | -76.2% |
-| Phantom Mace | 45.5 | -72.1% |
-| Arcanist Gloves | 15.0 | -71.6% |
-| Ezomyte Dagger | 13.4 | -67.6% |
-| Sage Wand | 44.2 | -66.3% |
+| Praetor Crown | 80.0 | -99.2% |
+| Reinforced Greaves | 80.0 | -99.2% |
+| Conjurer Boots | 137.4 | -91.6% |
+| Ambush Boots | 26.0 | -90.9% |
+| Paua Ring | 1659.6 | -89.4% |
+| Gold Ring | 67.8 | -79.4% |
+| Blizzard Crown | 654.4 | -76.7% |
+| Lethal Pride | 130.9 | -50.0% |
+| Samnite Helmet | 48.0 | -47.8% |
+| Minions deal 10% increased Damage | 13.9 | -47.0% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
