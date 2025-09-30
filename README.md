@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-29 23:42:41.309441` |
-| Total Price Entries in DB | `100,367` |
+| Last Successful Run (UTC) | `2025-09-30 00:57:27.767411` |
+| Total Price Entries in DB | `125,352` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,44 +18,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 909660.7 |
-| Awakened Empower Support | 545796.4 |
-| Awakened Enhance Support | 389334.8 |
-| Supreme Spiked Shield | 363834.8 |
-| Original Sin | 269259.6 |
-| Voices | 254705.0 |
-| Awakened Enlighten Support | 249817.8 |
-| The Original Scripture | 183751.5 |
-| Automation | 181932.1 |
-| Mirror of Kalandra | 181932.1 |
+| Awakened Enlighten Support | 904419.4 |
+| Awakened Empower Support | 542651.7 |
+| Awakened Enhance Support | 387091.5 |
+| Supreme Spiked Shield | 361767.8 |
+| Original Sin | 267708.2 |
+| Voices | 253237.4 |
+| Awakened Enlighten Support | 249509.1 |
+| The Original Scripture | 182692.7 |
+| Archdemon Crown | 180883.9 |
+| Solaris Circlet | 180883.9 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Painted Tower Shield | 4382.8 | 972.8% |
-| Crusader Boots | 192.6 | 587.8% |
-| The Sacrifice | 1112.1 | 385.7% |
-| Noble Axe | 116.2 | 123.4% |
-| Etched Kite Shield | 130.8 | 117.1% |
-| Lightning Tendrils of Eccentricity | 13.0 | 100.0% |
-| Gold Amulet | 261.7 | 100.0% |
-| Chain Belt | 21.0 | 66.7% |
-| Lion Pelt | 20.0 | 66.7% |
-| Full Wyvernscale | 34.0 | 58.9% |
+| 15% increased Evasion Rating | 14.9 | 1140.0% |
+| Zodiac Leather | 3270.8 | 779.0% |
+| 12% increased Lightning Damage | 18.5 | 611.5% |
+| Colossal Tower Shield | 27.1 | 464.0% |
+| Crypt Armour | 1308.3 | 426.3% |
+| Imbued Wand | 7849.8 | 417.2% |
+| Apex Rapier | 40.0 | 370.6% |
+| Glorious Leather | 147.8 | 332.4% |
+| Geodesic Ring | 130.8 | 297.9% |
+| Sage Wand | 38.0 | 280.0% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Pagan Wand | 1308.3 | -71.4% |
-| Pinnacle Tower Shield | 161.0 | -69.5% |
-| Summon Stone Golem of Safeguarding | 80.0 | -67.5% |
-| Pecoraro | 11.9 | -61.7% |
-| Frost Bomb of Forthcoming | 36.5 | -61.6% |
-| Omen Wand | 56.8 | -56.6% |
-| Arena Plate | 100.0 | -54.7% |
-| Tectonic Slam of Cataclysm | 300.9 | -54.0% |
-| Curved Blade | 2616.6 | -50.0% |
-| Great White Claw | 20.0 | -50.0% |
+| Chiming Spirit Shield | 393.4 | -90.0% |
+| Harmonic Spirit Shield | 131.8 | -84.3% |
+| Titan Gauntlets | 75.2 | -80.8% |
+| Simplex Amulet | 23622.7 | -80.1% |
+| Thresher Claw | 222.4 | -78.8% |
+| Blighted Geode Map | 31.1 | -76.2% |
+| Phantom Mace | 45.5 | -72.1% |
+| Arcanist Gloves | 15.0 | -71.6% |
+| Ezomyte Dagger | 13.4 | -67.6% |
+| Sage Wand | 44.2 | -66.3% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
