@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 13:41:31.284804` |
-| Total Price Entries in DB | `324,501` |
+| Last Successful Run (UTC) | `2025-09-30 14:13:34.837163` |
+| Total Price Entries in DB | `349,445` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,20 +19,20 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Awakened Enlighten Support | 865367.4 |
-| Base Types | Supreme Spiked Shield | 353363.4 |
-| Unique Accessories | Original Sin | 254421.7 |
+| Base Types | Supreme Spiked Shield | 346146.9 |
+| Unique Accessories | Original Sin | 249225.8 |
 | Unique Jewels | Voices | 242302.9 |
-| Unique Relics | The Original Scripture | 178448.5 |
-| Runegrafts | Runegraft of the Angler | 61059.4 |
-| Unique Armours | The Tempest's Liberation | 53210.7 |
+| Unique Relics | The Original Scripture | 174804.2 |
+| Runegrafts | Runegraft of the Angler | 59624.8 |
+| Unique Armours | The Tempest's Liberation | 52123.4 |
 | Divination Cards | House of Mirrors | 24725.3 |
 | Unique Flasks | Wine of the Prophet | 23611.3 |
-| Unique Weapons | The Winds of Fate | 12089.7 |
-| Omens | Omen of Fortune | 9544.5 |
-| Vials | Vial of the Ghost | 7635.6 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 763.6 |
-| Tattoos | Journey Tattoo of the Body | 712.7 |
-| Oils | Tainted Oil | 618.5 |
+| Unique Weapons | The Winds of Fate | 11805.6 |
+| Omens | Omen of Fortune | 9382.4 |
+| Vials | Vial of the Ghost | 7456.2 |
+| Tattoos | Journey Tattoo of the Body | 869.9 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 745.6 |
+| Oils | Tainted Oil | 606.4 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -46,42 +46,42 @@ This repository tracks data the **Mercenaries** league.
 | :--- | :--- |
 | Awakened Enlighten Support | 865367.4 |
 | Awakened Empower Support | 519220.4 |
-| Supreme Spiked Shield | 353363.4 |
 | Awakened Enhance Support | 346146.9 |
-| Original Sin | 254421.7 |
+| Supreme Spiked Shield | 346146.9 |
+| Original Sin | 249225.8 |
 | Voices | 242302.9 |
 | Awakened Enlighten Support | 237351.0 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 178448.5 |
-| Arcanist Slippers | 176681.7 |
+| The Original Scripture | 174804.2 |
+| Divine Crown | 173073.5 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Summon Stone Golem | 308.25 | 516.5% |
-| Mirror Arrow of Prismatic Clones | 801.54 | 318.6% |
-| Righteous Fire of Arcane Devotion | 621.35 | 247.7% |
-| Mirror Arrow | 42.88 | 235.0% |
-| Steelwood Bow | 29.95 | 149.6% |
-| 10% increased Attack Damage | 34.45 | 146.1% |
-| Reave of Refraction | 1864.05 | 143.4% |
-| Pierce Support | 24.0 | 140.0% |
-| The Bitter Blossom | 16.7 | 125.7% |
-| Scorching Ray | 100.0 | 117.4% |
+| Astral Plate | 2199.58 | 476.1% |
+| 12% increased Attack Damage while Dual Wielding | 26.8 | 318.7% |
+| Ancient Greaves | 249.0 | 256.2% |
+| Highborn Staff | 248.54 | 252.8% |
+| 10% increased Elemental Damage | 16.0 | 196.3% |
+| Harpyskin Boots | 72.28 | 179.4% |
+| Blight-ravaged Shipyard Map | 111.84 | 179.0% |
+| Titan Gauntlets | 55.28 | 176.4% |
+| Cardinal Round Shield | 1988.32 | 156.1% |
+| Arcanist Slippers | 29.0 | 152.2% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Paladin Gloves | 60.0 | -95.1% |
-| Flicker Strike | 66.3 | -63.3% |
-| Charged Traps Support | 100.0 | -60.8% |
-| Blighted Vault Map | 24.0 | -60.0% |
-| Ice Shot of Penetration | 124.27 | -51.3% |
-| Swift Assembly Support | 64.85 | -49.2% |
-| Summon Raging Spirit of Enormity | 134.21 | -47.0% |
-| Eternal Blessing Support | 22.0 | -45.0% |
-| Crackling Lance of Branching | 133.2 | -33.8% |
-| Trap and Mine Damage Support | 50.0 | -33.3% |
+| Legion Boots | 179.34 | -84.3% |
+| Crusader Helmet | 366.4 | -80.8% |
+| Blighted Belfry Map | 30.43 | -76.1% |
+| Imbued Wand | 248.54 | -70.0% |
+| Dual Strike of Ambidexterity | 20.0 | -56.5% |
+| The Iron Fortress | 181.84 | -55.3% |
+| Blighted Vault Map | 11.2 | -53.3% |
+| Hypothermia Support | 12.5 | -51.9% |
+| Stealth Boots | 15.0 | -50.0% |
+| Ashes of the Stars | 621.35 | -48.6% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
