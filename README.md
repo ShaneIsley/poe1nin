@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 22:32:06.722529` |
-| Total Price Entries in DB | `922,507` |
+| Last Successful Run (UTC) | `2025-09-30 22:43:43.638177` |
+| Total Price Entries in DB | `947,435` |
 
 <!-- END_MAINTENANCE -->
 
@@ -20,18 +20,18 @@ This repository tracks data the **Mercenaries** league.
 | :--- | :--- | :--- |
 | Skill Gems | Awakened Enlighten Support | 872044.6 |
 | Base Types | Supreme Spiked Shield | 349198.9 |
-| Unique Accessories | Original Sin | 246185.2 |
+| Unique Accessories | Original Sin | 245602.7 |
 | Unique Jewels | Voices | 243860.9 |
-| Unique Relics | The Original Scripture | 176345.5 |
-| Unique Weapons | The Surging Thoughts | 63737.8 |
-| Runegrafts | Runegraft of the Angler | 60550.8 |
-| Unique Armours | The Tempest's Liberation | 52584.3 |
-| Divination Cards | House of Mirrors | 24884.3 |
+| Unique Relics | The Original Scripture | 175928.2 |
+| Unique Weapons | The Surging Thoughts | 63582.4 |
+| Runegrafts | Runegraft of the Angler | 60469.2 |
+| Unique Armours | The Tempest's Liberation | 52526.8 |
+| Divination Cards | House of Mirrors | 24916.1 |
 | Unique Flasks | Wine of the Prophet | 23823.4 |
 | Omens | Omen of Fortune | 9515.3 |
-| Vials | Vial of the Ghost | 7572.0 |
-| Tattoos | Journey Tattoo of the Body | 831.8 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 756.2 |
+| Vials | Vial of the Ghost | 7551.0 |
+| Tattoos | Journey Tattoo of the Body | 830.6 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 755.1 |
 | Oils | Tainted Oil | 612.5 |
 
 
@@ -47,41 +47,41 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 872044.6 |
 | Awakened Empower Support | 523226.8 |
 | Supreme Spiked Shield | 349198.9 |
-| Goliath Greaves | 348862.8 |
 | Awakened Enhance Support | 348817.8 |
-| Original Sin | 246185.2 |
+| Goliath Greaves | 348417.7 |
+| Original Sin | 245602.7 |
 | Voices | 243860.9 |
 | Awakened Enlighten Support | 240400.1 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 176345.5 |
+| The Original Scripture | 175928.2 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Siege Helmet | 50.0 | 900.0% |
-| Galvanic Field of Intensity | 93.12 | 272.5% |
-| Eye of Winter of Transience | 126.03 | 217.9% |
-| Lightning Trap | 126.03 | 217.9% |
-| Hextouch Support | 133.23 | 194.2% |
-| Zealot Gloves | 365.49 | 189.6% |
-| Withering Touch Support | 65.12 | 155.7% |
-| Tenderizer | 26.8 | 123.3% |
-| Scorching Ray of Immolation | 51.81 | 115.9% |
+| Exquisite Leather | 629.25 | 6192.5% |
+| Hydrascale Gauntlets | 170.92 | 510.4% |
+| Assassin Bow | 16.6 | 492.9% |
+| Minions deal 10% increased Damage while you are affected by a Herald | 27.5 | 292.9% |
+| 2% Chance to Block Spell Damage | 44.0 | 252.0% |
+| Harlequin Mask | 30.5 | 177.3% |
+| Battle Buckler | 51.0 | 129.7% |
+| Blighted Arcade Map | 20.0 | 117.4% |
+| Skean | 107.92 | 115.8% |
 | Vaal Molten Shell | 2513.2 | 100.0% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Sinner Tricorne | 187.62 | -99.5% |
-| Chain Belt | 20.6 | -90.1% |
-| Harmonic Spirit Shield | 56.0 | -89.8% |
-| Angelic Kite Shield | 46.0 | -87.5% |
-| Carnal Boots | 43.0 | -85.3% |
-| Fluted Bascinet | 129.62 | -82.9% |
-| Titanium Spirit Shield | 174.03 | -80.3% |
-| Heavy Arrow Quiver | 176.44 | -76.3% |
-| Branded Kite Shield | 105.31 | -72.2% |
-| Samite Slippers | 89.21 | -70.5% |
+| Reaver Helmet | 209.48 | -88.9% |
+| Etched Kite Shield | 18.0 | -69.4% |
+| Crypt Armour | 18.0 | -64.7% |
+| Serrated Foil | 14.0 | -51.7% |
+| Realmshaper | 124.51 | -50.7% |
+| Hellion's Paw | 45.0 | -50.5% |
+| Jade Amulet | 72.92 | -42.1% |
+| Vaal Blade | 9438.75 | -40.1% |
+| Noble Claw | 25.4 | -38.8% |
+| Leviathan Gauntlets | 48.0 | -38.5% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
