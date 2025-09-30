@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 19:26:17.695529` |
-| Total Price Entries in DB | `723,280` |
+| Last Successful Run (UTC) | `2025-09-30 19:43:31.865405` |
+| Total Price Entries in DB | `748,188` |
 
 <!-- END_MAINTENANCE -->
 
@@ -20,18 +20,18 @@ This repository tracks data the **Mercenaries** league.
 | :--- | :--- | :--- |
 | Skill Gems | Awakened Enlighten Support | 871713.7 |
 | Base Types | Supreme Spiked Shield | 349141.0 |
+| Unique Accessories | Original Sin | 246144.4 |
 | Unique Jewels | Voices | 244079.8 |
-| Unique Accessories | Original Sin | 240475.4 |
-| Unique Relics | The Original Scripture | 176086.2 |
-| Runegrafts | Runegraft of the Angler | 60368.4 |
-| Unique Armours | The Tempest's Liberation | 52506.7 |
-| Divination Cards | House of Mirrors | 24939.1 |
-| Unique Flasks | Wine of the Prophet | 23873.9 |
-| Unique Weapons | The Winds of Fate | 11954.8 |
-| Omens | Omen of Fortune | 9565.4 |
+| Unique Relics | The Original Scripture | 176316.2 |
+| Runegrafts | Runegraft of the Angler | 60478.8 |
+| Unique Armours | The Tempest's Liberation | 52575.4 |
+| Divination Cards | House of Mirrors | 25023.9 |
+| Unique Flasks | Wine of the Prophet | 23912.3 |
+| Unique Weapons | The Winds of Fate | 11956.7 |
+| Omens | Omen of Fortune | 9579.8 |
 | Vials | Vial of the Ghost | 7563.0 |
-| Tattoos | Journey Tattoo of the Body | 881.0 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 829.2 |
+| Tattoos | Journey Tattoo of the Body | 882.4 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 881.3 |
 | Oils | Tainted Oil | 612.6 |
 
 
@@ -48,40 +48,40 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Empower Support | 523028.2 |
 | Supreme Spiked Shield | 349141.0 |
 | Awakened Enhance Support | 348685.5 |
+| Original Sin | 246144.4 |
 | Voices | 244079.8 |
-| Original Sin | 240475.4 |
 | Awakened Enlighten Support | 240123.2 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 176086.2 |
-| Solaris Circlet | 174570.5 |
+| The Original Scripture | 176316.2 |
+| Arcanist Slippers | 174570.5 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Imperial Claw | 630.25 | 834.8% |
-| Slink Boots | 54.0 | 757.1% |
-| Deicide Mask | 338.52 | 715.7% |
-| Full Wyvernscale | 211.58 | 683.6% |
-| Imperial Claw | 337.62 | 647.4% |
-| Glorious Plate | 504.2 | 637.8% |
-| Mosaic Kite Shield | 131.44 | 471.5% |
-| Savant's Robe | 30.6 | 446.4% |
-| Leather Belt | 67.0 | 378.6% |
-| Iron Ring | 81.02 | 305.1% |
+| Minions deal 10% increased Damage | 14.1 | 683.3% |
+| Vaal Molten Shell | 2513.2 | 100.0% |
+| Sanctum of Immortality (Tier 3) | 13.3 | 33.0% |
+| 6% increased Mana Reservation Efficiency of Skills | 13.0 | 30.0% |
+| 10% increased Damage while affected by a Herald | 15.0 | 20.0% |
+| The Iron Fortress | 504.2 | 11.3% |
+| Atziri's Splendour | 39.5 | 11.3% |
+| Belly of the Beast | 176.47 | 7.9% |
+| Fenumus' Spinnerets | 32.0 | 6.7% |
+| 6% increased Mana Reservation Efficiency of Skills | 881.34 | 6.3% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Karui Chopper | 21.0 | -99.8% |
-| Gladiator Plate | 100.0 | -99.4% |
-| Grand Ringmail | 14.5 | -99.2% |
-| Hydrascale Gauntlets | 102.6 | -94.5% |
-| Elegant Round Shield | 21.6 | -82.8% |
-| Awakened Hextouch Support | 402.75 | -77.1% |
-| Hydrascale Gauntlets | 882.35 | -76.6% |
-| Fluted Bascinet | 306.05 | -75.7% |
-| Gripped Gloves | 1764.7 | -74.5% |
-| Eternal Burgonet | 16.0 | -64.4% |
+| Sanctum of Unity (Tier 2) | 12.0 | -20.0% |
+| The Arkhon's Tools | 25.0 | -14.1% |
+| 12% increased Physical Damage | 22.0 | -12.0% |
+| Font of Thunder | 50.0 | -10.1% |
+| Nebuloch | 16.8 | -9.2% |
+| Olroth's Resolve | 506.08 | -8.8% |
+| Rakiata's Dance | 1016.95 | -8.2% |
+| Tattoo of the Hinekora Storyteller | 40.0 | -6.6% |
+| Abberath's Hooves | 31.2 | -5.5% |
+| Pledge of Hands | 339.82 | -3.6% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
