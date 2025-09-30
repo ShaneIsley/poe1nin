@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 10:13:42.112885` |
-| Total Price Entries in DB | `124,871` |
+| Last Successful Run (UTC) | `2025-09-30 10:36:20.003603` |
+| Total Price Entries in DB | `149,839` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,14 +18,14 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 890779.1 |
-| Base Types | Supreme Spiked Shield | 356311.6 |
-| Unique Accessories | Original Sin | 256544.4 |
-| Unique Jewels | Voices | 249418.2 |
+| Skill Gems | Awakened Enlighten Support | 890516.4 |
+| Base Types | Supreme Spiked Shield | 356206.5 |
+| Unique Accessories | Original Sin | 256468.7 |
+| Unique Jewels | Voices | 249344.6 |
 | Unique Relics | The Original Scripture | 179937.4 |
 | Runegrafts | Runegraft of the Angler | 60803.5 |
-| Unique Armours | The Tempest's Liberation | 53654.8 |
-| Divination Cards | House of Mirrors | 25451.3 |
+| Unique Armours | The Tempest's Liberation | 53639.0 |
+| Divination Cards | House of Mirrors | 25443.8 |
 | Unique Flasks | Wine of the Prophet | 24403.6 |
 | Unique Weapons | The Winds of Fate | 12201.8 |
 | Omens | Omen of Fortune | 9055.0 |
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 890779.1 |
-| Awakened Empower Support | 534467.5 |
-| Supreme Spiked Shield | 356311.6 |
-| Awakened Enhance Support | 356311.6 |
-| Original Sin | 256544.4 |
-| Voices | 249418.2 |
-| Awakened Enlighten Support | 245112.4 |
+| Awakened Enlighten Support | 890516.4 |
+| Awakened Empower Support | 534309.8 |
+| Supreme Spiked Shield | 356206.5 |
+| Awakened Enhance Support | 356206.5 |
+| Original Sin | 256468.7 |
+| Voices | 249344.6 |
+| Awakened Enlighten Support | 245097.7 |
 | Divine Crown | 213787.0 |
 | The Original Scripture | 179937.4 |
-| Simplex Amulet | 178155.8 |
+| Wyvernscale Boots | 178103.3 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Crusader Gloves | 100.0 | 589.7% |
-| Engraved Hatchet | 282.57 | 410.2% |
-| Murder Boots | 37.0 | 362.5% |
-| Crusader Chainmail | 15.0 | 150.0% |
-| Unset Ring | 65.0 | 103.1% |
-| Crackling Lance of Branching | 202.13 | 93.9% |
-| Stormbind | 56.0 | 80.6% |
-| Paua Amulet | 36.0 | 80.0% |
-| Trap and Mine Damage Support | 17.0 | 77.1% |
-| Flamewood Support | 12.0 | 66.7% |
+| Elegant Ringmail | 137.44 | 1274.4% |
+| 6% increased Flask Effect Duration | 42.13 | 903.1% |
+| Champion Kite Shield | 223.5 | 801.2% |
+| Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments | 128.44 | 640.7% |
+| Supreme Spiked Shield | 256.88 | 387.5% |
+| Marshall's Brigandine | 410.2 | 313.5% |
+| Noble Tricorne | 110.29 | 311.5% |
+| Siege Axe | 66.72 | 279.1% |
+| Crypt Armour | 128.44 | 222.4% |
+| Seismic Cry | 40.0 | 207.7% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Hellion's Paw | 26.0 | -85.0% |
-| Blight of Atrophy | 265.6 | -82.3% |
-| Sun Leather | 141.38 | -72.5% |
-| Saintly Chainmail | 11.2 | -66.9% |
-| Commander's Brigandine | 12.02 | -61.1% |
-| Tiger's Paw | 39.84 | -49.2% |
-| Ornate Mace | 14.5 | -38.0% |
-| Faithful Helmet | 192.66 | -37.5% |
-| Ambush | 19.9 | -37.4% |
-| Chain Hauberk | 11.0 | -35.3% |
+| Haunted Bascinet | 50.0 | -99.2% |
+| Great Mallet | 154.13 | -89.8% |
+| Iron Ring | 109.22 | -83.0% |
+| Decurve Bow | 12.4 | -82.5% |
+| Quecholli | 539.45 | -72.0% |
+| Ancestral Club | 24.0 | -67.8% |
+| Thief's Garb | 69.22 | -67.3% |
+| Pulverise Support | 50.43 | -60.7% |
+| The Yielding Mortality | 234.19 | -49.7% |
+| Legion Gloves | 60.0 | -49.2% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
