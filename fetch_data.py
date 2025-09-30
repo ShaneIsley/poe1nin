@@ -95,7 +95,7 @@ def fetch_poe_ninja_data(league_name, item_type):
 def process_and_insert_data(data, league_name, category_display_name, cursor, conn):
     """
     Processes JSON data and inserts it into the SQLite database.
-    It automatically detects the JSON structure and parses accordingly.
+    It automatically detects the JSON structure and normalizes currency rates.
     """
     current_timestamp = datetime.datetime.now()
     cursor.execute("INSERT OR IGNORE INTO leagues (name) VALUES (?)", (league_name,))
@@ -108,7 +108,7 @@ def process_and_insert_data(data, league_name, category_display_name, cursor, co
     
     items_processed = 0
     
-    # --- Logic for 'currencyoverview' endpoint structure ---
+    # Logic for 'currencyoverview' endpoint structure
     if "currencyDetails" in data:
         lines = data.get('lines', [])
         if not lines:
@@ -117,13 +117,10 @@ def process_and_insert_data(data, league_name, category_display_name, cursor, co
 
         for item_data in lines:
             item_name = item_data.get('currencyTypeName')
-            # Use 'detailsId' as the unique API identifier
-            api_id = item_data.get('detailsId') 
+            api_id = item_data.get('detailsId')
             if not api_id or not item_name:
                 continue
 
-            # This endpoint doesn't include the icon in each line, so we can leave it null.
-            # An advanced version could build a lookup from the 'currencyDetails' array, but this is fine.
             cursor.execute("INSERT OR IGNORE INTO items (api_id, name, image_url, category_id) VALUES (?, ?, ?, ?)",
                            (api_id, item_name, None, category_id))
             
@@ -132,14 +129,25 @@ def process_and_insert_data(data, league_name, category_display_name, cursor, co
             if not db_item_id_tuple: continue
             db_item_id = db_item_id_tuple[0]
 
-            # Use 'chaosEquivalent' for the chaos value
+            # --- FIX: Normalize the chaos value ---
             chaos_value = item_data.get('chaosEquivalent')
+            
+            # The 'receive' object tells us the real story. If its 'value' is > 1,
+            # poe.ninja is giving us a rate (e.g., 650 orbs for 1 chaos).
+            # The 'pay' object for such an item will have a value less than 1.
+            # We check the 'receive' object for this rate indicator.
+            receive_details = item_data.get('receive')
+            if receive_details and receive_details.get('value', 0) > 1 and chaos_value > 1:
+                # This is a rate, so we convert it to a per-item value.
+                chaos_value = 1 / chaos_value
+
             cursor.execute("INSERT INTO price_entries (item_id, league_id, timestamp, chaos_value) VALUES (?, ?, ?, ?)",
                            (db_item_id, league_id, current_timestamp, chaos_value))
             items_processed += 1
             
-    # --- Logic for 'itemoverview' endpoint structure (original logic) ---
+    # Logic for 'itemoverview' endpoint structure
     else:
+        # This part of the logic was already correct and needs no changes.
         lines = data.get('lines', [])
         if not lines:
             print("No item lines found in the response.")
@@ -167,7 +175,7 @@ def process_and_insert_data(data, league_name, category_display_name, cursor, co
             items_processed += 1
     
     conn.commit()
-    print(f"Successfully processed and inserted/updated data for {items_processed} items in the '{category_display_name}' category.")
+    print(f"Successfully processed {items_processed} items in the '{category_display_name}' category.")
 
 # --- Main Execution (No changes needed) ---
 def main():
