@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 20:33:01.489759` |
-| Total Price Entries in DB | `797,990` |
+| Last Successful Run (UTC) | `2025-09-30 20:45:18.207455` |
+| Total Price Entries in DB | `822,891` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,8 +18,8 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 877888.6 |
-| Base Types | Supreme Spiked Shield | 351155.4 |
+| Skill Gems | Awakened Enlighten Support | 878890.8 |
+| Base Types | Supreme Spiked Shield | 351556.3 |
 | Unique Accessories | Original Sin | 247847.2 |
 | Unique Jewels | Voices | 246723.3 |
 | Unique Relics | The Original Scripture | 177993.2 |
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 877888.6 |
-| Awakened Empower Support | 526733.2 |
-| Supreme Spiked Shield | 351155.4 |
-| Awakened Enhance Support | 351155.4 |
+| Awakened Enlighten Support | 878890.8 |
+| Awakened Empower Support | 527334.5 |
+| Awakened Enhance Support | 351556.3 |
+| Supreme Spiked Shield | 351556.3 |
 | Original Sin | 247847.2 |
 | Voices | 246723.3 |
-| Awakened Enlighten Support | 242019.4 |
+| Awakened Enlighten Support | 242075.5 |
 | Divine Crown | 213787.0 |
 | The Original Scripture | 177993.2 |
-| Divine Crown | 175577.7 |
+| Automation | 175778.2 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments | 92.07 | 820.7% |
-| Blighted Terrace Map | 127.24 | 487.7% |
-| Vaal Molten Shell | 2513.2 | 100.0% |
-| Tattoo of the Ramako Shaman | 381.72 | 42.7% |
-| Alluring Bounty | 18.4 | 29.6% |
-| 12% increased Chaos Damage over Time | 16.2 | 28.6% |
-| Cowl of the Thermophile | 1641.4 | 20.1% |
-| Farrul's Pounce | 14.0 | 12.9% |
-| Ghostwrithe | 30.0 | 9.1% |
-| Channelling Skills deal 12% increased Damage | 13.0 | 8.3% |
+| Infiltrator Boots | 3806.4 | 669.2% |
+| Clasped Mitts | 20.1 | 570.0% |
+| Void Axe | 126.88 | 537.9% |
+| Rolling Magma | 126.88 | 384.5% |
+| Maple Round Shield | 42.0 | 320.0% |
+| Arrow Nova Support | 45.0 | 246.2% |
+| Ancient Spirit Shield | 34.38 | 186.5% |
+| Primordial Staff | 380.64 | 172.7% |
+| Spectral Helix | 126.88 | 155.9% |
+| Fluted Bascinet | 31.2 | 153.7% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Barrow Ape | 12.63 | -74.7% |
-| The Chosen | 27.5 | -43.9% |
-| Sanctuary Map | 46.92 | -35.7% |
-| Blighted Siege Map | 13.2 | -27.1% |
-| Solstice Vigil | 1903.2 | -25.0% |
-| Dark Dreams | 14.5 | -23.7% |
-| Unrequited Love | 3639.06 | -17.8% |
-| The Eye of the Dragon | 14.0 | -17.6% |
-| Indigon | 127.24 | -16.2% |
-| Minions deal 10% increased Damage | 50.0 | -15.3% |
+| Carnal Boots | 293.76 | -79.9% |
+| Ezomyte Dagger | 126.88 | -75.0% |
+| Divine Crown | 70.55 | -71.5% |
+| Bronze Gauntlets | 51.36 | -69.3% |
+| Galvanic Arrow of Energy | 190.32 | -69.1% |
+| Royal Plate | 20.4 | -65.4% |
+| Courtesan Sword | 45.06 | -65.2% |
+| Imperial Staff | 80.75 | -64.2% |
+| Iolite Ring | 30.0 | -60.4% |
+| Trinity Support | 50.0 | -58.1% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
