@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 03:43:08.820942` |
-| Total Price Entries in DB | `200,285` |
+| Last Successful Run (UTC) | `2025-09-30 04:15:11.517306` |
+| Total Price Entries in DB | `225,258` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,44 +18,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 902943.4 |
-| Awakened Empower Support | 541766.1 |
-| Awakened Enhance Support | 386459.8 |
-| Supreme Spiked Shield | 361205.3 |
-| Original Sin | 267271.3 |
-| Voices | 252824.2 |
-| Awakened Enlighten Support | 249380.8 |
-| Divine Crown | 216723.2 |
-| The Original Scripture | 182394.6 |
-| Simplex Amulet | 180602.6 |
+| Awakened Enlighten Support | 902705.1 |
+| Awakened Empower Support | 541623.1 |
+| Awakened Enhance Support | 386357.8 |
+| Supreme Spiked Shield | 361082.0 |
+| Original Sin | 267200.7 |
+| Voices | 252757.4 |
+| Awakened Enlighten Support | 249352.3 |
+| Divine Crown | 216649.2 |
+| The Original Scripture | 182346.4 |
+| Mirror of Kalandra | 180874.7 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Eternal Blessing Support | 38.0 | 90.0% |
-| Storm Brand of Indecision | 74.2 | 68.7% |
-| Ballista Totem Support | 36.0 | 62.2% |
-| Withering Touch Support | 25.5 | 61.2% |
-| Viper Strike | 80.0 | 55.0% |
-| Blight-ravaged Conservatory Map | 44.1 | 54.1% |
-| Blood Rage | 27.0 | 37.8% |
-| 12% increased Burning Damage | 14.0 | 34.6% |
-| Loreweave | 261.6 | 33.3% |
-| Item Rarity Support | 16.6 | 32.8% |
+| Reaver Axe | 5249.6 | 26148.0% |
+| Diamond Ring | 18144.1 | 16991.3% |
+| Harmonic Spirit Shield | 568.2 | 2580.0% |
+| Torturer Garb | 130.8 | 492.3% |
+| Demon's Horn | 27.1 | 463.8% |
+| Spiny Maul | 30.0 | 300.0% |
+| Fiend Dagger | 280.2 | 259.2% |
+| Apex Rapier | 104.0 | 225.0% |
+| Coral Amulet | 48.2 | 201.5% |
+| Leviathan Greaves | 575.5 | 193.3% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Blight-ravaged Toxic Sewer Map | 33.1 | -49.8% |
-| Bubonic Trail | 130.8 | -41.2% |
-| Judgement Staff | 30.0 | -25.0% |
-| Burnished Foil | 30.0 | -25.0% |
-| Corsair Sword | 30.0 | -25.0% |
-| Vaal Rapier | 30.0 | -25.0% |
-| Harpy Rapier | 30.0 | -25.0% |
-| Corrugated Buckler | 30.0 | -25.0% |
-| Apex Rapier | 30.0 | -25.0% |
-| Elegant Foil | 30.0 | -25.0% |
+| Vaal Sceptre | 340.0 | -98.1% |
+| Warlock Gloves | 47.5 | -90.5% |
+| Aventail Helmet | 78.0 | -88.1% |
+| Pinnacle Tower Shield | 308.8 | -77.3% |
+| Fluted Bascinet | 13.4 | -73.2% |
+| Coral Amulet | 64.6 | -67.1% |
+| Vaal Blade Vortex | 115.4 | -66.1% |
+| Lacerate of Butchering | 483.9 | -63.0% |
+| Penetrating Arrow Quiver | 14.2 | -61.0% |
+| Lich's Circlet | 15694.8 | -60.0% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
