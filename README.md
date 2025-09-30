@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 20:45:18.207455` |
-| Total Price Entries in DB | `822,891` |
+| Last Successful Run (UTC) | `2025-09-30 21:11:06.865234` |
+| Total Price Entries in DB | `847,786` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 878890.8 |
-| Base Types | Supreme Spiked Shield | 351556.3 |
-| Unique Accessories | Original Sin | 247847.2 |
-| Unique Jewels | Voices | 246723.3 |
-| Unique Relics | The Original Scripture | 177993.2 |
-| Runegrafts | Runegraft of the Angler | 60877.0 |
-| Unique Armours | The Tempest's Liberation | 53075.4 |
-| Divination Cards | House of Mirrors | 25176.4 |
+| Skill Gems | Awakened Enlighten Support | 880087.4 |
+| Base Types | Supreme Spiked Shield | 352035.0 |
+| Unique Accessories | Original Sin | 247914.7 |
+| Unique Jewels | Voices | 246089.4 |
+| Unique Relics | The Original Scripture | 177535.9 |
+| Runegrafts | Runegraft of the Angler | 60901.0 |
+| Unique Armours | The Tempest's Liberation | 52939.0 |
+| Divination Cards | House of Mirrors | 25111.7 |
 | Unique Flasks | Wine of the Prophet | 24018.4 |
-| Unique Weapons | The Winds of Fate | 12053.6 |
-| Omens | Omen of Fortune | 9670.2 |
-| Vials | Vial of the Ghost | 7612.8 |
-| Tattoos | Journey Tattoo of the Body | 890.7 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 865.2 |
-| Oils | Tainted Oil | 618.4 |
+| Unique Weapons | The Winds of Fate | 12058.4 |
+| Omens | Omen of Fortune | 9583.2 |
+| Vials | Vial of the Ghost | 7615.8 |
+| Tattoos | Journey Tattoo of the Body | 888.2 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 761.6 |
+| Oils | Tainted Oil | 616.9 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 878890.8 |
-| Awakened Empower Support | 527334.5 |
-| Awakened Enhance Support | 351556.3 |
-| Supreme Spiked Shield | 351556.3 |
-| Original Sin | 247847.2 |
-| Voices | 246723.3 |
-| Awakened Enlighten Support | 242075.5 |
+| Awakened Enlighten Support | 880087.4 |
+| Awakened Empower Support | 528052.5 |
+| Awakened Enhance Support | 352035.0 |
+| Supreme Spiked Shield | 352035.0 |
+| Original Sin | 247914.7 |
+| Voices | 246089.4 |
+| Awakened Enlighten Support | 242431.3 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 177993.2 |
-| Automation | 175778.2 |
+| The Original Scripture | 177535.9 |
+| Wyvernscale Boots | 176017.5 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Infiltrator Boots | 3806.4 | 669.2% |
-| Clasped Mitts | 20.1 | 570.0% |
-| Void Axe | 126.88 | 537.9% |
-| Rolling Magma | 126.88 | 384.5% |
-| Maple Round Shield | 42.0 | 320.0% |
-| Arrow Nova Support | 45.0 | 246.2% |
-| Ancient Spirit Shield | 34.38 | 186.5% |
-| Primordial Staff | 380.64 | 172.7% |
-| Spectral Helix | 126.88 | 155.9% |
-| Fluted Bascinet | 31.2 | 153.7% |
+| 12% increased Trap Damage, 12% increased Mine Damage | 29.39 | 1235.9% |
+| Sadist Garb | 127.07 | 314.0% |
+| Ambush Boots | 64.33 | 302.1% |
+| Callous Mask | 52.0 | 217.1% |
+| Necrotic Armour | 62.83 | 214.2% |
+| Arcanist Brand | 43.7 | 212.1% |
+| Crusader Helmet | 141.36 | 186.3% |
+| Close Helmet | 105.41 | 184.9% |
+| Iolite Ring | 75.71 | 152.4% |
+| Ochre Sceptre | 34.0 | 142.9% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Carnal Boots | 293.76 | -79.9% |
-| Ezomyte Dagger | 126.88 | -75.0% |
-| Divine Crown | 70.55 | -71.5% |
-| Bronze Gauntlets | 51.36 | -69.3% |
-| Galvanic Arrow of Energy | 190.32 | -69.1% |
-| Royal Plate | 20.4 | -65.4% |
-| Courtesan Sword | 45.06 | -65.2% |
-| Imperial Staff | 80.75 | -64.2% |
-| Iolite Ring | 30.0 | -60.4% |
-| Trinity Support | 50.0 | -58.1% |
+| Royal Sceptre | 21.0 | -94.6% |
+| Volcanic Fissure of Snaking | 50.0 | -80.8% |
+| Opal Sceptre | 13.0 | -80.5% |
+| Soldier Helmet | 33.41 | -76.1% |
+| Lacewood Spirit Shield | 14.0 | -72.0% |
+| Imbued Wand | 40.2 | -71.1% |
+| Frozen Legion | 52.0 | -68.1% |
+| Convoking Wand | 6353.5 | -66.6% |
+| Broadhead Arrow Quiver | 29.0 | -46.3% |
+| Cloth Belt | 13.0 | -45.8% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
