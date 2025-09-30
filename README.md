@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 21:28:43.152126` |
-| Total Price Entries in DB | `872,681` |
+| Last Successful Run (UTC) | `2025-09-30 22:11:47.489266` |
+| Total Price Entries in DB | `897,575` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 874234.6 |
-| Base Types | Supreme Spiked Shield | 352035.0 |
-| Unique Accessories | Original Sin | 247914.7 |
-| Unique Jewels | Voices | 244785.7 |
-| Unique Relics | The Original Scripture | 177777.7 |
-| Unique Weapons | The Surging Thoughts | 63821.1 |
-| Runegrafts | Runegraft of the Angler | 60901.0 |
-| Unique Armours | The Tempest's Liberation | 52658.7 |
-| Divination Cards | House of Mirrors | 25118.5 |
-| Unique Flasks | Wine of the Prophet | 24040.5 |
-| Omens | Omen of Fortune | 9583.2 |
-| Vials | Vial of the Ghost | 7624.2 |
-| Tattoos | Journey Tattoo of the Body | 838.7 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 762.4 |
-| Oils | Tainted Oil | 616.9 |
+| Skill Gems | Awakened Enlighten Support | 874695.3 |
+| Base Types | Supreme Spiked Shield | 349198.9 |
+| Unique Accessories | Original Sin | 246185.2 |
+| Unique Jewels | Voices | 244439.3 |
+| Unique Relics | The Original Scripture | 176345.5 |
+| Unique Weapons | The Surging Thoughts | 63855.9 |
+| Runegrafts | Runegraft of the Angler | 60637.1 |
+| Unique Armours | The Tempest's Liberation | 52686.4 |
+| Divination Cards | House of Mirrors | 24943.3 |
+| Unique Flasks | Wine of the Prophet | 23889.7 |
+| Omens | Omen of Fortune | 9535.6 |
+| Vials | Vial of the Ghost | 7572.0 |
+| Tattoos | Journey Tattoo of the Body | 832.9 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 758.3 |
+| Oils | Tainted Oil | 614.2 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 874234.6 |
-| Awakened Empower Support | 524540.8 |
-| Supreme Spiked Shield | 352035.0 |
-| Awakened Enhance Support | 349693.8 |
-| Original Sin | 247914.7 |
-| Voices | 244785.7 |
-| Awakened Enlighten Support | 240933.1 |
+| Awakened Enlighten Support | 874695.3 |
+| Awakened Empower Support | 524817.2 |
+| Awakened Enhance Support | 349878.1 |
+| Supreme Spiked Shield | 349198.9 |
+| Original Sin | 246185.2 |
+| Voices | 244439.3 |
+| Awakened Enlighten Support | 241080.5 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 177777.7 |
-| Solaris Circlet | 176017.5 |
+| The Original Scripture | 176345.5 |
+| Awakened Empower Support | 174939.1 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| The Surging Thoughts | 63821.08 | 1042.7% |
-| Shield Crush of the Chieftain | 555.72 | 212.4% |
-| Trap and Mine Damage Support | 56.76 | 123.5% |
-| Vaal Molten Shell | 2513.2 | 100.0% |
-| Summon Carrion Golem | 96.0 | 92.0% |
-| Kongor's Undying Rage | 126.3 | 72.8% |
-| Cluster Traps Support | 47.9 | 64.0% |
-| Replica Bones of Ullr | 16.3 | 63.0% |
-| Chain Hook of Trarthus | 176.82 | 39.2% |
-| Malevolence | 24.5 | 22.5% |
+| Warlock Boots | 19561.0 | 915.3% |
+| Ringmail Gloves | 1514.4 | 765.5% |
+| Platinum Kris | 2751.16 | 732.7% |
+| Infiltrator Mitts | 176.68 | 428.8% |
+| Paladin Boots | 353.36 | 372.2% |
+| Vaal Regalia | 19.1 | 253.7% |
+| War Buckler | 429.08 | 243.6% |
+| Royal Plate | 59.0 | 189.2% |
+| Lion Sword | 36.0 | 188.0% |
+| Divine Ire of Holy Lightning | 21.0 | 180.0% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Haste | 27.5 | -45.0% |
-| Blink Arrow of Prismatic Clones | 1086.18 | -44.5% |
-| Cospri's Will | 14.0 | -38.1% |
-| Hex Bloom Support | 12.7 | -34.2% |
-| Purity of Elements | 56.0 | -30.0% |
-| Sparring Room (Tier 1) | 11.5 | -23.3% |
-| Megalomaniac | 40.0 | -20.0% |
-| Essence Drain of Wickedness | 16.0 | -20.0% |
-| Infernal Blow | 15.0 | -18.9% |
-| Magna Eclipsis | 100.0 | -16.8% |
+| Paladin's Hauberk | 25.8 | -85.3% |
+| The Sacrifice | 161.27 | -85.1% |
+| Jagged Foil | 234.2 | -81.6% |
+| Wraith Axe | 17.0 | -78.8% |
+| Maple Round Shield | 14.4 | -73.8% |
+| Eelskin Boots | 18.5 | -63.0% |
+| Onyx Amulet | 22.0 | -60.4% |
+| Serrated Foil | 20.0 | -50.0% |
+| Titan Gauntlets | 20.6 | -45.8% |
+| Bronze Tower Shield | 16.6 | -45.6% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
