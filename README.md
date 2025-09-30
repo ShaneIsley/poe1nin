@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 04:46:46.927255` |
-| Total Price Entries in DB | `275,208` |
+| Last Successful Run (UTC) | `2025-09-30 05:13:14.892005` |
+| Total Price Entries in DB | `300,185` |
 
 <!-- END_MAINTENANCE -->
 
@@ -27,35 +27,35 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 249352.3 |
 | Divine Crown | 216649.2 |
 | The Original Scripture | 182346.4 |
-| Archdemon Crown | 180541.0 |
+| Anarchic Spiritblade | 180541.0 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Sharkskin Boots | 1274.0 | 3540.0% |
-| Tornado Wand | 157.4 | 949.1% |
-| Thicket Bow | 3269.8 | 701.4% |
-| Blood Sceptre | 261.6 | 267.6% |
-| Conquest Lamellar | 67.2 | 265.4% |
-| Great Crown | 74.2 | 244.9% |
-| Royal Skean | 313.9 | 140.0% |
-| Spike-Point Arrow Quiver | 33.0 | 129.2% |
-| Waxed Garb | 130.8 | 125.2% |
-| Paua Amulet | 94.3 | 121.9% |
+| 10% increased Elemental Damage | 19.0 | 81.0% |
+| 10% increased Projectile Damage | 22.0 | 46.7% |
+| 15% increased Critical Strike Chance | 14.0 | 40.0% |
+| 12% increased Chaos Damage | 15.5 | 39.9% |
+| 12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills | 14.0 | 38.8% |
+| Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments | 20.0 | 33.3% |
+| Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments | 19.5 | 30.0% |
+| Wand Attacks deal 12% increased Damage with Hits and Ailments | 19.5 | 30.0% |
+| 15% increased Armour | 13.8 | 29.0% |
+| 10% increased Spell Damage | 19.1 | 27.3% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Precursor Greaves | 123.5 | -84.3% |
-| Spiraled Foil | 31.1 | -76.2% |
-| Supreme Leather | 16.0 | -73.9% |
-| Impact Force Propagator | 64.3 | -69.4% |
-| Opal Wand | 36.0 | -65.1% |
-| Hubris Circlet | 24.8 | -62.5% |
-| Lapis Amulet | 53.2 | -59.3% |
-| Shagreen Boots | 58.1 | -55.6% |
-| Widowsilk Robe | 28.0 | -47.4% |
-| Devout Chainmail | 23.0 | -45.9% |
+| Burnished Foil | 30.0 | -25.0% |
+| Judgement Staff | 30.0 | -25.0% |
+| Apex Rapier | 30.0 | -25.0% |
+| Elegant Foil | 30.0 | -25.0% |
+| Corsair Sword | 30.0 | -25.0% |
+| Harpy Rapier | 30.0 | -25.0% |
+| Vaal Rapier | 30.0 | -25.0% |
+| Corrugated Buckler | 30.0 | -25.0% |
+| 10% increased Damage while affected by a Herald | 11.8 | -18.1% |
+| Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments | 20.5 | -18.0% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
