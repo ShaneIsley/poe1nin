@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 19:10:16.284555` |
-| Total Price Entries in DB | `698,374` |
+| Last Successful Run (UTC) | `2025-09-30 19:26:17.695529` |
+| Total Price Entries in DB | `723,280` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 871713.4 |
-| Base Types | Supreme Spiked Shield | 348515.1 |
-| Unique Jewels | Voices | 243960.6 |
+| Skill Gems | Awakened Enlighten Support | 871713.7 |
+| Base Types | Supreme Spiked Shield | 349141.0 |
+| Unique Jewels | Voices | 244079.8 |
 | Unique Accessories | Original Sin | 240475.4 |
-| Unique Relics | The Original Scripture | 176086.1 |
+| Unique Relics | The Original Scripture | 176086.2 |
 | Runegrafts | Runegraft of the Angler | 60368.4 |
-| Unique Armours | The Tempest's Liberation | 52481.1 |
-| Divination Cards | House of Mirrors | 24894.4 |
-| Unique Flasks | Wine of the Prophet | 23909.6 |
+| Unique Armours | The Tempest's Liberation | 52506.7 |
+| Divination Cards | House of Mirrors | 24939.1 |
+| Unique Flasks | Wine of the Prophet | 23873.9 |
 | Unique Weapons | The Winds of Fate | 11954.8 |
-| Omens | Omen of Fortune | 9562.3 |
-| Vials | Vial of the Ghost | 7550.4 |
-| Tattoos | Journey Tattoo of the Body | 880.9 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 754.9 |
-| Oils | Tainted Oil | 611.6 |
+| Omens | Omen of Fortune | 9565.4 |
+| Vials | Vial of the Ghost | 7563.0 |
+| Tattoos | Journey Tattoo of the Body | 881.0 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 829.2 |
+| Oils | Tainted Oil | 612.6 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 871713.4 |
-| Awakened Empower Support | 523028.0 |
-| Awakened Enhance Support | 348685.4 |
-| Supreme Spiked Shield | 348515.1 |
-| Voices | 243960.6 |
+| Awakened Enlighten Support | 871713.7 |
+| Awakened Empower Support | 523028.2 |
+| Supreme Spiked Shield | 349141.0 |
+| Awakened Enhance Support | 348685.5 |
+| Voices | 244079.8 |
 | Original Sin | 240475.4 |
-| Awakened Enlighten Support | 240062.4 |
+| Awakened Enlighten Support | 240123.2 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 176086.1 |
-| Awakened Empower Support | 174342.7 |
+| The Original Scripture | 176086.2 |
+| Solaris Circlet | 174570.5 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Titan Greaves | 2516.8 | 776.0% |
-| Jagged Foil | 1258.4 | 678.4% |
-| Gemini Claw | 125.84 | 637.2% |
-| Platinum Kris | 143.84 | 619.2% |
-| Sunfire Circlet | 92.0 | 571.5% |
-| Citrine Amulet | 1887.6 | 525.9% |
-| Blighted Jungle Valley Map | 100.0 | 426.3% |
-| Harmonic Spirit Shield | 5851.56 | 376.9% |
-| Martyr Boots | 100.0 | 316.7% |
-| Ruby Ring | 14.0 | 268.4% |
+| Imperial Claw | 630.25 | 834.8% |
+| Slink Boots | 54.0 | 757.1% |
+| Deicide Mask | 338.52 | 715.7% |
+| Full Wyvernscale | 211.58 | 683.6% |
+| Imperial Claw | 337.62 | 647.4% |
+| Glorious Plate | 504.2 | 637.8% |
+| Mosaic Kite Shield | 131.44 | 471.5% |
+| Savant's Robe | 30.6 | 446.4% |
+| Leather Belt | 67.0 | 378.6% |
+| Iron Ring | 81.02 | 305.1% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Sorcerer Boots | 114.34 | -96.4% |
-| Legion Plate | 71.92 | -88.6% |
-| Ancient Greaves | 33.9 | -86.4% |
-| Harpyskin Boots | 50.0 | -83.1% |
-| Paladin's Hauberk | 21.58 | -82.8% |
-| Leather Belt | 14.0 | -81.1% |
-| Decurve Bow | 52.17 | -79.2% |
-| Warlock Boots | 9312.16 | -74.7% |
-| Nightweave Robe | 13.0 | -68.4% |
-| Paladin Gloves | 44.75 | -64.4% |
+| Karui Chopper | 21.0 | -99.8% |
+| Gladiator Plate | 100.0 | -99.4% |
+| Grand Ringmail | 14.5 | -99.2% |
+| Hydrascale Gauntlets | 102.6 | -94.5% |
+| Elegant Round Shield | 21.6 | -82.8% |
+| Awakened Hextouch Support | 402.75 | -77.1% |
+| Hydrascale Gauntlets | 882.35 | -76.6% |
+| Fluted Bascinet | 306.05 | -75.7% |
+| Gripped Gloves | 1764.7 | -74.5% |
+| Eternal Burgonet | 16.0 | -64.4% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
