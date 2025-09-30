@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 14:46:39.926563` |
-| Total Price Entries in DB | `399,323` |
+| Last Successful Run (UTC) | `2025-09-30 15:11:49.380566` |
+| Total Price Entries in DB | `424,267` |
 
 <!-- END_MAINTENANCE -->
 
@@ -21,18 +21,18 @@ This repository tracks data the **Mercenaries** league.
 | Skill Gems | Awakened Enlighten Support | 864006.8 |
 | Base Types | Supreme Spiked Shield | 345602.7 |
 | Unique Accessories | Original Sin | 248834.0 |
-| Unique Jewels | Voices | 242302.9 |
-| Unique Relics | The Original Scripture | 174804.2 |
-| Runegrafts | Runegraft of the Angler | 59624.8 |
-| Unique Armours | The Tempest's Liberation | 52041.3 |
-| Divination Cards | House of Mirrors | 24686.4 |
-| Unique Flasks | Wine of the Prophet | 23611.3 |
-| Unique Weapons | The Winds of Fate | 11805.6 |
-| Omens | Omen of Fortune | 9382.4 |
-| Vials | Vial of the Ghost | 7456.2 |
-| Tattoos | Journey Tattoo of the Body | 869.9 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 743.9 |
-| Oils | Tainted Oil | 606.4 |
+| Unique Jewels | Voices | 241921.9 |
+| Unique Relics | The Original Scripture | 174529.4 |
+| Runegrafts | Runegraft of the Angler | 59476.0 |
+| Unique Armours | The Tempest's Liberation | 52041.2 |
+| Divination Cards | House of Mirrors | 25003.3 |
+| Unique Flasks | Wine of the Prophet | 23552.4 |
+| Unique Weapons | The Winds of Fate | 11776.2 |
+| Omens | Omen of Fortune | 9359.0 |
+| Vials | Vial of the Ghost | 7437.6 |
+| Tattoos | Journey Tattoo of the Body | 867.7 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 743.8 |
+| Oils | Tainted Oil | 604.9 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -49,39 +49,39 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enhance Support | 345602.7 |
 | Supreme Spiked Shield | 345602.7 |
 | Original Sin | 248834.0 |
-| Voices | 242302.9 |
+| Voices | 241921.9 |
 | Awakened Enlighten Support | 236849.2 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 174804.2 |
-| Archdemon Crown | 172801.4 |
+| The Original Scripture | 174529.4 |
+| Divine Crown | 172801.4 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Harmonic Spirit Shield | 1661.47 | 1014.2% |
-| Citadel Bow | 123.99 | 632.4% |
-| Darkscorn | 124.27 | 590.4% |
-| Vaal Blade | 130.0 | 319.4% |
-| Fleshripper | 30.99 | 313.2% |
-| Divine Ire of Disintegration | 1537.48 | 299.1% |
-| Decurve Bow | 247.98 | 255.0% |
-| Amber Amulet | 139.19 | 199.3% |
-| Thicket Bow | 38.3 | 155.3% |
-| Titan Greaves | 17.4 | 148.6% |
+| 12% increased Burning Damage | 14.2 | 42.0% |
+| 12% increased Physical Damage | 14.1 | 30.6% |
+| Blighted Glacier Map | 13.0 | 30.0% |
+| Minions deal 10% increased Damage | 15.0 | 20.0% |
+| Shimmeron | 14.95 | 15.3% |
+| Vivid Watcher | 141.75 | 14.1% |
+| Seven Teachings | 43.5 | 8.8% |
+| Sanctuary Map | 50.0 | 8.7% |
+| Sanctum of Unity (Tier 2) | 11.6 | 7.4% |
+| Disintegrator | 94.0 | 6.2% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Ornate Mace | 495.96 | -99.2% |
-| Terror Maul | 64.8 | -94.7% |
-| Syndicate's Garb | 17.5 | -91.8% |
-| Mirror Arrow of Prismatic Clones | 48.8 | -79.3% |
-| Blighted Belfry Map | 30.43 | -75.5% |
-| Carnal Mitts | 40.8 | -71.3% |
-| Fingerless Silk Gloves | 13.6 | -66.7% |
-| Ironscale Boots | 13.0 | -53.6% |
-| Battle Lamellar | 14.0 | -53.3% |
-| 10% increased Effect of Non-Damaging Ailments | 11.0 | -53.2% |
+| Lightpoacher | 50.0 | -32.4% |
+| Pledge of Hands | 247.92 | -28.8% |
+| Expedition's End | 123.96 | -16.7% |
+| Replica Duskdawn | 743.76 | -14.5% |
+| Megalomaniac | 43.0 | -14.0% |
+| 10% increased Attack Damage | 15.0 | -13.8% |
+| Cooperation | 322.37 | -13.5% |
+| Exerted Attacks deal 20% increased Damage | 25.0 | -12.6% |
+| Abomination Map | 31.4 | -10.3% |
+| Legacy of the Rose | 247.92 | -9.3% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
