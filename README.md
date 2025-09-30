@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-09-30 05:33:23.894605` |
-| Total Price Entries in DB | `325,164` |
+| Last Successful Run (UTC) | `2025-09-30 05:44:26.872772` |
+| Total Price Entries in DB | `350,143` |
 
 <!-- END_MAINTENANCE -->
 
@@ -27,35 +27,35 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 249333.2 |
 | Divine Crown | 216632.5 |
 | The Original Scripture | 182332.3 |
-| Anarchic Spiritblade | 180527.1 |
+| Mirror of Kalandra | 180527.1 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Infiltrator Mitts | 34.2 | 267.3% |
-| Blade Vortex of the Scythe | 601.6 | 225.8% |
-| Coral Amulet | 196.2 | 203.6% |
-| Imperial Staff | 40.0 | 187.8% |
-| Stormrider Boots | 35.0 | 180.0% |
-| Blunt Arrow Quiver | 28.0 | 100.0% |
-| Warlock Gloves | 130.8 | 80.6% |
-| Frostbolt | 39.0 | 65.3% |
-| Great Helmet | 30.0 | 57.9% |
-| Sacred Chainmail | 15.0 | 42.9% |
+| Loreweave | 76.2 | 231.1% |
+| Gift of Asenath | 25.0 | 150.0% |
+| Thousand Ribbons | 95.2 | 116.3% |
+| The World Eater | 273.8 | 74.5% |
+| Expedition's End | 782.3 | 49.5% |
+| Torment Cells (Tier 1) | 12.0 | 20.0% |
+| Museum of Artefacts (Tier 3) | 11.4 | 14.0% |
+| Omnitect Forge (Tier 2) | 14.5 | 13.3% |
+| Cloak of Flame | 11.0 | 6.8% |
+| Fragment of Purification | 36.0 | 5.6% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Gilded Buckler | 14.0 | -89.3% |
-| Great Crown | 28.6 | -85.4% |
-| Malign Fangs | 28.0 | -60.2% |
-| Full Plate | 156.9 | -57.1% |
-| Giantslayer Helmet | 261.6 | -42.9% |
-| Citadel Bow | 35.2 | -41.7% |
-| 12% increased Attack Damage while holding a Shield | 130.8 | -41.2% |
-| Dragonscale Gauntlets | 38.1 | -36.3% |
-| Infernal Sword | 13.0 | -33.0% |
-| Greater Volley Support | 19.1 | -31.3% |
+| Corsair Sword | 30.0 | -25.0% |
+| Judgement Staff | 30.0 | -25.0% |
+| Corrugated Buckler | 30.0 | -25.0% |
+| Harpy Rapier | 30.0 | -25.0% |
+| Vaal Rapier | 30.0 | -25.0% |
+| Burnished Foil | 30.0 | -25.0% |
+| Elegant Foil | 30.0 | -25.0% |
+| Apex Rapier | 30.0 | -25.0% |
+| Unrequited Love | 4563.3 | -15.7% |
+| Forbidden Shako | 20.0 | -9.1% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
