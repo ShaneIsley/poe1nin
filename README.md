@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-01 07:44:37.236099` |
-| Total Price Entries in DB | `1,296,252` |
+| Last Successful Run (UTC) | `2025-10-01 08:17:33.729385` |
+| Total Price Entries in DB | `1,321,163` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 858915.1 |
-| Base Types | Goliath Greaves | 343611.0 |
-| Unique Accessories | Original Sin | 242214.1 |
-| Unique Jewels | Voices | 241114.3 |
-| Unique Relics | The Original Scripture | 135172.6 |
-| Unique Weapons | The Surging Thoughts | 63011.8 |
+| Skill Gems | Awakened Enlighten Support | 861122.5 |
+| Base Types | Goliath Greaves | 344494.0 |
+| Unique Accessories | Original Sin | 242836.5 |
+| Unique Jewels | Voices | 240849.1 |
+| Unique Relics | The Original Scripture | 135260.9 |
+| Unique Weapons | The Surging Thoughts | 63009.2 |
 | Runegrafts | Runegraft of the Angler | 60464.4 |
-| Unique Armours | The Tempest's Liberation | 51871.6 |
-| Divination Cards | House of Mirrors | 24604.0 |
-| Unique Flasks | Wine of the Prophet | 23464.9 |
+| Unique Armours | The Tempest's Liberation | 51871.5 |
+| Divination Cards | House of Mirrors | 24576.9 |
+| Unique Flasks | Wine of the Prophet | 23280.4 |
 | Omens | Omen of Fortune | 9514.5 |
 | Vials | Vial of the Ghost | 7561.2 |
 | Incubators | Gemcutter's Incubator | 1512.2 |
-| Tattoos | Journey Tattoo of the Body | 831.9 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 756.1 |
+| Tattoos | Journey Tattoo of the Body | 1170.3 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 755.0 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 858915.1 |
-| Awakened Empower Support | 515349.1 |
-| Goliath Greaves | 343611.0 |
-| Awakened Enhance Support | 343566.0 |
-| Original Sin | 242214.1 |
-| Voices | 241114.3 |
-| Awakened Enlighten Support | 239649.6 |
+| Awakened Enlighten Support | 861122.5 |
+| Awakened Empower Support | 516673.5 |
+| Goliath Greaves | 344494.0 |
+| Awakened Enhance Support | 344449.0 |
+| Original Sin | 242836.5 |
+| Voices | 240849.1 |
+| Awakened Enlighten Support | 239773.3 |
 | Divine Crown | 213787.0 |
-| Awakened Empower Support | 171783.0 |
-| Wyvernscale Boots | 171783.0 |
+| Satin Gloves | 172224.5 |
+| Divine Crown | 172224.5 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Vaal Molten Shell | 2513.2 | 100.0% |
-| Vaults of Atziri | 125.82 | 1.5% |
-| Tattoo of the Valako Shieldbearer | 86.5 | 0.6% |
-| Tattoo of the Rongokurai Turtle | 36.0 | 0.6% |
-| The Crimson Storm | 23.65 | 0.4% |
-| Taryn's Shiver | 126.42 | 0.3% |
-| Discharge of Misery | 379.26 | 0.3% |
-| Fenumus' Shroud | 256.88 | 0.3% |
-| Wyvernscale Gauntlets | 19266.0 | 0.3% |
-| Atziri's Splendour | 385.32 | 0.3% |
+| Citadel Bow | 2785.94 | 18472.9% |
+| Volcanic Fissure of Snaking | 5670.9 | 11241.8% |
+| Flashfire Blade | 2808.44 | 6921.1% |
+| Ezomyte Axe | 261.04 | 3007.6% |
+| Praetor Crown | 2885.86 | 2190.0% |
+| Reaver Axe | 216.03 | 2060.3% |
+| Primal Arrow Quiver | 378.06 | 1790.3% |
+| Forbidden Rite of Soul Sacrifice | 1512.24 | 1618.3% |
+| Tyrant's Sekhem | 1260.2 | 865.5% |
+| Stygian Vise | 17642.8 | 738.3% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Tattoo of the Ramako Shaman | 378.15 | -6.5% |
-| Reinforced Tower Shield | 248.54 | -2.3% |
-| Chimerascale Boots | 248.54 | -2.3% |
-| Vaal Axe | 248.54 | -2.3% |
-| Citrine Amulet | 3728.1 | -2.3% |
-| Void Fangs | 636.3 | -0.9% |
-| Arcanist Slippers | 12726.0 | -0.9% |
-| Maelström Staff | 126.2 | -0.7% |
-| Wine of the Prophet | 23464.92 | -0.4% |
-| Dual Strike of Ambidexterity | 382.95 | -0.3% |
+| Ironwood Buckler | 126.02 | -97.6% |
+| Zealot Helmet | 18.0 | -83.3% |
+| Commander's Brigandine | 14.0 | -72.0% |
+| Ironwood Buckler | 18.0 | -71.0% |
+| Paladin Boots | 67.38 | -70.2% |
+| Zealot Gloves | 12.1 | -69.8% |
+| Ornate Ringmail | 21.5 | -66.4% |
+| Steel Gauntlets | 43.41 | -65.6% |
+| Viridi's Veil | 2520.4 | -60.0% |
+| Sadist Garb | 12.5 | -56.9% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
