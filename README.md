@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-01 02:50:22.840823` |
-| Total Price Entries in DB | `1,047,128` |
+| Last Successful Run (UTC) | `2025-10-01 03:38:55.428250` |
+| Total Price Entries in DB | `1,072,042` |
 
 <!-- END_MAINTENANCE -->
 
@@ -20,19 +20,19 @@ This repository tracks data the **Mercenaries** league.
 | :--- | :--- | :--- |
 | Skill Gems | Awakened Enlighten Support | 871568.2 |
 | Base Types | Goliath Greaves | 348672.3 |
-| Unique Accessories | Original Sin | 245916.6 |
-| Unique Jewels | Voices | 244172.5 |
+| Unique Accessories | Original Sin | 245782.2 |
+| Unique Jewels | Voices | 244039.1 |
 | Unique Relics | The Original Scripture | 176056.8 |
 | Unique Weapons | The Surging Thoughts | 63628.7 |
 | Runegrafts | Runegraft of the Angler | 60426.0 |
 | Unique Armours | The Tempest's Liberation | 52498.1 |
 | Divination Cards | House of Mirrors | 24902.4 |
-| Unique Flasks | Wine of the Prophet | 23819.7 |
-| Omens | Omen of Fortune | 9515.3 |
-| Vials | Vial of the Ghost | 7561.8 |
-| Incubators | Gemcutter's Incubator | 1512.4 |
+| Unique Flasks | Wine of the Prophet | 23802.7 |
+| Omens | Omen of Fortune | 9508.5 |
+| Vials | Vial of the Ghost | 7556.4 |
+| Incubators | Gemcutter's Incubator | 1511.3 |
 | Tattoos | Journey Tattoo of the Body | 831.2 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 756.2 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 755.6 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -48,40 +48,40 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Empower Support | 522941.0 |
 | Goliath Greaves | 348672.3 |
 | Awakened Enhance Support | 348627.3 |
-| Original Sin | 245916.6 |
-| Voices | 244172.5 |
+| Original Sin | 245782.2 |
+| Voices | 244039.1 |
 | Awakened Enlighten Support | 240236.6 |
 | Divine Crown | 213787.0 |
 | The Original Scripture | 176056.8 |
-| Arcanist Slippers | 174313.6 |
+| Satin Gloves | 174313.6 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Titan Greaves | 701.7 | 1494.8% |
-| Syndicate's Garb | 158.13 | 888.3% |
-| Astral Plate | 10704.9 | 882.8% |
-| Cloth Belt | 221.44 | 751.7% |
-| Great Crown | 188.91 | 577.1% |
-| Spike-Point Arrow Quiver | 50.0 | 549.4% |
-| Opal Sceptre | 251.88 | 482.9% |
-| Decimation Bow | 277.07 | 420.7% |
-| Murder Boots | 170.0 | 385.7% |
-| Full Wyvernscale | 38.48 | 347.4% |
+| The Chosen | 49.0 | 880.0% |
+| Tempered Foil | 125.94 | 636.9% |
+| Velour Gloves | 629.7 | 636.7% |
+| Imperial Buckler | 251.88 | 636.7% |
+| Eagle Claw | 251.88 | 619.7% |
+| Spidersilk Robe | 125.94 | 483.3% |
+| Solaris Circlet | 48.28 | 441.9% |
+| Volcanic Fissure | 102.59 | 266.4% |
+| Iron Circlet | 50.0 | 257.1% |
+| Wraith Axe | 17.0 | 250.5% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Ice Spear of Splitting | 17.75 | -94.4% |
-| Lathi | 16.0 | -93.4% |
-| Supreme Spiked Shield | 31485.0 | -91.0% |
-| Dusk Blade | 1268.4 | -89.9% |
-| Pinnacle Tower Shield | 125.94 | -89.9% |
-| Occultist's Vestment | 12.5 | -84.4% |
-| Gilded Buckler | 21.59 | -82.9% |
-| Vaal Buckler | 47.69 | -81.1% |
-| Gold Amulet | 78.0 | -78.9% |
-| Feathered Arrow Quiver | 295.96 | -76.5% |
+| Satin Slippers | 143.94 | -99.2% |
+| Gripped Gloves | 100.0 | -92.6% |
+| Spiny Round Shield | 19.43 | -89.0% |
+| Hunter Hood | 141.94 | -87.0% |
+| Dire Pelt | 60.0 | -80.4% |
+| Loreweave | 23.0 | -69.1% |
+| Latticed Ringmail | 98.38 | -68.8% |
+| Auric Mace | 19.2 | -66.3% |
+| Platinum Kris | 63.67 | -66.3% |
+| Soldier Boots | 234.25 | -65.8% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
