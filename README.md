@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-01 10:36:29.695992` |
-| Total Price Entries in DB | `1,445,670` |
+| Last Successful Run (UTC) | `2025-10-01 10:46:51.808232` |
+| Total Price Entries in DB | `1,470,571` |
 
 <!-- END_MAINTENANCE -->
 
@@ -20,13 +20,13 @@ This repository tracks data the **Mercenaries** league.
 | :--- | :--- | :--- |
 | Skill Gems | Awakened Enlighten Support | 873399.8 |
 | Base Types | Goliath Greaves | 347397.8 |
-| Unique Accessories | Original Sin | 248742.6 |
+| Unique Accessories | Original Sin | 251539.1 |
 | Unique Jewels | Voices | 244551.9 |
 | Unique Relics | The Original Scripture | 175413.2 |
 | Unique Weapons | The Surging Thoughts | 63818.7 |
-| Runegrafts | Runegraft of the Angler | 60478.8 |
+| Runegrafts | Runegraft of the Angler | 60853.0 |
 | Unique Armours | The Tempest's Liberation | 52609.4 |
-| Divination Cards | House of Mirrors | 24811.4 |
+| Divination Cards | House of Mirrors | 24954.8 |
 | Unique Flasks | Wine of the Prophet | 23817.8 |
 | Omens | Omen of Fortune | 9575.7 |
 | Vials | Vial of the Ghost | 7609.8 |
@@ -48,7 +48,7 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Empower Support | 524039.8 |
 | Awakened Enhance Support | 349359.9 |
 | Goliath Greaves | 347397.8 |
-| Original Sin | 248742.6 |
+| Original Sin | 251539.1 |
 | Voices | 244551.9 |
 | Awakened Enlighten Support | 241692.0 |
 | Divine Crown | 213787.0 |
@@ -58,30 +58,30 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Righteous Fire of Arcane Devotion | 1268.3 | 429.7% |
-| Dominating Blow | 20.78 | 258.3% |
-| Fortress Map | 115.52 | 155.9% |
-| Spectral Shield Throw of Trarthus | 913.18 | 141.5% |
 | Vaal Molten Shell | 2513.2 | 100.0% |
-| Smite of Divine Judgement | 153.42 | 53.4% |
-| Debeon's Dirge | 177.56 | 40.9% |
-| Swordstorm | 12.0 | 39.5% |
-| Blastchain Mine Support | 14.6 | 35.2% |
-| Sublime Vision | 494.64 | 30.7% |
+| Reckless Ambition | 23.0 | 15.0% |
+| The Arkhon's Tools | 21.5 | 7.5% |
+| Kalandra's Touch | 883.24 | 4.3% |
+| Eyes of the Greatwolf | 98.0 | 2.1% |
+| Coward's Legacy | 55.0 | 1.9% |
+| Vaults of Atziri | 125.82 | 1.5% |
+| Ynda's Stand | 370.34 | 1.3% |
+| Original Sin | 251539.13 | 1.1% |
+| Fateful Meeting | 152.2 | 0.6% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Lightning Arrow | 44.0 | -58.2% |
-| Arcane Surge Support | 355.12 | -23.8% |
-| Awakened Arrow Nova Support | 994.56 | -22.2% |
-| Controlled Destruction Support | 40.0 | -16.7% |
-| Viper Strike of the Mamba | 58.0 | -15.9% |
-| Spectral Throw of Trarthus | 481.95 | -15.0% |
-| Despair | 14.5 | -14.7% |
-| Sanctuary Map | 40.8 | -14.3% |
-| Charged Mines Support | 13.0 | -12.2% |
-| Exerted Attacks deal 20% increased Damage | 52.05 | -11.5% |
+| Fortress Map | 78.21 | -32.3% |
+| The Twilight Moon | 18.0 | -10.0% |
+| Crystallised Omniscience | 61.0 | -7.6% |
+| Vaal Axe | 248.54 | -2.3% |
+| Citrine Amulet | 3728.1 | -2.3% |
+| Reinforced Tower Shield | 248.54 | -2.3% |
+| Chimerascale Boots | 248.54 | -2.3% |
+| Sanctuary Map | 40.0 | -2.0% |
+| Void Fangs | 636.3 | -0.9% |
+| Arcanist Slippers | 12726.0 | -0.9% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
