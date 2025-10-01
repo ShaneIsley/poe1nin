@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-01 04:39:03.580800` |
-| Total Price Entries in DB | `1,121,866` |
+| Last Successful Run (UTC) | `2025-10-01 05:33:41.873235` |
+| Total Price Entries in DB | `1,146,779` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 865328.2 |
-| Base Types | Goliath Greaves | 345170.2 |
-| Unique Accessories | Original Sin | 244022.5 |
-| Unique Jewels | Voices | 242291.9 |
-| Unique Relics | The Original Scripture | 174796.3 |
-| Unique Weapons | The Surging Thoughts | 63103.4 |
-| Runegrafts | Runegraft of the Angler | 60426.0 |
-| Unique Armours | The Tempest's Liberation | 52123.7 |
-| Divination Cards | House of Mirrors | 24652.3 |
-| Unique Flasks | Wine of the Prophet | 23802.7 |
-| Omens | Omen of Fortune | 9508.5 |
-| Vials | Vial of the Ghost | 7556.4 |
-| Incubators | Gemcutter's Incubator | 1511.3 |
-| Tattoos | Journey Tattoo of the Body | 831.2 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 755.6 |
+| Skill Gems | Awakened Enlighten Support | 861237.1 |
+| Base Types | Goliath Greaves | 344539.8 |
+| Unique Accessories | Original Sin | 242515.4 |
+| Unique Jewels | Voices | 240795.4 |
+| Unique Relics | The Original Scripture | 173716.7 |
+| Unique Weapons | The Surging Thoughts | 62929.1 |
+| Runegrafts | Runegraft of the Angler | 60402.0 |
+| Unique Armours | The Tempest's Liberation | 51803.0 |
+| Divination Cards | House of Mirrors | 24571.4 |
+| Unique Flasks | Wine of the Prophet | 23793.2 |
+| Omens | Omen of Fortune | 9504.7 |
+| Vials | Vial of the Ghost | 7553.4 |
+| Incubators | Gemcutter's Incubator | 1510.7 |
+| Tattoos | Journey Tattoo of the Body | 829.5 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 755.3 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 865328.2 |
-| Awakened Empower Support | 519196.9 |
-| Awakened Enhance Support | 346131.3 |
-| Goliath Greaves | 345170.2 |
-| Original Sin | 244022.5 |
-| Voices | 242291.9 |
-| Awakened Enlighten Support | 239887.2 |
+| Awakened Enlighten Support | 861237.1 |
+| Awakened Empower Support | 516742.3 |
+| Goliath Greaves | 344539.8 |
+| Awakened Enhance Support | 344494.8 |
+| Original Sin | 242515.4 |
+| Voices | 240795.4 |
+| Awakened Enlighten Support | 239262.9 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 174796.3 |
-| Volatility Support | 173065.6 |
+| The Original Scripture | 173716.7 |
+| Simplex Amulet | 172247.4 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Lapis Amulet | 3261.85 | 250.0% |
-| Animate Weapon of Self Reflection | 5037.6 | 187.8% |
-| Conquest Helmet | 170.94 | 184.9% |
-| Impale Support | 35.93 | 139.5% |
-| Heavy Arrow Quiver | 29.0 | 123.1% |
-| Blighted Basilica Map | 57.19 | 120.0% |
+| Samite Slippers | 900.0 | 800.0% |
+| Girded Tower Shield | 628.4 | 256.4% |
+| Hatred | 316.71 | 164.5% |
+| Primordial Staff | 121.14 | 142.3% |
+| Blighted Siege Map | 26.0 | 136.4% |
+| Exsanguinate of Transmission | 52.5 | 132.3% |
+| Fugitive Boots | 19505.54 | 109.3% |
 | Vaal Molten Shell | 2513.2 | 100.0% |
-| Awakened Added Chaos Damage Support | 125.94 | 89.1% |
-| Sunken City Map | 36.6 | 83.0% |
-| Leviathan Greaves | 20.0 | 66.7% |
+| Cloth Belt | 24.0 | 84.6% |
+| Accumulator Wand | 100.0 | 81.8% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Platinum Kris | 16.8 | -88.3% |
-| Feathered Arrow Quiver | 944.55 | -65.9% |
-| Grizzly Pelt | 31.98 | -62.6% |
-| Conjurer Gloves | 13.0 | -50.0% |
-| Accumulator Wand | 55.0 | -45.0% |
-| Despot Axe | 17.8 | -35.3% |
-| Haste | 573.03 | -33.1% |
-| Amber Amulet | 20.0 | -31.0% |
-| Ghastly Eye Jewel | 10.9 | -29.2% |
-| Spiked Gloves | 10.8 | -28.9% |
+| Haunted Bascinet | 6302.0 | -90.0% |
+| Necrotic Armour | 25.0 | -61.5% |
+| Wyrmscale Doublet | 125.68 | -60.1% |
+| Arcanist Gloves | 41.0 | -57.8% |
+| Gladiator Helmet | 28.5 | -45.2% |
+| Eclipse Staff | 12.0 | -42.9% |
+| Devour Support | 17.0 | -42.4% |
+| Heavy Belt | 20.0 | -40.3% |
+| Frontier Leather | 60.0 | -40.0% |
+| Studded Belt | 12.0 | -38.5% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
