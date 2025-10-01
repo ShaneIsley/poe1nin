@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-01 03:38:55.428250` |
-| Total Price Entries in DB | `1,072,042` |
+| Last Successful Run (UTC) | `2025-10-01 04:19:52.087261` |
+| Total Price Entries in DB | `1,096,955` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,15 +18,15 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 871568.2 |
-| Base Types | Goliath Greaves | 348672.3 |
-| Unique Accessories | Original Sin | 245782.2 |
-| Unique Jewels | Voices | 244039.1 |
-| Unique Relics | The Original Scripture | 176056.8 |
-| Unique Weapons | The Surging Thoughts | 63628.7 |
+| Skill Gems | Awakened Enlighten Support | 865328.2 |
+| Base Types | Goliath Greaves | 346176.3 |
+| Unique Accessories | Original Sin | 244022.5 |
+| Unique Jewels | Voices | 242291.9 |
+| Unique Relics | The Original Scripture | 174796.3 |
+| Unique Weapons | The Surging Thoughts | 63254.3 |
 | Runegrafts | Runegraft of the Angler | 60426.0 |
-| Unique Armours | The Tempest's Liberation | 52498.1 |
-| Divination Cards | House of Mirrors | 24902.4 |
+| Unique Armours | The Tempest's Liberation | 52123.7 |
+| Divination Cards | House of Mirrors | 24724.2 |
 | Unique Flasks | Wine of the Prophet | 23802.7 |
 | Omens | Omen of Fortune | 9508.5 |
 | Vials | Vial of the Ghost | 7556.4 |
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 871568.2 |
-| Awakened Empower Support | 522941.0 |
-| Goliath Greaves | 348672.3 |
-| Awakened Enhance Support | 348627.3 |
-| Original Sin | 245782.2 |
-| Voices | 244039.1 |
-| Awakened Enlighten Support | 240236.6 |
+| Awakened Enlighten Support | 865328.2 |
+| Awakened Empower Support | 519196.9 |
+| Goliath Greaves | 346176.3 |
+| Awakened Enhance Support | 346131.3 |
+| Original Sin | 244022.5 |
+| Voices | 242291.9 |
+| Awakened Enlighten Support | 239887.2 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 176056.8 |
-| Satin Gloves | 174313.6 |
+| The Original Scripture | 174796.3 |
+| Satin Gloves | 173065.6 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| The Chosen | 49.0 | 880.0% |
-| Tempered Foil | 125.94 | 636.9% |
-| Velour Gloves | 629.7 | 636.7% |
-| Imperial Buckler | 251.88 | 636.7% |
-| Eagle Claw | 251.88 | 619.7% |
-| Spidersilk Robe | 125.94 | 483.3% |
-| Solaris Circlet | 48.28 | 441.9% |
-| Volcanic Fissure | 102.59 | 266.4% |
-| Iron Circlet | 50.0 | 257.1% |
-| Wraith Axe | 17.0 | 250.5% |
+| Great Helmet | 89.97 | 799.7% |
+| Infernal Blow of Immolation | 1133.46 | 615.8% |
+| Wyrmscale Doublet | 17.09 | 241.8% |
+| Pinnacle Tower Shield | 100.0 | 225.7% |
+| Summon Holy Relic of Conviction | 79.17 | 216.7% |
+| Ebony Tower Shield | 125.94 | 188.9% |
+| Mesh Boots | 30.0 | 172.7% |
+| Ice Bite Support | 51.8 | 172.6% |
+| Destiny Leather | 152.97 | 155.0% |
+| Seaglass Amulet | 18.8 | 135.0% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Satin Slippers | 143.94 | -99.2% |
-| Gripped Gloves | 100.0 | -92.6% |
-| Spiny Round Shield | 19.43 | -89.0% |
-| Hunter Hood | 141.94 | -87.0% |
-| Dire Pelt | 60.0 | -80.4% |
-| Loreweave | 23.0 | -69.1% |
-| Latticed Ringmail | 98.38 | -68.8% |
-| Auric Mace | 19.2 | -66.3% |
-| Platinum Kris | 63.67 | -66.3% |
-| Soldier Boots | 234.25 | -65.8% |
+| Soldier Boots | 161.93 | -89.3% |
+| Glorious Plate | 14.5 | -73.6% |
+| Midnight Blade | 20.5 | -70.7% |
+| Dread Maul | 13.0 | -67.5% |
+| Spectral Throw of Trarthus | 566.73 | -63.7% |
+| Latticed Ringmail | 39.0 | -60.4% |
+| Praetor Crown | 13.0 | -53.6% |
+| Hubris Circlet | 21.0 | -52.1% |
+| Turquoise Amulet | 27.0 | -50.0% |
+| Cyclone | 178.73 | -45.4% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
