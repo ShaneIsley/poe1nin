@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-01 10:46:51.808232` |
-| Total Price Entries in DB | `1,470,571` |
+| Last Successful Run (UTC) | `2025-10-01 11:13:21.780948` |
+| Total Price Entries in DB | `1,495,472` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 873399.8 |
-| Base Types | Goliath Greaves | 347397.8 |
+| Skill Gems | Awakened Enlighten Support | 871042.1 |
+| Base Types | Goliath Greaves | 348461.8 |
 | Unique Accessories | Original Sin | 251539.1 |
 | Unique Jewels | Voices | 244551.9 |
-| Unique Relics | The Original Scripture | 175413.2 |
-| Unique Weapons | The Surging Thoughts | 63818.7 |
+| Unique Relics | The Original Scripture | 175950.5 |
+| Unique Weapons | The Surging Thoughts | 63642.1 |
 | Runegrafts | Runegraft of the Angler | 60853.0 |
-| Unique Armours | The Tempest's Liberation | 52609.4 |
-| Divination Cards | House of Mirrors | 24954.8 |
-| Unique Flasks | Wine of the Prophet | 23817.8 |
-| Omens | Omen of Fortune | 9575.7 |
-| Vials | Vial of the Ghost | 7609.8 |
-| Incubators | Gemcutter's Incubator | 1522.0 |
-| Tattoos | Journey Tattoo of the Body | 1192.2 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 761.0 |
+| Unique Armours | The Tempest's Liberation | 52467.4 |
+| Divination Cards | House of Mirrors | 24817.9 |
+| Unique Flasks | Wine of the Prophet | 23897.2 |
+| Omens | Omen of Fortune | 9546.2 |
+| Vials | Vial of the Ghost | 7586.4 |
+| Incubators | Gemcutter's Incubator | 1517.3 |
+| Tattoos | Journey Tattoo of the Body | 1188.5 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 758.6 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 873399.8 |
-| Awakened Empower Support | 524039.8 |
-| Awakened Enhance Support | 349359.9 |
-| Goliath Greaves | 347397.8 |
+| Awakened Enlighten Support | 871042.1 |
+| Awakened Empower Support | 522625.3 |
+| Goliath Greaves | 348461.8 |
+| Awakened Enhance Support | 348416.8 |
 | Original Sin | 251539.1 |
 | Voices | 244551.9 |
-| Awakened Enlighten Support | 241692.0 |
+| Awakened Enlighten Support | 240967.2 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 175413.2 |
-| Automation | 174680.0 |
+| The Original Scripture | 175950.5 |
+| Automation | 174208.4 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Vaal Molten Shell | 2513.2 | 100.0% |
-| Reckless Ambition | 23.0 | 15.0% |
-| The Arkhon's Tools | 21.5 | 7.5% |
-| Kalandra's Touch | 883.24 | 4.3% |
-| Eyes of the Greatwolf | 98.0 | 2.1% |
-| Coward's Legacy | 55.0 | 1.9% |
-| Vaults of Atziri | 125.82 | 1.5% |
-| Ynda's Stand | 370.34 | 1.3% |
-| Original Sin | 251539.13 | 1.1% |
-| Fateful Meeting | 152.2 | 0.6% |
+| Destiny Leather | 17438.84 | 87094.2% |
+| Reinforced Kite Shield | 632.2 | 836.5% |
+| Sage's Robe | 180.44 | 563.4% |
+| Waxed Garb | 45.11 | 544.4% |
+| Vaal Greaves | 342.88 | 471.5% |
+| Supreme Leather | 86.58 | 441.1% |
+| Callous Mask | 100.0 | 426.3% |
+| Serpentscale Boots | 200.37 | 400.9% |
+| Bronze Gauntlets | 252.88 | 394.8% |
+| Tornado Wand | 100.0 | 325.5% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Fortress Map | 78.21 | -32.3% |
-| The Twilight Moon | 18.0 | -10.0% |
-| Crystallised Omniscience | 61.0 | -7.6% |
-| Vaal Axe | 248.54 | -2.3% |
-| Citrine Amulet | 3728.1 | -2.3% |
-| Reinforced Tower Shield | 248.54 | -2.3% |
-| Chimerascale Boots | 248.54 | -2.3% |
-| Sanctuary Map | 40.0 | -2.0% |
-| Void Fangs | 636.3 | -0.9% |
-| Arcanist Slippers | 12726.0 | -0.9% |
+| Sunfire Circlet | 55.08 | -89.1% |
+| Chiming Spirit Shield | 157.94 | -87.5% |
+| Occultist's Vestment | 14.0 | -77.4% |
+| Mirrored Spiked Shield | 24.0 | -76.6% |
+| Royal Burgonet | 18.0 | -76.2% |
+| Mind Cage | 13.0 | -75.5% |
+| Dragonscale Gauntlets | 14.0 | -73.0% |
+| Gold Amulet | 91.9 | -66.9% |
+| Sekhem | 35.0 | -63.0% |
+| Soldier Boots | 18.6 | -61.2% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
