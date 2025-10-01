@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-01 01:03:25.943145` |
-| Total Price Entries in DB | `1,022,218` |
+| Last Successful Run (UTC) | `2025-10-01 02:50:22.840823` |
+| Total Price Entries in DB | `1,047,128` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,20 +18,20 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 872044.6 |
-| Base Types | Supreme Spiked Shield | 349198.9 |
+| Skill Gems | Awakened Enlighten Support | 871568.2 |
+| Base Types | Goliath Greaves | 348672.3 |
 | Unique Accessories | Original Sin | 245916.6 |
 | Unique Jewels | Voices | 244172.5 |
-| Unique Relics | The Original Scripture | 176153.0 |
-| Unique Weapons | The Surging Thoughts | 63665.4 |
-| Runegrafts | Runegraft of the Angler | 60469.2 |
-| Unique Armours | The Tempest's Liberation | 52526.8 |
-| Divination Cards | House of Mirrors | 24916.1 |
-| Unique Flasks | Wine of the Prophet | 23895.3 |
+| Unique Relics | The Original Scripture | 176056.8 |
+| Unique Weapons | The Surging Thoughts | 63628.7 |
+| Runegrafts | Runegraft of the Angler | 60426.0 |
+| Unique Armours | The Tempest's Liberation | 52498.1 |
+| Divination Cards | House of Mirrors | 24902.4 |
+| Unique Flasks | Wine of the Prophet | 23819.7 |
 | Omens | Omen of Fortune | 9515.3 |
 | Vials | Vial of the Ghost | 7561.8 |
 | Incubators | Gemcutter's Incubator | 1512.4 |
-| Tattoos | Journey Tattoo of the Body | 831.8 |
+| Tattoos | Journey Tattoo of the Body | 831.2 |
 | Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 756.2 |
 
 
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 872044.6 |
-| Awakened Empower Support | 523226.8 |
-| Supreme Spiked Shield | 349198.9 |
-| Goliath Greaves | 348862.8 |
-| Awakened Enhance Support | 348817.8 |
+| Awakened Enlighten Support | 871568.2 |
+| Awakened Empower Support | 522941.0 |
+| Goliath Greaves | 348672.3 |
+| Awakened Enhance Support | 348627.3 |
 | Original Sin | 245916.6 |
 | Voices | 244172.5 |
-| Awakened Enlighten Support | 240400.1 |
+| Awakened Enlighten Support | 240236.6 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 176153.0 |
+| The Original Scripture | 176056.8 |
+| Arcanist Slippers | 174313.6 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Secutor Helm | 17644.2 | 13920.0% |
-| Paladin Gloves | 17644.2 | 13920.0% |
-| Battle Sword | 17644.2 | 13920.0% |
-| Carnal Armour | 1773.42 | 8117.9% |
-| Fire Arrow Quiver | 1782.42 | 5728.7% |
-| Demon's Horn | 1782.42 | 5728.7% |
-| Serpentscale Gauntlets | 2634.03 | 1993.0% |
-| Legion Sword | 3125.54 | 1082.7% |
-| Hussar Brigandine | 3125.54 | 1082.7% |
-| Imperial Maul | 331.68 | 1037.1% |
+| Titan Greaves | 701.7 | 1494.8% |
+| Syndicate's Garb | 158.13 | 888.3% |
+| Astral Plate | 10704.9 | 882.8% |
+| Cloth Belt | 221.44 | 751.7% |
+| Great Crown | 188.91 | 577.1% |
+| Spike-Point Arrow Quiver | 50.0 | 549.4% |
+| Opal Sceptre | 251.88 | 482.9% |
+| Decimation Bow | 277.07 | 420.7% |
+| Murder Boots | 170.0 | 385.7% |
+| Full Wyvernscale | 38.48 | 347.4% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Harlequin Mask | 98.0 | -99.2% |
-| Conquest Chainmail | 98.0 | -99.2% |
-| Lacewood Spirit Shield | 98.0 | -99.2% |
-| Imperial Staff | 53.9 | -95.8% |
-| Devouring Totem | 253.86 | -89.9% |
-| Praetor Crown | 43.61 | -89.8% |
-| Bone Bow | 1332.3 | -89.4% |
-| Wyrmscale Boots | 28.4 | -89.1% |
-| Steelscale Gauntlets | 55.81 | -85.2% |
-| Crusader Buckler | 68.81 | -79.0% |
+| Ice Spear of Splitting | 17.75 | -94.4% |
+| Lathi | 16.0 | -93.4% |
+| Supreme Spiked Shield | 31485.0 | -91.0% |
+| Dusk Blade | 1268.4 | -89.9% |
+| Pinnacle Tower Shield | 125.94 | -89.9% |
+| Occultist's Vestment | 12.5 | -84.4% |
+| Gilded Buckler | 21.59 | -82.9% |
+| Vaal Buckler | 47.69 | -81.1% |
+| Gold Amulet | 78.0 | -78.9% |
+| Feathered Arrow Quiver | 295.96 | -76.5% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
