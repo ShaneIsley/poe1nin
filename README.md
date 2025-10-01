@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-01 05:44:46.011364` |
-| Total Price Entries in DB | `1,171,694` |
+| Last Successful Run (UTC) | `2025-10-01 06:19:07.038674` |
+| Total Price Entries in DB | `1,196,608` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 859983.7 |
-| Base Types | Goliath Greaves | 344539.8 |
-| Unique Accessories | Original Sin | 242515.4 |
-| Unique Jewels | Voices | 241146.4 |
-| Unique Relics | The Original Scripture | 173969.9 |
-| Unique Weapons | The Surging Thoughts | 62924.6 |
-| Runegrafts | Runegraft of the Angler | 60402.0 |
-| Unique Armours | The Tempest's Liberation | 51877.8 |
-| Divination Cards | House of Mirrors | 24571.4 |
-| Unique Flasks | Wine of the Prophet | 23582.4 |
-| Omens | Omen of Fortune | 9488.8 |
-| Vials | Vial of the Ghost | 7540.8 |
-| Incubators | Gemcutter's Incubator | 1508.2 |
-| Tattoos | Journey Tattoo of the Body | 830.9 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 755.0 |
+| Skill Gems | Awakened Enlighten Support | 861122.5 |
+| Base Types | Goliath Greaves | 345496.8 |
+| Unique Accessories | Original Sin | 242836.5 |
+| Unique Jewels | Voices | 241816.3 |
+| Unique Relics | The Original Scripture | 173946.7 |
+| Unique Weapons | The Surging Thoughts | 63009.2 |
+| Runegrafts | Runegraft of the Angler | 60464.4 |
+| Unique Armours | The Tempest's Liberation | 51871.5 |
+| Divination Cards | House of Mirrors | 24604.0 |
+| Unique Flasks | Wine of the Prophet | 23616.2 |
+| Omens | Omen of Fortune | 9514.5 |
+| Vials | Vial of the Ghost | 7585.2 |
+| Incubators | Gemcutter's Incubator | 1517.0 |
+| Tattoos | Journey Tattoo of the Body | 830.5 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 756.1 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 859983.7 |
-| Awakened Empower Support | 515990.2 |
-| Goliath Greaves | 344539.8 |
-| Awakened Enhance Support | 343993.5 |
-| Original Sin | 242515.4 |
-| Voices | 241146.4 |
-| Awakened Enlighten Support | 239435.9 |
+| Awakened Enlighten Support | 861122.5 |
+| Awakened Empower Support | 516673.5 |
+| Goliath Greaves | 345496.8 |
+| Awakened Enhance Support | 344449.0 |
+| Original Sin | 242836.5 |
+| Voices | 241816.3 |
+| Awakened Enlighten Support | 239773.3 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 173969.9 |
-| Simplex Amulet | 172247.4 |
+| The Original Scripture | 173946.7 |
+| Satin Gloves | 172725.9 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| 12% increased Totem Damage | 43.04 | 313.8% |
-| Shock Nova | 17.5 | 136.5% |
-| Blade Flurry of Incision | 251.68 | 128.8% |
-| Vaal Molten Shell | 2513.2 | 100.0% |
-| Burning Arrow of Vigour | 100.0 | 68.1% |
-| Galvanic Field | 16.0 | 60.0% |
-| Frenzy of Onslaught | 25.0 | 47.1% |
-| Icicle Mine of Fanning | 427.86 | 36.2% |
-| Melee Physical Damage Support | 44.0 | 25.7% |
-| Awakened Added Chaos Damage Support | 69.2 | 20.3% |
+| Battle Sword | 481.83 | 1089.7% |
+| Ringmail Gloves | 56.57 | 565.5% |
+| Thorium Spirit Shield | 379.26 | 414.6% |
+| Nightmare Mace | 171.17 | 391.9% |
+| Crusader Buckler | 328.69 | 378.7% |
+| Sharkskin Gloves | 164.35 | 342.5% |
+| Wraith Axe | 115.28 | 311.7% |
+| Glorious Plate | 55.0 | 279.3% |
+| Wraith Sword | 28.2 | 209.9% |
+| Burnished Foil | 49.0 | 180.0% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Energy Leech Support | 302.02 | -27.2% |
-| Mirror Arrow | 31.57 | -27.1% |
-| Urgent Orders Support | 43.0 | -25.9% |
-| Returning Projectiles Support | 20.5 | -18.0% |
-| Divine Ire of Holy Lightning | 125.84 | -17.2% |
-| Cruelty Support | 20.0 | -16.7% |
-| Lethal Pride | 191.27 | -14.6% |
-| Prism Guardian | 20.0 | -13.8% |
-| Storm Rain of the Fence | 26.0 | -13.3% |
-| Determination | 639.27 | -12.6% |
+| Battle Sword | 100.0 | -99.4% |
+| Paladin Gloves | 100.0 | -99.4% |
+| Secutor Helm | 100.0 | -99.4% |
+| Carnal Armour | 19.0 | -98.9% |
+| Fire Arrow Quiver | 28.0 | -98.4% |
+| Demon's Horn | 28.0 | -98.4% |
+| Imperial Maul | 24.0 | -92.7% |
+| Hussar Brigandine | 216.42 | -92.5% |
+| Legion Sword | 241.7 | -92.2% |
+| Graceful Sword | 1142.28 | -89.9% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
