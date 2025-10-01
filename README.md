@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-01 06:45:37.604404` |
-| Total Price Entries in DB | `1,221,523` |
+| Last Successful Run (UTC) | `2025-10-01 07:13:38.500853` |
+| Total Price Entries in DB | `1,246,432` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,20 +18,20 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 861471.3 |
-| Base Types | Goliath Greaves | 345496.8 |
-| Unique Accessories | Original Sin | 242934.9 |
-| Unique Jewels | Voices | 241212.0 |
-| Unique Relics | The Original Scripture | 173946.7 |
-| Unique Weapons | The Surging Thoughts | 63195.6 |
+| Skill Gems | Awakened Enlighten Support | 858915.1 |
+| Base Types | Goliath Greaves | 343611.0 |
+| Unique Accessories | Original Sin | 242214.1 |
+| Unique Jewels | Voices | 240496.2 |
+| Unique Relics | The Original Scripture | 174017.2 |
+| Unique Weapons | The Surging Thoughts | 62876.7 |
 | Runegrafts | Runegraft of the Angler | 60464.4 |
-| Unique Armours | The Tempest's Liberation | 52022.6 |
-| Divination Cards | House of Mirrors | 24675.6 |
-| Unique Flasks | Wine of the Prophet | 23640.5 |
+| Unique Armours | The Tempest's Liberation | 51739.1 |
+| Divination Cards | House of Mirrors | 24540.9 |
+| Unique Flasks | Wine of the Prophet | 23565.7 |
 | Omens | Omen of Fortune | 9514.5 |
-| Vials | Vial of the Ghost | 7585.2 |
+| Vials | Vial of the Ghost | 7561.2 |
 | Incubators | Gemcutter's Incubator | 1517.0 |
-| Tattoos | Journey Tattoo of the Body | 834.4 |
+| Tattoos | Journey Tattoo of the Body | 831.7 |
 | Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 756.1 |
 
 
@@ -44,44 +44,44 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 861471.3 |
-| Awakened Empower Support | 516882.8 |
-| Goliath Greaves | 345496.8 |
-| Awakened Enhance Support | 344588.5 |
-| Original Sin | 242934.9 |
-| Voices | 241212.0 |
-| Awakened Enlighten Support | 240400.8 |
+| Awakened Enlighten Support | 858915.1 |
+| Awakened Empower Support | 515349.1 |
+| Goliath Greaves | 343611.0 |
+| Awakened Enhance Support | 343566.0 |
+| Original Sin | 242214.1 |
+| Voices | 240496.2 |
+| Awakened Enlighten Support | 239649.6 |
 | Divine Crown | 213787.0 |
-| The Original Scripture | 173946.7 |
-| Anarchic Spiritblade | 172725.9 |
+| The Original Scripture | 174017.2 |
+| Satin Gloves | 171783.0 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Loreweave | 74.57 | 210.7% |
-| Vaal Molten Shell | 2513.2 | 100.0% |
-| Vaal Ice Nova | 84.0 | 97.6% |
-| Inspiration Support | 29.0 | 45.0% |
-| Heavy Strike | 16.0 | 39.1% |
-| Ensnaring Arrow | 38.0 | 38.2% |
-| Lacerate of Butchering | 164.35 | 30.4% |
-| Culling Strike Support | 19.5 | 26.7% |
-| Unrequited Love | 4424.7 | 22.8% |
-| Controlled Blaze Support | 12.6 | 18.9% |
+| Sai | 193.53 | 1512.8% |
+| Two-Toned Boots | 37806.0 | 587.5% |
+| Crimson Round Shield | 40.0 | 263.6% |
+| Vaal Greaves | 252.04 | 258.6% |
+| Highborn Staff | 41.2 | 200.7% |
+| Boneshatter of Complex Trauma | 365.46 | 189.1% |
+| Conjurer Gloves | 630.1 | 180.5% |
+| Legion Gloves | 38.0 | 176.4% |
+| Siege Ballista | 12.4 | 138.5% |
+| Dread Maul | 11.8 | 136.0% |
 
 ### Top 10 Losers (24h)
 | Item | Chaos Value | % Change |
 | :--- | :--- | :--- |
-| Frostbite | 34.0 | -62.2% |
-| Perfidy | 126.42 | -44.3% |
-| Infused Beachhead | 158.02 | -25.6% |
-| Lancing Steel | 86.0 | -18.3% |
-| Perfidy | 56.57 | -16.8% |
-| Awakened Elemental Focus Support | 379.26 | -16.4% |
-| Cast when Damage Taken Support | 53.0 | -15.5% |
-| Bonechill Support | 52.0 | -11.9% |
-| Broken Promises | 73.5 | -10.4% |
-| Hydrosphere | 45.5 | -9.0% |
+| Ironwood Buckler | 5154.22 | -89.8% |
+| Etched Greatsword | 18.9 | -85.0% |
+| Ruby Ring | 29.2 | -80.8% |
+| Reflex Bow | 18.0 | -77.3% |
+| Harbinger Bow | 29.0 | -77.1% |
+| 12% increased Burning Damage | 11.0 | -67.8% |
+| Field Lamellar | 19.0 | -66.8% |
+| Dragonscale Boots | 37.0 | -63.0% |
+| Demon Dagger | 33.0 | -52.2% |
+| Astral Plate | 24.0 | -45.5% |
 
 
 ![Market Movers Chart](charts/market_movers.png)
