@@ -52,8 +52,8 @@ This repository tracks data the **Mercenaries** league.
 | Voices | 244551.9 |
 | Awakened Enlighten Support | 240967.2 |
 | The Original Scripture | 175950.5 |
-| Solaris Circlet | 174208.4 |
-| Divine Crown | 174208.4 |
+| Automation | 174208.4 |
+| Wyvernscale Boots | 174208.4 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
