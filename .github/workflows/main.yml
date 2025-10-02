@@ -31,6 +31,12 @@ jobs:
       - name: Run Fetch Data Script
         run: python fetch_data.py
 
+      - name: Vacuum Database
+        run: |
+          DB_FILE=$(ls *.db)
+          echo "Vacuuming database file: $DB_FILE"
+          sqlite3 $DB_FILE "VACUUM;"
+
       - name: Run Analysis Script
         run: python analysis.py
 
