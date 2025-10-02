@@ -51,9 +51,9 @@ This repository tracks data the **Mercenaries** league.
 | Original Sin | 251539.1 |
 | Voices | 244551.9 |
 | Awakened Enlighten Support | 240967.2 |
-| Divine Crown | 213787.0 |
 | The Original Scripture | 175950.5 |
-| Automation | 174208.4 |
+| Satin Gloves | 174208.4 |
+| Vaal Regalia | 174208.4 |
 
 ### Top 10 Gainers (24h)
 | Item | Chaos Value | % Change |
