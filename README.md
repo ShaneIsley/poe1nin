@@ -52,36 +52,8 @@ This repository tracks data the **Mercenaries** league.
 | Voices | 244551.9 |
 | Awakened Enlighten Support | 240967.2 |
 | The Original Scripture | 175950.5 |
-| Archdemon Crown | 174208.4 |
-| Simplex Amulet | 174208.4 |
-
-### Top 10 Gainers (24h)
-| Item | Chaos Value | % Change |
-| :--- | :--- | :--- |
-| Destiny Leather | 17438.84 | 87094.2% |
-| Reinforced Kite Shield | 632.2 | 836.5% |
-| Sage's Robe | 180.44 | 563.4% |
-| Waxed Garb | 45.11 | 544.4% |
-| Vaal Greaves | 342.88 | 471.5% |
-| Supreme Leather | 86.58 | 441.1% |
-| Callous Mask | 100.0 | 426.3% |
-| Serpentscale Boots | 200.37 | 400.9% |
-| Bronze Gauntlets | 252.88 | 394.8% |
-| Tornado Wand | 100.0 | 325.5% |
-
-### Top 10 Losers (24h)
-| Item | Chaos Value | % Change |
-| :--- | :--- | :--- |
-| Sunfire Circlet | 55.08 | -89.1% |
-| Chiming Spirit Shield | 157.94 | -87.5% |
-| Occultist's Vestment | 14.0 | -77.4% |
-| Mirrored Spiked Shield | 24.0 | -76.6% |
-| Royal Burgonet | 18.0 | -76.2% |
-| Mind Cage | 13.0 | -75.5% |
-| Dragonscale Gauntlets | 14.0 | -73.0% |
-| Gold Amulet | 91.9 | -66.9% |
-| Sekhem | 35.0 | -63.0% |
-| Soldier Boots | 18.6 | -61.2% |
+| Anarchic Spiritblade | 174208.4 |
+| Wyvernscale Boots | 174208.4 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
