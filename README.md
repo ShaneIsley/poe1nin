@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-06 16:49:35.852776` |
-| Total Price Entries in DB | `188,834` |
+| Last Successful Run (UTC) | `2025-10-06 17:01:55.010325` |
+| Total Price Entries in DB | `198,771` |
 
 <!-- END_MAINTENANCE -->
 
@@ -20,16 +20,16 @@ This repository tracks data the **Mercenaries** league.
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
 | Unique Accessories | Original Sin | 264,367.9 |
-| Unique Jewels | Voices | 257,141.0 |
-| Unique Armours | The Tempest's Liberation | 57,456.1 |
-| Divination Cards | House of Mirrors | 25,921.0 |
-| Unique Flasks | Wine of the Prophet | 23,133.2 |
-| Unique Weapons | The Surging Thoughts | 15,862.8 |
+| Unique Jewels | Voices | 257,024.4 |
+| Unique Armours | The Tempest's Liberation | 57,508.4 |
+| Divination Cards | House of Mirrors | 25,934.7 |
+| Unique Flasks | Wine of the Prophet | 23,817.6 |
+| Unique Weapons | The Surging Thoughts | 15,878.4 |
 | Cluster Jewels | 12% increased Attack Damage while holding a Shield | 1,626.7 |
 | Tattoos | Journey Tattoo of the Body | 1,110.4 |
 | Oils | Tainted Oil | 661.2 |
-| Scarabs | Horned Scarab of Preservation | 528.8 |
-| Incubators | Gemcutter's Incubator | 449.4 |
+| Scarabs | Horned Scarab of Preservation | 529.0 |
+| Incubators | Gemcutter's Incubator | 449.6 |
 | Maps | Fortress Map | 80.0 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.9 |
@@ -49,7 +49,7 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Empower Support | 526,900.0 |
 | Awakened Enhance Support | 367,177.7 |
 | Original Sin | 264,367.9 |
-| Voices | 257,141.0 |
+| Voices | 257,024.4 |
 | Awakened Enlighten Support | 212,963.0 |
 | Awakened Enlighten Support | 201,947.7 |
 | Awakened Empower Support | 183,588.8 |
