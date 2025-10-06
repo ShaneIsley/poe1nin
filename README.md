@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-06 22:30:47.394778` |
-| Total Price Entries in DB | `347,670` |
+| Last Successful Run (UTC) | `2025-10-06 22:42:44.863154` |
+| Total Price Entries in DB | `357,591` |
 
 <!-- END_MAINTENANCE -->
 
@@ -26,11 +26,11 @@ This repository tracks data the **Mercenaries** league.
 | Unique Flasks | Wine of the Prophet | 22,916.2 |
 | Unique Weapons | The Winds of Fate | 12,440.2 |
 | Tattoos | Journey Tattoo of the Body | 1,126.2 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 1,010.9 |
+| Cluster Jewels | 12% increased Attack Damage while holding a Shield | 942.8 |
 | Oils | Tainted Oil | 654.8 |
 | Scarabs | Horned Scarab of Preservation | 523.8 |
 | Incubators | Gemcutter's Incubator | 445.2 |
-| Maps | Fortress Map | 80.0 |
+| Maps | Fortress Map | 78.6 |
 | Essences | Essence of Horror | 37.9 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.5 |
 
@@ -52,8 +52,8 @@ This repository tracks data the **Mercenaries** league.
 | Voices | 255,158.1 |
 | Awakened Enlighten Support | 211,416.7 |
 | Awakened Enlighten Support | 200,481.4 |
-| Automation | 182,255.8 |
-| Awakened Enhance Support | 182,255.8 |
+| Volatility Support | 182,255.8 |
+| Awakened Empower Support | 182,255.8 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
