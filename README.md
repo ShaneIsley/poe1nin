@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-06 21:28:05.975300` |
-| Total Price Entries in DB | `317,905` |
+| Last Successful Run (UTC) | `2025-10-06 21:41:57.492416` |
+| Total Price Entries in DB | `327,828` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,19 +19,19 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Accessories | Original Sin | 268,683.4 |
+| Unique Accessories | Original Sin | 268,171.0 |
 | Unique Jewels | Voices | 255,400.9 |
 | Unique Armours | The Tempest's Liberation | 57,088.8 |
 | Divination Cards | House of Mirrors | 25,991.9 |
-| Unique Flasks | Wine of the Prophet | 22,944.2 |
+| Unique Flasks | Wine of the Prophet | 22,918.0 |
 | Unique Weapons | The Winds of Fate | 12,455.5 |
-| Tattoos | Journey Tattoo of the Body | 1,115.8 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 1,025.2 |
-| Oils | Tainted Oil | 656.4 |
-| Scarabs | Horned Scarab of Preservation | 524.4 |
-| Incubators | Gemcutter's Incubator | 446.8 |
+| Tattoos | Journey Tattoo of the Body | 1,114.4 |
+| Cluster Jewels | 12% increased Attack Damage while holding a Shield | 1,022.7 |
+| Oils | Tainted Oil | 655.5 |
+| Scarabs | Horned Scarab of Preservation | 525.1 |
+| Incubators | Gemcutter's Incubator | 445.8 |
 | Maps | Fortress Map | 80.0 |
-| Essences | Essence of Horror | 38.0 |
+| Essences | Essence of Horror | 37.9 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.5 |
 
 
@@ -48,7 +48,7 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 730,412.9 |
 | Awakened Empower Support | 524,071.2 |
 | Awakened Enhance Support | 365,206.4 |
-| Original Sin | 268,683.4 |
+| Original Sin | 268,171.0 |
 | Voices | 255,400.9 |
 | Awakened Enlighten Support | 211,819.7 |
 | Awakened Enlighten Support | 200,863.5 |
