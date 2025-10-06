@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-06 15:32:08.379905` |
-| Total Price Entries in DB | `149,083` |
+| Last Successful Run (UTC) | `2025-10-06 15:44:44.254958` |
+| Total Price Entries in DB | `159,022` |
 
 <!-- END_MAINTENANCE -->
 
@@ -21,12 +21,12 @@ This repository tracks data the **Mercenaries** league.
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
 | Unique Accessories | Original Sin | 266,094.6 |
 | Unique Jewels | Voices | 257,335.4 |
-| Unique Armours | The Tempest's Liberation | 57,825.9 |
+| Unique Armours | The Tempest's Liberation | 57,524.3 |
 | Divination Cards | House of Mirrors | 26,045.9 |
 | Unique Flasks | Wine of the Prophet | 23,149.0 |
-| Unique Weapons | The Surging Thoughts | 15,930.0 |
-| Cluster Jewels | 12% increased Attack Damage while holding a Shield | 1,712.5 |
-| Tattoos | Journey Tattoo of the Body | 1,115.1 |
+| Unique Weapons | The Surging Thoughts | 15,873.6 |
+| Cluster Jewels | 12% increased Attack Damage while holding a Shield | 1,706.4 |
+| Tattoos | Journey Tattoo of the Body | 1,111.2 |
 | Oils | Tainted Oil | 663.8 |
 | Scarabs | Horned Scarab of Preservation | 531.0 |
 | Incubators | Gemcutter's Incubator | 451.4 |
@@ -45,15 +45,15 @@ This repository tracks data the **Mercenaries** league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 739,483.1 |
-| Awakened Empower Support | 530,579.1 |
-| Awakened Enhance Support | 369,741.5 |
+| Awakened Enlighten Support | 735,243.9 |
+| Awakened Empower Support | 527,537.5 |
+| Awakened Enhance Support | 367,621.9 |
 | Original Sin | 266,094.6 |
 | Voices | 257,335.4 |
-| Awakened Enlighten Support | 214,450.1 |
-| Awakened Enlighten Support | 203,357.9 |
-| Automation | 184,870.8 |
-| Volatility Support | 184,870.8 |
+| Awakened Enlighten Support | 213,220.7 |
+| Awakened Enlighten Support | 202,192.1 |
+| Awakened Empower Support | 183,811.0 |
+| Awakened Enhance Support | 183,811.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
