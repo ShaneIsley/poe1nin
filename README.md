@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-06 23:27:55.924861` |
-| Total Price Entries in DB | `377,423` |
+| Last Successful Run (UTC) | `2025-10-06 23:41:55.705787` |
+| Total Price Entries in DB | `387,339` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,19 +19,19 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Accessories | Original Sin | 267,916.0 |
-| Unique Jewels | Voices | 255,158.1 |
+| Unique Accessories | Original Sin | 268,683.4 |
+| Unique Jewels | Voices | 255,889.0 |
 | Unique Armours | The Tempest's Liberation | 57,198.9 |
 | Divination Cards | House of Mirrors | 26,045.1 |
 | Unique Flasks | Wine of the Prophet | 22,998.5 |
-| Unique Weapons | The Winds of Fate | 12,440.2 |
-| Tattoos | Journey Tattoo of the Body | 1,126.2 |
+| Unique Weapons | The Winds of Fate | 12,484.9 |
+| Tattoos | Journey Tattoo of the Body | 1,130.2 |
 | Cluster Jewels | 12% increased Attack Damage while holding a Shield | 946.2 |
-| Oils | Tainted Oil | 654.8 |
-| Scarabs | Horned Scarab of Preservation | 523.8 |
-| Incubators | Gemcutter's Incubator | 445.2 |
-| Maps | Fortress Map | 78.5 |
-| Essences | Essence of Horror | 37.9 |
+| Oils | Tainted Oil | 657.1 |
+| Scarabs | Horned Scarab of Preservation | 525.7 |
+| Incubators | Gemcutter's Incubator | 446.8 |
+| Maps | Fortress Map | 78.8 |
+| Essences | Essence of Horror | 38.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.5 |
 
 
@@ -48,12 +48,12 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 731,111.3 |
 | Awakened Empower Support | 524,572.4 |
 | Awakened Enhance Support | 365,555.7 |
-| Original Sin | 267,916.0 |
-| Voices | 255,158.1 |
+| Original Sin | 268,683.4 |
+| Voices | 255,889.0 |
 | Awakened Enlighten Support | 212,022.3 |
 | Awakened Enlighten Support | 201,055.6 |
-| Automation | 182,777.8 |
-| Awakened Empower Support | 182,777.8 |
+| Awakened Enhance Support | 182,777.8 |
+| Volatility Support | 182,777.8 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
