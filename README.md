@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-06 20:32:20.933605` |
-| Total Price Entries in DB | `288,125` |
+| Last Successful Run (UTC) | `2025-10-06 20:44:56.982995` |
+| Total Price Entries in DB | `298,054` |
 
 <!-- END_MAINTENANCE -->
 
@@ -27,9 +27,9 @@ This repository tracks data the **Mercenaries** league.
 | Unique Weapons | The Winds of Fate | 12,498.2 |
 | Tattoos | Journey Tattoo of the Body | 1,102.6 |
 | Cluster Jewels | 12% increased Attack Damage while holding a Shield | 1,023.8 |
-| Oils | Tainted Oil | 656.3 |
-| Scarabs | Horned Scarab of Preservation | 525.0 |
-| Incubators | Gemcutter's Incubator | 446.3 |
+| Oils | Tainted Oil | 657.8 |
+| Scarabs | Horned Scarab of Preservation | 526.2 |
+| Incubators | Gemcutter's Incubator | 447.3 |
 | Maps | Fortress Map | 80.0 |
 | Essences | Essence of Horror | 38.1 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.5 |
@@ -45,15 +45,15 @@ This repository tracks data the **Mercenaries** league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 730,227.2 |
-| Awakened Empower Support | 523,938.0 |
-| Awakened Enhance Support | 365,113.6 |
+| Awakened Enlighten Support | 731,812.1 |
+| Awakened Empower Support | 525,075.2 |
+| Awakened Enhance Support | 365,906.1 |
 | Original Sin | 262,948.6 |
 | Voices | 255,644.5 |
-| Awakened Enlighten Support | 211,765.9 |
-| Awakened Enlighten Support | 200,812.5 |
-| Automation | 182,556.8 |
-| Awakened Empower Support | 182,556.8 |
+| Awakened Enlighten Support | 212,225.5 |
+| Awakened Enlighten Support | 201,248.3 |
+| Awakened Enhance Support | 182,953.0 |
+| Automation | 182,953.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
