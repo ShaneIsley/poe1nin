@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-06 11:27:08.862928` |
-| Total Price Entries in DB | `49,691` |
+| Last Successful Run (UTC) | `2025-10-06 11:42:04.965973` |
+| Total Price Entries in DB | `59,629` |
 
 <!-- END_MAINTENANCE -->
 
@@ -23,16 +23,16 @@ This repository tracks data the **Mercenaries** league.
 | Unique Jewels | Voices | 253,116.0 |
 | Unique Armours | The Tempest's Liberation | 57,405.0 |
 | Divination Cards | House of Mirrors | 25,913.2 |
-| Unique Flasks | Wine of the Prophet | 23,797.8 |
+| Unique Flasks | Wine of the Prophet | 23,837.4 |
 | Unique Weapons | The Surging Thoughts | 17,716.1 |
-| Cluster Jewels | 10% increased Elemental Damage | 1,320.4 |
-| Tattoos | Journey Tattoo of the Body | 1,110.6 |
+| Cluster Jewels | 10% increased Elemental Damage | 1,322.1 |
+| Tattoos | Journey Tattoo of the Body | 1,109.1 |
 | Oils | Tainted Oil | 661.0 |
-| Scarabs | Horned Scarab of Preservation | 528.2 |
+| Scarabs | Horned Scarab of Preservation | 528.8 |
 | Incubators | Gemcutter's Incubator | 449.5 |
-| Maps | Fortress Map | 80.0 |
+| Maps | Fortress Map | 86.5 |
 | Essences | Essence of Horror | 40.0 |
-| Delirium Orbs | Thaumaturge's Delirium Orb | 20.8 |
+| Delirium Orbs | Fossilised Delirium Orb | 20.8 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -53,7 +53,7 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 212,764.1 |
 | Awakened Enlighten Support | 201,759.1 |
 | Volatility Support | 183,417.4 |
-| Awakened Enhance Support | 183,417.4 |
+| Awakened Empower Support | 183,417.4 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
