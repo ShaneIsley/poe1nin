@@ -89,7 +89,7 @@
             "chaosValue": 422.53,
             "exaltedValue": 17.61,
             "divineValue": 3.2,
-            "count": 226,
+            "count": 224,
             "detailsId": "horned-scarab-of-awakening",
             "tradeInfo": [],
             "listingCount": 1543
@@ -512,10 +512,10 @@
             "chaosValue": 30.0,
             "exaltedValue": 1.25,
             "divineValue": 0.23,
-            "count": 243,
+            "count": 242,
             "detailsId": "harvest-scarab-of-doubling",
             "tradeInfo": [],
-            "listingCount": 2340
+            "listingCount": 2339
         },
         {
             "id": 113945,
@@ -794,10 +794,10 @@
             "chaosValue": 10.0,
             "exaltedValue": 0.42,
             "divineValue": 0.08,
-            "count": 185,
+            "count": 184,
             "detailsId": "delirium-scarab-of-paranoia",
             "tradeInfo": [],
-            "listingCount": 2621
+            "listingCount": 2620
         },
         {
             "id": 113828,
@@ -1002,9 +1002,9 @@
                     -10.53,
                     -12.28,
                     1.75,
-                    -3.51
+                    -5.26
                 ],
-                "totalChange": -3.51
+                "totalChange": -5.26
             },
             "lowConfidenceSparkLine": {
                 "data": [
@@ -1014,9 +1014,9 @@
                     -10.53,
                     -12.28,
                     1.75,
-                    -3.51
+                    -5.26
                 ],
-                "totalChange": -3.51
+                "totalChange": -5.26
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1026,13 +1026,13 @@
                 }
             ],
             "flavourText": "An eternity of blood. Glorious.",
-            "chaosValue": 5.5,
-            "exaltedValue": 0.23,
+            "chaosValue": 5.4,
+            "exaltedValue": 0.22,
             "divineValue": 0.04,
-            "count": 66,
+            "count": 65,
             "detailsId": "legion-scarab-of-eternal-conflict",
             "tradeInfo": [],
-            "listingCount": 1236
+            "listingCount": 1235
         },
         {
             "id": 113760,
@@ -1505,53 +1505,6 @@
             "listingCount": 2408
         },
         {
-            "id": 113685,
-            "name": "Scarab of Monstrous Lineage",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d89cac7adf/LesserScarabMisc.png",
-            "baseType": "Scarab of Monstrous Lineage",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "totalChange": 0
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "totalChange": 0
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "40% increased Magic Pack Size",
-                    "optional": false
-                }
-            ],
-            "flavourText": "The bloodlines evolve faster than they can be culled.",
-            "chaosValue": 2.0,
-            "exaltedValue": 0.08,
-            "divineValue": 0.02,
-            "count": 179,
-            "detailsId": "scarab-of-monstrous-lineage",
-            "tradeInfo": [],
-            "listingCount": 3179
-        },
-        {
             "id": 113697,
             "name": "Breach Scarab",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCcmVhY2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/37bd40da6c/LesserScarabBreach.png",
@@ -1738,6 +1691,53 @@
             "detailsId": "abyss-scarab-of-profound-depth",
             "tradeInfo": [],
             "listingCount": 1435
+        },
+        {
+            "id": 113685,
+            "name": "Scarab of Monstrous Lineage",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d89cac7adf/LesserScarabMisc.png",
+            "baseType": "Scarab of Monstrous Lineage",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -0.5
+                ],
+                "totalChange": -0.5
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -0.5
+                ],
+                "totalChange": -0.5
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "40% increased Magic Pack Size",
+                    "optional": false
+                }
+            ],
+            "flavourText": "The bloodlines evolve faster than they can be culled.",
+            "chaosValue": 1.99,
+            "exaltedValue": 0.08,
+            "divineValue": 0.02,
+            "count": 178,
+            "detailsId": "scarab-of-monstrous-lineage",
+            "tradeInfo": [],
+            "listingCount": 3178
         },
         {
             "id": 121389,
@@ -2110,7 +2110,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.01,
-            "count": 147,
+            "count": 146,
             "detailsId": "influencing-scarab-of-conversion",
             "tradeInfo": [],
             "listingCount": 2382
@@ -3567,7 +3567,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.01,
-            "count": 190,
+            "count": 191,
             "detailsId": "kalguuran-scarab",
             "tradeInfo": [],
             "listingCount": 3705
@@ -3614,7 +3614,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.01,
-            "count": 182,
+            "count": 183,
             "detailsId": "kalguuran-scarab-of-guarded-riches",
             "tradeInfo": [],
             "listingCount": 2879
@@ -3996,6 +3996,53 @@
             "listingCount": 3655
         },
         {
+            "id": 113683,
+            "name": "Anarchy Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJBbmFyY2h5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/89174f2e33/LesserScarabAnarchy.png",
+            "baseType": "Anarchy Scarab",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "totalChange": 0
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "totalChange": 0
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Area contains 4 additional Rogue Exiles",
+                    "optional": false
+                }
+            ],
+            "flavourText": "On Wraeclast, it's kill or be killed.",
+            "chaosValue": 0.9,
+            "exaltedValue": 0.04,
+            "divineValue": 0.01,
+            "count": 236,
+            "detailsId": "anarchy-scarab",
+            "tradeInfo": [],
+            "listingCount": 3911
+        },
+        {
             "id": 113690,
             "name": "Essence Scarab of Stability",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRXNzZW5jZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f476efd29d/GreaterScarabEssence.png",
@@ -4088,53 +4135,6 @@
             "detailsId": "harvest-scarab",
             "tradeInfo": [],
             "listingCount": 3708
-        },
-        {
-            "id": 113683,
-            "name": "Anarchy Scarab",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJBbmFyY2h5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/89174f2e33/LesserScarabAnarchy.png",
-            "baseType": "Anarchy Scarab",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -1.11
-                ],
-                "totalChange": -1.11
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -1.11
-                ],
-                "totalChange": -1.11
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Area contains 4 additional Rogue Exiles",
-                    "optional": false
-                }
-            ],
-            "flavourText": "On Wraeclast, it's kill or be killed.",
-            "chaosValue": 0.89,
-            "exaltedValue": 0.04,
-            "divineValue": 0.01,
-            "count": 235,
-            "detailsId": "anarchy-scarab",
-            "tradeInfo": [],
-            "listingCount": 3911
         },
         {
             "id": 113736,
@@ -4413,7 +4413,7 @@
             "chaosValue": 0.8,
             "exaltedValue": 0.03,
             "divineValue": 0.01,
-            "count": 177,
+            "count": 176,
             "detailsId": "scarab-of-hunted-traitors",
             "tradeInfo": [],
             "listingCount": 2869
@@ -4466,6 +4466,53 @@
             "listingCount": 2911
         },
         {
+            "id": 124868,
+            "name": "Betrayal Scarab of the Allflame",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/01b158342c/NormalScarabBetrayal.png",
+            "baseType": "Betrayal Scarab of the Allflame",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    -2.5,
+                    0,
+                    0
+                ],
+                "totalChange": 0
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    -2.5,
+                    0,
+                    0
+                ],
+                "totalChange": 0
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "75% Increased number of Monster Packs Substituted by Allflame Embers in Area",
+                    "optional": false
+                }
+            ],
+            "flavourText": "Those that can never die fear only pain.",
+            "chaosValue": 0.8,
+            "exaltedValue": 0.03,
+            "divineValue": 0.01,
+            "count": 192,
+            "detailsId": "betrayal-scarab-of-the-allflame",
+            "tradeInfo": [],
+            "listingCount": 2965
+        },
+        {
             "id": 118272,
             "name": "Scarab of Divinity",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNaXNjIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a4e827f718/NormalScarabMisc.png",
@@ -4511,53 +4558,6 @@
             "detailsId": "scarab-of-divinity",
             "tradeInfo": [],
             "listingCount": 2899
-        },
-        {
-            "id": 124868,
-            "name": "Betrayal Scarab of the Allflame",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZXRyYXlhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/01b158342c/NormalScarabBetrayal.png",
-            "baseType": "Betrayal Scarab of the Allflame",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    -2.5,
-                    0,
-                    -2.5
-                ],
-                "totalChange": -2.5
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    -2.5,
-                    0,
-                    -2.5
-                ],
-                "totalChange": -2.5
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "75% Increased number of Monster Packs Substituted by Allflame Embers in Area",
-                    "optional": false
-                }
-            ],
-            "flavourText": "Those that can never die fear only pain.",
-            "chaosValue": 0.78,
-            "exaltedValue": 0.03,
-            "divineValue": 0.01,
-            "count": 193,
-            "detailsId": "betrayal-scarab-of-the-allflame",
-            "tradeInfo": [],
-            "listingCount": 2965
         },
         {
             "id": 113702,
@@ -4795,53 +4795,6 @@
             "listingCount": 3832
         },
         {
-            "id": 113708,
-            "name": "Ultimatum Scarab",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbHRpbWF0dW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e0bf2875db/LesserScarabUltimatum.png",
-            "baseType": "Ultimatum Scarab",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkLine": {
-                "data": [
-                    0,
-                    -11.43,
-                    -21.43,
-                    -20,
-                    -20,
-                    -14.29,
-                    2.86
-                ],
-                "totalChange": 2.86
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    -11.43,
-                    -21.43,
-                    -20,
-                    -20,
-                    -14.29,
-                    2.86
-                ],
-                "totalChange": 2.86
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Area contains an Ultimatum Encounter",
-                    "optional": false
-                }
-            ],
-            "flavourText": "A challenge may be requested at any time.",
-            "chaosValue": 0.72,
-            "exaltedValue": 0.03,
-            "divineValue": 0.01,
-            "count": 196,
-            "detailsId": "ultimatum-scarab",
-            "tradeInfo": [],
-            "listingCount": 3805
-        },
-        {
             "id": 113711,
             "name": "Ambush Scarab of Potency",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU3Ryb25nYm94ZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8b46f6270a/GreaterScarabStrongboxes.png",
@@ -4887,6 +4840,53 @@
             "detailsId": "ambush-scarab-of-potency",
             "tradeInfo": [],
             "listingCount": 2997
+        },
+        {
+            "id": 113708,
+            "name": "Ultimatum Scarab",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbHRpbWF0dW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e0bf2875db/LesserScarabUltimatum.png",
+            "baseType": "Ultimatum Scarab",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkLine": {
+                "data": [
+                    0,
+                    -11.43,
+                    -21.43,
+                    -20,
+                    -20,
+                    -14.29,
+                    1.43
+                ],
+                "totalChange": 1.43
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    -11.43,
+                    -21.43,
+                    -20,
+                    -20,
+                    -14.29,
+                    1.43
+                ],
+                "totalChange": 1.43
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Area contains an Ultimatum Encounter",
+                    "optional": false
+                }
+            ],
+            "flavourText": "A challenge may be requested at any time.",
+            "chaosValue": 0.71,
+            "exaltedValue": 0.03,
+            "divineValue": 0.01,
+            "count": 194,
+            "detailsId": "ultimatum-scarab",
+            "tradeInfo": [],
+            "listingCount": 3805
         },
         {
             "id": 113701,
@@ -4997,9 +4997,9 @@
                     7.35,
                     4.41,
                     2.94,
-                    -11.76
+                    -10.29
                 ],
-                "totalChange": -11.76
+                "totalChange": -10.29
             },
             "lowConfidenceSparkLine": {
                 "data": [
@@ -5009,9 +5009,9 @@
                     7.35,
                     4.41,
                     2.94,
-                    -11.76
+                    -10.29
                 ],
-                "totalChange": -11.76
+                "totalChange": -10.29
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -5021,10 +5021,10 @@
                 }
             ],
             "flavourText": "Their crimes in life haunt you in death.",
-            "chaosValue": 0.6,
+            "chaosValue": 0.61,
             "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 198,
+            "count": 199,
             "detailsId": "torment-scarab",
             "tradeInfo": [],
             "listingCount": 3638
