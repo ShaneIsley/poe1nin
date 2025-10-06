@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-06 20:02:14.525769` |
-| Total Price Entries in DB | `278,195` |
+| Last Successful Run (UTC) | `2025-10-06 20:32:20.933605` |
+| Total Price Entries in DB | `288,125` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,19 +19,19 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Accessories | Original Sin | 263,128.7 |
-| Unique Jewels | Voices | 255,579.5 |
-| Unique Armours | The Tempest's Liberation | 57,184.2 |
-| Divination Cards | House of Mirrors | 25,832.0 |
-| Unique Flasks | Wine of the Prophet | 23,036.1 |
-| Unique Weapons | The Winds of Fate | 12,469.7 |
-| Tattoos | Journey Tattoo of the Body | 1,104.0 |
-| Cluster Jewels | 12% increased Attack Damage while holding a Shield | 1,025.2 |
+| Unique Accessories | Original Sin | 262,948.6 |
+| Unique Jewels | Voices | 255,644.5 |
+| Unique Armours | The Tempest's Liberation | 57,143.7 |
+| Divination Cards | House of Mirrors | 26,070.9 |
+| Unique Flasks | Wine of the Prophet | 23,088.8 |
+| Unique Weapons | The Winds of Fate | 12,498.2 |
+| Tattoos | Journey Tattoo of the Body | 1,102.6 |
+| Cluster Jewels | 12% increased Attack Damage while holding a Shield | 1,023.8 |
 | Oils | Tainted Oil | 656.3 |
 | Scarabs | Horned Scarab of Preservation | 525.0 |
 | Incubators | Gemcutter's Incubator | 446.3 |
 | Maps | Fortress Map | 80.0 |
-| Essences | Essence of Horror | 38.4 |
+| Essences | Essence of Horror | 38.1 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.5 |
 
 
@@ -45,15 +45,15 @@ This repository tracks data the **Mercenaries** league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 730,912.9 |
-| Awakened Empower Support | 524,430.0 |
-| Awakened Enhance Support | 365,456.5 |
-| Original Sin | 263,128.7 |
-| Voices | 255,579.5 |
-| Awakened Enlighten Support | 211,964.8 |
-| Awakened Enlighten Support | 201,001.0 |
-| Awakened Enhance Support | 182,728.2 |
-| Automation | 182,728.2 |
+| Awakened Enlighten Support | 730,227.2 |
+| Awakened Empower Support | 523,938.0 |
+| Awakened Enhance Support | 365,113.6 |
+| Original Sin | 262,948.6 |
+| Voices | 255,644.5 |
+| Awakened Enlighten Support | 211,765.9 |
+| Awakened Enlighten Support | 200,812.5 |
+| Automation | 182,556.8 |
+| Awakened Empower Support | 182,556.8 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
