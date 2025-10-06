@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-06 10:05:30.563288` |
-| Total Price Entries in DB | `9,940` |
+| Last Successful Run (UTC) | `2025-10-06 10:35:45.438304` |
+| Total Price Entries in DB | `19,880` |
 
 <!-- END_MAINTENANCE -->
 
@@ -20,14 +20,14 @@ This repository tracks data the **Mercenaries** league.
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
 | Unique Accessories | Original Sin | 263,706.4 |
-| Unique Jewels | Voices | 255,120.3 |
-| Unique Armours | The Tempest's Liberation | 57,441.5 |
-| Divination Cards | House of Mirrors | 26,158.6 |
-| Unique Flasks | Wine of the Prophet | 23,796.0 |
-| Unique Weapons | The Surging Thoughts | 17,685.3 |
-| Cluster Jewels | 10% increased Elemental Damage | 1,322.0 |
-| Tattoos | Journey Tattoo of the Body | 1,110.5 |
-| Oils | Tainted Oil | 661.0 |
+| Unique Jewels | Voices | 254,549.9 |
+| Unique Armours | The Tempest's Liberation | 57,314.5 |
+| Divination Cards | House of Mirrors | 26,141.3 |
+| Unique Flasks | Wine of the Prophet | 23,767.2 |
+| Unique Weapons | The Surging Thoughts | 17,693.4 |
+| Cluster Jewels | 10% increased Elemental Damage | 1,319.8 |
+| Tattoos | Journey Tattoo of the Body | 1,108.6 |
+| Oils | Tainted Oil | 659.9 |
 | Scarabs | Horned Scarab of Preservation | 527.9 |
 | Incubators | Gemcutter's Incubator | 448.7 |
 | Maps | Fortress Map | 88.0 |
@@ -45,16 +45,18 @@ This repository tracks data the **Mercenaries** league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 734,159.0 |
-| Awakened Empower Support | 526,759.1 |
-| Awakened Enhance Support | 367,079.5 |
+| Awakened Enlighten Support | 732,517.7 |
+| Awakened Empower Support | 525,581.4 |
+| Awakened Enhance Support | 366,258.8 |
 | Original Sin | 263,706.4 |
-| Voices | 255,120.3 |
-| Awakened Enlighten Support | 212,906.1 |
-| Awakened Enlighten Support | 201,893.7 |
-| Awakened Enhance Support | 183,539.8 |
-| Awakened Empower Support | 183,539.8 |
+| Voices | 254,549.9 |
+| Awakened Enlighten Support | 212,430.1 |
+| Awakened Enlighten Support | 201,442.4 |
+| Awakened Empower Support | 183,129.4 |
+| Volatility Support | 183,129.4 |
 
+
+![Market Movers Chart](charts/market_movers.png)
 <!-- END_ANALYSIS -->
 
 ---
