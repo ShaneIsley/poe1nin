@@ -1,50 +1,58 @@
-# .github/workflows/main.yml
-
 name: Fetch PoE 1 Economy Data
 
 on:
-  workflow_dispatch: # Allows you to run the job manually
+  workflow_dispatch: # Allows you to run the job manually from the Actions tab
   schedule:
-    # Runs at the top of every hour (minute 0).
-    - cron: "0/20 * * * *"
+    # Runs every 20 minutes.
+    - cron: "*/20 * * * *"
 
 jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
-    
-    # Grant permissions for the job to write to the repository
+
+    # --- FIX: Add this permissions block ---
+    # This grants the GITHUB_TOKEN the permissions to write to the repository.
     permissions:
       contents: write
 
     steps:
+      # Step 1: Check out your repository's code
       - name: Checkout Repo
         uses: actions/checkout@v4
 
+      # Step 2: Set up the Python version
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
+      # Step 3: Install the Python libraries
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # Step 4: Run the Python script to fetch new data
       - name: Run Fetch Data Script
         run: python fetch_data.py
 
+      # Step 5: (Optional but good practice) Compact the database
       - name: Vacuum Database
         run: |
-          DB_FILE=$(ls *.db)
-          echo "Vacuuming database file: $DB_FILE"
-          sqlite3 $DB_FILE "VACUUM;"
+          if [ -f "poe1_economy.db" ]; then
+            sqlite3 poe1_economy.db "VACUUM;"
+          fi
 
+      # Step 6: Run the analysis script to generate charts and update the README
       - name: Run Analysis Script
         run: python analysis.py
 
+      # Step 7: Commit all updated files back to the repository
       - name: Commit and push if changed
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          # Add the database, the README, and the new charts folder
-          git add *.db README.md charts/
+          # Add all relevant generated files
+          git add *.db README.md charts/ data/
+          git status
+          # Commit only if there are staged changes, then push
           git diff --staged --quiet || git commit -m "Update economy data and analysis"
           git push
