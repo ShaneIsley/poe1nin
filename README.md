@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 10:02:09.098087` |
-| Total Price Entries in DB | `605,445` |
+| Last Successful Run (UTC) | `2025-10-07 10:34:57.078583` |
+| Total Price Entries in DB | `615,357` |
 
 <!-- END_MAINTENANCE -->
 
@@ -45,15 +45,15 @@ This repository tracks data the **Mercenaries** league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 735,211.8 |
-| Awakened Empower Support | 527,514.4 |
-| Awakened Enhance Support | 367,605.9 |
+| Awakened Enlighten Support | 734,876.6 |
+| Awakened Empower Support | 527,273.9 |
+| Awakened Enhance Support | 367,438.3 |
 | Original Sin | 270,190.3 |
 | Voices | 257,324.1 |
-| Awakened Enlighten Support | 213,211.4 |
-| Awakened Enlighten Support | 202,183.2 |
-| Automation | 183,802.9 |
-| Awakened Enhance Support | 183,802.9 |
+| Awakened Enlighten Support | 213,114.2 |
+| Awakened Enlighten Support | 202,091.0 |
+| Volatility Support | 183,719.1 |
+| Automation | 183,719.1 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
