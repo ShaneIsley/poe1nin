@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 09:02:11.459509` |
-| Total Price Entries in DB | `575,707` |
+| Last Successful Run (UTC) | `2025-10-07 09:32:37.561833` |
+| Total Price Entries in DB | `585,621` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,20 +19,20 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Accessories | Original Sin | 268,705.0 |
-| Unique Jewels | Voices | 255,909.5 |
-| Unique Armours | Replica Farrul's Fur | 65,593.6 |
-| Divination Cards | House of Mirrors | 26,113.7 |
-| Unique Flasks | Wine of the Prophet | 23,003.8 |
-| Unique Weapons | Cadigan's Authority | 6,927.4 |
-| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,315.3 |
-| Tattoos | Journey Tattoo of the Body | 1,137.7 |
-| Oils | Tainted Oil | 657.2 |
-| Scarabs | Horned Scarab of Preservation | 525.8 |
-| Incubators | Gemcutter's Incubator | 446.9 |
-| Maps | Fortress Map | 80.0 |
+| Unique Accessories | Original Sin | 268,967.4 |
+| Unique Jewels | Voices | 257,324.1 |
+| Unique Armours | Replica Farrul's Fur | 66,042.6 |
+| Divination Cards | House of Mirrors | 26,258.1 |
+| Unique Flasks | Wine of the Prophet | 23,148.0 |
+| Unique Weapons | Cadigan's Authority | 6,974.8 |
+| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,316.9 |
+| Tattoos | Journey Tattoo of the Body | 1,131.8 |
+| Oils | Tainted Oil | 658.0 |
+| Scarabs | Horned Scarab of Preservation | 526.4 |
+| Incubators | Gemcutter's Incubator | 447.5 |
+| Maps | Fortress Map | 81.0 |
 | Essences | Essence of Horror | 40.0 |
-| Delirium Orbs | Fossilised Delirium Orb | 22.5 |
+| Delirium Orbs | Fossilised Delirium Orb | 22.6 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -45,15 +45,15 @@ This repository tracks data the **Mercenaries** league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 731,170.0 |
-| Awakened Empower Support | 524,614.5 |
-| Awakened Enhance Support | 365,585.0 |
-| Original Sin | 268,705.0 |
-| Voices | 255,909.5 |
-| Awakened Enlighten Support | 212,039.3 |
-| Awakened Enlighten Support | 201,071.8 |
-| Awakened Empower Support | 182,792.5 |
-| Automation | 182,792.5 |
+| Awakened Enlighten Support | 731,884.1 |
+| Awakened Empower Support | 525,126.8 |
+| Awakened Enhance Support | 365,942.0 |
+| Original Sin | 268,967.4 |
+| Voices | 257,324.1 |
+| Awakened Enlighten Support | 212,246.4 |
+| Awakened Enlighten Support | 201,268.1 |
+| Automation | 182,971.0 |
+| Volatility Support | 182,971.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
