@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 11:27:13.182297` |
-| Total Price Entries in DB | `645,099` |
+| Last Successful Run (UTC) | `2025-10-07 11:42:21.559380` |
+| Total Price Entries in DB | `655,013` |
 
 <!-- END_MAINTENANCE -->
 
