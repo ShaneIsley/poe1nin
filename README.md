@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 07:29:12.219999` |
-| Total Price Entries in DB | `526,134` |
+| Last Successful Run (UTC) | `2025-10-07 07:42:18.063647` |
+| Total Price Entries in DB | `536,048` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,7 +19,7 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Accessories | Original Sin | 268,426.7 |
+| Unique Accessories | Original Sin | 268,443.5 |
 | Unique Jewels | Voices | 255,644.5 |
 | Unique Armours | The Tempest's Liberation | 57,144.2 |
 | Divination Cards | House of Mirrors | 26,086.7 |
@@ -45,15 +45,15 @@ This repository tracks data the **Mercenaries** league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 730,412.9 |
-| Awakened Empower Support | 524,071.2 |
-| Awakened Enhance Support | 365,206.4 |
-| Original Sin | 268,426.7 |
+| Awakened Enlighten Support | 730,458.4 |
+| Awakened Empower Support | 524,103.9 |
+| Awakened Enhance Support | 365,229.2 |
+| Original Sin | 268,443.5 |
 | Voices | 255,644.5 |
-| Awakened Enlighten Support | 211,819.7 |
-| Awakened Enlighten Support | 200,863.5 |
-| Automation | 182,603.2 |
-| Volatility Support | 182,603.2 |
+| Awakened Enlighten Support | 211,832.9 |
+| Awakened Enlighten Support | 200,876.1 |
+| Awakened Enhance Support | 182,614.6 |
+| Awakened Empower Support | 182,614.6 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
