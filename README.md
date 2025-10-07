@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 18:43:30.404240` |
-| Total Price Entries in DB | `833,413` |
+| Last Successful Run (UTC) | `2025-10-07 19:02:05.366249` |
+| Total Price Entries in DB | `843,319` |
 
 <!-- END_MAINTENANCE -->
 
@@ -22,13 +22,13 @@ This repository tracks data the **Mercenaries** league.
 | Unique Accessories | Original Sin | 270,526.3 |
 | Unique Jewels | Voices | 257,606.3 |
 | Unique Armours | Replica Farrul's Fur | 66,097.5 |
-| Divination Cards | House of Mirrors | 26,290.7 |
+| Divination Cards | House of Mirrors | 26,313.0 |
 | Unique Flasks | Wine of the Prophet | 22,571.2 |
-| Unique Weapons | Cadigan's Authority | 6,980.6 |
+| Unique Weapons | Cadigan's Authority | 6,981.7 |
 | Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,325.4 |
 | Tattoos | Journey Tattoo of the Body | 1,178.9 |
 | Oils | Tainted Oil | 662.3 |
-| Scarabs | Horned Scarab of Preservation | 529.8 |
+| Scarabs | Horned Scarab of Preservation | 529.9 |
 | Incubators | Gemcutter's Incubator | 317.9 |
 | Maps | Fortress Map | 80.0 |
 | Essences | Essence of Horror | 40.0 |
@@ -52,7 +52,7 @@ This repository tracks data the **Mercenaries** league.
 | Original Sin | 270,526.3 |
 | Voices | 257,606.3 |
 | Awakened Enlighten Support | 202,434.6 |
-| Awakened Enhance Support | 184,031.5 |
+| Automation | 184,031.5 |
 | Awakened Empower Support | 184,031.5 |
 
 
