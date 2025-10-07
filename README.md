@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 12:59:23.935472` |
-| Total Price Entries in DB | `674,836` |
+| Last Successful Run (UTC) | `2025-10-07 13:27:09.722206` |
+| Total Price Entries in DB | `684,746` |
 
 <!-- END_MAINTENANCE -->
 
@@ -20,12 +20,12 @@ This repository tracks data the **Mercenaries** league.
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
 | Unique Accessories | Original Sin | 269,722.0 |
-| Unique Jewels | Voices | 247,871.9 |
-| Unique Armours | Replica Farrul's Fur | 66,551.6 |
+| Unique Jewels | Voices | 256,878.1 |
+| Unique Armours | Replica Farrul's Fur | 66,601.5 |
 | Divination Cards | House of Mirrors | 26,365.7 |
 | Unique Flasks | Wine of the Prophet | 23,320.5 |
-| Unique Weapons | Cadigan's Authority | 7,022.8 |
-| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,333.4 |
+| Unique Weapons | Cadigan's Authority | 7,033.9 |
+| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,335.5 |
 | Tattoos | Journey Tattoo of the Body | 1,146.0 |
 | Oils | Tainted Oil | 666.3 |
 | Scarabs | Horned Scarab of Preservation | 533.0 |
@@ -45,15 +45,15 @@ This repository tracks data the **Mercenaries** league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 734,556.6 |
-| Awakened Empower Support | 527,044.4 |
-| Awakened Enhance Support | 367,278.3 |
+| Awakened Enlighten Support | 734,808.1 |
+| Awakened Empower Support | 527,224.8 |
+| Awakened Enhance Support | 367,404.1 |
 | Original Sin | 269,722.0 |
-| Voices | 247,871.9 |
-| Awakened Enlighten Support | 213,021.4 |
-| Awakened Enlighten Support | 202,003.1 |
-| Awakened Enhance Support | 183,639.1 |
-| Automation | 183,639.1 |
+| Voices | 256,878.1 |
+| Awakened Enlighten Support | 213,094.4 |
+| Awakened Enlighten Support | 202,072.2 |
+| Awakened Enhance Support | 183,702.0 |
+| Automation | 183,702.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
