@@ -40,7 +40,7 @@
             ],
             "flavourText": "",
             "chaosValue": 317.69,
-            "exaltedValue": 13.29,
+            "exaltedValue": 13.3,
             "divineValue": 2.4,
             "count": 9,
             "detailsId": "gemcutters-incubator",
@@ -85,45 +85,6 @@
             "detailsId": "whispering-incubator",
             "tradeInfo": [],
             "listingCount": 107
-        },
-        {
-            "id": 21681,
-            "name": "Fine Incubator",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uQ3VycmVuY3kiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/90d8bfe442/IncubationCurrency.png",
-            "baseType": "Fine Incubator",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "data": [],
-                "totalChange": 0
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    650,
-                    652
-                ],
-                "totalChange": 652
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Adds an incubated Currency item to an equippable item\nItem drops after killing (484-1781) monsters",
-                    "optional": false
-                }
-            ],
-            "flavourText": "",
-            "chaosValue": 15.04,
-            "exaltedValue": 0.63,
-            "divineValue": 0.11,
-            "count": 3,
-            "detailsId": "fine-incubator",
-            "tradeInfo": [],
-            "listingCount": 48
         },
         {
             "id": 21674,
@@ -171,6 +132,45 @@
             "detailsId": "ornate-incubator",
             "tradeInfo": [],
             "listingCount": 24692
+        },
+        {
+            "id": 21681,
+            "name": "Fine Incubator",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uQ3VycmVuY3kiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/90d8bfe442/IncubationCurrency.png",
+            "baseType": "Fine Incubator",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "data": [],
+                "totalChange": 0
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    650,
+                    130
+                ],
+                "totalChange": 130
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Adds an incubated Currency item to an equippable item\nItem drops after killing (484-1781) monsters",
+                    "optional": false
+                }
+            ],
+            "flavourText": "",
+            "chaosValue": 4.6,
+            "exaltedValue": 0.19,
+            "divineValue": 0.03,
+            "count": 4,
+            "detailsId": "fine-incubator",
+            "tradeInfo": [],
+            "listingCount": 49
         },
         {
             "id": 21689,
@@ -405,7 +405,7 @@
             "count": 399,
             "detailsId": "skittering-incubator",
             "tradeInfo": [],
-            "listingCount": 39604
+            "listingCount": 39603
         },
         {
             "id": 21684,
@@ -543,10 +543,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.08,
             "divineValue": 0.02,
-            "count": 151,
+            "count": 150,
             "detailsId": "thaumaturges-incubator",
             "tradeInfo": [],
-            "listingCount": 10429
+            "listingCount": 10428
         },
         {
             "id": 21691,
@@ -734,7 +734,101 @@
             "count": 399,
             "detailsId": "infused-incubator",
             "tradeInfo": [],
-            "listingCount": 29712
+            "listingCount": 29711
+        },
+        {
+            "id": 60145,
+            "name": "Maddening Incubator",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uRGVsaXJpdW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/856c8ac937/IncubationDelirium.png",
+            "baseType": "Maddening Incubator",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "data": [
+                    0,
+                    -15.0,
+                    -25.0,
+                    -5.0,
+                    0,
+                    -10.0,
+                    0
+                ],
+                "totalChange": 0
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    -15.0,
+                    -25.0,
+                    -5.0,
+                    0,
+                    -10.0,
+                    0
+                ],
+                "totalChange": 0
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Adds an incubated Delirium item to an equippable item\nItem drops after killing (10572-12930) monsters",
+                    "optional": false
+                }
+            ],
+            "flavourText": "",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.08,
+            "divineValue": 0.02,
+            "count": 229,
+            "detailsId": "maddening-incubator",
+            "tradeInfo": [],
+            "listingCount": 11989
+        },
+        {
+            "id": 70529,
+            "name": "Kalguuran Incubator",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uRXhwZWRpdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c3d814211f/IncubationExpedition.png",
+            "baseType": "Kalguuran Incubator",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "data": [
+                    0,
+                    -26.15,
+                    -48.72,
+                    -45.64,
+                    -26.41,
+                    -18.97,
+                    2.56
+                ],
+                "totalChange": 2.56
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    -26.15,
+                    -48.72,
+                    -45.64,
+                    -26.41,
+                    -18.97,
+                    2.56
+                ],
+                "totalChange": 2.56
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Adds an incubated Expedition item to an equippable item \nItem drops after killing (5421-6630) monsters",
+                    "optional": false
+                }
+            ],
+            "flavourText": "",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.08,
+            "divineValue": 0.02,
+            "count": 373,
+            "detailsId": "kalguuran-incubator",
+            "tradeInfo": [],
+            "listingCount": 22807
         },
         {
             "id": 21696,
@@ -782,53 +876,6 @@
             "detailsId": "fragmented-incubator",
             "tradeInfo": [],
             "listingCount": 34024
-        },
-        {
-            "id": 70529,
-            "name": "Kalguuran Incubator",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uRXhwZWRpdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c3d814211f/IncubationExpedition.png",
-            "baseType": "Kalguuran Incubator",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "data": [
-                    0,
-                    -26.15,
-                    -48.72,
-                    -45.64,
-                    -26.41,
-                    -18.97,
-                    0
-                ],
-                "totalChange": 0
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    -26.15,
-                    -48.72,
-                    -45.64,
-                    -26.41,
-                    -18.97,
-                    0
-                ],
-                "totalChange": 0
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Adds an incubated Expedition item to an equippable item \nItem drops after killing (5421-6630) monsters",
-                    "optional": false
-                }
-            ],
-            "flavourText": "",
-            "chaosValue": 1.95,
-            "exaltedValue": 0.08,
-            "divineValue": 0.01,
-            "count": 374,
-            "detailsId": "kalguuran-incubator",
-            "tradeInfo": [],
-            "listingCount": 22808
         },
         {
             "id": 60147,
@@ -923,53 +970,6 @@
             "detailsId": "celestial-blacksmiths-incubator",
             "tradeInfo": [],
             "listingCount": 3794
-        },
-        {
-            "id": 60145,
-            "name": "Maddening Incubator",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uRGVsaXJpdW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/856c8ac937/IncubationDelirium.png",
-            "baseType": "Maddening Incubator",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "data": [
-                    0,
-                    -15.0,
-                    -25.0,
-                    -5.0,
-                    0,
-                    -10.0,
-                    -15
-                ],
-                "totalChange": -15
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    -15.0,
-                    -25.0,
-                    -5.0,
-                    0,
-                    -10.0,
-                    -15
-                ],
-                "totalChange": -15
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Adds an incubated Delirium item to an equippable item\nItem drops after killing (10572-12930) monsters",
-                    "optional": false
-                }
-            ],
-            "flavourText": "",
-            "chaosValue": 1.7,
-            "exaltedValue": 0.07,
-            "divineValue": 0.01,
-            "count": 231,
-            "detailsId": "maddening-incubator",
-            "tradeInfo": [],
-            "listingCount": 11991
         },
         {
             "id": 21690,
@@ -1107,10 +1107,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.01,
-            "count": 365,
+            "count": 364,
             "detailsId": "abyssal-incubator",
             "tradeInfo": [],
-            "listingCount": 26770
+            "listingCount": 26769
         },
         {
             "id": 21692,
