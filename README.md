@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 22:42:37.371410` |
-| Total Price Entries in DB | `952,254` |
+| Last Successful Run (UTC) | `2025-10-07 23:02:07.479412` |
+| Total Price Entries in DB | `962,163` |
 
 <!-- END_MAINTENANCE -->
 
@@ -27,7 +27,7 @@ This repository tracks data the **Mercenaries** league.
 | Unique Weapons | Cadigan's Authority | 6,736.6 |
 | Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,324.3 |
 | Tattoos | Journey Tattoo of the Body | 1,164.7 |
-| Oils | Tainted Oil | 661.7 |
+| Oils | Tainted Oil | 661.8 |
 | Scarabs | Horned Scarab of Preservation | 529.4 |
 | Incubators | Gemcutter's Incubator | 317.6 |
 | Maps | Fortress Map | 66.2 |
@@ -45,15 +45,15 @@ This repository tracks data the **Mercenaries** league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 735,494.6 |
-| Awakened Empower Support | 527,717.3 |
-| Awakened Enhance Support | 367,747.3 |
-| Awakened Enlighten Support | 334,650.0 |
+| Awakened Enlighten Support | 735,644.4 |
+| Awakened Empower Support | 527,824.9 |
+| Awakened Enhance Support | 367,822.2 |
+| Awakened Enlighten Support | 334,718.2 |
 | Original Sin | 275,866.7 |
 | Voices | 257,475.5 |
-| Awakened Enlighten Support | 202,261.0 |
-| Awakened Enhance Support | 183,873.6 |
-| Volatility Support | 183,873.6 |
+| Awakened Enlighten Support | 202,302.2 |
+| Awakened Empower Support | 183,911.1 |
+| Volatility Support | 183,911.1 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
