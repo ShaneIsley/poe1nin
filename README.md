@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 15:46:08.009606` |
-| Total Price Entries in DB | `754,129` |
+| Last Successful Run (UTC) | `2025-10-07 16:10:48.011968` |
+| Total Price Entries in DB | `764,042` |
 
 <!-- END_MAINTENANCE -->
 
@@ -21,16 +21,16 @@ This repository tracks data the **Mercenaries** league.
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
 | Unique Accessories | Original Sin | 270,561.0 |
 | Unique Jewels | Voices | 257,677.1 |
-| Unique Armours | Replica Farrul's Fur | 66,142.4 |
-| Divination Cards | House of Mirrors | 26,294.1 |
-| Unique Flasks | Wine of the Prophet | 22,533.5 |
-| Unique Weapons | Cadigan's Authority | 6,985.4 |
-| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,326.1 |
+| Unique Armours | Replica Farrul's Fur | 66,132.5 |
+| Divination Cards | House of Mirrors | 26,251.4 |
+| Unique Flasks | Wine of the Prophet | 23,120.5 |
+| Unique Weapons | Cadigan's Authority | 6,984.3 |
+| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,325.0 |
 | Tattoos | Journey Tattoo of the Body | 1,153.0 |
 | Oils | Tainted Oil | 662.6 |
-| Scarabs | Horned Scarab of Preservation | 530.2 |
+| Scarabs | Horned Scarab of Preservation | 530.1 |
 | Incubators | Gemcutter's Incubator | 318.1 |
-| Maps | Fortress Map | 68.5 |
+| Maps | Fortress Map | 59.0 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Singular Delirium Orb | 27.0 |
 
@@ -52,7 +52,7 @@ This repository tracks data the **Mercenaries** league.
 | Voices | 257,677.1 |
 | Awakened Enlighten Support | 213,503.9 |
 | Awakened Enlighten Support | 202,460.6 |
-| Awakened Empower Support | 184,055.1 |
+| Awakened Enhance Support | 184,055.1 |
 | Automation | 184,055.1 |
 
 
