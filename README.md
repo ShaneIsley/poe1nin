@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 05:31:53.686917` |
-| Total Price Entries in DB | `476,574` |
+| Last Successful Run (UTC) | `2025-10-07 05:43:34.350409` |
+| Total Price Entries in DB | `486,487` |
 
 <!-- END_MAINTENANCE -->
 
@@ -21,10 +21,10 @@ This repository tracks data the **Mercenaries** league.
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
 | Unique Accessories | Original Sin | 268,426.7 |
 | Unique Jewels | Voices | 255,644.5 |
-| Unique Armours | The Tempest's Liberation | 57,140.5 |
-| Divination Cards | House of Mirrors | 26,047.7 |
+| Unique Armours | The Tempest's Liberation | 57,143.8 |
+| Divination Cards | House of Mirrors | 26,049.4 |
 | Unique Flasks | Wine of the Prophet | 22,972.2 |
-| Unique Weapons | Cadigan's Authority | 7,036.1 |
+| Unique Weapons | Cadigan's Authority | 7,036.6 |
 | Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,313.5 |
 | Tattoos | Journey Tattoo of the Body | 1,128.9 |
 | Oils | Tainted Oil | 656.4 |
@@ -52,8 +52,8 @@ This repository tracks data the **Mercenaries** league.
 | Voices | 255,644.5 |
 | Awakened Enlighten Support | 211,807.0 |
 | Awakened Enlighten Support | 200,851.5 |
-| Awakened Enhance Support | 182,592.3 |
 | Awakened Empower Support | 182,592.3 |
+| Automation | 182,592.3 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
