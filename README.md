@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 16:37:42.185358` |
-| Total Price Entries in DB | `773,956` |
+| Last Successful Run (UTC) | `2025-10-07 16:50:14.727231` |
+| Total Price Entries in DB | `783,870` |
 
 <!-- END_MAINTENANCE -->
 
@@ -22,7 +22,7 @@ This repository tracks data the **Mercenaries** league.
 | Unique Accessories | Original Sin | 270,121.9 |
 | Unique Jewels | Voices | 257,258.9 |
 | Unique Armours | Replica Farrul's Fur | 66,077.6 |
-| Divination Cards | House of Mirrors | 26,251.4 |
+| Divination Cards | House of Mirrors | 26,262.0 |
 | Unique Flasks | Wine of the Prophet | 23,120.5 |
 | Unique Weapons | Cadigan's Authority | 6,978.5 |
 | Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,325.0 |
