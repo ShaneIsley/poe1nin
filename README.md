@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 06:43:34.691671` |
-| Total Price Entries in DB | `506,310` |
+| Last Successful Run (UTC) | `2025-10-07 07:02:28.611150` |
+| Total Price Entries in DB | `516,221` |
 
 <!-- END_MAINTENANCE -->
 
@@ -25,12 +25,12 @@ This repository tracks data the **Mercenaries** league.
 | Divination Cards | House of Mirrors | 26,086.7 |
 | Unique Flasks | Wine of the Prophet | 22,975.8 |
 | Unique Weapons | Cadigan's Authority | 7,037.1 |
-| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,313.6 |
+| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,313.7 |
 | Tattoos | Journey Tattoo of the Body | 1,129.1 |
 | Oils | Tainted Oil | 656.5 |
 | Scarabs | Horned Scarab of Preservation | 525.2 |
 | Incubators | Gemcutter's Incubator | 446.4 |
-| Maps | Fortress Map | 75.8 |
+| Maps | Sanctuary Map | 99.4 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.5 |
 
