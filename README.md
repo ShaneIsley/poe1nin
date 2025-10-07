@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 05:09:38.258732` |
-| Total Price Entries in DB | `466,662` |
+| Last Successful Run (UTC) | `2025-10-07 05:31:53.686917` |
+| Total Price Entries in DB | `476,574` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,8 +19,8 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Accessories | Original Sin | 268,410.6 |
-| Unique Jewels | Voices | 255,629.2 |
+| Unique Accessories | Original Sin | 268,426.7 |
+| Unique Jewels | Voices | 255,644.5 |
 | Unique Armours | The Tempest's Liberation | 57,140.5 |
 | Divination Cards | House of Mirrors | 26,047.7 |
 | Unique Flasks | Wine of the Prophet | 22,972.2 |
@@ -30,7 +30,7 @@ This repository tracks data the **Mercenaries** league.
 | Oils | Tainted Oil | 656.4 |
 | Scarabs | Horned Scarab of Preservation | 525.1 |
 | Incubators | Gemcutter's Incubator | 446.3 |
-| Maps | Fortress Map | 75.8 |
+| Maps | Fortress Map | 72.0 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.5 |
 
@@ -48,11 +48,11 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 730,369.0 |
 | Awakened Empower Support | 524,039.8 |
 | Awakened Enhance Support | 365,184.5 |
-| Original Sin | 268,410.6 |
-| Voices | 255,629.2 |
+| Original Sin | 268,426.7 |
+| Voices | 255,644.5 |
 | Awakened Enlighten Support | 211,807.0 |
 | Awakened Enlighten Support | 200,851.5 |
-| Volatility Support | 182,592.3 |
+| Awakened Enhance Support | 182,592.3 |
 | Awakened Empower Support | 182,592.3 |
 
 
