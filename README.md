@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-07 08:51:16.350604` |
-| Total Price Entries in DB | `565,792` |
+| Last Successful Run (UTC) | `2025-10-07 09:02:11.459509` |
+| Total Price Entries in DB | `575,707` |
 
 <!-- END_MAINTENANCE -->
 
@@ -27,10 +27,10 @@ This repository tracks data the **Mercenaries** league.
 | Unique Weapons | Cadigan's Authority | 6,927.4 |
 | Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,315.3 |
 | Tattoos | Journey Tattoo of the Body | 1,137.7 |
-| Oils | Tainted Oil | 661.5 |
+| Oils | Tainted Oil | 657.2 |
 | Scarabs | Horned Scarab of Preservation | 525.8 |
 | Incubators | Gemcutter's Incubator | 446.9 |
-| Maps | Fortress Map | 79.0 |
+| Maps | Fortress Map | 80.0 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.5 |
 
@@ -52,8 +52,8 @@ This repository tracks data the **Mercenaries** league.
 | Voices | 255,909.5 |
 | Awakened Enlighten Support | 212,039.3 |
 | Awakened Enlighten Support | 201,071.8 |
-| Awakened Enhance Support | 182,792.5 |
 | Awakened Empower Support | 182,792.5 |
+| Automation | 182,792.5 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
