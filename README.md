@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-08 05:32:44.859636` |
-| Total Price Entries in DB | `1,071,154` |
+| Last Successful Run (UTC) | `2025-10-08 05:44:04.205237` |
+| Total Price Entries in DB | `1,081,058` |
 
 <!-- END_MAINTENANCE -->
 
@@ -30,7 +30,7 @@ This repository tracks data the **Mercenaries** league.
 | Oils | Tainted Oil | 658.1 |
 | Scarabs | Horned Scarab of Preservation | 526.5 |
 | Incubators | Gemcutter's Incubator | 315.9 |
-| Maps | Fortress Map | 77.4 |
+| Maps | Fortress Map | 80.0 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 21.9 |
 
@@ -52,8 +52,8 @@ This repository tracks data the **Mercenaries** league.
 | Original Sin | 276,085.9 |
 | Voices | 257,680.1 |
 | Awakened Enlighten Support | 202,463.0 |
-| Automation | 184,057.2 |
-| Awakened Empower Support | 184,057.2 |
+| Volatility Support | 184,057.2 |
+| Awakened Enhance Support | 184,057.2 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
