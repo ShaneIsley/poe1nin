@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-08 08:52:20.576836` |
-| Total Price Entries in DB | `1,160,284` |
+| Last Successful Run (UTC) | `2025-10-08 09:10:23.448911` |
+| Total Price Entries in DB | `1,170,184` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,20 +19,20 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Jewels | Voices | 258,386.0 |
+| Unique Jewels | Voices | 255,831.7 |
 | Unique Accessories | Original Sin | 241,212.8 |
 | Unique Armours | Replica Farrul's Fur | 65,009.7 |
-| Divination Cards | House of Mirrors | 26,344.0 |
+| Divination Cards | House of Mirrors | 26,056.0 |
 | Unique Flasks | Wine of the Prophet | 22,681.8 |
-| Unique Weapons | Cadigan's Authority | 7,771.5 |
+| Unique Weapons | Cadigan's Authority | 7,686.5 |
 | Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,303.6 |
-| Tattoos | Journey Tattoo of the Body | 1,055.1 |
-| Oils | Tainted Oil | 658.6 |
-| Scarabs | Horned Scarab of Preservation | 526.9 |
+| Tattoos | Journey Tattoo of the Body | 1,042.2 |
+| Oils | Tainted Oil | 651.4 |
+| Scarabs | Horned Scarab of Preservation | 521.1 |
 | Incubators | Gemcutter's Incubator | 312.7 |
-| Maps | Fortress Map | 80.0 |
+| Maps | Fortress Map | 77.0 |
 | Essences | Essence of Horror | 40.0 |
-| Delirium Orbs | Fossilised Delirium Orb | 22.8 |
+| Delirium Orbs | Fossilised Delirium Orb | 22.5 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -49,7 +49,7 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Empower Support | 524,455.1 |
 | Awakened Enhance Support | 365,473.9 |
 | Awakened Enlighten Support | 332,581.2 |
-| Voices | 258,386.0 |
+| Voices | 255,831.7 |
 | Original Sin | 241,212.8 |
 | Awakened Enlighten Support | 201,010.6 |
 | Automation | 182,737.0 |
