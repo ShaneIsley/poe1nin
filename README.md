@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-08 05:44:04.205237` |
-| Total Price Entries in DB | `1,081,058` |
+| Last Successful Run (UTC) | `2025-10-08 06:14:23.345101` |
+| Total Price Entries in DB | `1,090,962` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,18 +19,18 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Accessories | Original Sin | 276,085.9 |
-| Unique Jewels | Voices | 257,680.1 |
-| Unique Armours | Replica Farrul's Fur | 65,683.4 |
-| Divination Cards | House of Mirrors | 26,326.0 |
-| Unique Flasks | Wine of the Prophet | 23,035.2 |
-| Unique Weapons | Cadigan's Authority | 6,700.0 |
-| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,317.1 |
-| Tattoos | Journey Tattoo of the Body | 1,053.0 |
+| Unique Accessories | Original Sin | 276,836.7 |
+| Unique Jewels | Voices | 258,381.0 |
+| Unique Armours | Replica Farrul's Fur | 65,868.0 |
+| Divination Cards | House of Mirrors | 26,400.0 |
+| Unique Flasks | Wine of the Prophet | 23,100.0 |
+| Unique Weapons | Cadigan's Authority | 6,718.8 |
+| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,318.8 |
+| Tattoos | Journey Tattoo of the Body | 1,054.4 |
 | Oils | Tainted Oil | 658.1 |
-| Scarabs | Horned Scarab of Preservation | 526.5 |
-| Incubators | Gemcutter's Incubator | 315.9 |
-| Maps | Fortress Map | 80.0 |
+| Scarabs | Horned Scarab of Preservation | 527.2 |
+| Incubators | Gemcutter's Incubator | 316.3 |
+| Maps | Fortress Map | 87.4 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 21.9 |
 
@@ -49,10 +49,10 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Empower Support | 528,244.3 |
 | Awakened Enhance Support | 368,114.5 |
 | Awakened Enlighten Support | 334,984.2 |
-| Original Sin | 276,085.9 |
-| Voices | 257,680.1 |
+| Original Sin | 276,836.7 |
+| Voices | 258,381.0 |
 | Awakened Enlighten Support | 202,463.0 |
-| Volatility Support | 184,057.2 |
+| Awakened Empower Support | 184,057.2 |
 | Awakened Enhance Support | 184,057.2 |
 
 
