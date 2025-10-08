@@ -16,9 +16,9 @@
                     1.83,
                     1.25,
                     2.01,
-                    2.81
+                    2.96
                 ],
-                "totalChange": 2.81
+                "totalChange": 2.96
             },
             "lowConfidenceSparkLine": {
                 "data": [
@@ -28,9 +28,9 @@
                     1.83,
                     1.25,
                     2.01,
-                    2.81
+                    2.96
                 ],
-                "totalChange": 2.81
+                "totalChange": 2.96
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -40,13 +40,13 @@
                 }
             ],
             "flavourText": "What do you see in the mirror?",
-            "chaosValue": 26458.26,
-            "exaltedValue": 1102.43,
-            "divineValue": 199.72,
-            "count": 50,
+            "chaosValue": 26496.0,
+            "exaltedValue": 1104.0,
+            "divineValue": 200.0,
+            "count": 49,
             "detailsId": "house-of-mirrors",
             "tradeInfo": [],
-            "listingCount": 186
+            "listingCount": 185
         },
         {
             "id": 125069,
@@ -1851,7 +1851,7 @@
             "count": 8,
             "detailsId": "the-fiend",
             "tradeInfo": [],
-            "listingCount": 295
+            "listingCount": 294
         },
         {
             "id": 23958,
@@ -5647,10 +5647,10 @@
             "chaosValue": 20.0,
             "exaltedValue": 0.83,
             "divineValue": 0.15,
-            "count": 5,
+            "count": 6,
             "detailsId": "the-long-watch",
             "tradeInfo": [],
-            "listingCount": 104
+            "listingCount": 105
         },
         {
             "id": 54451,
@@ -11809,7 +11809,7 @@
             "count": 20,
             "detailsId": "the-patient",
             "tradeInfo": [],
-            "listingCount": 1438
+            "listingCount": 1437
         },
         {
             "id": 60046,
@@ -12579,54 +12579,6 @@
             "listingCount": 336
         },
         {
-            "id": 1452,
-            "name": "The Cataclysm",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Cataclysm",
-            "stackSize": 13,
-            "artFilename": "TheCataclysm",
-            "itemClass": 6,
-            "sparkLine": {
-                "data": [
-                    0,
-                    170.59,
-                    82.35,
-                    100,
-                    117.65,
-                    76.47,
-                    88.24
-                ],
-                "totalChange": 88.24
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    170.59,
-                    82.35,
-                    100,
-                    117.65,
-                    76.47,
-                    88.24
-                ],
-                "totalChange": 88.24
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Level 21 Spell Gem}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "flavourText": "<size:27>{The mighty warriors traded in blows, the nimble archers in arrows, yet it was the brazen thaumaturgists who would bring catastrophe to all.}",
-            "chaosValue": 3.2,
-            "exaltedValue": 0.13,
-            "divineValue": 0.02,
-            "count": 13,
-            "detailsId": "the-cataclysm",
-            "tradeInfo": [],
-            "listingCount": 358
-        },
-        {
             "id": 1657,
             "name": "The Visionary",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -13203,6 +13155,54 @@
             "listingCount": 645
         },
         {
+            "id": 1452,
+            "name": "The Cataclysm",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Cataclysm",
+            "stackSize": 13,
+            "artFilename": "TheCataclysm",
+            "itemClass": 6,
+            "sparkLine": {
+                "data": [
+                    0,
+                    170.59,
+                    82.35,
+                    100,
+                    117.65,
+                    76.47,
+                    76.47
+                ],
+                "totalChange": 76.47
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    170.59,
+                    82.35,
+                    100,
+                    117.65,
+                    76.47,
+                    76.47
+                ],
+                "totalChange": 76.47
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 21 Spell Gem}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "flavourText": "<size:27>{The mighty warriors traded in blows, the nimble archers in arrows, yet it was the brazen thaumaturgists who would bring catastrophe to all.}",
+            "chaosValue": 3.0,
+            "exaltedValue": 0.12,
+            "divineValue": 0.02,
+            "count": 12,
+            "detailsId": "the-cataclysm",
+            "tradeInfo": [],
+            "listingCount": 357
+        },
+        {
             "id": 1458,
             "name": "The Chains that Bind",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -13245,10 +13245,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.12,
             "divineValue": 0.02,
-            "count": 32,
+            "count": 31,
             "detailsId": "the-chains-that-bind",
             "tradeInfo": [],
-            "listingCount": 1161
+            "listingCount": 1160
         },
         {
             "id": 1471,
@@ -16562,54 +16562,6 @@
             "listingCount": 649
         },
         {
-            "id": 1506,
-            "name": "The Fox",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Fox",
-            "stackSize": 6,
-            "artFilename": "TheFox",
-            "itemClass": 6,
-            "sparkLine": {
-                "data": [
-                    0,
-                    -20.45,
-                    -30.68,
-                    -60.23,
-                    -68.75,
-                    -68.75,
-                    -68.75
-                ],
-                "totalChange": -68.75
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    -20.45,
-                    -30.68,
-                    -60.23,
-                    -68.75,
-                    -68.75,
-                    -68.75
-                ],
-                "totalChange": -68.75
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Level 20 Gem}",
-                    "optional": false
-                }
-            ],
-            "flavourText": "\"Masters of wit, strength and cunning. To survive the harsh winters, you must be like the fox.\"\n- Ezomyte Proverb",
-            "chaosValue": 1.1,
-            "exaltedValue": 0.05,
-            "divineValue": 0.01,
-            "count": 12,
-            "detailsId": "the-fox",
-            "tradeInfo": [],
-            "listingCount": 432
-        },
-        {
             "id": 2039,
             "name": "Lingering Remnants",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -17564,10 +17516,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.01,
-            "count": 10,
+            "count": 11,
             "detailsId": "shard-of-fate",
             "tradeInfo": [],
-            "listingCount": 511
+            "listingCount": 512
         },
         {
             "id": 1431,
@@ -18002,6 +17954,54 @@
             "listingCount": 807
         },
         {
+            "id": 1506,
+            "name": "The Fox",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Fox",
+            "stackSize": 6,
+            "artFilename": "TheFox",
+            "itemClass": 6,
+            "sparkLine": {
+                "data": [
+                    0,
+                    -20.45,
+                    -30.68,
+                    -60.23,
+                    -68.75,
+                    -68.75,
+                    -71.59
+                ],
+                "totalChange": -71.59
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    -20.45,
+                    -30.68,
+                    -60.23,
+                    -68.75,
+                    -68.75,
+                    -71.59
+                ],
+                "totalChange": -71.59
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 20 Gem}",
+                    "optional": false
+                }
+            ],
+            "flavourText": "\"Masters of wit, strength and cunning. To survive the harsh winters, you must be like the fox.\"\n- Ezomyte Proverb",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.04,
+            "divineValue": 0.01,
+            "count": 11,
+            "detailsId": "the-fox",
+            "tradeInfo": [],
+            "listingCount": 431
+        },
+        {
             "id": 1507,
             "name": "The Gambler",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -18188,10 +18188,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.01,
-            "count": 17,
+            "count": 16,
             "detailsId": "the-inventor",
             "tradeInfo": [],
-            "listingCount": 931
+            "listingCount": 930
         },
         {
             "id": 1538,
@@ -19628,10 +19628,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.01,
-            "count": 10,
+            "count": 9,
             "detailsId": "the-rite-of-elements",
             "tradeInfo": [],
-            "listingCount": 509
+            "listingCount": 508
         },
         {
             "id": 6953,
@@ -20059,7 +20059,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.01,
-            "count": 17,
+            "count": 16,
             "detailsId": "acclimatisation",
             "tradeInfo": [],
             "listingCount": 1017
