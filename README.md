@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-08 23:02:08.612239` |
-| Total Price Entries in DB | `1,556,291` |
+| Last Successful Run (UTC) | `2025-10-08 23:27:43.935097` |
+| Total Price Entries in DB | `1,566,190` |
 
 <!-- END_MAINTENANCE -->
 
@@ -23,16 +23,16 @@ This repository tracks data the **Mercenaries** league.
 | Unique Jewels | Voices | 265,449.2 |
 | Unique Armours | Replica Farrul's Fur | 64,675.4 |
 | Divination Cards | House of Mirrors | 25,922.0 |
-| Unique Flasks | Wine of the Prophet | 22,687.0 |
-| Unique Weapons | Cadigan's Authority | 6,482.0 |
-| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,297.2 |
+| Unique Flasks | Wine of the Prophet | 22,681.8 |
+| Unique Weapons | Cadigan's Authority | 6,480.5 |
+| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,296.9 |
 | Tattoos | Journey Tattoo of the Body | 1,036.9 |
-| Oils | Tainted Oil | 648.2 |
+| Oils | Tainted Oil | 648.0 |
 | Scarabs | Horned Scarab of Preservation | 518.4 |
 | Incubators | Gemcutter's Incubator | 129.6 |
 | Maps | Fortress Map | 70.0 |
 | Essences | Essence of Horror | 40.0 |
-| Delirium Orbs | Fossilised Delirium Orb | 22.3 |
+| Delirium Orbs | Fossilised Delirium Orb | 21.9 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -45,15 +45,15 @@ This repository tracks data the **Mercenaries** league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 758,707.9 |
-| Awakened Empower Support | 514,024.6 |
-| Awakened Enhance Support | 379,353.9 |
-| Awakened Enlighten Support | 345,212.1 |
+| Awakened Enlighten Support | 758,426.4 |
+| Awakened Empower Support | 513,833.9 |
+| Awakened Enhance Support | 379,213.2 |
+| Awakened Enlighten Support | 345,084.0 |
 | Original Sin | 284,409.9 |
 | Voices | 265,449.2 |
-| Awakened Empower Support | 189,677.0 |
-| Automation | 189,677.0 |
-| Volatility Support | 189,677.0 |
+| Awakened Enlighten Support | 189,606.6 |
+| Awakened Empower Support | 189,606.6 |
+| Volatility Support | 189,606.6 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
