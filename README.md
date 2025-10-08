@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-08 10:35:32.304207` |
-| Total Price Entries in DB | `1,209,772` |
+| Last Successful Run (UTC) | `2025-10-08 10:46:26.734924` |
+| Total Price Entries in DB | `1,219,667` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,17 +19,17 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Jewels | Voices | 256,072.8 |
+| Unique Jewels | Voices | 256,649.4 |
 | Unique Accessories | Original Sin | 230,465.5 |
-| Unique Armours | Replica Farrul's Fur | 65,124.5 |
-| Divination Cards | House of Mirrors | 26,102.0 |
-| Unique Flasks | Wine of the Prophet | 22,839.2 |
-| Unique Weapons | Cadigan's Authority | 7,700.1 |
-| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,305.9 |
+| Unique Armours | Replica Farrul's Fur | 65,279.2 |
+| Divination Cards | House of Mirrors | 26,164.0 |
+| Unique Flasks | Wine of the Prophet | 22,893.5 |
+| Unique Weapons | Cadigan's Authority | 7,718.4 |
+| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,309.0 |
 | Tattoos | Journey Tattoo of the Body | 1,044.1 |
-| Oils | Tainted Oil | 652.5 |
+| Oils | Tainted Oil | 654.1 |
 | Scarabs | Horned Scarab of Preservation | 522.0 |
-| Incubators | Gemcutter's Incubator | 313.2 |
+| Incubators | Gemcutter's Incubator | 314.0 |
 | Maps | Fortress Map | 80.0 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.6 |
@@ -49,11 +49,11 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Empower Support | 524,949.2 |
 | Awakened Enhance Support | 365,818.2 |
 | Awakened Enlighten Support | 332,894.6 |
-| Voices | 256,072.8 |
+| Voices | 256,649.4 |
 | Original Sin | 230,465.5 |
 | Awakened Enlighten Support | 201,200.0 |
 | Awakened Empower Support | 182,909.1 |
-| Automation | 182,909.1 |
+| Volatility Support | 182,909.1 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
