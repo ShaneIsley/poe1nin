@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-09 03:08:28.776881` |
-| Total Price Entries in DB | `1,605,778` |
+| Last Successful Run (UTC) | `2025-10-09 03:43:09.794462` |
+| Total Price Entries in DB | `1,615,673` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,8 +19,8 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Accessories | Original Sin | 278,897.6 |
-| Unique Jewels | Voices | 262,051.4 |
+| Unique Accessories | Original Sin | 279,041.4 |
+| Unique Jewels | Voices | 262,186.6 |
 | Unique Armours | Replica Farrul's Fur | 63,837.1 |
 | Divination Cards | House of Mirrors | 25,586.0 |
 | Unique Flasks | Wine of the Prophet | 22,387.8 |
@@ -49,11 +49,11 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Empower Support | 499,395.1 |
 | Awakened Enhance Support | 374,359.1 |
 | Awakened Enlighten Support | 340,666.8 |
-| Original Sin | 278,897.6 |
-| Voices | 262,051.4 |
+| Original Sin | 279,041.4 |
+| Voices | 262,186.6 |
+| Awakened Empower Support | 187,179.6 |
 | Automation | 187,179.6 |
 | Volatility Support | 187,179.6 |
-| Awakened Empower Support | 187,179.6 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
