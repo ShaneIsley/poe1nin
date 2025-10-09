@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-09 04:35:09.234739` |
-| Total Price Entries in DB | `1,635,460` |
+| Last Successful Run (UTC) | `2025-10-09 04:45:53.987786` |
+| Total Price Entries in DB | `1,645,352` |
 
 <!-- END_MAINTENANCE -->
 
@@ -21,15 +21,15 @@ This repository tracks data the **Mercenaries** league.
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
 | Unique Accessories | Original Sin | 275,589.6 |
 | Unique Jewels | Voices | 258,943.2 |
-| Unique Armours | Replica Farrul's Fur | 63,707.3 |
+| Unique Armours | Replica Farrul's Fur | 63,812.1 |
 | Divination Cards | House of Mirrors | 25,576.0 |
 | Unique Flasks | Wine of the Prophet | 22,342.2 |
-| Unique Weapons | Cadigan's Authority | 6,383.5 |
-| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,277.5 |
+| Unique Weapons | The Winds of Fate | 12,128.6 |
+| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,279.6 |
 | Tattoos | Journey Tattoo of the Body | 1,021.4 |
 | Oils | Tainted Oil | 638.4 |
 | Scarabs | Horned Scarab of Preservation | 510.7 |
-| Incubators | Gemcutter's Incubator | 127.7 |
+| Incubators | Gemcutter's Incubator | 127.9 |
 | Maps | Fortress Map | 70.0 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 21.6 |
@@ -51,9 +51,9 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 336,626.2 |
 | Original Sin | 275,589.6 |
 | Voices | 258,943.2 |
-| Awakened Empower Support | 184,959.5 |
 | Volatility Support | 184,959.5 |
 | Automation | 184,959.5 |
+| Awakened Empower Support | 184,959.5 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
