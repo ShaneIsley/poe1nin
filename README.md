@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-09 06:45:13.436762` |
-| Total Price Entries in DB | `1,694,812` |
+| Last Successful Run (UTC) | `2025-10-09 07:02:06.083033` |
+| Total Price Entries in DB | `1,704,706` |
 
 <!-- END_MAINTENANCE -->
 
@@ -30,7 +30,7 @@ This repository tracks data the **Mercenaries** league.
 | Oils | Tainted Oil | 652.0 |
 | Scarabs | Horned Scarab of Preservation | 521.6 |
 | Incubators | Gemcutter's Incubator | 130.4 |
-| Maps | Sanctuary Map | 102.2 |
+| Maps | Sanctuary Map | 103.0 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.1 |
 
