@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-09 11:42:39.775103` |
-| Total Price Entries in DB | `1,843,213` |
+| Last Successful Run (UTC) | `2025-10-09 12:16:40.546088` |
+| Total Price Entries in DB | `1,853,105` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,8 +19,8 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Accessories | Original Sin | 266,148.2 |
-| Unique Jewels | Voices | 266,148.2 |
+| Unique Accessories | Original Sin | 266,178.5 |
+| Unique Jewels | Voices | 266,178.5 |
 | Unique Armours | Replica Farrul's Fur | 64,885.0 |
 | Divination Cards | House of Mirrors | 26,006.0 |
 | Unique Flasks | Wine of the Prophet | 22,755.2 |
@@ -30,7 +30,7 @@ This repository tracks data the **Mercenaries** league.
 | Oils | Tainted Oil | 689.2 |
 | Scarabs | Horned Scarab of Preservation | 520.1 |
 | Incubators | Gemcutter's Incubator | 130.0 |
-| Maps | Fortress Map | 71.5 |
+| Maps | Fortress Map | 70.0 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.0 |
 
@@ -45,15 +45,15 @@ This repository tracks data the **Mercenaries** league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 693,886.5 |
-| Awakened Empower Support | 507,202.5 |
-| Awakened Enhance Support | 380,211.8 |
-| Awakened Enlighten Support | 345,992.7 |
-| Voices | 266,148.2 |
-| Original Sin | 266,148.2 |
-| Awakened Enlighten Support | 190,105.9 |
-| Automation | 190,105.9 |
-| Awakened Empower Support | 190,105.9 |
+| Awakened Enlighten Support | 693,965.5 |
+| Awakened Empower Support | 507,260.2 |
+| Awakened Enhance Support | 380,255.1 |
+| Awakened Enlighten Support | 346,032.1 |
+| Voices | 266,178.5 |
+| Original Sin | 266,178.5 |
+| Awakened Empower Support | 190,127.5 |
+| Awakened Enlighten Support | 190,127.5 |
+| Volatility Support | 190,127.5 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
