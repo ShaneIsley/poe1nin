@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-09 09:45:08.102538` |
-| Total Price Entries in DB | `1,783,861` |
+| Last Successful Run (UTC) | `2025-10-09 10:02:09.901118` |
+| Total Price Entries in DB | `1,793,754` |
 
 <!-- END_MAINTENANCE -->
 
@@ -27,7 +27,7 @@ This repository tracks data the **Mercenaries** league.
 | Unique Weapons | The Winds of Fate | 12,352.9 |
 | Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,301.1 |
 | Tattoos | Journey Tattoo of the Body | 1,040.2 |
-| Oils | Tainted Oil | 676.2 |
+| Oils | Tainted Oil | 689.2 |
 | Scarabs | Horned Scarab of Preservation | 520.1 |
 | Incubators | Gemcutter's Incubator | 130.0 |
 | Maps | Fortress Map | 73.5 |
@@ -51,7 +51,7 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 346,004.6 |
 | Original Sin | 283,267.5 |
 | Voices | 266,157.4 |
-| Automation | 190,112.4 |
+| Volatility Support | 190,112.4 |
 | Awakened Empower Support | 190,112.4 |
 | Awakened Enlighten Support | 190,112.4 |
 
