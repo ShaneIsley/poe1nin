@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-09 07:29:30.722546` |
-| Total Price Entries in DB | `1,714,600` |
+| Last Successful Run (UTC) | `2025-10-09 07:42:32.954544` |
+| Total Price Entries in DB | `1,724,494` |
 
 <!-- END_MAINTENANCE -->
 
@@ -51,9 +51,9 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 346,988.6 |
 | Original Sin | 284,073.1 |
 | Voices | 266,914.3 |
-| Volatility Support | 190,653.1 |
-| Awakened Empower Support | 190,653.1 |
 | Awakened Enlighten Support | 190,653.1 |
+| Volatility Support | 190,653.1 |
+| Automation | 190,653.1 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
