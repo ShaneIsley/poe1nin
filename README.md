@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-09 11:27:45.797834` |
-| Total Price Entries in DB | `1,833,320` |
+| Last Successful Run (UTC) | `2025-10-09 11:42:39.775103` |
+| Total Price Entries in DB | `1,843,213` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,8 +19,8 @@ This repository tracks data the **Mercenaries** league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Accessories | Original Sin | 283,267.5 |
-| Unique Jewels | Voices | 266,157.4 |
+| Unique Accessories | Original Sin | 266,148.2 |
+| Unique Jewels | Voices | 266,148.2 |
 | Unique Armours | Replica Farrul's Fur | 64,885.0 |
 | Divination Cards | House of Mirrors | 26,006.0 |
 | Unique Flasks | Wine of the Prophet | 22,755.2 |
@@ -30,7 +30,7 @@ This repository tracks data the **Mercenaries** league.
 | Oils | Tainted Oil | 689.2 |
 | Scarabs | Horned Scarab of Preservation | 520.1 |
 | Incubators | Gemcutter's Incubator | 130.0 |
-| Maps | Fortress Map | 70.0 |
+| Maps | Fortress Map | 71.5 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.0 |
 
@@ -45,15 +45,15 @@ This repository tracks data the **Mercenaries** league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 693,910.3 |
-| Awakened Empower Support | 507,219.9 |
-| Awakened Enhance Support | 380,224.8 |
-| Awakened Enlighten Support | 346,004.6 |
-| Original Sin | 283,267.5 |
-| Voices | 266,157.4 |
-| Automation | 190,112.4 |
-| Awakened Enlighten Support | 190,112.4 |
-| Volatility Support | 190,112.4 |
+| Awakened Enlighten Support | 693,886.5 |
+| Awakened Empower Support | 507,202.5 |
+| Awakened Enhance Support | 380,211.8 |
+| Awakened Enlighten Support | 345,992.7 |
+| Voices | 266,148.2 |
+| Original Sin | 266,148.2 |
+| Awakened Enlighten Support | 190,105.9 |
+| Automation | 190,105.9 |
+| Awakened Empower Support | 190,105.9 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
