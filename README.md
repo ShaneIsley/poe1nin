@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-09 08:38:57.392975` |
-| Total Price Entries in DB | `1,744,284` |
+| Last Successful Run (UTC) | `2025-10-09 08:52:27.510279` |
+| Total Price Entries in DB | `1,754,178` |
 
 <!-- END_MAINTENANCE -->
 
@@ -25,12 +25,12 @@ This repository tracks data the **Mercenaries** league.
 | Divination Cards | House of Mirrors | 26,018.0 |
 | Unique Flasks | Wine of the Prophet | 22,765.8 |
 | Unique Weapons | The Winds of Fate | 12,358.5 |
-| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,304.8 |
+| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,301.7 |
 | Tattoos | Journey Tattoo of the Body | 1,040.7 |
-| Oils | Tainted Oil | 665.0 |
+| Oils | Tainted Oil | 663.5 |
 | Scarabs | Horned Scarab of Preservation | 520.4 |
 | Incubators | Gemcutter's Incubator | 130.1 |
-| Maps | Fortress Map | 75.3 |
+| Maps | Fortress Map | 76.5 |
 | Essences | Essence of Horror | 40.0 |
 | Delirium Orbs | Fossilised Delirium Orb | 22.0 |
 
@@ -51,9 +51,9 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 346,172.3 |
 | Original Sin | 283,404.8 |
 | Voices | 266,286.4 |
-| Awakened Enlighten Support | 190,204.6 |
 | Volatility Support | 190,204.6 |
-| Automation | 190,204.6 |
+| Awakened Enlighten Support | 190,204.6 |
+| Awakened Empower Support | 190,204.6 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
