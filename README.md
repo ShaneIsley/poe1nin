@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-09 11:02:05.009805` |
-| Total Price Entries in DB | `1,823,427` |
+| Last Successful Run (UTC) | `2025-10-09 11:27:45.797834` |
+| Total Price Entries in DB | `1,833,320` |
 
 <!-- END_MAINTENANCE -->
 
@@ -32,7 +32,7 @@ This repository tracks data the **Mercenaries** league.
 | Incubators | Gemcutter's Incubator | 130.0 |
 | Maps | Fortress Map | 70.0 |
 | Essences | Essence of Horror | 40.0 |
-| Delirium Orbs | Fossilised Delirium Orb | 22.3 |
+| Delirium Orbs | Fossilised Delirium Orb | 22.0 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -51,9 +51,9 @@ This repository tracks data the **Mercenaries** league.
 | Awakened Enlighten Support | 346,004.6 |
 | Original Sin | 283,267.5 |
 | Voices | 266,157.4 |
-| Volatility Support | 190,112.4 |
+| Automation | 190,112.4 |
 | Awakened Enlighten Support | 190,112.4 |
-| Awakened Empower Support | 190,112.4 |
+| Volatility Support | 190,112.4 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
