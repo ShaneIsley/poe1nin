@@ -7,8 +7,8 @@ This repository tracks data the **Mercenaries** league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-10-09 12:16:40.546088` |
-| Total Price Entries in DB | `1,853,105` |
+| Last Successful Run (UTC) | `2025-10-15 23:01:53.447888` |
+| Total Price Entries in DB | `1,862,970` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the **Mercenaries** league.
 ### Most Valuable Item by Category
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Seismic Trap of Swells | 999,999.0 |
-| Unique Accessories | Original Sin | 266,178.5 |
-| Unique Jewels | Voices | 266,178.5 |
-| Unique Armours | Replica Farrul's Fur | 64,885.0 |
-| Divination Cards | House of Mirrors | 26,006.0 |
-| Unique Flasks | Wine of the Prophet | 22,755.2 |
-| Unique Weapons | The Winds of Fate | 12,352.9 |
-| Cluster Jewels | 12% increased Trap Damage, 12% increased Mine Damage | 1,301.1 |
-| Tattoos | Journey Tattoo of the Body | 1,040.2 |
-| Oils | Tainted Oil | 689.2 |
-| Scarabs | Horned Scarab of Preservation | 520.1 |
-| Incubators | Gemcutter's Incubator | 130.0 |
-| Maps | Fortress Map | 70.0 |
-| Essences | Essence of Horror | 40.0 |
-| Delirium Orbs | Fossilised Delirium Orb | 22.0 |
+| Skill Gems | Awakened Enlighten Support | 1,001,020.1 |
+| Unique Jewels | Voices | 333,673.4 |
+| Unique Accessories | Original Sin | 274,946.9 |
+| Unique Armours | Indigon | 222,448.9 |
+| Unique Weapons | Disintegrator | 222,448.9 |
+| Divination Cards | House of Mirrors | 30,072.0 |
+| Unique Flasks | Wine of the Prophet | 23,777.9 |
+| Cluster Jewels | 12% increased Physical Damage over Time | 1,958.2 |
+| Tattoos | Journey Tattoo of the Body | 981.6 |
+| Oils | Tainted Oil | 699.4 |
+| Scarabs | Horned Scarab of Preservation | 419.6 |
+| Maps | Fortress Map | 66.5 |
+| Incubators | Gemcutter's Incubator | 38.0 |
+| Essences | Essence of Horror | 31.1 |
+| Delirium Orbs | Skittering Delirium Orb | 30.0 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,19 +44,17 @@ This repository tracks data the **Mercenaries** league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Imputed Chaos Value |
 | :--- | :--- |
-| Seismic Trap of Swells | 999,999.0 |
-| Awakened Enlighten Support | 693,965.5 |
-| Awakened Empower Support | 507,260.2 |
-| Awakened Enhance Support | 380,255.1 |
-| Awakened Enlighten Support | 346,032.1 |
-| Voices | 266,178.5 |
-| Original Sin | 266,178.5 |
-| Awakened Empower Support | 190,127.5 |
-| Awakened Enlighten Support | 190,127.5 |
-| Volatility Support | 190,127.5 |
+| Awakened Enlighten Support | 1,001,020.1 |
+| Awakened Enlighten Support | 689,591.7 |
+| Awakened Empower Support | 436,889.7 |
+| Awakened Enlighten Support | 340,346.8 |
+| Voices | 333,673.4 |
+| Original Sin | 274,946.9 |
+| Awakened Enhance Support | 222,448.9 |
+| Awakened Enlighten Support | 222,448.9 |
+| Indigon | 222,448.9 |
+| Disintegrator | 222,448.9 |
 
-
-![Market Movers Chart](charts/market_movers.png)
 <!-- END_ANALYSIS -->
 
 ---
