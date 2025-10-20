@@ -15,9 +15,9 @@
                     -13.64,
                     112.89,
                     119.18,
-                    116.09
+                    116.66
                 ],
-                "totalChange": 116.09
+                "totalChange": 116.66
             },
             "lowConfidenceSparkLine": {
                 "data": [
@@ -27,9 +27,9 @@
                     -13.64,
                     112.89,
                     119.18,
-                    116.09
+                    116.66
                 ],
-                "totalChange": 116.09
+                "totalChange": 116.66
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -39,8 +39,8 @@
                 }
             ],
             "flavourText": "",
-            "chaosValue": 95.08,
-            "exaltedValue": 4.07,
+            "chaosValue": 95.33,
+            "exaltedValue": 4.04,
             "divineValue": 0.58,
             "count": 5,
             "detailsId": "gemcutters-incubator",
@@ -87,7 +87,7 @@
             ],
             "flavourText": "",
             "chaosValue": 9.5,
-            "exaltedValue": 0.41,
+            "exaltedValue": 0.4,
             "divineValue": 0.06,
             "count": 4,
             "detailsId": "fine-incubator",
@@ -126,7 +126,7 @@
             ],
             "flavourText": "",
             "chaosValue": 5.3,
-            "exaltedValue": 0.23,
+            "exaltedValue": 0.22,
             "divineValue": 0.03,
             "count": 3,
             "detailsId": "whispering-incubator",
@@ -181,53 +181,6 @@
             "listingCount": 24590
         },
         {
-            "id": 21691,
-            "name": "Foreboding Incubator",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uSGFyYmluZ2VyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2855468d9f/IncubationHarbinger.png",
-            "baseType": "Foreboding Incubator",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "data": [
-                    0,
-                    29.41,
-                    47.06,
-                    35.29,
-                    -5.88,
-                    -11.76,
-                    35.29
-                ],
-                "totalChange": 35.29
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    29.41,
-                    47.06,
-                    35.29,
-                    -5.88,
-                    -11.76,
-                    35.29
-                ],
-                "totalChange": 35.29
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Adds incubated valuable Currency Shards or a Harbinger item to an equippable item\nItem drops after killing (8610-10530) monsters",
-                    "optional": false
-                }
-            ],
-            "flavourText": "",
-            "chaosValue": 4.6,
-            "exaltedValue": 0.2,
-            "divineValue": 0.03,
-            "count": 244,
-            "detailsId": "foreboding-incubator",
-            "tradeInfo": [],
-            "listingCount": 16566
-        },
-        {
             "id": 21684,
             "name": "Diviner's Incubator",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uRGl2aW5hdGlvbkNhcmRzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c5f63e4263/IncubationDivinationCards.png",
@@ -273,6 +226,53 @@
             "detailsId": "diviners-incubator",
             "tradeInfo": [],
             "listingCount": 36064
+        },
+        {
+            "id": 21691,
+            "name": "Foreboding Incubator",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uSGFyYmluZ2VyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2855468d9f/IncubationHarbinger.png",
+            "baseType": "Foreboding Incubator",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "data": [
+                    0,
+                    29.41,
+                    47.06,
+                    35.29,
+                    -5.88,
+                    -11.76,
+                    29.41
+                ],
+                "totalChange": 29.41
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    29.41,
+                    47.06,
+                    35.29,
+                    -5.88,
+                    -11.76,
+                    29.41
+                ],
+                "totalChange": 29.41
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Adds incubated valuable Currency Shards or a Harbinger item to an equippable item\nItem drops after killing (8610-10530) monsters",
+                    "optional": false
+                }
+            ],
+            "flavourText": "",
+            "chaosValue": 4.4,
+            "exaltedValue": 0.19,
+            "divineValue": 0.03,
+            "count": 243,
+            "detailsId": "foreboding-incubator",
+            "tradeInfo": [],
+            "listingCount": 16566
         },
         {
             "id": 21682,
@@ -410,10 +410,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.13,
             "divineValue": 0.02,
-            "count": 124,
+            "count": 125,
             "detailsId": "geomancers-incubator",
             "tradeInfo": [],
-            "listingCount": 13214
+            "listingCount": 13215
         },
         {
             "id": 60147,
@@ -549,7 +549,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
             "count": 241,
             "detailsId": "singular-incubator",
@@ -596,7 +596,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "skittering-incubator",
@@ -643,7 +643,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
             "count": 281,
             "detailsId": "abyssal-incubator",
@@ -690,7 +690,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
             "count": 150,
             "detailsId": "thaumaturges-incubator",
@@ -737,12 +737,12 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "mysterious-incubator",
             "tradeInfo": [],
-            "listingCount": 39992
+            "listingCount": 39994
         },
         {
             "id": 21690,
@@ -784,7 +784,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
             "count": 47,
             "detailsId": "celestial-armoursmiths-incubator",
@@ -831,7 +831,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
             "count": 141,
             "detailsId": "otherworldly-incubator",
@@ -878,7 +878,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
             "count": 139,
             "detailsId": "obscured-incubator",
@@ -925,7 +925,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "infused-incubator",
@@ -972,12 +972,12 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "fragmented-incubator",
             "tradeInfo": [],
-            "listingCount": 33893
+            "listingCount": 33894
         },
         {
             "id": 21700,
@@ -1019,9 +1019,9 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
-            "count": 60,
+            "count": 59,
             "detailsId": "celestial-blacksmiths-incubator",
             "tradeInfo": [],
             "listingCount": 3761
@@ -1066,7 +1066,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
             "count": 167,
             "detailsId": "maddening-incubator",
@@ -1113,12 +1113,12 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.09,
+            "exaltedValue": 0.08,
             "divineValue": 0.01,
-            "count": 297,
+            "count": 296,
             "detailsId": "kalguuran-incubator",
             "tradeInfo": [],
-            "listingCount": 22752
+            "listingCount": 22751
         },
         {
             "id": 21678,
