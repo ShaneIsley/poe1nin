@@ -1,6 +1,53 @@
 {
     "lines": [
         {
+            "id": 40925,
+            "name": "Skittering Delirium Orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJTY2FyYWJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fa4c5160ca/DeliriumOrbScarabs.png",
+            "baseType": "Skittering Delirium Orb",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "data": [
+                    0,
+                    0,
+                    -26.67,
+                    -20,
+                    -13.33,
+                    -21.67,
+                    -10
+                ],
+                "totalChange": -10
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    0,
+                    -26.67,
+                    -20,
+                    -13.33,
+                    -21.67,
+                    -10
+                ],
+                "totalChange": -10
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Modifies a Map item adding layers of Delirium with the Scarabs reward type",
+                    "optional": false
+                }
+            ],
+            "flavourText": "",
+            "chaosValue": 27.0,
+            "exaltedValue": 1.08,
+            "divineValue": 0.15,
+            "count": 19,
+            "detailsId": "skittering-delirium-orb",
+            "tradeInfo": [],
+            "listingCount": 468
+        },
+        {
             "id": 40917,
             "name": "Foreboding Delirium Orb",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJIYXJiaW5nZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/707c1f792a/DeliriumOrbHarbinger.png",
@@ -93,53 +140,6 @@
             "detailsId": "fossilised-delirium-orb",
             "tradeInfo": [],
             "listingCount": 591
-        },
-        {
-            "id": 40925,
-            "name": "Skittering Delirium Orb",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJTY2FyYWJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fa4c5160ca/DeliriumOrbScarabs.png",
-            "baseType": "Skittering Delirium Orb",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "data": [
-                    0,
-                    0,
-                    -26.67,
-                    -20,
-                    -13.33,
-                    -21.67,
-                    -20
-                ],
-                "totalChange": -20
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    0,
-                    -26.67,
-                    -20,
-                    -13.33,
-                    -21.67,
-                    -20
-                ],
-                "totalChange": -20
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Modifies a Map item adding layers of Delirium with the Scarabs reward type",
-                    "optional": false
-                }
-            ],
-            "flavourText": "",
-            "chaosValue": 24.0,
-            "exaltedValue": 0.96,
-            "divineValue": 0.14,
-            "count": 20,
-            "detailsId": "skittering-delirium-orb",
-            "tradeInfo": [],
-            "listingCount": 469
         },
         {
             "id": 40916,
@@ -579,9 +579,9 @@
                     4.09,
                     -12.28,
                     -6.43,
-                    -19.53
+                    -19.42
                 ],
-                "totalChange": -19.53
+                "totalChange": -19.42
             },
             "lowConfidenceSparkLine": {
                 "data": [
@@ -591,9 +591,9 @@
                     4.09,
                     -12.28,
                     -6.43,
-                    -19.53
+                    -19.42
                 ],
-                "totalChange": -19.53
+                "totalChange": -19.42
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -603,7 +603,7 @@
                 }
             ],
             "flavourText": "",
-            "chaosValue": 13.76,
+            "chaosValue": 13.78,
             "exaltedValue": 0.55,
             "divineValue": 0.08,
             "count": 24,
