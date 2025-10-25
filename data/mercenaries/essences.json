@@ -85,7 +85,7 @@
             ],
             "flavourText": "",
             "chaosValue": 30.0,
-            "exaltedValue": 1.0,
+            "exaltedValue": 0.99,
             "divineValue": 0.15,
             "count": 52,
             "detailsId": "essence-of-delirium",
@@ -177,7 +177,7 @@
             ],
             "flavourText": "",
             "chaosValue": 30.0,
-            "exaltedValue": 1.0,
+            "exaltedValue": 0.99,
             "divineValue": 0.15,
             "count": 46,
             "detailsId": "essence-of-horror",
@@ -269,7 +269,7 @@
             ],
             "flavourText": "",
             "chaosValue": 30.0,
-            "exaltedValue": 1.0,
+            "exaltedValue": 0.99,
             "divineValue": 0.15,
             "count": 52,
             "detailsId": "essence-of-hysteria",
@@ -796,9 +796,9 @@
                     1.88,
                     6,
                     12.5,
-                    10.5
+                    10
                 ],
-                "totalChange": 10.5
+                "totalChange": 10
             },
             "lowConfidenceSparkLine": {
                 "data": [
@@ -808,9 +808,9 @@
                     1.88,
                     6,
                     12.5,
-                    10.5
+                    10
                 ],
-                "totalChange": 10.5
+                "totalChange": 10
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -860,13 +860,77 @@
                 }
             ],
             "flavourText": "",
-            "chaosValue": 4.42,
+            "chaosValue": 4.4,
             "exaltedValue": 0.15,
             "divineValue": 0.02,
-            "count": 80,
+            "count": 79,
             "detailsId": "deafening-essence-of-loathing",
             "tradeInfo": [],
-            "listingCount": 910
+            "listingCount": 909
+        },
+        {
+            "id": 1293,
+            "name": "Shrieking Essence of Spite",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGl0ZTYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3e98d86275/Spite6.png",
+            "mapTier": 6,
+            "baseType": "Shrieking Essence of Spite",
+            "stackSize": 9,
+            "itemClass": 5,
+            "sparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    25,
+                    40,
+                    110
+                ],
+                "totalChange": 110
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    25,
+                    40,
+                    110
+                ],
+                "totalChange": 110
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+                    "optional": false
+                },
+                {
+                    "text": "",
+                    "optional": false
+                },
+                {
+                    "text": "One Handed Weapon: Damage Penetrates 7% Lightning Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Two Handed Weapon: Damage Penetrates (13-14)% Lightning Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Other Item: (43-50) to Intelligence",
+                    "optional": false
+                }
+            ],
+            "flavourText": "",
+            "chaosValue": 4.2,
+            "exaltedValue": 0.14,
+            "divineValue": 0.02,
+            "count": 52,
+            "detailsId": "shrieking-essence-of-spite",
+            "tradeInfo": [],
+            "listingCount": 832
         },
         {
             "id": 371,
@@ -1099,70 +1163,6 @@
             "detailsId": "deafening-essence-of-fear",
             "tradeInfo": [],
             "listingCount": 960
-        },
-        {
-            "id": 1293,
-            "name": "Shrieking Essence of Spite",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGl0ZTYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3e98d86275/Spite6.png",
-            "mapTier": 6,
-            "baseType": "Shrieking Essence of Spite",
-            "stackSize": 9,
-            "itemClass": 5,
-            "sparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    25,
-                    40,
-                    65
-                ],
-                "totalChange": 65
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    25,
-                    40,
-                    65
-                ],
-                "totalChange": 65
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-                    "optional": false
-                },
-                {
-                    "text": "",
-                    "optional": false
-                },
-                {
-                    "text": "One Handed Weapon: Damage Penetrates 7% Lightning Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Two Handed Weapon: Damage Penetrates (13-14)% Lightning Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Other Item: (43-50) to Intelligence",
-                    "optional": false
-                }
-            ],
-            "flavourText": "",
-            "chaosValue": 3.3,
-            "exaltedValue": 0.11,
-            "divineValue": 0.02,
-            "count": 53,
-            "detailsId": "shrieking-essence-of-spite",
-            "tradeInfo": [],
-            "listingCount": 832
         },
         {
             "id": 1852,
@@ -1696,9 +1696,9 @@
                     20.25,
                     22.73,
                     24.38,
-                    29.34
+                    28.93
                 ],
-                "totalChange": 29.34
+                "totalChange": 28.93
             },
             "lowConfidenceSparkLine": {
                 "data": [
@@ -1708,9 +1708,9 @@
                     20.25,
                     22.73,
                     24.38,
-                    29.34
+                    28.93
                 ],
-                "totalChange": 29.34
+                "totalChange": 28.93
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1736,7 +1736,7 @@
                 }
             ],
             "flavourText": "",
-            "chaosValue": 3.13,
+            "chaosValue": 3.12,
             "exaltedValue": 0.1,
             "divineValue": 0.02,
             "count": 75,
@@ -1760,9 +1760,9 @@
                     7.53,
                     7.53,
                     7.53,
-                    9.68
+                    9.32
                 ],
-                "totalChange": 9.68
+                "totalChange": 9.32
             },
             "lowConfidenceSparkLine": {
                 "data": [
@@ -1772,9 +1772,9 @@
                     7.53,
                     7.53,
                     7.53,
-                    9.68
+                    9.32
                 ],
-                "totalChange": 9.68
+                "totalChange": 9.32
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -1816,7 +1816,7 @@
                 }
             ],
             "flavourText": "",
-            "chaosValue": 3.06,
+            "chaosValue": 3.05,
             "exaltedValue": 0.1,
             "divineValue": 0.02,
             "count": 71,
@@ -3641,7 +3641,7 @@
             "count": 34,
             "detailsId": "wailing-essence-of-contempt",
             "tradeInfo": [],
-            "listingCount": 1069
+            "listingCount": 1068
         },
         {
             "id": 1826,
