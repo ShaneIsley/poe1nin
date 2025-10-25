@@ -48,12 +48,12 @@
             ],
             "flavourText": "\"To proclaim a vision of the future is to make it so,\nfor those that have the will, and the way!\"\n- High Templar Andronicus",
             "chaosValue": 34581.6,
-            "exaltedValue": 1180.66,
+            "exaltedValue": 1201.17,
             "divineValue": 180.0,
-            "count": 116,
+            "count": 115,
             "detailsId": "wine-of-the-prophet",
             "tradeInfo": [],
-            "listingCount": 575
+            "listingCount": 574
         },
         {
             "id": 101729,
@@ -99,7 +99,7 @@
             ],
             "flavourText": "They were bred in a cosmic ocean of raw creation.\nFeasting and drinking of the milk of the mother,\nthey fought to the death for every last drop.",
             "chaosValue": 8645.4,
-            "exaltedValue": 295.17,
+            "exaltedValue": 300.29,
             "divineValue": 45.0,
             "count": 1,
             "detailsId": "progenesis-relic",
@@ -158,12 +158,12 @@
             ],
             "flavourText": "They were bred in a cosmic ocean of raw creation.\nFeasting and drinking of the milk of the mother,\nthey fought to the death for every last drop.",
             "chaosValue": 6724.2,
-            "exaltedValue": 229.57,
+            "exaltedValue": 233.56,
             "divineValue": 35.0,
             "count": 255,
             "detailsId": "progenesis",
             "tradeInfo": [],
-            "listingCount": 2018
+            "listingCount": 2019
         },
         {
             "id": 99262,
@@ -214,12 +214,71 @@
             ],
             "flavourText": "A tourniquet for the soul, squeezing ethereal into physical.",
             "chaosValue": 6147.84,
-            "exaltedValue": 209.9,
+            "exaltedValue": 213.54,
             "divineValue": 32.0,
             "count": 1,
             "detailsId": "bottled-faith-relic",
             "tradeInfo": [],
             "listingCount": 8
+        },
+        {
+            "id": 7020,
+            "name": "Soul Ripper",
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvU291bFJpcHBlciIsInciOjEsImgiOjIsInNjYWxlIjoxLCJsZXZlbCI6MSwiZmkiOnRydWV9XQ/949bea87ad/SoulRipper.png",
+            "levelRequired": 27,
+            "baseType": "Quartz Flask",
+            "itemClass": 3,
+            "sparkLine": {
+                "data": [
+                    0,
+                    6.18,
+                    15.75,
+                    21.25,
+                    24.25,
+                    26.89,
+                    27.03
+                ],
+                "totalChange": 27.03
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    6.18,
+                    15.75,
+                    21.25,
+                    24.25,
+                    26.89,
+                    27.03
+                ],
+                "totalChange": 27.03
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "+(-40-90) to Maximum Charges",
+                    "optional": true
+                },
+                {
+                    "text": "Loses all Charges when you enter a new area",
+                    "optional": false
+                },
+                {
+                    "text": "Consumes Maximum Charges to use",
+                    "optional": false
+                },
+                {
+                    "text": "Gain Vaal Souls equal to Charges Consumed when used",
+                    "optional": false
+                }
+            ],
+            "flavourText": "\"What care have I for their pain? They're already dead.\"\n- Atalui, Vaal Priestess",
+            "chaosValue": 5475.42,
+            "exaltedValue": 190.18,
+            "divineValue": 28.5,
+            "count": 8,
+            "detailsId": "soul-ripper",
+            "tradeInfo": [],
+            "listingCount": 116
         },
         {
             "id": 101518,
@@ -257,71 +316,12 @@
             ],
             "flavourText": "Ennui prevailed, until inspiration sparked\na mote of flame, kindled by fury\nand all in his path were obliterated.",
             "chaosValue": 5379.36,
-            "exaltedValue": 183.66,
+            "exaltedValue": 186.85,
             "divineValue": 28.0,
             "count": 1,
             "detailsId": "oriaths-end-relic",
             "tradeInfo": [],
             "listingCount": 31
-        },
-        {
-            "id": 7020,
-            "name": "Soul Ripper",
-            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvU291bFJpcHBlciIsInciOjEsImgiOjIsInNjYWxlIjoxLCJsZXZlbCI6MSwiZmkiOnRydWV9XQ/949bea87ad/SoulRipper.png",
-            "levelRequired": 27,
-            "baseType": "Quartz Flask",
-            "itemClass": 3,
-            "sparkLine": {
-                "data": [
-                    0,
-                    6.18,
-                    15.75,
-                    21.25,
-                    24.25,
-                    26.89,
-                    -6.4
-                ],
-                "totalChange": -6.4
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    6.18,
-                    15.75,
-                    21.25,
-                    24.25,
-                    26.89,
-                    -6.4
-                ],
-                "totalChange": -6.4
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "+(-40-90) to Maximum Charges",
-                    "optional": true
-                },
-                {
-                    "text": "Loses all Charges when you enter a new area",
-                    "optional": false
-                },
-                {
-                    "text": "Consumes Maximum Charges to use",
-                    "optional": false
-                },
-                {
-                    "text": "Gain Vaal Souls equal to Charges Consumed when used",
-                    "optional": false
-                }
-            ],
-            "flavourText": "\"What care have I for their pain? They're already dead.\"\n- Atalui, Vaal Priestess",
-            "chaosValue": 4034.52,
-            "exaltedValue": 137.74,
-            "divineValue": 21.0,
-            "count": 9,
-            "detailsId": "soul-ripper",
-            "tradeInfo": [],
-            "listingCount": 117
         },
         {
             "id": 68384,
@@ -376,7 +376,7 @@
             ],
             "flavourText": "Uhtred and his priests drank of the skies\nto empower runes... and themselves.",
             "chaosValue": 3573.43,
-            "exaltedValue": 122.0,
+            "exaltedValue": 124.12,
             "divineValue": 18.6,
             "count": 11,
             "detailsId": "starlight-chalice",
@@ -435,7 +435,7 @@
             ],
             "flavourText": "All things must die.\nWhether you burn out or explode is up to you.",
             "chaosValue": 2881.8,
-            "exaltedValue": 98.39,
+            "exaltedValue": 100.1,
             "divineValue": 15.0,
             "count": 241,
             "detailsId": "dying-sun",
@@ -499,12 +499,12 @@
             ],
             "flavourText": "A tourniquet for the soul, squeezing ethereal into physical.",
             "chaosValue": 1729.08,
-            "exaltedValue": 59.03,
+            "exaltedValue": 60.06,
             "divineValue": 9.0,
             "count": 251,
             "detailsId": "bottled-faith",
             "tradeInfo": [],
-            "listingCount": 4044
+            "listingCount": 4045
         },
         {
             "id": 68258,
@@ -559,7 +559,7 @@
             ],
             "flavourText": "Nothing endures. All things end.\nThen, they begin again.",
             "chaosValue": 1606.12,
-            "exaltedValue": 54.84,
+            "exaltedValue": 55.79,
             "divineValue": 8.36,
             "count": 5,
             "detailsId": "elixir-of-the-unbroken-circle",
@@ -610,12 +610,12 @@
             ],
             "flavourText": "Ennui prevailed, until inspiration sparked\na mote of flame, kindled by fury\nand all in his path were obliterated.",
             "chaosValue": 768.48,
-            "exaltedValue": 26.24,
+            "exaltedValue": 26.69,
             "divineValue": 4.0,
-            "count": 330,
+            "count": 325,
             "detailsId": "oriaths-end",
             "tradeInfo": [],
-            "listingCount": 4503
+            "listingCount": 4502
         },
         {
             "id": 68588,
@@ -670,7 +670,7 @@
             ],
             "flavourText": "Olroth the Gallant,\ntireless and true,\nhe fights for me,\nhe fights for you!",
             "chaosValue": 576.36,
-            "exaltedValue": 19.68,
+            "exaltedValue": 20.02,
             "divineValue": 3.0,
             "count": 30,
             "detailsId": "olroths-resolve",
@@ -777,12 +777,12 @@
             ],
             "flavourText": "A controlled burn is sometimes necessary for new life.",
             "chaosValue": 192.12,
-            "exaltedValue": 6.56,
+            "exaltedValue": 6.67,
             "divineValue": 1.0,
-            "count": 382,
+            "count": 381,
             "detailsId": "cinderswallow-urn",
             "tradeInfo": [],
-            "listingCount": 17158
+            "listingCount": 17155
         },
         {
             "id": 68096,
@@ -845,7 +845,7 @@
             ],
             "flavourText": "Vorana trained her mercenaries\nthus: strike true and survive.",
             "chaosValue": 90.0,
-            "exaltedValue": 3.07,
+            "exaltedValue": 3.13,
             "divineValue": 0.47,
             "count": 13,
             "detailsId": "voranas-preparation",
@@ -905,12 +905,12 @@
             ],
             "flavourText": "\"Success! Prototype #54 has tapped into that sliver of divinity that exists within.\nFaith fuels the flesh, and the flesh fuels the fire...\"",
             "chaosValue": 40.0,
-            "exaltedValue": 1.37,
+            "exaltedValue": 1.39,
             "divineValue": 0.21,
-            "count": 67,
+            "count": 66,
             "detailsId": "replica-sorrow-of-the-divine",
             "tradeInfo": [],
-            "listingCount": 2274
+            "listingCount": 2273
         },
         {
             "id": 44550,
@@ -968,7 +968,7 @@
             ],
             "flavourText": "\"The most terrifying split second of my life.\" \n- Researcher Graven",
             "chaosValue": 30.0,
-            "exaltedValue": 1.02,
+            "exaltedValue": 1.04,
             "divineValue": 0.16,
             "count": 38,
             "detailsId": "replica-rumis-concoction",
@@ -1019,7 +1019,7 @@
             ],
             "flavourText": "\"Yesterday I was clever, so I wanted to change the world.\nToday I am wise, so I am changing myself.\"\n-Rumi of the Vaal",
             "chaosValue": 20.0,
-            "exaltedValue": 0.68,
+            "exaltedValue": 0.69,
             "divineValue": 0.1,
             "count": 399,
             "detailsId": "rumis-concoction",
@@ -1078,12 +1078,12 @@
             ],
             "flavourText": "A sip will freeze your lips,\nA swig will chill your heart,\nA glass will still your soul.",
             "chaosValue": 20.0,
-            "exaltedValue": 0.68,
+            "exaltedValue": 0.69,
             "divineValue": 0.1,
-            "count": 219,
+            "count": 217,
             "detailsId": "taste-of-hate",
             "tradeInfo": [],
-            "listingCount": 11125
+            "listingCount": 11124
         },
         {
             "id": 1956,
@@ -1134,12 +1134,12 @@
             ],
             "flavourText": "And from the ashes he rose, like a black cloud.\nThe Sin of one became the Sin of many.",
             "chaosValue": 20.0,
-            "exaltedValue": 0.68,
+            "exaltedValue": 0.69,
             "divineValue": 0.1,
             "count": 55,
             "detailsId": "sins-rebirth",
             "tradeInfo": [],
-            "listingCount": 2716
+            "listingCount": 2714
         },
         {
             "id": 60420,
@@ -1217,7 +1217,7 @@
             ],
             "flavourText": "The great city of storms, washed away by Vinktar's thirst for power.",
             "chaosValue": 20.0,
-            "exaltedValue": 0.68,
+            "exaltedValue": 0.69,
             "divineValue": 0.1,
             "count": 55,
             "detailsId": "vessel-of-vinktar",
@@ -1280,7 +1280,7 @@
             ],
             "flavourText": "\"An intriguing paradox.\"",
             "chaosValue": 18.0,
-            "exaltedValue": 0.61,
+            "exaltedValue": 0.63,
             "divineValue": 0.09,
             "count": 48,
             "detailsId": "replica-laviangas-spirit",
@@ -1335,12 +1335,12 @@
             ],
             "flavourText": "Let blood sear in your veins, \nLet the pain push outwards and turn away your enemy's blows.",
             "chaosValue": 10.0,
-            "exaltedValue": 0.34,
+            "exaltedValue": 0.35,
             "divineValue": 0.05,
             "count": 158,
             "detailsId": "coruscating-elixir",
             "tradeInfo": [],
-            "listingCount": 7125
+            "listingCount": 7124
         },
         {
             "id": 1904,
@@ -1386,12 +1386,12 @@
             ],
             "flavourText": "\"Proof that if you devote yourself to a god of death,\nyou may be spared from its wrath.\"\n- Icius Perandus, Antiquities Collection, Item 408",
             "chaosValue": 10.0,
-            "exaltedValue": 0.34,
+            "exaltedValue": 0.35,
             "divineValue": 0.05,
-            "count": 50,
+            "count": 49,
             "detailsId": "zerphis-last-breath",
             "tradeInfo": [],
-            "listingCount": 2260
+            "listingCount": 2259
         },
         {
             "id": 109029,
@@ -1446,9 +1446,9 @@
             ],
             "flavourText": "\"Nobody will listen to me, because I'm the only one that sees it.\nNothing left to do now but drink until this world makes sense.\"\n- Researcher Graven",
             "chaosValue": 10.0,
-            "exaltedValue": 0.34,
+            "exaltedValue": 0.35,
             "divineValue": 0.05,
-            "count": 30,
+            "count": 29,
             "detailsId": "replica-witchfire-brew",
             "tradeInfo": [],
             "listingCount": 1039
@@ -1503,7 +1503,7 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.17,
             "divineValue": 0.03,
-            "count": 213,
+            "count": 214,
             "detailsId": "atziris-promise",
             "tradeInfo": [],
             "listingCount": 6185
@@ -1562,10 +1562,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.17,
             "divineValue": 0.03,
-            "count": 207,
+            "count": 205,
             "detailsId": "lions-roar",
             "tradeInfo": [],
-            "listingCount": 8646
+            "listingCount": 8645
         },
         {
             "id": 1679,
@@ -1624,7 +1624,7 @@
             "count": 262,
             "detailsId": "the-writhing-jar",
             "tradeInfo": [],
-            "listingCount": 13050
+            "listingCount": 13049
         },
         {
             "id": 1893,
@@ -1681,10 +1681,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.17,
             "divineValue": 0.03,
-            "count": 144,
+            "count": 145,
             "detailsId": "witchfire-brew",
             "tradeInfo": [],
-            "listingCount": 7483
+            "listingCount": 7484
         },
         {
             "id": 2075,
@@ -1844,7 +1844,7 @@
             ],
             "flavourText": "Freedom is for the privileged, even in death.\n\n<default>{This item can be transformed on the Altar of Sacrifice along with Vial of the Ghost}",
             "chaosValue": 4.2,
-            "exaltedValue": 0.14,
+            "exaltedValue": 0.15,
             "divineValue": 0.02,
             "count": 84,
             "detailsId": "soul-catcher",
@@ -1906,69 +1906,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.1,
             "divineValue": 0.02,
-            "count": 355,
+            "count": 352,
             "detailsId": "the-sorrow-of-the-divine",
             "tradeInfo": [],
-            "listingCount": 18828
-        },
-        {
-            "id": 1068,
-            "name": "Rotgut",
-            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvUm90Z3V0IiwidyI6MSwiaCI6Miwic2NhbGUiOjEsImxldmVsIjoxfV0/80c2799242/Rotgut.png",
-            "levelRequired": 40,
-            "baseType": "Quicksilver Flask",
-            "itemClass": 3,
-            "sparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    100,
-                    100,
-                    100
-                ],
-                "totalChange": 100
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    100,
-                    100,
-                    100
-                ],
-                "totalChange": 100
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "50% chance to gain a Flask Charge when you deal a Critical Strike",
-                    "optional": false
-                },
-                {
-                    "text": "(30-50)% increased Duration",
-                    "optional": false
-                },
-                {
-                    "text": "Consumes Frenzy Charges on use",
-                    "optional": false
-                },
-                {
-                    "text": "Gain Onslaught for 3 seconds per Frenzy Charge consumed on use",
-                    "optional": false
-                }
-            ],
-            "flavourText": "Rancid, rotten, and wicked are those that dare to taste my serum.",
-            "chaosValue": 2.0,
-            "exaltedValue": 0.07,
-            "divineValue": 0.01,
-            "count": 213,
-            "detailsId": "rotgut",
-            "tradeInfo": [],
-            "listingCount": 10365
+            "listingCount": 18824
         },
         {
             "id": 1561,
@@ -2025,10 +1966,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.07,
             "divineValue": 0.01,
-            "count": 317,
+            "count": 318,
             "detailsId": "the-overflowing-chalice",
             "tradeInfo": [],
-            "listingCount": 16847
+            "listingCount": 16849
         },
         {
             "id": 174,
@@ -2210,7 +2151,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.01,
-            "count": 194,
+            "count": 193,
             "detailsId": "forbidden-taste",
             "tradeInfo": [],
             "listingCount": 8800
@@ -2261,10 +2202,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.01,
-            "count": 366,
+            "count": 363,
             "detailsId": "kiaras-determination",
             "tradeInfo": [],
-            "listingCount": 22439
+            "listingCount": 22436
         },
         {
             "id": 739,
@@ -2316,10 +2257,69 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.01,
-            "count": 193,
+            "count": 194,
             "detailsId": "laviangas-spirit",
             "tradeInfo": [],
-            "listingCount": 12871
+            "listingCount": 12869
+        },
+        {
+            "id": 1068,
+            "name": "Rotgut",
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvUm90Z3V0IiwidyI6MSwiaCI6Miwic2NhbGUiOjEsImxldmVsIjoxfV0/80c2799242/Rotgut.png",
+            "levelRequired": 40,
+            "baseType": "Quicksilver Flask",
+            "itemClass": 3,
+            "sparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    0
+                ],
+                "totalChange": 0
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    0
+                ],
+                "totalChange": 0
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "50% chance to gain a Flask Charge when you deal a Critical Strike",
+                    "optional": false
+                },
+                {
+                    "text": "(30-50)% increased Duration",
+                    "optional": false
+                },
+                {
+                    "text": "Consumes Frenzy Charges on use",
+                    "optional": false
+                },
+                {
+                    "text": "Gain Onslaught for 3 seconds per Frenzy Charge consumed on use",
+                    "optional": false
+                }
+            ],
+            "flavourText": "Rancid, rotten, and wicked are those that dare to taste my serum.",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.03,
+            "divineValue": 0.01,
+            "count": 214,
+            "detailsId": "rotgut",
+            "tradeInfo": [],
+            "listingCount": 10364
         },
         {
             "id": 2283,
@@ -2378,7 +2378,7 @@
             "count": 174,
             "detailsId": "coralitos-signature",
             "tradeInfo": [],
-            "listingCount": 9751
+            "listingCount": 9750
         }
     ]
 }
