@@ -371,10 +371,10 @@
             "chaosValue": 4405.42,
             "exaltedValue": 157.28,
             "divineValue": 22.6,
-            "count": 25,
+            "count": 26,
             "detailsId": "the-apothecary",
             "tradeInfo": [],
-            "listingCount": 294
+            "listingCount": 295
         },
         {
             "id": 98357,
@@ -515,10 +515,10 @@
             "chaosValue": 1267.04,
             "exaltedValue": 45.24,
             "divineValue": 6.5,
-            "count": 48,
+            "count": 49,
             "detailsId": "seven-years-bad-luck",
             "tradeInfo": [],
-            "listingCount": 850
+            "listingCount": 851
         },
         {
             "id": 100481,
@@ -711,9 +711,9 @@
                     -9.42,
                     -9.76,
                     -4.67,
-                    -23.34
+                    -21.74
                 ],
-                "totalChange": -23.34
+                "totalChange": -21.74
             },
             "lowConfidenceSparkLine": {
                 "data": [
@@ -723,9 +723,9 @@
                     -9.42,
                     -9.76,
                     -4.67,
-                    -23.34
+                    -21.74
                 ],
-                "totalChange": -23.34
+                "totalChange": -21.74
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -735,13 +735,13 @@
                 }
             ],
             "flavourText": "Sometimes the best way to achieve greatness is to use a shortcut.",
-            "chaosValue": 935.66,
-            "exaltedValue": 33.4,
-            "divineValue": 4.8,
-            "count": 19,
+            "chaosValue": 955.16,
+            "exaltedValue": 34.1,
+            "divineValue": 4.9,
+            "count": 20,
             "detailsId": "the-cheater",
             "tradeInfo": [],
-            "listingCount": 209
+            "listingCount": 210
         },
         {
             "id": 109083,
@@ -2195,7 +2195,7 @@
             "count": 31,
             "detailsId": "the-sephirot",
             "tradeInfo": [],
-            "listingCount": 1153
+            "listingCount": 1151
         },
         {
             "id": 1615,
@@ -3379,7 +3379,7 @@
             "count": 21,
             "detailsId": "the-enlightened",
             "tradeInfo": [],
-            "listingCount": 752
+            "listingCount": 751
         },
         {
             "id": 1503,
@@ -3838,54 +3838,6 @@
             "listingCount": 132
         },
         {
-            "id": 22463,
-            "name": "Azyran's Reward",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Azyran's Reward",
-            "stackSize": 9,
-            "artFilename": "AzyransReward",
-            "itemClass": 6,
-            "sparkLine": {
-                "data": [
-                    0,
-                    0,
-                    -10,
-                    -28.33,
-                    -28.33,
-                    -30,
-                    -28.33
-                ],
-                "totalChange": -28.33
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    0,
-                    -10,
-                    -28.33,
-                    -28.33,
-                    -30,
-                    -28.33
-                ],
-                "totalChange": -28.33
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Prismatic Jewel}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "flavourText": "Method transcends shape and size. Do something in parallel long enough, and you will always find \nanother way.",
-            "chaosValue": 43.0,
-            "exaltedValue": 1.54,
-            "divineValue": 0.22,
-            "count": 16,
-            "detailsId": "azyrans-reward",
-            "tradeInfo": [],
-            "listingCount": 247
-        },
-        {
             "id": 71302,
             "name": "The Catch",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -3932,6 +3884,54 @@
             "detailsId": "the-catch",
             "tradeInfo": [],
             "listingCount": 115
+        },
+        {
+            "id": 22463,
+            "name": "Azyran's Reward",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Azyran's Reward",
+            "stackSize": 9,
+            "artFilename": "AzyransReward",
+            "itemClass": 6,
+            "sparkLine": {
+                "data": [
+                    0,
+                    0,
+                    -10,
+                    -28.33,
+                    -28.33,
+                    -30,
+                    -30
+                ],
+                "totalChange": -30
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    0,
+                    -10,
+                    -28.33,
+                    -28.33,
+                    -30,
+                    -30
+                ],
+                "totalChange": -30
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Prismatic Jewel}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "flavourText": "Method transcends shape and size. Do something in parallel long enough, and you will always find \nanother way.",
+            "chaosValue": 42.0,
+            "exaltedValue": 1.5,
+            "divineValue": 0.22,
+            "count": 15,
+            "detailsId": "azyrans-reward",
+            "tradeInfo": [],
+            "listingCount": 247
         },
         {
             "id": 20716,
@@ -4579,7 +4579,7 @@
             "count": 11,
             "detailsId": "home",
             "tradeInfo": [],
-            "listingCount": 285
+            "listingCount": 284
         },
         {
             "id": 71023,
@@ -8303,10 +8303,10 @@
             "chaosValue": 10.0,
             "exaltedValue": 0.36,
             "divineValue": 0.05,
-            "count": 17,
+            "count": 16,
             "detailsId": "the-enthusiasts",
             "tradeInfo": [],
-            "listingCount": 312
+            "listingCount": 311
         },
         {
             "id": 71079,
@@ -11811,54 +11811,6 @@
             "listingCount": 593
         },
         {
-            "id": 23831,
-            "name": "The Escape",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Escape",
-            "stackSize": 5,
-            "artFilename": "TheEscape",
-            "itemClass": 6,
-            "sparkLine": {
-                "data": [
-                    0,
-                    -2.27,
-                    -4.55,
-                    -6.82,
-                    -6.82,
-                    -6.82,
-                    -11.36
-                ],
-                "totalChange": -11.36
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    -2.27,
-                    -4.55,
-                    -6.82,
-                    -6.82,
-                    -6.82,
-                    -11.36
-                ],
-                "totalChange": -11.36
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Seven-League Step}",
-                    "optional": false
-                }
-            ],
-            "flavourText": "In fleeing reality, you step into the realm of madness.",
-            "chaosValue": 3.9,
-            "exaltedValue": 0.14,
-            "divineValue": 0.02,
-            "count": 20,
-            "detailsId": "the-escape",
-            "tradeInfo": [],
-            "listingCount": 523
-        },
-        {
             "id": 188,
             "name": "Bowyer's Dream",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12041,6 +11993,54 @@
             "detailsId": "the-sun",
             "tradeInfo": [],
             "listingCount": 623
+        },
+        {
+            "id": 23831,
+            "name": "The Escape",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Escape",
+            "stackSize": 5,
+            "artFilename": "TheEscape",
+            "itemClass": 6,
+            "sparkLine": {
+                "data": [
+                    0,
+                    -2.27,
+                    -4.55,
+                    -6.82,
+                    -6.82,
+                    -6.82,
+                    -13.64
+                ],
+                "totalChange": -13.64
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    -2.27,
+                    -4.55,
+                    -6.82,
+                    -6.82,
+                    -6.82,
+                    -13.64
+                ],
+                "totalChange": -13.64
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Seven-League Step}",
+                    "optional": false
+                }
+            ],
+            "flavourText": "In fleeing reality, you step into the realm of madness.",
+            "chaosValue": 3.8,
+            "exaltedValue": 0.14,
+            "divineValue": 0.02,
+            "count": 19,
+            "detailsId": "the-escape",
+            "tradeInfo": [],
+            "listingCount": 523
         },
         {
             "id": 100534,
@@ -14441,54 +14441,6 @@
             "listingCount": 1585
         },
         {
-            "id": 71061,
-            "name": "Disdain",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Disdain",
-            "stackSize": 5,
-            "artFilename": "Disdain",
-            "itemClass": 6,
-            "sparkLine": {
-                "data": [
-                    0,
-                    0,
-                    10.87,
-                    17.39,
-                    21.74,
-                    17.39,
-                    21.74
-                ],
-                "totalChange": 21.74
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    0,
-                    10.87,
-                    17.39,
-                    21.74,
-                    17.39,
-                    21.74
-                ],
-                "totalChange": 21.74
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{Delirium Orb}",
-                    "optional": false
-                }
-            ],
-            "flavourText": "<size:28>{No man sees all, but you'll see more than some see in a lifetime.}",
-            "chaosValue": 2.8,
-            "exaltedValue": 0.1,
-            "divineValue": 0.01,
-            "count": 19,
-            "detailsId": "disdain",
-            "tradeInfo": [],
-            "listingCount": 805
-        },
-        {
             "id": 982,
             "name": "Prosperity",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -14775,6 +14727,54 @@
             "detailsId": "the-price-of-protection",
             "tradeInfo": [],
             "listingCount": 586
+        },
+        {
+            "id": 71061,
+            "name": "Disdain",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Disdain",
+            "stackSize": 5,
+            "artFilename": "Disdain",
+            "itemClass": 6,
+            "sparkLine": {
+                "data": [
+                    0,
+                    0,
+                    10.87,
+                    17.39,
+                    21.74,
+                    17.39,
+                    17.39
+                ],
+                "totalChange": 17.39
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    0,
+                    10.87,
+                    17.39,
+                    21.74,
+                    17.39,
+                    17.39
+                ],
+                "totalChange": 17.39
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{Delirium Orb}",
+                    "optional": false
+                }
+            ],
+            "flavourText": "<size:28>{No man sees all, but you'll see more than some see in a lifetime.}",
+            "chaosValue": 2.7,
+            "exaltedValue": 0.1,
+            "divineValue": 0.01,
+            "count": 18,
+            "detailsId": "disdain",
+            "tradeInfo": [],
+            "listingCount": 805
         },
         {
             "id": 1425,
@@ -18682,7 +18682,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.01,
-            "count": 291,
+            "count": 290,
             "detailsId": "emperors-luck",
             "tradeInfo": [],
             "listingCount": 2429
