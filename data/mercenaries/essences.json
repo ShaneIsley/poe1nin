@@ -85,7 +85,7 @@
             ],
             "flavourText": "",
             "chaosValue": 30.0,
-            "exaltedValue": 0.98,
+            "exaltedValue": 0.97,
             "divineValue": 0.15,
             "count": 51,
             "detailsId": "essence-of-horror",
@@ -177,7 +177,7 @@
             ],
             "flavourText": "",
             "chaosValue": 29.1,
-            "exaltedValue": 0.95,
+            "exaltedValue": 0.94,
             "divineValue": 0.14,
             "count": 58,
             "detailsId": "essence-of-hysteria",
@@ -425,7 +425,7 @@
             ],
             "flavourText": "",
             "chaosValue": 10.0,
-            "exaltedValue": 0.33,
+            "exaltedValue": 0.32,
             "divineValue": 0.05,
             "count": 93,
             "detailsId": "deafening-essence-of-spite",
@@ -671,7 +671,7 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.16,
             "divineValue": 0.02,
-            "count": 40,
+            "count": 39,
             "detailsId": "shrieking-essence-of-scorn",
             "tradeInfo": [],
             "listingCount": 775
@@ -1101,6 +1101,70 @@
             "listingCount": 994
         },
         {
+            "id": 1293,
+            "name": "Shrieking Essence of Spite",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGl0ZTYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3e98d86275/Spite6.png",
+            "mapTier": 6,
+            "baseType": "Shrieking Essence of Spite",
+            "stackSize": 9,
+            "itemClass": 5,
+            "sparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    25,
+                    40,
+                    75,
+                    90
+                ],
+                "totalChange": 90
+            },
+            "lowConfidenceSparkLine": {
+                "data": [
+                    0,
+                    0,
+                    0,
+                    25,
+                    40,
+                    75,
+                    90
+                ],
+                "totalChange": 90
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+                    "optional": false
+                },
+                {
+                    "text": "",
+                    "optional": false
+                },
+                {
+                    "text": "One Handed Weapon: Damage Penetrates 7% Lightning Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Two Handed Weapon: Damage Penetrates (13-14)% Lightning Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Other Item: (43-50) to Intelligence",
+                    "optional": false
+                }
+            ],
+            "flavourText": "",
+            "chaosValue": 3.8,
+            "exaltedValue": 0.12,
+            "divineValue": 0.02,
+            "count": 58,
+            "detailsId": "shrieking-essence-of-spite",
+            "tradeInfo": [],
+            "listingCount": 831
+        },
+        {
             "id": 375,
             "name": "Deafening Essence of Fear",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/497aea3b75/Fear7.png",
@@ -1183,70 +1247,6 @@
             "detailsId": "deafening-essence-of-fear",
             "tradeInfo": [],
             "listingCount": 948
-        },
-        {
-            "id": 1293,
-            "name": "Shrieking Essence of Spite",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGl0ZTYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3e98d86275/Spite6.png",
-            "mapTier": 6,
-            "baseType": "Shrieking Essence of Spite",
-            "stackSize": 9,
-            "itemClass": 5,
-            "sparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    25,
-                    40,
-                    75,
-                    85
-                ],
-                "totalChange": 85
-            },
-            "lowConfidenceSparkLine": {
-                "data": [
-                    0,
-                    0,
-                    0,
-                    25,
-                    40,
-                    75,
-                    85
-                ],
-                "totalChange": 85
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-                    "optional": false
-                },
-                {
-                    "text": "",
-                    "optional": false
-                },
-                {
-                    "text": "One Handed Weapon: Damage Penetrates 7% Lightning Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Two Handed Weapon: Damage Penetrates (13-14)% Lightning Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Other Item: (43-50) to Intelligence",
-                    "optional": false
-                }
-            ],
-            "flavourText": "",
-            "chaosValue": 3.7,
-            "exaltedValue": 0.12,
-            "divineValue": 0.02,
-            "count": 57,
-            "detailsId": "shrieking-essence-of-spite",
-            "tradeInfo": [],
-            "listingCount": 830
         },
         {
             "id": 369,
@@ -2719,9 +2719,9 @@
                     50,
                     0,
                     80,
-                    140
+                    120
                 ],
-                "totalChange": 140
+                "totalChange": 120
             },
             "lowConfidenceSparkLine": {
                 "data": [
@@ -2731,9 +2731,9 @@
                     50,
                     0,
                     80,
-                    140
+                    120
                 ],
-                "totalChange": 140
+                "totalChange": 120
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -2779,10 +2779,10 @@
                 }
             ],
             "flavourText": "",
-            "chaosValue": 2.4,
-            "exaltedValue": 0.08,
+            "chaosValue": 2.2,
+            "exaltedValue": 0.07,
             "divineValue": 0.01,
-            "count": 23,
+            "count": 22,
             "detailsId": "weeping-essence-of-wrath",
             "tradeInfo": [],
             "listingCount": 895
@@ -2948,7 +2948,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.07,
+            "exaltedValue": 0.06,
             "divineValue": 0.01,
             "count": 81,
             "detailsId": "deafening-essence-of-suffering",
@@ -3032,7 +3032,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.07,
+            "exaltedValue": 0.06,
             "divineValue": 0.01,
             "count": 85,
             "detailsId": "screaming-essence-of-scorn",
@@ -3112,7 +3112,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.07,
+            "exaltedValue": 0.06,
             "divineValue": 0.01,
             "count": 51,
             "detailsId": "shrieking-essence-of-anger",
@@ -3196,7 +3196,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.07,
+            "exaltedValue": 0.06,
             "divineValue": 0.01,
             "count": 49,
             "detailsId": "shrieking-essence-of-contempt",
@@ -3280,7 +3280,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.07,
+            "exaltedValue": 0.06,
             "divineValue": 0.01,
             "count": 49,
             "detailsId": "shrieking-essence-of-fear",
@@ -3368,7 +3368,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.07,
+            "exaltedValue": 0.06,
             "divineValue": 0.01,
             "count": 55,
             "detailsId": "shrieking-essence-of-greed",
@@ -3448,7 +3448,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.07,
+            "exaltedValue": 0.06,
             "divineValue": 0.01,
             "count": 65,
             "detailsId": "shrieking-essence-of-hatred",
@@ -3536,7 +3536,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.07,
+            "exaltedValue": 0.06,
             "divineValue": 0.01,
             "count": 41,
             "detailsId": "shrieking-essence-of-loathing",
@@ -3600,7 +3600,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.07,
+            "exaltedValue": 0.06,
             "divineValue": 0.01,
             "count": 48,
             "detailsId": "shrieking-essence-of-rage",
@@ -3692,7 +3692,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.07,
+            "exaltedValue": 0.06,
             "divineValue": 0.01,
             "count": 52,
             "detailsId": "shrieking-essence-of-woe",
@@ -3780,7 +3780,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.07,
+            "exaltedValue": 0.06,
             "divineValue": 0.01,
             "count": 39,
             "detailsId": "wailing-essence-of-contempt",
@@ -3872,7 +3872,7 @@
             ],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.07,
+            "exaltedValue": 0.06,
             "divineValue": 0.01,
             "count": 21,
             "detailsId": "weeping-essence-of-suffering",
@@ -4463,9 +4463,9 @@
                     0,
                     0,
                     22.5,
-                    40
+                    35
                 ],
-                "totalChange": 40
+                "totalChange": 35
             },
             "lowConfidenceSparkLine": {
                 "data": [
@@ -4475,9 +4475,9 @@
                     0,
                     0,
                     22.5,
-                    40
+                    35
                 ],
-                "totalChange": 40
+                "totalChange": 35
             },
             "implicitModifiers": [],
             "explicitModifiers": [
@@ -4523,10 +4523,10 @@
                 }
             ],
             "flavourText": "",
-            "chaosValue": 1.4,
-            "exaltedValue": 0.05,
+            "chaosValue": 1.35,
+            "exaltedValue": 0.04,
             "divineValue": 0.01,
-            "count": 52,
+            "count": 51,
             "detailsId": "shrieking-essence-of-doubt",
             "tradeInfo": [],
             "listingCount": 1012
@@ -5802,7 +5802,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 91,
+            "count": 92,
             "detailsId": "screaming-essence-of-greed",
             "tradeInfo": [],
             "listingCount": 2014
@@ -6034,7 +6034,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 85,
+            "count": 84,
             "detailsId": "screaming-essence-of-rage",
             "tradeInfo": [],
             "listingCount": 1798
@@ -6162,10 +6162,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 73,
+            "count": 74,
             "detailsId": "screaming-essence-of-spite",
             "tradeInfo": [],
-            "listingCount": 1653
+            "listingCount": 1654
         },
         {
             "id": 1100,
@@ -6430,7 +6430,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 96,
+            "count": 95,
             "detailsId": "screaming-essence-of-woe",
             "tradeInfo": [],
             "listingCount": 2001
@@ -8406,7 +8406,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 39,
+            "count": 38,
             "detailsId": "weeping-essence-of-woe",
             "tradeInfo": [],
             "listingCount": 1093
