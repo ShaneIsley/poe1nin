@@ -6,7 +6,7 @@ import re
 
 # --- CONFIGURATION ---
 DB_FILE = "poe1_economy.db"
-LEAGUE_NAME = "Mercenaries" # Should match the name in fetch_data.py
+LEAGUE_NAME = "Keepers" # Should match the name in fetch_data.py
 CHARTS_DIR = "charts"
 README_FILE = "README.md"
 
