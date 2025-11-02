@@ -37,11 +37,11 @@ jobs:
         run: python fetch_data.py
 
       # Step 5: (Optional but good practice) Compact the database
-      #- name: Vacuum Database
-      #  run: |
-      #    if [ -f "poe1_economy.db" ]; then
-      #      sqlite3 poe1_economy.db "VACUUM;"
-      #    fi
+      - name: Vacuum Database
+        run: |
+          if [ -f "poe1_economy.db" ]; then
+            sqlite3 poe1_economy.db "VACUUM;"
+          fi
 
       # Step 6: Run the analysis script to generate charts and update the README
       - name: Run Analysis Script
