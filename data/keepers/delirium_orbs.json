@@ -40,7 +40,7 @@
             ],
             "flavourText": "",
             "chaosValue": 4.6,
-            "exaltedValue": 0.67,
+            "exaltedValue": 0.68,
             "divineValue": 0.05,
             "count": 10,
             "detailsId": "skittering-delirium-orb",
@@ -102,7 +102,7 @@
             "stackSize": 10,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": -4.29,
+                "totalChange": 4.29,
                 "data": [
                     null,
                     null,
@@ -110,11 +110,11 @@
                     null,
                     null,
                     0,
-                    -4.29
+                    4.29
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -4.29,
+                "totalChange": 4.29,
                 "data": [
                     null,
                     null,
@@ -122,7 +122,7 @@
                     null,
                     null,
                     0,
-                    -4.29
+                    4.29
                 ]
             },
             "implicitModifiers": [],
@@ -133,13 +133,60 @@
                 }
             ],
             "flavourText": "",
-            "chaosValue": 2.01,
-            "exaltedValue": 0.29,
+            "chaosValue": 2.19,
+            "exaltedValue": 0.32,
             "divineValue": 0.02,
             "count": 22,
             "detailsId": "timeless-delirium-orb",
             "tradeInfo": [],
             "listingCount": 22
+        },
+        {
+            "id": 40905,
+            "name": "Cartographer's Delirium Orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ad4a59a2fc/DeliriumOrbMaps.png",
+            "baseType": "Cartographer's Delirium Orb",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Modifies a Map item adding layers of Delirium with the Map Items reward type",
+                    "optional": false
+                }
+            ],
+            "flavourText": "",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.29,
+            "divineValue": 0.02,
+            "count": 61,
+            "detailsId": "cartographers-delirium-orb",
+            "tradeInfo": [],
+            "listingCount": 61
         },
         {
             "id": 40914,
@@ -183,16 +230,63 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.29,
             "divineValue": 0.02,
-            "count": 27,
+            "count": 26,
             "detailsId": "fossilised-delirium-orb",
             "tradeInfo": [],
-            "listingCount": 27
+            "listingCount": 26
         },
         {
-            "id": 40905,
-            "name": "Cartographer's Delirium Orb",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ad4a59a2fc/DeliriumOrbMaps.png",
-            "baseType": "Cartographer's Delirium Orb",
+            "id": 40922,
+            "name": "Blighted Delirium Orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJCbGlnaHQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b609cfbb50/DeliriumOrbBlight.png",
+            "baseType": "Blighted Delirium Orb",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -80,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    0,
+                    -72,
+                    -80
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Modifies a Map item adding layers of Delirium with the Blight reward type",
+                    "optional": false
+                }
+            ],
+            "flavourText": "",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.29,
+            "divineValue": 0.02,
+            "count": 26,
+            "detailsId": "blighted-delirium-orb",
+            "tradeInfo": [],
+            "listingCount": 26
+        },
+        {
+            "id": 40909,
+            "name": "Singular Delirium Orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJVbmlxdWVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/69797d10bb/DeliriumOrbUniques.png",
+            "baseType": "Singular Delirium Orb",
             "stackSize": 10,
             "itemClass": 5,
             "sparkLine": {
@@ -222,7 +316,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "Modifies a Map item adding layers of Delirium with the Map Items reward type",
+                    "text": "Modifies a Map item adding layers of Delirium with the Unique Items reward type",
                     "optional": false
                 }
             ],
@@ -230,10 +324,10 @@
             "chaosValue": 1.8,
             "exaltedValue": 0.26,
             "divineValue": 0.02,
-            "count": 59,
-            "detailsId": "cartographers-delirium-orb",
+            "count": 40,
+            "detailsId": "singular-delirium-orb",
             "tradeInfo": [],
-            "listingCount": 59
+            "listingCount": 40
         },
         {
             "id": 40919,
@@ -283,147 +377,6 @@
             "listingCount": 258
         },
         {
-            "id": 40922,
-            "name": "Blighted Delirium Orb",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJCbGlnaHQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b609cfbb50/DeliriumOrbBlight.png",
-            "baseType": "Blighted Delirium Orb",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    0
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -82,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    0,
-                    -72,
-                    -82
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Modifies a Map item adding layers of Delirium with the Blight reward type",
-                    "optional": false
-                }
-            ],
-            "flavourText": "",
-            "chaosValue": 1.8,
-            "exaltedValue": 0.26,
-            "divineValue": 0.02,
-            "count": 25,
-            "detailsId": "blighted-delirium-orb",
-            "tradeInfo": [],
-            "listingCount": 25
-        },
-        {
-            "id": 40917,
-            "name": "Foreboding Delirium Orb",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJIYXJiaW5nZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/707c1f792a/DeliriumOrbHarbinger.png",
-            "baseType": "Foreboding Delirium Orb",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": 70,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    0,
-                    70
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 70,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    0,
-                    70
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Modifies a Map item adding layers of Delirium with the Harbinger Items reward type",
-                    "optional": false
-                }
-            ],
-            "flavourText": "",
-            "chaosValue": 1.7,
-            "exaltedValue": 0.25,
-            "divineValue": 0.02,
-            "count": 48,
-            "detailsId": "foreboding-delirium-orb",
-            "tradeInfo": [],
-            "listingCount": 48
-        },
-        {
-            "id": 40909,
-            "name": "Singular Delirium Orb",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJVbmlxdWVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/69797d10bb/DeliriumOrbUniques.png",
-            "baseType": "Singular Delirium Orb",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": -20,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    0,
-                    -20
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -20,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    0,
-                    -20
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Modifies a Map item adding layers of Delirium with the Unique Items reward type",
-                    "optional": false
-                }
-            ],
-            "flavourText": "",
-            "chaosValue": 1.6,
-            "exaltedValue": 0.23,
-            "divineValue": 0.02,
-            "count": 38,
-            "detailsId": "singular-delirium-orb",
-            "tradeInfo": [],
-            "listingCount": 38
-        },
-        {
             "id": 40907,
             "name": "Abyssal Delirium Orb",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJBYnlzcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9c2b5d6d64/DeliriumOrbAbyss.png",
@@ -463,7 +416,7 @@
             ],
             "flavourText": "",
             "chaosValue": 1.4,
-            "exaltedValue": 0.2,
+            "exaltedValue": 0.21,
             "divineValue": 0.01,
             "count": 25,
             "detailsId": "abyssal-delirium-orb",
@@ -559,10 +512,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.15,
             "divineValue": 0.01,
-            "count": 326,
+            "count": 333,
             "detailsId": "jewellers-delirium-orb",
             "tradeInfo": [],
-            "listingCount": 326
+            "listingCount": 333
         },
         {
             "id": 40910,
@@ -653,10 +606,57 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.15,
             "divineValue": 0.01,
-            "count": 321,
+            "count": 324,
             "detailsId": "armoursmiths-delirium-orb",
             "tradeInfo": [],
-            "listingCount": 321
+            "listingCount": 324
+        },
+        {
+            "id": 40917,
+            "name": "Foreboding Delirium Orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJIYXJiaW5nZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/707c1f792a/DeliriumOrbHarbinger.png",
+            "baseType": "Foreboding Delirium Orb",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Modifies a Map item adding layers of Delirium with the Harbinger Items reward type",
+                    "optional": false
+                }
+            ],
+            "flavourText": "",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.15,
+            "divineValue": 0.01,
+            "count": 49,
+            "detailsId": "foreboding-delirium-orb",
+            "tradeInfo": [],
+            "listingCount": 49
         },
         {
             "id": 40921,
@@ -700,10 +700,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.15,
             "divineValue": 0.01,
-            "count": 330,
+            "count": 336,
             "detailsId": "blacksmiths-delirium-orb",
             "tradeInfo": [],
-            "listingCount": 330
+            "listingCount": 336
         },
         {
             "id": 40924,
@@ -747,10 +747,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.15,
             "divineValue": 0.01,
-            "count": 51,
+            "count": 52,
             "detailsId": "whispering-delirium-orb",
             "tradeInfo": [],
-            "listingCount": 51
+            "listingCount": 52
         }
     ]
 }
