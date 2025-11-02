@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-02 15:02:07.436008` |
-| Total Price Entries in DB | `289,599` |
+| Last Successful Run (UTC) | `2025-11-02 15:28:41.345218` |
+| Total Price Entries in DB | `298,860` |
 
 <!-- END_MAINTENANCE -->
 
