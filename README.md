@@ -1,6 +1,6 @@
 # PoE Tracker
 
-This repository tracks data the **Mercenaries** league.
+This repository tracks data the Keepers league.
 
 ## Maintenance Status
 
