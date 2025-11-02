@@ -9,7 +9,7 @@ import json
 
 # --- Configuration ---
 DB_FILE = "poe1_economy.db"
-LEAGUE_NAME = "Mercenaries"
+LEAGUE_NAME = "Keepers"
 REQUEST_DELAY = 1.5  # Delay in seconds between API requests
 DATA_DIR = "data"    # Directory to store raw JSON responses
 
