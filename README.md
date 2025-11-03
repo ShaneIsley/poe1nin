@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 10:51:01.924630` |
-| Total Price Entries in DB | `739,646` |
+| Last Successful Run (UTC) | `2025-11-03 11:02:07.296264` |
+| Total Price Entries in DB | `749,449` |
 
 <!-- END_MAINTENANCE -->
 
@@ -20,7 +20,7 @@ This repository tracks data the Keepers league.
 | :--- | :--- | :--- |
 | Unique Accessories | Mageblood | 17,126.0 |
 | Unique Jewels | Voices | 17,126.0 |
-| Skill Gems | Awakened Enlighten Support | 16,306.0 |
+| Skill Gems | Awakened Enlighten Support | 16,322.0 |
 | Unique Flasks | Progenesis | 6,144.0 |
 | Unique Armours | Svalinn | 5,691.0 |
 | Unique Weapons | Foulborn Reefbane | 3,787.0 |
@@ -46,12 +46,12 @@ This repository tracks data the Keepers league.
 | :--- | :--- |
 | Mageblood | 17,126.0 |
 | Voices | 17,126.0 |
-| Awakened Enlighten Support | 16,306.0 |
+| Awakened Enlighten Support | 16,322.0 |
 | Original Sin | 13,466.0 |
-| Awakened Multistrike Support | 11,677.0 |
+| Awakened Multistrike Support | 11,688.0 |
 | Headhunter | 11,288.0 |
 | Nimis | 10,520.0 |
-| Awakened Empower Support | 10,215.0 |
+| Awakened Empower Support | 10,225.0 |
 | Progenesis | 6,144.0 |
 | Svalinn | 5,691.0 |
 
