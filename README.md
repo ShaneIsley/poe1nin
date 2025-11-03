@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 04:42:30.519456` |
-| Total Price Entries in DB | `583,709` |
+| Last Successful Run (UTC) | `2025-11-03 05:02:08.819882` |
+| Total Price Entries in DB | `593,406` |
 
 <!-- END_MAINTENANCE -->
 
@@ -23,7 +23,7 @@ This repository tracks data the Keepers league.
 | Skill Gems | Awakened Multistrike Support | 12,354.0 |
 | Unique Weapons | Foulborn Reefbane | 6,678.0 |
 | Unique Armours | Svalinn | 5,899.0 |
-| Unique Flasks | Progenesis | 4,541.0 |
+| Unique Flasks | Progenesis | 4,519.0 |
 | Divination Cards | House of Mirrors | 3,784.0 |
 | Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 222.6 |
 | Tattoos | Tattoo of the Tukohama Warcaller | 150.3 |
@@ -32,7 +32,7 @@ This repository tracks data the Keepers league.
 | Maps | Fortress Map | 35.0 |
 | Essences | Essence of Horror | 13.0 |
 | Delirium Orbs | Timeless Delirium Orb | 3.0 |
-| Incubators | Ornate Incubator | 2.0 |
+| Incubators | Ornate Incubator | 3.0 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
