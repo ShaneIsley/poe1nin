@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 11:42:44.583783` |
-| Total Price Entries in DB | `769,072` |
+| Last Successful Run (UTC) | `2025-11-03 12:17:42.585236` |
+| Total Price Entries in DB | `778,909` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,18 +19,18 @@ This repository tracks data the Keepers league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Unique Jewels | Voices | 17,000.0 |
-| Unique Accessories | Mageblood | 16,445.0 |
-| Skill Gems | Awakened Enlighten Support | 15,495.0 |
-| Unique Flasks | Progenesis | 6,095.0 |
-| Unique Armours | The Celestial Brace | 5,847.0 |
-| Unique Weapons | The Saviour | 4,132.0 |
-| Divination Cards | House of Mirrors | 3,678.0 |
-| Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 200.5 |
-| Scarabs | Ambush Scarab of Containment | 153.4 |
-| Tattoos | Tattoo of the Ramako Shaman | 136.9 |
-| Maps | Fortress Map | 40.0 |
+| Unique Accessories | Mageblood | 16,231.0 |
+| Skill Gems | Awakened Enlighten Support | 15,390.0 |
+| Unique Flasks | Progenesis | 5,746.0 |
+| Unique Armours | Svalinn | 5,571.0 |
+| Unique Weapons | The Saviour | 4,104.0 |
+| Divination Cards | The Apothecary | 3,694.0 |
+| Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 200.0 |
+| Scarabs | Ambush Scarab of Containment | 153.9 |
+| Tattoos | Tattoo of the Ramako Shaman | 133.4 |
+| Maps | Ziggurat Map | 44.0 |
 | Oils | Golden Oil | 35.0 |
-| Essences | Essence of Horror | 12.0 |
+| Essences | Essence of Horror | 11.8 |
 | Delirium Orbs | Skittering Delirium Orb | 3.0 |
 | Incubators | Ornate Incubator | 3.0 |
 
@@ -45,15 +45,15 @@ This repository tracks data the Keepers league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Voices | 17,000.0 |
-| Mageblood | 16,445.0 |
-| Awakened Enlighten Support | 15,495.0 |
-| Original Sin | 13,222.0 |
-| Awakened Multistrike Support | 11,466.0 |
-| Headhunter | 11,074.0 |
-| Nimis | 10,330.0 |
-| Awakened Empower Support | 10,030.0 |
-| Progenesis | 6,095.0 |
-| The Celestial Brace | 5,847.0 |
+| Mageblood | 16,231.0 |
+| Awakened Enlighten Support | 15,390.0 |
+| Original Sin | 13,133.0 |
+| Nimis | 11,491.0 |
+| Awakened Multistrike Support | 11,389.0 |
+| Awakened Empower Support | 9,860.0 |
+| Headhunter | 9,624.0 |
+| Progenesis | 5,746.0 |
+| Svalinn | 5,571.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
