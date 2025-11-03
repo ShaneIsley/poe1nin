@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 15:34:08.389273` |
-| Total Price Entries in DB | `848,243` |
+| Last Successful Run (UTC) | `2025-11-03 15:46:36.049552` |
+| Total Price Entries in DB | `858,174` |
 
 <!-- END_MAINTENANCE -->
 
@@ -23,11 +23,11 @@ This repository tracks data the Keepers league.
 | Skill Gems | Awakened Enlighten Support | 14,185.0 |
 | Unique Armours | Svalinn | 5,835.0 |
 | Unique Flasks | Wellwater Phylactery | 5,030.0 |
-| Divination Cards | House of Mirrors | 4,255.0 |
+| Divination Cards | House of Mirrors | 4,271.0 |
 | Unique Weapons | The Saviour | 4,024.0 |
 | Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 200.0 |
 | Scarabs | Horned Scarab of Preservation | 150.9 |
-| Tattoos | Tattoo of the Ramako Shaman | 120.0 |
+| Tattoos | Tattoo of the Ramako Shaman | 130.8 |
 | Maps | Sanctuary Map | 40.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 12.0 |
