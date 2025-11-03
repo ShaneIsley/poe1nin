@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 16:11:31.772945` |
-| Total Price Entries in DB | `868,106` |
+| Last Successful Run (UTC) | `2025-11-03 16:38:16.523824` |
+| Total Price Entries in DB | `878,068` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,20 +18,20 @@ This repository tracks data the Keepers league.
 ### Most Valuable Item by Category
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
-| Unique Jewels | Voices | 16,079.0 |
-| Unique Accessories | Mageblood | 15,510.0 |
-| Skill Gems | Awakened Enlighten Support | 14,476.0 |
-| Unique Armours | Svalinn | 5,894.0 |
-| Unique Flasks | Wellwater Phylactery | 5,170.0 |
-| Divination Cards | House of Mirrors | 4,622.0 |
-| Unique Weapons | The Saviour | 4,043.0 |
+| Unique Jewels | Voices | 17,041.0 |
+| Unique Accessories | Mageblood | 15,630.0 |
+| Skill Gems | Awakened Enlighten Support | 13,650.0 |
+| Unique Armours | Svalinn | 6,075.0 |
+| Unique Flasks | Wellwater Phylactery | 5,210.0 |
+| Divination Cards | House of Mirrors | 4,668.0 |
+| Unique Weapons | Voidforge | 4,210.0 |
 | Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 200.0 |
-| Scarabs | Horned Scarab of Preservation | 155.1 |
-| Tattoos | Tattoo of the Tukohama Warcaller | 132.2 |
-| Maps | Ziggurat Map | 44.0 |
+| Scarabs | Horned Scarab of Preservation | 156.3 |
+| Tattoos | Tattoo of the Ramako Shaman | 142.4 |
+| Maps | Ziggurat Map | 42.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 12.0 |
-| Delirium Orbs | Skittering Delirium Orb | 4.9 |
+| Delirium Orbs | Skittering Delirium Orb | 5.0 |
 | Incubators | Ornate Incubator | 3.0 |
 
 
@@ -44,16 +44,16 @@ This repository tracks data the Keepers league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Imputed Chaos Value |
 | :--- | :--- |
-| Voices | 16,079.0 |
-| Mageblood | 15,510.0 |
-| Awakened Enlighten Support | 14,476.0 |
-| Original Sin | 12,408.0 |
-| Headhunter | 11,891.0 |
-| Awakened Multistrike Support | 10,237.0 |
-| Nimis | 10,133.0 |
-| Awakened Multistrike Support | 9,823.0 |
-| Awakened Empower Support | 7,755.0 |
-| Awakened Greater Multiple Projectiles Support | 6,824.0 |
+| Voices | 17,041.0 |
+| Mageblood | 15,630.0 |
+| Awakened Enlighten Support | 13,650.0 |
+| Original Sin | 12,504.0 |
+| Detonate Dead of Scavenging | 12,504.0 |
+| Headhunter | 11,462.0 |
+| Awakened Multistrike Support | 10,034.0 |
+| Nimis | 9,982.0 |
+| Awakened Multistrike Support | 9,899.0 |
+| Awakened Empower Support | 7,221.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
