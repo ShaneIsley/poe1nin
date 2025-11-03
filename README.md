@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 09:37:15.117090` |
-| Total Price Entries in DB | `700,499` |
+| Last Successful Run (UTC) | `2025-11-03 09:48:25.918728` |
+| Total Price Entries in DB | `710,281` |
 
 <!-- END_MAINTENANCE -->
 
@@ -25,14 +25,14 @@ This repository tracks data the Keepers league.
 | Unique Armours | The Apostate | 5,500.0 |
 | Unique Flasks | Progenesis | 4,907.0 |
 | Divination Cards | House of Mirrors | 3,720.0 |
-| Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 214.0 |
+| Cluster Jewels | Minions deal 10% increased Damage | 213.8 |
 | Scarabs | Ambush Scarab of Containment | 149.7 |
-| Tattoos | Tattoo of the Ramako Shaman | 108.0 |
+| Tattoos | Tattoo of the Ramako Shaman | 116.5 |
 | Maps | Ziggurat Map | 40.0 |
-| Oils | Golden Oil | 35.0 |
+| Oils | Golden Oil | 35.9 |
 | Essences | Essence of Horror | 12.0 |
 | Delirium Orbs | Skittering Delirium Orb | 3.0 |
-| Incubators | Ornate Incubator | 2.3 |
+| Incubators | Ornate Incubator | 3.0 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
