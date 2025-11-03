@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 18:40:49.096502` |
-| Total Price Entries in DB | `938,029` |
+| Last Successful Run (UTC) | `2025-11-03 18:51:15.991572` |
+| Total Price Entries in DB | `948,049` |
 
 <!-- END_MAINTENANCE -->
 
@@ -21,13 +21,13 @@ This repository tracks data the Keepers league.
 | Unique Jewels | Voices | 17,561.0 |
 | Unique Accessories | Mageblood | 15,632.0 |
 | Skill Gems | Awakened Multistrike Support | 9,946.0 |
-| Unique Armours | Svalinn | 5,968.0 |
-| Unique Flasks | Wellwater Phylactery | 5,235.0 |
-| Divination Cards | House of Mirrors | 4,707.0 |
+| Unique Armours | Svalinn | 5,910.0 |
+| Unique Flasks | Wellwater Phylactery | 5,230.0 |
+| Divination Cards | House of Mirrors | 4,701.0 |
 | Unique Weapons | Voidforge | 3,979.0 |
 | Scarabs | Horned Scarab of Preservation | 324.6 |
-| Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 199.5 |
-| Tattoos | Tattoo of the Ramako Shaman | 142.6 |
+| Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 198.1 |
+| Tattoos | Tattoo of the Ramako Shaman | 142.0 |
 | Maps | Ziggurat Map | 40.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 12.0 |
