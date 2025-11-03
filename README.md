@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 08:14:19.313096` |
-| Total Price Entries in DB | `671,179` |
+| Last Successful Run (UTC) | `2025-11-03 08:43:31.108377` |
+| Total Price Entries in DB | `680,942` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the Keepers league.
 ### Most Valuable Item by Category
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 21,460.0 |
+| Skill Gems | Awakened Enlighten Support | 21,480.0 |
 | Unique Jewels | Voices | 18,616.0 |
-| Unique Accessories | Mageblood | 16,399.0 |
+| Unique Accessories | Mageblood | 16,753.0 |
 | Unique Weapons | Foulborn Reefbane | 6,444.0 |
 | Unique Armours | The Apostate | 5,500.0 |
-| Unique Flasks | Progenesis | 5,220.0 |
+| Unique Flasks | Progenesis | 5,241.0 |
 | Divination Cards | House of Mirrors | 3,652.0 |
-| Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 214.8 |
-| Scarabs | Ambush Scarab of Containment | 156.3 |
-| Tattoos | Tattoo of the Ramako Shaman | 109.4 |
-| Maps | Ziggurat Map | 42.8 |
-| Oils | Golden Oil | 35.9 |
+| Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 215.0 |
+| Scarabs | Ambush Scarab of Containment | 150.5 |
+| Tattoos | Tattoo of the Ramako Shaman | 118.2 |
+| Maps | Ziggurat Map | 41.0 |
+| Oils | Golden Oil | 37.0 |
 | Essences | Essence of Horror | 12.0 |
 | Delirium Orbs | Skittering Delirium Orb | 3.0 |
-| Incubators | Ornate Incubator | 2.7 |
+| Incubators | Ornate Incubator | 3.0 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,14 +44,14 @@ This repository tracks data the Keepers league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Imputed Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 21,460.0 |
+| Awakened Enlighten Support | 21,480.0 |
 | Voices | 18,616.0 |
-| Mageblood | 16,399.0 |
-| Original Sin | 13,962.0 |
-| Headhunter | 11,921.0 |
-| Awakened Multistrike Support | 11,910.0 |
-| Awakened Empower Support | 10,526.0 |
-| Nimis | 10,214.0 |
+| Mageblood | 16,753.0 |
+| Original Sin | 13,747.0 |
+| Nimis | 13,425.0 |
+| Awakened Multistrike Support | 11,921.0 |
+| Headhunter | 11,599.0 |
+| Awakened Empower Support | 10,536.0 |
 | Foulborn Reefbane | 6,444.0 |
 | The Apostate | 5,500.0 |
 
