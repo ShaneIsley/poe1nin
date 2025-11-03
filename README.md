@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 22:33:33.940355` |
-| Total Price Entries in DB | `1,058,865` |
+| Last Successful Run (UTC) | `2025-11-03 22:45:13.155134` |
+| Total Price Entries in DB | `1,068,970` |
 
 <!-- END_MAINTENANCE -->
 
@@ -23,14 +23,14 @@ This repository tracks data the Keepers league.
 | Skill Gems | Awakened Enlighten Support | 14,192.0 |
 | Unique Flasks | Progenesis | 6,636.0 |
 | Unique Armours | Kaom's Command | 4,901.0 |
-| Divination Cards | House of Mirrors | 4,396.0 |
+| Divination Cards | House of Mirrors | 4,513.0 |
 | Unique Weapons | Voidforge | 3,744.0 |
-| Scarabs | Horned Scarab of Preservation | 184.9 |
+| Scarabs | Horned Scarab of Preservation | 175.6 |
 | Cluster Jewels | Minions deal 10% increased Damage | 172.9 |
 | Tattoos | Tattoo of the Ramako Shaman | 133.5 |
 | Maps | Ziggurat Map | 40.0 |
 | Oils | Golden Oil | 33.0 |
-| Essences | Essence of Horror | 14.0 |
+| Essences | Essence of Horror | 12.0 |
 | Delirium Orbs | Skittering Delirium Orb | 5.0 |
 | Incubators | Ornate Incubator | 3.0 |
 
