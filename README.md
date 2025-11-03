@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 07:10:46.672219` |
-| Total Price Entries in DB | `641,978` |
+| Last Successful Run (UTC) | `2025-11-03 07:31:02.725814` |
+| Total Price Entries in DB | `651,709` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,17 +18,17 @@ This repository tracks data the Keepers league.
 ### Most Valuable Item by Category
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 21,840.0 |
-| Unique Jewels | Voices | 19,440.0 |
-| Unique Accessories | Mageblood | 16,460.0 |
+| Skill Gems | Awakened Enlighten Support | 21,560.0 |
+| Unique Jewels | Voices | 18,900.0 |
+| Unique Accessories | Mageblood | 16,697.0 |
 | Unique Weapons | Foulborn Reefbane | 6,468.0 |
-| Unique Flasks | Progenesis | 6,198.0 |
 | Unique Armours | The Apostate | 5,500.0 |
-| Divination Cards | House of Mirrors | 3,665.0 |
-| Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 204.4 |
+| Unique Flasks | Progenesis | 5,166.0 |
+| Divination Cards | House of Mirrors | 3,652.0 |
+| Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 215.6 |
 | Scarabs | Ambush Scarab of Containment | 160.8 |
-| Tattoos | Tattoo of the Tukohama Warcaller | 131.0 |
-| Maps | Ziggurat Map | 40.0 |
+| Tattoos | Tattoo of the Tukohama Warcaller | 129.4 |
+| Maps | Ziggurat Map | 43.6 |
 | Oils | Golden Oil | 37.0 |
 | Essences | Essence of Horror | 12.0 |
 | Delirium Orbs | Timeless Delirium Orb | 3.0 |
@@ -44,16 +44,16 @@ This repository tracks data the Keepers league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Imputed Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 21,840.0 |
-| Voices | 19,440.0 |
-| Mageblood | 16,460.0 |
+| Awakened Enlighten Support | 21,560.0 |
+| Voices | 18,900.0 |
+| Mageblood | 16,697.0 |
 | Original Sin | 14,014.0 |
-| Headhunter | 12,311.0 |
-| Awakened Multistrike Support | 12,121.0 |
-| Awakened Empower Support | 10,713.0 |
+| Headhunter | 12,322.0 |
+| Awakened Multistrike Support | 11,966.0 |
+| Awakened Empower Support | 10,575.0 |
 | Nimis | 9,702.0 |
 | Foulborn Reefbane | 6,468.0 |
-| Progenesis | 6,198.0 |
+| The Apostate | 5,500.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
