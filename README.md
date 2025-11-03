@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 13:42:50.080767` |
-| Total Price Entries in DB | `798,672` |
+| Last Successful Run (UTC) | `2025-11-03 14:02:27.457177` |
+| Total Price Entries in DB | `808,566` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,17 +19,17 @@ This repository tracks data the Keepers league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Unique Jewels | Voices | 16,830.0 |
-| Unique Accessories | Mageblood | 16,728.0 |
-| Skill Gems | Awakened Enlighten Support | 15,300.0 |
-| Unique Armours | Svalinn | 5,508.0 |
-| Unique Flasks | Wellwater Phylactery | 5,100.0 |
-| Divination Cards | House of Mirrors | 4,406.0 |
-| Unique Weapons | The Saviour | 4,080.0 |
+| Unique Accessories | Mageblood | 16,336.0 |
+| Skill Gems | Awakened Enlighten Support | 15,315.0 |
+| Unique Armours | Svalinn | 5,503.0 |
+| Unique Flasks | Wellwater Phylactery | 5,105.0 |
+| Divination Cards | House of Mirrors | 4,390.0 |
+| Unique Weapons | The Saviour | 4,084.0 |
 | Cluster Jewels | Wand Attacks deal 12% increased Damage with Hits and Ailments | 200.0 |
-| Scarabs | Ambush Scarab of Containment | 153.0 |
+| Scarabs | Ambush Scarab of Containment | 153.2 |
 | Tattoos | Tattoo of the Ramako Shaman | 122.4 |
-| Maps | Ziggurat Map | 42.2 |
-| Oils | Golden Oil | 34.0 |
+| Maps | Ziggurat Map | 44.0 |
+| Oils | Golden Oil | 34.3 |
 | Essences | Essence of Horror | 12.0 |
 | Delirium Orbs | Skittering Delirium Orb | 3.0 |
 | Incubators | Ornate Incubator | 3.0 |
@@ -45,14 +45,14 @@ This repository tracks data the Keepers league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Voices | 16,830.0 |
-| Mageblood | 16,728.0 |
-| Awakened Enlighten Support | 15,300.0 |
-| Original Sin | 12,240.0 |
-| Nimis | 11,036.0 |
-| Headhunter | 10,975.0 |
-| Awakened Multistrike Support | 10,312.0 |
-| Awakened Empower Support | 9,802.0 |
-| Svalinn | 5,508.0 |
+| Mageblood | 16,336.0 |
+| Awakened Enlighten Support | 15,315.0 |
+| Original Sin | 12,252.0 |
+| Headhunter | 11,742.0 |
+| Nimis | 10,761.0 |
+| Awakened Multistrike Support | 10,322.0 |
+| Awakened Empower Support | 9,250.0 |
+| Svalinn | 5,503.0 |
 | The Apostate | 5,500.0 |
 
 
