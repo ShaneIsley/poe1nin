@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 21:29:25.321888` |
-| Total Price Entries in DB | `1,028,562` |
+| Last Successful Run (UTC) | `2025-11-03 21:43:13.438002` |
+| Total Price Entries in DB | `1,038,658` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,19 +19,19 @@ This repository tracks data the Keepers league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Unique Accessories | Original Sin | 20,520.0 |
-| Unique Jewels | Voices | 15,540.0 |
+| Unique Jewels | Voices | 17,950.0 |
 | Skill Gems | Awakened Enlighten Support | 14,467.0 |
 | Unique Flasks | Progenesis | 6,669.0 |
 | Unique Armours | Svalinn | 4,925.0 |
-| Divination Cards | House of Mirrors | 4,514.0 |
+| Divination Cards | House of Mirrors | 4,422.0 |
 | Unique Weapons | Voidforge | 3,664.0 |
-| Scarabs | Horned Scarab of Preservation | 202.1 |
+| Scarabs | Horned Scarab of Preservation | 201.1 |
 | Cluster Jewels | Minions deal 10% increased Damage | 170.0 |
-| Tattoos | Tattoo of the Ramako Shaman | 141.8 |
-| Maps | Ziggurat Map | 38.0 |
+| Tattoos | Tattoo of the Ramako Shaman | 138.7 |
+| Maps | Ziggurat Map | 40.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 13.0 |
-| Delirium Orbs | Skittering Delirium Orb | 5.0 |
+| Delirium Orbs | Skittering Delirium Orb | 4.3 |
 | Incubators | Ornate Incubator | 3.0 |
 
 
@@ -45,8 +45,8 @@ This repository tracks data the Keepers league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Original Sin | 20,520.0 |
+| Voices | 17,950.0 |
 | Mageblood | 15,985.0 |
-| Voices | 15,540.0 |
 | Awakened Enlighten Support | 14,467.0 |
 | Headhunter | 11,573.0 |
 | Awakened Multistrike Support | 9,747.0 |
