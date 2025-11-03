@@ -1,6 +1,53 @@
 {
     "lines": [
         {
+            "id": 101729,
+            "name": "Progenesis",
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvVWJlck1hdmVuRmxhc2siLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjEsInJlbGljIjowfV0/ac476ad3d0/UberMavenFlask.png",
+            "levelRequired": 60,
+            "baseType": "Amethyst Flask",
+            "itemClass": 9,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "20% reduced Charges per use",
+                    "optional": false
+                },
+                {
+                    "text": "6% reduced Duration",
+                    "optional": false
+                },
+                {
+                    "text": "When Hit during effect, 25% of Life loss from Damage taken occurs over 4 seconds instead",
+                    "optional": false
+                }
+            ],
+            "flavourText": "They were bred in a cosmic ocean of raw creation.\nFeasting and drinking of the milk of the mother,\nthey fought to the death for every last drop.",
+            "chaosValue": 6669,
+            "exaltedValue": 720.2,
+            "divineValue": 65.0,
+            "count": 1,
+            "detailsId": "progenesis-relic",
+            "tradeInfo": [],
+            "listingCount": 1
+        },
+        {
             "id": 100499,
             "name": "Progenesis",
             "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvVWJlck1hdmVuRmxhc2siLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjEsInJlbGljIjo4fV0/b24499f5ca/UberMavenFlask.png",
@@ -8,7 +55,7 @@
             "baseType": "Amethyst Flask",
             "itemClass": 10,
             "sparkLine": {
-                "totalChange": 23.88,
+                "totalChange": 11.0,
                 "data": [
                     null,
                     null,
@@ -16,11 +63,11 @@
                     null,
                     null,
                     0,
-                    23.88
+                    11.0
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 135.8,
+                "totalChange": 111.3,
                 "data": [
                     null,
                     null,
@@ -28,7 +75,7 @@
                     null,
                     0,
                     90.38,
-                    135.8
+                    111.3
                 ]
             },
             "implicitModifiers": [],
@@ -51,9 +98,9 @@
                 }
             ],
             "flavourText": "They were bred in a cosmic ocean of raw creation.\nFeasting and drinking of the milk of the mother,\nthey fought to the death for every last drop.",
-            "chaosValue": 5977,
-            "exaltedValue": 629.2,
-            "divineValue": 58.2,
+            "chaosValue": 5356,
+            "exaltedValue": 578.4,
+            "divineValue": 52.2,
             "count": 14,
             "detailsId": "progenesis",
             "tradeInfo": [],
@@ -110,13 +157,68 @@
                 }
             ],
             "flavourText": "\"Let us share our thirsts. Yours, for power,\nand mine, for death. A stable alliance,\nso long as you never speak my name...\"",
-            "chaosValue": 5135,
-            "exaltedValue": 540.5,
+            "chaosValue": 5130,
+            "exaltedValue": 554.0,
             "divineValue": 50.0,
             "count": 1,
             "detailsId": "wellwater-phylactery-relic",
             "tradeInfo": [],
             "listingCount": 1
+        },
+        {
+            "id": 124913,
+            "name": "Wine of the Prophet",
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvQm90dGxlZEZ1dHVyZXMiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjEsImZpIjp0cnVlfV0/b19cc88881/BottledFutures.png",
+            "levelRequired": 33,
+            "baseType": "Gold Flask",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 10.38,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    0,
+                    -11.16,
+                    10.38
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 10.38,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    0,
+                    -11.16,
+                    10.38
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "+60 to Maximum Charges",
+                    "optional": false
+                },
+                {
+                    "text": "(20-100)% increased Charges per use",
+                    "optional": false
+                },
+                {
+                    "text": "Grants a random Divination Buff for 20 seconds when Used",
+                    "optional": false
+                }
+            ],
+            "flavourText": "\"To proclaim a vision of the future is to make it so,\nfor those that have the will, and the way!\"\n- High Templar Andronicus",
+            "chaosValue": 1436,
+            "exaltedValue": 155.1,
+            "divineValue": 14.0,
+            "count": 48,
+            "detailsId": "wine-of-the-prophet",
+            "tradeInfo": [],
+            "listingCount": 48
         },
         {
             "id": 7020,
@@ -130,7 +232,7 @@
                 "data": []
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 21.92,
+                "totalChange": 13.43,
                 "data": [
                     null,
                     null,
@@ -138,7 +240,7 @@
                     null,
                     null,
                     0,
-                    21.92
+                    13.43
                 ]
             },
             "implicitModifiers": [],
@@ -161,9 +263,9 @@
                 }
             ],
             "flavourText": "\"What care have I for their pain? They're already dead.\"\n- Atalui, Vaal Priestess",
-            "chaosValue": 1345,
-            "exaltedValue": 141.6,
-            "divineValue": 13.1,
+            "chaosValue": 1252,
+            "exaltedValue": 135.2,
+            "divineValue": 12.2,
             "count": 2,
             "detailsId": "soul-ripper",
             "tradeInfo": [],
@@ -177,7 +279,7 @@
             "baseType": "Bismuth Flask",
             "itemClass": 10,
             "sparkLine": {
-                "totalChange": 21.29,
+                "totalChange": 21.17,
                 "data": [
                     null,
                     null,
@@ -185,11 +287,11 @@
                     null,
                     null,
                     0,
-                    21.29
+                    21.17
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 12.4,
+                "totalChange": 12.29,
                 "data": [
                     null,
                     null,
@@ -197,7 +299,7 @@
                     null,
                     0,
                     -7.33,
-                    12.4
+                    12.29
                 ]
             },
             "implicitModifiers": [],
@@ -212,68 +314,13 @@
                 }
             ],
             "flavourText": "Ennui prevailed, until inspiration sparked\na mote of flame, kindled by fury\nand all in his path were obliterated.",
-            "chaosValue": 1232,
-            "exaltedValue": 129.7,
+            "chaosValue": 1231,
+            "exaltedValue": 133.0,
             "divineValue": 12.0,
-            "count": 18,
+            "count": 24,
             "detailsId": "oriaths-end",
             "tradeInfo": [],
-            "listingCount": 18
-        },
-        {
-            "id": 124913,
-            "name": "Wine of the Prophet",
-            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvQm90dGxlZEZ1dHVyZXMiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjEsImZpIjp0cnVlfV0/b19cc88881/BottledFutures.png",
-            "levelRequired": 33,
-            "baseType": "Gold Flask",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -21.08,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    0,
-                    -11.16,
-                    -21.08
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -21.08,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    0,
-                    -11.16,
-                    -21.08
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "+60 to Maximum Charges",
-                    "optional": false
-                },
-                {
-                    "text": "(20-100)% increased Charges per use",
-                    "optional": false
-                },
-                {
-                    "text": "Grants a random Divination Buff for 20 seconds when Used",
-                    "optional": false
-                }
-            ],
-            "flavourText": "\"To proclaim a vision of the future is to make it so,\nfor those that have the will, and the way!\"\n- High Templar Andronicus",
-            "chaosValue": 1027,
-            "exaltedValue": 108.1,
-            "divineValue": 10.0,
-            "count": 48,
-            "detailsId": "wine-of-the-prophet",
-            "tradeInfo": [],
-            "listingCount": 48
+            "listingCount": 24
         },
         {
             "id": 467,
@@ -283,7 +330,7 @@
             "baseType": "Ruby Flask",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 37.69,
+                "totalChange": 34.67,
                 "data": [
                     null,
                     null,
@@ -291,11 +338,11 @@
                     null,
                     0,
                     -9.19,
-                    37.69
+                    34.67
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 37.69,
+                "totalChange": 34.67,
                 "data": [
                     null,
                     null,
@@ -303,7 +350,7 @@
                     null,
                     0,
                     -9.19,
-                    37.69
+                    34.67
                 ]
             },
             "implicitModifiers": [],
@@ -326,13 +373,13 @@
                 }
             ],
             "flavourText": "All things must die.\nWhether you burn out or explode is up to you.",
-            "chaosValue": 561.0,
-            "exaltedValue": 59.05,
-            "divineValue": 5.46,
-            "count": 95,
+            "chaosValue": 548.7,
+            "exaltedValue": 59.25,
+            "divineValue": 5.35,
+            "count": 100,
             "detailsId": "dying-sun",
             "tradeInfo": [],
-            "listingCount": 95
+            "listingCount": 100
         },
         {
             "id": 20932,
@@ -342,7 +389,7 @@
             "baseType": "Sulphur Flask",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 8.28,
+                "totalChange": 13.17,
                 "data": [
                     null,
                     null,
@@ -350,11 +397,11 @@
                     null,
                     0,
                     -0.58,
-                    8.28
+                    13.17
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 8.28,
+                "totalChange": 13.17,
                 "data": [
                     null,
                     null,
@@ -362,7 +409,7 @@
                     null,
                     0,
                     -0.58,
-                    8.28
+                    13.17
                 ]
             },
             "implicitModifiers": [
@@ -390,13 +437,13 @@
                 }
             ],
             "flavourText": "A tourniquet for the soul, squeezing ethereal into physical.",
-            "chaosValue": 210.5,
-            "exaltedValue": 22.16,
-            "divineValue": 2.05,
-            "count": 186,
+            "chaosValue": 220.0,
+            "exaltedValue": 23.76,
+            "divineValue": 2.14,
+            "count": 178,
             "detailsId": "bottled-faith",
             "tradeInfo": [],
-            "listingCount": 186
+            "listingCount": 178
         },
         {
             "id": 68258,
@@ -406,7 +453,7 @@
             "baseType": "Iron Flask",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -32.66,
+                "totalChange": -36.71,
                 "data": [
                     null,
                     null,
@@ -414,11 +461,11 @@
                     null,
                     null,
                     0,
-                    -32.66
+                    -36.71
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 12,
+                "totalChange": 5.26,
                 "data": [
                     null,
                     null,
@@ -426,7 +473,7 @@
                     null,
                     0,
                     66.32,
-                    12
+                    5.26
                 ]
             },
             "implicitModifiers": [
@@ -450,9 +497,9 @@
                 }
             ],
             "flavourText": "Nothing endures. All things end.\nThen, they begin again.",
-            "chaosValue": 53.2,
-            "exaltedValue": 5.6,
-            "divineValue": 0.52,
+            "chaosValue": 50.0,
+            "exaltedValue": 5.4,
+            "divineValue": 0.49,
             "count": 31,
             "detailsId": "elixir-of-the-unbroken-circle",
             "tradeInfo": [],
@@ -466,7 +513,7 @@
             "baseType": "Iron Flask",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -33.61,
+                "totalChange": -37.22,
                 "data": [
                     null,
                     null,
@@ -474,11 +521,11 @@
                     null,
                     0,
                     -68.61,
-                    -33.61
+                    -37.22
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -33.61,
+                "totalChange": -37.22,
                 "data": [
                     null,
                     null,
@@ -486,7 +533,7 @@
                     null,
                     0,
                     -68.61,
-                    -33.61
+                    -37.22
                 ]
             },
             "implicitModifiers": [
@@ -510,13 +557,13 @@
                 }
             ],
             "flavourText": "Uhtred and his priests drank of the skies\nto empower runes... and themselves.",
-            "chaosValue": 42.3,
-            "exaltedValue": 4.45,
-            "divineValue": 0.41,
-            "count": 42,
+            "chaosValue": 40.0,
+            "exaltedValue": 4.32,
+            "divineValue": 0.39,
+            "count": 44,
             "detailsId": "starlight-chalice",
             "tradeInfo": [],
-            "listingCount": 42
+            "listingCount": 44
         },
         {
             "id": 19060,
@@ -526,7 +573,7 @@
             "baseType": "Silver Flask",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -36.36,
+                "totalChange": -30.91,
                 "data": [
                     null,
                     null,
@@ -534,11 +581,11 @@
                     null,
                     null,
                     0,
-                    -36.36
+                    -30.91
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -48.98,
+                "totalChange": -44.61,
                 "data": [
                     null,
                     null,
@@ -546,7 +593,7 @@
                     null,
                     0,
                     -19.83,
-                    -48.98
+                    -44.61
                 ]
             },
             "implicitModifiers": [],
@@ -617,13 +664,13 @@
                 }
             ],
             "flavourText": "A controlled burn is sometimes necessary for new life.",
-            "chaosValue": 35.0,
-            "exaltedValue": 3.68,
-            "divineValue": 0.34,
+            "chaosValue": 38.0,
+            "exaltedValue": 4.1,
+            "divineValue": 0.37,
             "count": 399,
             "detailsId": "cinderswallow-urn",
             "tradeInfo": [],
-            "listingCount": 616
+            "listingCount": 610
         },
         {
             "id": 125,
@@ -633,7 +680,7 @@
             "baseType": "Amethyst Flask",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 11.61,
+                "totalChange": 8.48,
                 "data": [
                     null,
                     null,
@@ -641,11 +688,11 @@
                     null,
                     0,
                     -10.71,
-                    11.61
+                    8.48
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 11.61,
+                "totalChange": 8.48,
                 "data": [
                     null,
                     null,
@@ -653,7 +700,7 @@
                     null,
                     0,
                     -10.71,
-                    11.61
+                    8.48
                 ]
             },
             "implicitModifiers": [],
@@ -672,13 +719,13 @@
                 }
             ],
             "flavourText": "\"Death needs not your understanding. It needs only your loyalty.\" \n- Atziri, Queen of the Vaal",
-            "chaosValue": 25.0,
-            "exaltedValue": 2.63,
+            "chaosValue": 24.3,
+            "exaltedValue": 2.62,
             "divineValue": 0.24,
-            "count": 219,
+            "count": 224,
             "detailsId": "atziris-promise",
             "tradeInfo": [],
-            "listingCount": 219
+            "listingCount": 224
         },
         {
             "id": 1394,
@@ -732,12 +779,12 @@
             ],
             "flavourText": "A sip will freeze your lips,\nA swig will chill your heart,\nA glass will still your soul.",
             "chaosValue": 15.0,
-            "exaltedValue": 1.58,
+            "exaltedValue": 1.62,
             "divineValue": 0.15,
             "count": 399,
             "detailsId": "taste-of-hate",
             "tradeInfo": [],
-            "listingCount": 802
+            "listingCount": 824
         },
         {
             "id": 1073,
@@ -783,12 +830,79 @@
             ],
             "flavourText": "\"Yesterday I was clever, so I wanted to change the world.\nToday I am wise, so I am changing myself.\"\n-Rumi of the Vaal",
             "chaosValue": 10.0,
-            "exaltedValue": 1.05,
+            "exaltedValue": 1.08,
             "divineValue": 0.1,
             "count": 399,
             "detailsId": "rumis-concoction",
             "tradeInfo": [],
-            "listingCount": 976
+            "listingCount": 962
+        },
+        {
+            "id": 128499,
+            "name": "Wellwater Phylactery",
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvTXlzdGVyaW91c1BoeWxhY3RlcnkiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/b86da401c1/MysteriousPhylactery.png",
+            "levelRequired": 64,
+            "baseType": "Colossal Mana Flask",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -90,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0,
+                    -90
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -90,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0,
+                    -90
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(201-300)% increased Charges per use",
+                    "optional": false
+                },
+                {
+                    "text": "(150-200)% increased Amount Recovered",
+                    "optional": false
+                },
+                {
+                    "text": "(40-60)% less Duration",
+                    "optional": false
+                },
+                {
+                    "text": "Removes (10-15)% of Life when Used",
+                    "optional": false
+                },
+                {
+                    "text": "Starts Energy Shield Recharge when Used",
+                    "optional": false
+                },
+                {
+                    "text": "Energy Shield Recharge is not delayed by Damage during Effect",
+                    "optional": false
+                }
+            ],
+            "flavourText": "\"Let us share our thirsts. Yours, for power,\nand mine, for death. A stable alliance,\nso long as you never speak my name...\"",
+            "chaosValue": 9.0,
+            "exaltedValue": 0.97,
+            "divineValue": 0.09,
+            "count": 153,
+            "detailsId": "wellwater-phylactery",
+            "tradeInfo": [],
+            "listingCount": 153
         },
         {
             "id": 60420,
@@ -858,79 +972,12 @@
             ],
             "flavourText": "The great city of storms, washed away by Vinktar's thirst for power.",
             "chaosValue": 8.0,
-            "exaltedValue": 0.84,
+            "exaltedValue": 0.86,
             "divineValue": 0.08,
-            "count": 150,
+            "count": 158,
             "detailsId": "vessel-of-vinktar",
             "tradeInfo": [],
-            "listingCount": 150
-        },
-        {
-            "id": 128499,
-            "name": "Wellwater Phylactery",
-            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvTXlzdGVyaW91c1BoeWxhY3RlcnkiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/b86da401c1/MysteriousPhylactery.png",
-            "levelRequired": 64,
-            "baseType": "Colossal Mana Flask",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -91.11,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    0,
-                    -91.11
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -91.11,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    0,
-                    -91.11
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(201-300)% increased Charges per use",
-                    "optional": false
-                },
-                {
-                    "text": "(150-200)% increased Amount Recovered",
-                    "optional": false
-                },
-                {
-                    "text": "(40-60)% less Duration",
-                    "optional": false
-                },
-                {
-                    "text": "Removes (10-15)% of Life when Used",
-                    "optional": false
-                },
-                {
-                    "text": "Starts Energy Shield Recharge when Used",
-                    "optional": false
-                },
-                {
-                    "text": "Energy Shield Recharge is not delayed by Damage during Effect",
-                    "optional": false
-                }
-            ],
-            "flavourText": "\"Let us share our thirsts. Yours, for power,\nand mine, for death. A stable alliance,\nso long as you never speak my name...\"",
-            "chaosValue": 8.0,
-            "exaltedValue": 0.84,
-            "divineValue": 0.08,
-            "count": 154,
-            "detailsId": "wellwater-phylactery",
-            "tradeInfo": [],
-            "listingCount": 154
+            "listingCount": 158
         },
         {
             "id": 68588,
@@ -985,12 +1032,12 @@
             ],
             "flavourText": "Olroth the Gallant,\ntireless and true,\nhe fights for me,\nhe fights for you!",
             "chaosValue": 5.0,
-            "exaltedValue": 0.53,
+            "exaltedValue": 0.54,
             "divineValue": 0.05,
-            "count": 119,
+            "count": 121,
             "detailsId": "olroths-resolve",
             "tradeInfo": [],
-            "listingCount": 119
+            "listingCount": 121
         },
         {
             "id": 306,
@@ -1040,12 +1087,12 @@
             ],
             "flavourText": "Let blood sear in your veins, \nLet the pain push outwards and turn away your enemy's blows.",
             "chaosValue": 4.0,
-            "exaltedValue": 0.42,
+            "exaltedValue": 0.43,
             "divineValue": 0.04,
             "count": 399,
             "detailsId": "coruscating-elixir",
             "tradeInfo": [],
-            "listingCount": 413
+            "listingCount": 411
         },
         {
             "id": 1956,
@@ -1098,10 +1145,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.32,
             "divineValue": 0.03,
-            "count": 98,
+            "count": 96,
             "detailsId": "sins-rebirth",
             "tradeInfo": [],
-            "listingCount": 98
+            "listingCount": 96
         },
         {
             "id": 44298,
@@ -1161,7 +1208,7 @@
             "count": 399,
             "detailsId": "replica-sorrow-of-the-divine",
             "tradeInfo": [],
-            "listingCount": 652
+            "listingCount": 653
         },
         {
             "id": 109029,
@@ -1218,10 +1265,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.32,
             "divineValue": 0.03,
-            "count": 171,
+            "count": 173,
             "detailsId": "replica-witchfire-brew",
             "tradeInfo": [],
-            "listingCount": 171
+            "listingCount": 173
         },
         {
             "id": 1679,
@@ -1275,12 +1322,12 @@
             ],
             "flavourText": "To achieve godhood, they would cast off all that god has gifted us.\nMortality, compassion, even the sanctity of flesh.\n - High Templar Voll",
             "chaosValue": 2.0,
-            "exaltedValue": 0.21,
+            "exaltedValue": 0.22,
             "divineValue": 0.02,
             "count": 399,
             "detailsId": "the-writhing-jar",
             "tradeInfo": [],
-            "listingCount": 5561
+            "listingCount": 5614
         },
         {
             "id": 6896,
@@ -1334,12 +1381,12 @@
             ],
             "flavourText": "Freedom is for the privileged, even in death.\n\n<default>{This item can be transformed on the Altar of Sacrifice along with Vial of the Ghost}",
             "chaosValue": 2.0,
-            "exaltedValue": 0.21,
+            "exaltedValue": 0.22,
             "divineValue": 0.02,
-            "count": 303,
+            "count": 304,
             "detailsId": "soul-catcher",
             "tradeInfo": [],
-            "listingCount": 303
+            "listingCount": 304
         },
         {
             "id": 44550,
@@ -1397,12 +1444,12 @@
             ],
             "flavourText": "\"The most terrifying split second of my life.\" \n- Researcher Graven",
             "chaosValue": 2.0,
-            "exaltedValue": 0.21,
+            "exaltedValue": 0.22,
             "divineValue": 0.02,
-            "count": 302,
+            "count": 301,
             "detailsId": "replica-rumis-concoction",
             "tradeInfo": [],
-            "listingCount": 302
+            "listingCount": 301
         },
         {
             "id": 174,
@@ -1457,7 +1504,7 @@
             "count": 399,
             "detailsId": "blood-of-the-karui",
             "tradeInfo": [],
-            "listingCount": 3529
+            "listingCount": 3548
         },
         {
             "id": 424,
@@ -1512,7 +1559,7 @@
             "count": 399,
             "detailsId": "divination-distillate",
             "tradeInfo": [],
-            "listingCount": 1475
+            "listingCount": 1486
         },
         {
             "id": 537,
@@ -1563,7 +1610,7 @@
             "count": 399,
             "detailsId": "forbidden-taste",
             "tradeInfo": [],
-            "listingCount": 2986
+            "listingCount": 2985
         },
         {
             "id": 712,
@@ -1614,7 +1661,7 @@
             "count": 399,
             "detailsId": "kiaras-determination",
             "tradeInfo": [],
-            "listingCount": 4011
+            "listingCount": 4036
         },
         {
             "id": 763,
@@ -1673,7 +1720,7 @@
             "count": 399,
             "detailsId": "lions-roar",
             "tradeInfo": [],
-            "listingCount": 1630
+            "listingCount": 1654
         },
         {
             "id": 1068,
@@ -1732,7 +1779,7 @@
             "count": 399,
             "detailsId": "rotgut",
             "tradeInfo": [],
-            "listingCount": 3744
+            "listingCount": 3754
         },
         {
             "id": 1561,
@@ -1792,7 +1839,7 @@
             "count": 399,
             "detailsId": "the-overflowing-chalice",
             "tradeInfo": [],
-            "listingCount": 3935
+            "listingCount": 3946
         },
         {
             "id": 1614,
@@ -1852,7 +1899,7 @@
             "count": 399,
             "detailsId": "the-sorrow-of-the-divine",
             "tradeInfo": [],
-            "listingCount": 4263
+            "listingCount": 4307
         },
         {
             "id": 1893,
@@ -1912,7 +1959,7 @@
             "count": 399,
             "detailsId": "witchfire-brew",
             "tradeInfo": [],
-            "listingCount": 1063
+            "listingCount": 1065
         },
         {
             "id": 1904,
@@ -1960,10 +2007,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.11,
             "divineValue": 0.01,
-            "count": 223,
+            "count": 224,
             "detailsId": "zerphis-last-breath",
             "tradeInfo": [],
-            "listingCount": 223
+            "listingCount": 224
         },
         {
             "id": 2075,
@@ -2014,7 +2061,7 @@
             "count": 399,
             "detailsId": "the-wise-oak",
             "tradeInfo": [],
-            "listingCount": 1522
+            "listingCount": 1531
         },
         {
             "id": 44448,
@@ -2074,10 +2121,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.11,
             "divineValue": 0.01,
-            "count": 255,
+            "count": 256,
             "detailsId": "replica-laviangas-spirit",
             "tradeInfo": [],
-            "listingCount": 255
+            "listingCount": 256
         },
         {
             "id": 68096,
@@ -2142,65 +2189,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.11,
             "divineValue": 0.01,
-            "count": 249,
+            "count": 250,
             "detailsId": "voranas-preparation",
             "tradeInfo": [],
-            "listingCount": 249
-        },
-        {
-            "id": 739,
-            "name": "Lavianga's Spirit",
-            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvTGF2aWFuZ2FzT2lsIiwidyI6MSwiaCI6Miwic2NhbGUiOjEsImxldmVsIjoxfV0/44f064d737/LaviangasOil.png",
-            "levelRequired": 50,
-            "baseType": "Sanctified Mana Flask",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -8,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    0,
-                    0,
-                    0,
-                    -8
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -8,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    0,
-                    0,
-                    0,
-                    -8
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(30-50)% increased Amount Recovered",
-                    "optional": false
-                },
-                {
-                    "text": "100% increased Recovery rate",
-                    "optional": false
-                },
-                {
-                    "text": "Skills Cost no Mana during Effect",
-                    "optional": false
-                }
-            ],
-            "flavourText": "\"When the Ancestors fill your cup,\nIt is only good manners to drink your fill.\"\n- Lavianga, Advisor to Kaom",
-            "chaosValue": 0.92,
-            "exaltedValue": 0.1,
-            "divineValue": 0.01,
-            "count": 399,
-            "detailsId": "laviangas-spirit",
-            "tradeInfo": [],
-            "listingCount": 3839
+            "listingCount": 250
         },
         {
             "id": 2283,
@@ -2210,7 +2202,7 @@
             "baseType": "Diamond Flask",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -10,
+                "totalChange": -3,
                 "data": [
                     null,
                     null,
@@ -2218,11 +2210,11 @@
                     0,
                     0,
                     -79,
-                    -10
+                    -3
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -10,
+                "totalChange": -3,
                 "data": [
                     null,
                     null,
@@ -2230,7 +2222,7 @@
                     0,
                     0,
                     -79,
-                    -10
+                    -3
                 ]
             },
             "implicitModifiers": [],
@@ -2253,13 +2245,68 @@
                 }
             ],
             "flavourText": "\"What cruelty it is, that to be judged a success,\nsuch great work must go uncredited.\" \n- Coralito, Brotherhood of Silence",
-            "chaosValue": 0.9,
-            "exaltedValue": 0.09,
+            "chaosValue": 0.97,
+            "exaltedValue": 0.1,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "coralitos-signature",
             "tradeInfo": [],
-            "listingCount": 3929
+            "listingCount": 3942
+        },
+        {
+            "id": 739,
+            "name": "Lavianga's Spirit",
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvTGF2aWFuZ2FzT2lsIiwidyI6MSwiaCI6Miwic2NhbGUiOjEsImxldmVsIjoxfV0/44f064d737/LaviangasOil.png",
+            "levelRequired": 50,
+            "baseType": "Sanctified Mana Flask",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -24,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    0,
+                    0,
+                    0,
+                    -24
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -24,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    0,
+                    0,
+                    0,
+                    -24
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(30-50)% increased Amount Recovered",
+                    "optional": false
+                },
+                {
+                    "text": "100% increased Recovery rate",
+                    "optional": false
+                },
+                {
+                    "text": "Skills Cost no Mana during Effect",
+                    "optional": false
+                }
+            ],
+            "flavourText": "\"When the Ancestors fill your cup,\nIt is only good manners to drink your fill.\"\n- Lavianga, Advisor to Kaom",
+            "chaosValue": 0.76,
+            "exaltedValue": 0.08,
+            "divineValue": 0.01,
+            "count": 399,
+            "detailsId": "laviangas-spirit",
+            "tradeInfo": [],
+            "listingCount": 3851
         },
         {
             "id": 427,
@@ -2338,7 +2385,7 @@
             "count": 399,
             "detailsId": "doedres-elixir",
             "tradeInfo": [],
-            "listingCount": 3940
+            "listingCount": 3956
         }
     ]
 }

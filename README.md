@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 20:10:42.973798` |
-| Total Price Entries in DB | `988,227` |
+| Last Successful Run (UTC) | `2025-11-03 20:34:22.171922` |
+| Total Price Entries in DB | `998,304` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,17 +18,17 @@ This repository tracks data the Keepers league.
 ### Most Valuable Item by Category
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
-| Unique Jewels | Voices | 17,500.0 |
-| Unique Accessories | Mageblood | 15,508.0 |
-| Skill Gems | Awakened Multistrike Support | 9,756.0 |
-| Unique Flasks | Progenesis | 5,977.0 |
-| Unique Armours | Svalinn | 5,443.0 |
-| Divination Cards | House of Mirrors | 4,533.0 |
-| Unique Weapons | Voidforge | 3,779.0 |
-| Scarabs | Horned Scarab of Preservation | 201.5 |
+| Unique Accessories | Mageblood | 15,903.0 |
+| Unique Jewels | Voices | 15,600.0 |
+| Skill Gems | Awakened Multistrike Support | 9,747.0 |
+| Unique Flasks | Progenesis | 6,669.0 |
+| Unique Armours | Svalinn | 5,448.0 |
+| Divination Cards | House of Mirrors | 4,525.0 |
+| Unique Weapons | Voidforge | 3,622.0 |
+| Scarabs | Horned Scarab of Preservation | 201.1 |
 | Cluster Jewels | Minions deal 10% increased Damage | 170.0 |
-| Tattoos | Tattoo of the Ramako Shaman | 141.9 |
-| Maps | Ziggurat Map | 39.0 |
+| Tattoos | Tattoo of the Ramako Shaman | 142.0 |
+| Maps | Fortress Map | 40.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 12.7 |
 | Delirium Orbs | Skittering Delirium Orb | 5.0 |
@@ -44,16 +44,16 @@ This repository tracks data the Keepers league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Imputed Chaos Value |
 | :--- | :--- |
-| Voices | 17,500.0 |
-| Mageblood | 15,508.0 |
-| Original Sin | 13,864.0 |
-| Headhunter | 11,810.0 |
-| Nimis | 11,153.0 |
-| Awakened Multistrike Support | 9,756.0 |
-| Awakened Multistrike Support | 9,489.0 |
-| Awakened Enlighten Support | 7,230.0 |
-| Awakened Greater Multiple Projectiles Support | 6,408.0 |
-| Awakened Empower Support | 6,367.0 |
+| Mageblood | 15,903.0 |
+| Voices | 15,600.0 |
+| Original Sin | 13,851.0 |
+| Headhunter | 11,491.0 |
+| Nimis | 10,824.0 |
+| Awakened Multistrike Support | 9,747.0 |
+| Awakened Multistrike Support | 9,480.0 |
+| Awakened Enlighten Support | 7,223.0 |
+| Progenesis | 6,669.0 |
+| Awakened Greater Multiple Projectiles Support | 6,402.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
