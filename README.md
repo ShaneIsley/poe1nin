@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 23:02:02.097118` |
-| Total Price Entries in DB | `1,079,081` |
+| Last Successful Run (UTC) | `2025-11-03 23:29:51.286728` |
+| Total Price Entries in DB | `1,089,204` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,16 +18,16 @@ This repository tracks data the Keepers league.
 ### Most Valuable Item by Category
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
-| Unique Accessories | Original Sin | 20,440.0 |
+| Unique Accessories | Original Sin | 20,460.0 |
 | Unique Jewels | Voices | 17,900.0 |
-| Skill Gems | Awakened Enlighten Support | 14,124.0 |
+| Skill Gems | Awakened Enlighten Support | 14,117.0 |
 | Unique Flasks | Progenesis | 6,650.0 |
-| Unique Armours | Svalinn | 4,906.0 |
+| Unique Armours | Svalinn | 4,910.0 |
 | Divination Cards | House of Mirrors | 4,501.0 |
-| Unique Weapons | The Saviour | 4,092.0 |
-| Cluster Jewels | Minions deal 10% increased Damage | 178.6 |
-| Scarabs | Horned Scarab of Preservation | 176.8 |
-| Tattoos | Tattoo of the Ramako Shaman | 134.3 |
+| Unique Weapons | Voidforge | 3,969.0 |
+| Cluster Jewels | Minions deal 10% increased Damage | 180.0 |
+| Scarabs | Horned Scarab of Preservation | 173.9 |
+| Tattoos | Tattoo of the Ramako Shaman | 133.7 |
 | Maps | Ziggurat Map | 40.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 12.0 |
@@ -44,16 +44,16 @@ This repository tracks data the Keepers league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Imputed Chaos Value |
 | :--- | :--- |
-| Original Sin | 20,440.0 |
+| Original Sin | 20,460.0 |
 | Voices | 17,900.0 |
-| Mageblood | 15,933.0 |
-| Awakened Enlighten Support | 14,124.0 |
-| Headhunter | 11,937.0 |
-| Awakened Multistrike Support | 9,709.0 |
-| Nimis | 9,576.0 |
-| Awakened Multistrike Support | 9,116.0 |
+| Mageblood | 15,775.0 |
+| Awakened Enlighten Support | 14,117.0 |
+| Headhunter | 11,762.0 |
+| Awakened Multistrike Support | 9,718.0 |
+| Nimis | 9,616.0 |
+| Awakened Multistrike Support | 9,207.0 |
+| Awakened Multistrike Support | 9,105.0 |
 | Progenesis | 6,650.0 |
-| Awakened Greater Multiple Projectiles Support | 6,377.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
