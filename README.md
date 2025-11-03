@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-03 10:02:14.144403` |
-| Total Price Entries in DB | `720,064` |
+| Last Successful Run (UTC) | `2025-11-03 10:40:21.779260` |
+| Total Price Entries in DB | `729,855` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,17 +18,17 @@ This repository tracks data the Keepers league.
 ### Most Valuable Item by Category
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
-| Unique Jewels | Voices | 17,340.0 |
-| Skill Gems | Awakened Enlighten Support | 16,570.0 |
-| Unique Accessories | Mageblood | 16,558.0 |
-| Unique Weapons | Foulborn Reefbane | 6,414.0 |
-| Unique Armours | The Apostate | 5,500.0 |
-| Unique Flasks | Progenesis | 4,907.0 |
-| Divination Cards | House of Mirrors | 3,720.0 |
-| Cluster Jewels | Minions deal 10% increased Damage | 213.8 |
-| Scarabs | Ambush Scarab of Containment | 149.7 |
-| Tattoos | Tattoo of the Ramako Shaman | 108.0 |
-| Maps | Ziggurat Map | 40.0 |
+| Unique Accessories | Mageblood | 17,126.0 |
+| Unique Jewels | Voices | 17,126.0 |
+| Skill Gems | Awakened Enlighten Support | 16,306.0 |
+| Unique Flasks | Progenesis | 6,144.0 |
+| Unique Armours | Svalinn | 5,586.0 |
+| Unique Weapons | Foulborn Reefbane | 3,787.0 |
+| Divination Cards | House of Mirrors | 3,661.0 |
+| Cluster Jewels | Minions deal 10% increased Damage | 211.0 |
+| Scarabs | Ambush Scarab of Containment | 153.9 |
+| Tattoos | Tattoo of the Ramako Shaman | 131.7 |
+| Maps | Ziggurat Map | 44.4 |
 | Oils | Golden Oil | 35.0 |
 | Essences | Essence of Horror | 12.0 |
 | Delirium Orbs | Skittering Delirium Orb | 3.0 |
@@ -44,16 +44,16 @@ This repository tracks data the Keepers league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Imputed Chaos Value |
 | :--- | :--- |
-| Voices | 17,340.0 |
-| Awakened Enlighten Support | 16,570.0 |
-| Mageblood | 16,558.0 |
-| Original Sin | 13,683.0 |
-| Nimis | 12,978.0 |
-| Awakened Multistrike Support | 11,866.0 |
-| Headhunter | 10,882.0 |
-| Awakened Empower Support | 10,487.0 |
-| Foulborn Reefbane | 6,414.0 |
-| The Apostate | 5,500.0 |
+| Mageblood | 17,126.0 |
+| Voices | 17,126.0 |
+| Awakened Enlighten Support | 16,306.0 |
+| Original Sin | 13,466.0 |
+| Awakened Multistrike Support | 11,677.0 |
+| Headhunter | 11,288.0 |
+| Nimis | 10,520.0 |
+| Awakened Empower Support | 10,215.0 |
+| Progenesis | 6,144.0 |
+| Svalinn | 5,586.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
