@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-04 20:46:32.134329` |
-| Total Price Entries in DB | `1,598,230` |
+| Last Successful Run (UTC) | `2025-11-04 21:02:09.372081` |
+| Total Price Entries in DB | `1,608,686` |
 
 <!-- END_MAINTENANCE -->
 
@@ -21,14 +21,14 @@ This repository tracks data the Keepers league.
 | Skill Gems | Awakened Enlighten Support | 62,274.0 |
 | Unique Jewels | Voices | 19,209.0 |
 | Unique Accessories | Mageblood | 17,805.0 |
-| Unique Flasks | Progenesis | 5,425.0 |
+| Unique Flasks | Progenesis | 5,330.0 |
 | Divination Cards | House of Mirrors | 4,359.0 |
 | Unique Weapons | Voidforge | 4,349.0 |
-| Unique Armours | Svalinn | 3,952.0 |
-| Cluster Jewels | 12% increased Fire Damage | 193.7 |
+| Unique Armours | Svalinn | 3,876.0 |
+| Cluster Jewels | 12% increased Fire Damage | 193.8 |
 | Scarabs | Ambush Scarab of Containment | 155.0 |
-| Tattoos | Tattoo of the Ramako Shaman | 126.1 |
-| Maps | Ziggurat Map | 37.0 |
+| Tattoos | Tattoo of the Ramako Shaman | 125.9 |
+| Maps | Ziggurat Map | 38.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 11.9 |
 | Delirium Orbs | Skittering Delirium Orb | 4.9 |
@@ -51,8 +51,8 @@ This repository tracks data the Keepers league.
 | Nimis | 10,152.0 |
 | Headhunter | 9,968.0 |
 | Nimis | 9,724.0 |
-| Awakened Empower Support | 9,687.0 |
 | Awakened Multistrike Support | 9,687.0 |
+| Awakened Empower Support | 9,687.0 |
 | Burning Arrow of Vigour | 7,168.0 |
 
 
