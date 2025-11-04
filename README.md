@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-04 09:11:47.560011` |
-| Total Price Entries in DB | `1,282,924` |
+| Last Successful Run (UTC) | `2025-11-04 09:35:38.209769` |
+| Total Price Entries in DB | `1,293,224` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,21 +18,21 @@ This repository tracks data the Keepers league.
 ### Most Valuable Item by Category
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 39,700.0 |
+| Skill Gems | Awakened Enlighten Support | 39,798.0 |
 | Unique Accessories | Original Sin | 20,100.0 |
 | Unique Jewels | Voices | 16,995.0 |
 | Unique Flasks | Progenesis | 6,532.0 |
 | Unique Weapons | Voidforge | 6,020.0 |
 | Unique Armours | Svalinn | 4,824.0 |
 | Divination Cards | House of Mirrors | 4,422.0 |
-| Cluster Jewels | 12% increased Fire Damage | 189.2 |
+| Cluster Jewels | 12% increased Fire Damage | 188.1 |
 | Scarabs | Horned Scarab of Preservation | 156.8 |
-| Tattoos | Tattoo of the Ramako Shaman | 131.3 |
+| Tattoos | Tattoo of the Ramako Shaman | 130.6 |
 | Maps | Ziggurat Map | 43.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 10.0 |
 | Delirium Orbs | Skittering Delirium Orb | 5.0 |
-| Incubators | Ornate Incubator | 4.0 |
+| Incubators | Ornate Incubator | 3.0 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -44,16 +44,16 @@ This repository tracks data the Keepers league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Imputed Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 39,700.0 |
+| Awakened Enlighten Support | 39,798.0 |
 | Original Sin | 20,100.0 |
+| Mageblood | 17,082.0 |
 | Voices | 16,995.0 |
-| Mageblood | 16,080.0 |
 | Awakened Empower Support | 13,065.0 |
 | Awakened Enlighten Support | 12,192.0 |
+| Nimis | 11,899.0 |
 | Awakened Enlighten Support | 11,859.0 |
-| Nimis | 11,095.0 |
-| Headhunter | 9,728.0 |
-| Awakened Multistrike Support | 6,693.0 |
+| Headhunter | 9,517.0 |
+| Progenesis | 6,532.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
