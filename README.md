@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-04 16:53:49.780624` |
-| Total Price Entries in DB | `1,483,418` |
+| Last Successful Run (UTC) | `2025-11-04 17:01:59.475131` |
+| Total Price Entries in DB | `1,493,813` |
 
 <!-- END_MAINTENANCE -->
 
@@ -27,7 +27,7 @@ This repository tracks data the Keepers league.
 | Unique Armours | Svalinn | 3,856.0 |
 | Cluster Jewels | 12% increased Fire Damage | 192.8 |
 | Scarabs | Horned Scarab of Preservation | 154.2 |
-| Tattoos | Tattoo of the Ngamahu Warmonger | 129.2 |
+| Tattoos | Tattoo of the Ramako Shaman | 125.3 |
 | Maps | Ziggurat Map | 40.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 11.3 |
