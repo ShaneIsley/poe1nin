@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-04 10:52:55.922797` |
-| Total Price Entries in DB | `1,334,454` |
+| Last Successful Run (UTC) | `2025-11-04 11:01:59.256060` |
+| Total Price Entries in DB | `1,344,768` |
 
 <!-- END_MAINTENANCE -->
 
@@ -24,11 +24,11 @@ This repository tracks data the Keepers league.
 | Unique Flasks | Progenesis | 6,431.0 |
 | Unique Weapons | Voidforge | 5,244.0 |
 | Unique Armours | Svalinn | 4,551.0 |
-| Divination Cards | House of Mirrors | 4,413.0 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 196.7 |
-| Scarabs | Horned Scarab of Preservation | 159.7 |
-| Tattoos | Tattoo of the Ngamahu Warmonger | 135.7 |
-| Maps | Ziggurat Map | 41.2 |
+| Divination Cards | House of Mirrors | 4,353.0 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 194.8 |
+| Scarabs | Horned Scarab of Preservation | 153.4 |
+| Tattoos | Tattoo of the Ramako Shaman | 128.6 |
+| Maps | Fortress Map | 40.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 10.0 |
 | Delirium Orbs | Skittering Delirium Orb | 5.0 |
