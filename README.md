@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-04 16:40:27.024486` |
-| Total Price Entries in DB | `1,473,023` |
+| Last Successful Run (UTC) | `2025-11-04 16:53:49.780624` |
+| Total Price Entries in DB | `1,483,418` |
 
 <!-- END_MAINTENANCE -->
 
@@ -20,19 +20,19 @@ This repository tracks data the Keepers league.
 | :--- | :--- | :--- |
 | Skill Gems | Awakened Enlighten Support | 20,352.0 |
 | Unique Accessories | Mageblood | 17,639.0 |
-| Unique Jewels | Voices | 15,702.0 |
+| Unique Jewels | Voices | 15,790.0 |
 | Unique Flasks | Progenesis | 5,301.0 |
-| Unique Weapons | Voidforge | 4,357.0 |
+| Unique Weapons | Voidforge | 4,338.0 |
 | Divination Cards | House of Mirrors | 4,328.0 |
 | Unique Armours | Svalinn | 3,856.0 |
-| Cluster Jewels | 12% increased Fire Damage | 189.0 |
+| Cluster Jewels | 12% increased Fire Damage | 192.8 |
 | Scarabs | Horned Scarab of Preservation | 154.2 |
 | Tattoos | Tattoo of the Ngamahu Warmonger | 129.2 |
 | Maps | Ziggurat Map | 40.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 11.3 |
-| Delirium Orbs | Skittering Delirium Orb | 4.9 |
-| Incubators | Ornate Incubator | 3.0 |
+| Delirium Orbs | Skittering Delirium Orb | 4.8 |
+| Incubators | Ornate Incubator | 3.2 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -47,7 +47,7 @@ This repository tracks data the Keepers league.
 | Awakened Enlighten Support | 20,352.0 |
 | Mageblood | 17,639.0 |
 | Original Sin | 16,145.0 |
-| Voices | 15,702.0 |
+| Voices | 15,790.0 |
 | Headhunter | 9,744.0 |
 | Awakened Empower Support | 9,639.0 |
 | Nimis | 9,610.0 |
