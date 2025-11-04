@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-04 05:34:22.252415` |
-| Total Price Entries in DB | `1,190,641` |
+| Last Successful Run (UTC) | `2025-11-04 05:45:42.747620` |
+| Total Price Entries in DB | `1,200,864` |
 
 <!-- END_MAINTENANCE -->
 
@@ -22,12 +22,12 @@ This repository tracks data the Keepers league.
 | Unique Jewels | Voices | 18,197.0 |
 | Skill Gems | Awakened Enlighten Support | 13,221.0 |
 | Unique Flasks | Progenesis | 6,604.0 |
-| Unique Armours | Svalinn | 4,983.0 |
+| Unique Armours | Svalinn | 5,080.0 |
+| Unique Weapons | Voidforge | 5,019.0 |
 | Divination Cards | House of Mirrors | 4,470.0 |
-| Unique Weapons | Voidforge | 4,166.0 |
 | Cluster Jewels | Minions deal 10% increased Damage | 172.1 |
 | Scarabs | Horned Scarab of Preservation | 152.4 |
-| Tattoos | Tattoo of the Ramako Shaman | 141.2 |
+| Tattoos | Tattoo of the Ramako Shaman | 140.9 |
 | Maps | Ziggurat Map | 40.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 10.0 |
