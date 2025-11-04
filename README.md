@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-04 10:02:18.761062` |
-| Total Price Entries in DB | `1,313,832` |
+| Last Successful Run (UTC) | `2025-11-04 10:40:51.598128` |
+| Total Price Entries in DB | `1,324,139` |
 
 <!-- END_MAINTENANCE -->
 
@@ -18,17 +18,17 @@ This repository tracks data the Keepers league.
 ### Most Valuable Item by Category
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
-| Skill Gems | Awakened Enlighten Support | 39,396.0 |
-| Unique Accessories | Original Sin | 19,888.0 |
-| Unique Jewels | Voices | 16,726.0 |
-| Unique Weapons | Voidforge | 5,877.0 |
-| Unique Flasks | Progenesis | 5,569.0 |
-| Unique Armours | Svalinn | 4,824.0 |
-| Divination Cards | House of Mirrors | 4,422.0 |
-| Cluster Jewels | 12% increased Fire Damage | 188.1 |
-| Scarabs | Horned Scarab of Preservation | 155.1 |
-| Tattoos | Tattoo of the Ramako Shaman | 129.3 |
-| Maps | Ziggurat Map | 42.0 |
+| Unique Accessories | Original Sin | 19,788.0 |
+| Skill Gems | Awakened Enlighten Support | 19,600.0 |
+| Unique Jewels | Voices | 16,642.0 |
+| Unique Flasks | Progenesis | 6,488.0 |
+| Unique Weapons | Voidforge | 5,244.0 |
+| Unique Armours | Svalinn | 4,551.0 |
+| Divination Cards | House of Mirrors | 4,442.0 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 194.8 |
+| Scarabs | Horned Scarab of Preservation | 153.4 |
+| Tattoos | Tattoo of the Ramako Shaman | 129.5 |
+| Maps | Fortress Map | 40.0 |
 | Oils | Golden Oil | 33.0 |
 | Essences | Essence of Horror | 10.0 |
 | Delirium Orbs | Skittering Delirium Orb | 5.0 |
@@ -44,16 +44,16 @@ This repository tracks data the Keepers league.
 ### Top 10 Most Valuable Items (Overall)
 | Item | Imputed Chaos Value |
 | :--- | :--- |
-| Awakened Enlighten Support | 39,396.0 |
-| Original Sin | 19,888.0 |
-| Mageblood | 17,104.0 |
-| Voices | 16,726.0 |
-| Awakened Empower Support | 12,927.0 |
+| Original Sin | 19,788.0 |
+| Awakened Enlighten Support | 19,600.0 |
+| Mageblood | 16,820.0 |
+| Voices | 16,642.0 |
+| Awakened Empower Support | 12,975.0 |
 | Awakened Enlighten Support | 12,192.0 |
-| Nimis | 11,734.0 |
-| Awakened Enlighten Support | 11,734.0 |
-| Headhunter | 9,447.0 |
-| Summon Carrion Golem of Hordes | 6,165.0 |
+| Awakened Enlighten Support | 11,778.0 |
+| Nimis | 11,517.0 |
+| Headhunter | 9,805.0 |
+| Progenesis | 6,488.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
