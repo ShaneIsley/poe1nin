@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-04 05:45:42.747620` |
-| Total Price Entries in DB | `1,200,864` |
+| Last Successful Run (UTC) | `2025-11-04 06:14:40.614833` |
+| Total Price Entries in DB | `1,211,099` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,18 +19,18 @@ This repository tracks data the Keepers league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Unique Accessories | Original Sin | 20,320.0 |
-| Unique Jewels | Voices | 18,197.0 |
-| Skill Gems | Awakened Enlighten Support | 13,221.0 |
+| Unique Jewels | Voices | 17,455.0 |
+| Skill Gems | Awakened Enlighten Support | 12,611.0 |
 | Unique Flasks | Progenesis | 6,604.0 |
-| Unique Armours | Svalinn | 5,080.0 |
-| Unique Weapons | Voidforge | 5,019.0 |
+| Unique Armours | Svalinn | 5,019.0 |
+| Unique Weapons | Voidforge | 4,907.0 |
 | Divination Cards | House of Mirrors | 4,470.0 |
-| Cluster Jewels | Minions deal 10% increased Damage | 172.1 |
-| Scarabs | Horned Scarab of Preservation | 152.4 |
-| Tattoos | Tattoo of the Ramako Shaman | 140.9 |
-| Maps | Ziggurat Map | 40.0 |
+| Cluster Jewels | Minions deal 10% increased Damage | 180.0 |
+| Scarabs | Horned Scarab of Preservation | 157.5 |
+| Tattoos | Tattoo of the Ramako Shaman | 141.0 |
+| Maps | Ziggurat Map | 35.0 |
 | Oils | Golden Oil | 33.0 |
-| Essences | Essence of Horror | 10.0 |
+| Essences | Essence of Horror | 10.9 |
 | Delirium Orbs | Skittering Delirium Orb | 5.0 |
 | Incubators | Ornate Incubator | 3.0 |
 
@@ -45,13 +45,13 @@ This repository tracks data the Keepers league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Original Sin | 20,320.0 |
-| Voices | 18,197.0 |
-| Mageblood | 16,845.0 |
-| Awakened Enlighten Support | 13,221.0 |
+| Voices | 17,455.0 |
+| Mageblood | 16,256.0 |
 | Awakened Enlighten Support | 12,611.0 |
-| Headhunter | 10,356.0 |
+| Awakened Enlighten Support | 12,204.0 |
+| Nimis | 10,709.0 |
 | Awakened Fork Support | 10,300.0 |
-| Nimis | 10,119.0 |
+| Headhunter | 10,180.0 |
 | Awakened Multistrike Support | 9,662.0 |
 | Awakened Multistrike Support | 8,878.0 |
 
