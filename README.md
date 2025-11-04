@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-04 19:27:07.162019` |
-| Total Price Entries in DB | `1,556,436` |
+| Last Successful Run (UTC) | `2025-11-04 19:42:01.933111` |
+| Total Price Entries in DB | `1,566,882` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,20 +19,20 @@ This repository tracks data the Keepers league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Awakened Enlighten Support | 62,916.0 |
-| Unique Jewels | Voices | 18,619.0 |
-| Unique Accessories | Mageblood | 17,344.0 |
-| Unique Flasks | Progenesis | 6,141.0 |
-| Divination Cards | House of Mirrors | 4,406.0 |
-| Unique Weapons | Voidforge | 4,299.0 |
-| Unique Armours | Svalinn | 3,880.0 |
-| Cluster Jewels | Minions deal 10% increased Damage | 194.0 |
-| Scarabs | Ambush Scarab of Containment | 150.2 |
-| Tattoos | Tattoo of the Ramako Shaman | 126.1 |
+| Unique Jewels | Voices | 18,621.0 |
+| Unique Accessories | Mageblood | 17,503.0 |
+| Unique Flasks | Progenesis | 5,834.0 |
+| Divination Cards | House of Mirrors | 4,415.0 |
+| Unique Weapons | Voidforge | 4,376.0 |
+| Unique Armours | Svalinn | 3,899.0 |
+| Cluster Jewels | 12% increased Fire Damage | 194.5 |
+| Scarabs | Ambush Scarab of Containment | 155.6 |
+| Tattoos | Tattoo of the Ramako Shaman | 126.7 |
 | Maps | Ziggurat Map | 39.0 |
 | Oils | Golden Oil | 33.0 |
-| Essences | Essence of Horror | 11.8 |
+| Essences | Essence of Horror | 12.0 |
 | Delirium Orbs | Skittering Delirium Orb | 4.9 |
-| Incubators | Ornate Incubator | 4.0 |
+| Incubators | Ornate Incubator | 3.0 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -45,14 +45,14 @@ This repository tracks data the Keepers league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Awakened Enlighten Support | 62,916.0 |
-| Voices | 18,619.0 |
-| Mageblood | 17,344.0 |
-| Original Sin | 16,975.0 |
+| Voices | 18,621.0 |
+| Mageblood | 17,503.0 |
+| Original Sin | 17,017.0 |
 | Awakened Multistrike Support | 9,748.0 |
 | Awakened Empower Support | 9,748.0 |
-| Nimis | 9,700.0 |
-| Headhunter | 9,700.0 |
-| Nimis | 9,448.0 |
+| Headhunter | 9,743.0 |
+| Nimis | 9,724.0 |
+| Nimis | 9,530.0 |
 | Burning Arrow of Vigour | 7,214.0 |
 
 
