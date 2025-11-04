@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-04 14:01:58.013845` |
-| Total Price Entries in DB | `1,406,788` |
+| Last Successful Run (UTC) | `2025-11-04 14:37:50.953190` |
+| Total Price Entries in DB | `1,410,726` |
 
 <!-- END_MAINTENANCE -->
 
@@ -19,20 +19,20 @@ This repository tracks data the Keepers league.
 | Category | Top Item | Imputed Chaos Value |
 | :--- | :--- | :--- |
 | Skill Gems | Awakened Enlighten Support | 20,098.0 |
-| Unique Accessories | Mageblood | 16,370.0 |
-| Unique Jewels | Voices | 14,840.0 |
-| Unique Flasks | Progenesis | 5,132.0 |
-| Divination Cards | House of Mirrors | 4,214.0 |
-| Unique Weapons | Voidforge | 4,092.0 |
-| Unique Armours | Svalinn | 3,910.0 |
-| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 195.5 |
-| Tattoos | Tattoo of the Ngamahu Warmonger | 168.2 |
-| Scarabs | Horned Scarab of Preservation | 166.2 |
+| Unique Accessories | Mageblood | 17,569.0 |
+| Unique Jewels | Voices | 12,858.0 |
+| Unique Flasks | Progenesis | 5,090.0 |
+| Divination Cards | House of Mirrors | 4,319.0 |
+| Unique Weapons | Voidforge | 4,122.0 |
+| Unique Armours | Svalinn | 3,920.0 |
+| Cluster Jewels | 6% increased Mana Reservation Efficiency of Skills | 196.0 |
+| Scarabs | Horned Scarab of Preservation | 165.6 |
+| Tattoos | Tattoo of the Ngamahu Warmonger | 149.0 |
 | Maps | Sanctuary Map | 40.0 |
 | Oils | Golden Oil | 33.0 |
-| Essences | Essence of Horror | 11.0 |
+| Essences | Essence of Horror | 10.0 |
 | Delirium Orbs | Skittering Delirium Orb | 4.9 |
-| Incubators | Ornate Incubator | 3.0 |
+| Incubators | Ornate Incubator | 4.0 |
 
 
 ![Category Analysis Chart](charts/category_analysis.png)
@@ -45,15 +45,15 @@ This repository tracks data the Keepers league.
 | Item | Imputed Chaos Value |
 | :--- | :--- |
 | Awakened Enlighten Support | 20,098.0 |
-| Mageblood | 16,370.0 |
-| Original Sin | 16,321.0 |
-| Voices | 14,840.0 |
+| Mageblood | 17,569.0 |
+| Original Sin | 16,440.0 |
+| Voices | 12,858.0 |
 | Awakened Enlighten Support | 10,584.0 |
-| Nimis | 9,968.0 |
+| Nimis | 9,943.0 |
 | Awakened Empower Support | 9,800.0 |
-| Headhunter | 9,647.0 |
 | Awakened Multistrike Support | 9,457.0 |
 | Awakened Enlighten Support | 9,428.0 |
+| Headhunter | 9,167.0 |
 
 
 ![Market Movers Chart](charts/market_movers.png)
