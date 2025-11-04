@@ -87,7 +87,7 @@
             ],
             "flavourText": "",
             "chaosValue": 3.0,
-            "exaltedValue": 0.3,
+            "exaltedValue": 0.31,
             "divineValue": 0.03,
             "count": 197,
             "detailsId": "diviners-delirium-orb",
@@ -134,7 +134,7 @@
             ],
             "flavourText": "",
             "chaosValue": 3.0,
-            "exaltedValue": 0.3,
+            "exaltedValue": 0.31,
             "divineValue": 0.03,
             "count": 81,
             "detailsId": "thaumaturges-delirium-orb",
@@ -236,6 +236,53 @@
             "listingCount": 134
         },
         {
+            "id": 40913,
+            "name": "Armoursmith's Delirium Orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJBcm1vdXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3f5099006e/DeliriumOrbArmour.png",
+            "baseType": "Armoursmith's Delirium Orb",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 100,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    0,
+                    0,
+                    0,
+                    100
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 100,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    0,
+                    0,
+                    0,
+                    100
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Modifies a Map item adding layers of Delirium with the Armour reward type",
+                    "optional": false
+                }
+            ],
+            "flavourText": "",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.2,
+            "divineValue": 0.02,
+            "count": 399,
+            "detailsId": "armoursmiths-delirium-orb",
+            "tradeInfo": [],
+            "listingCount": 767
+        },
+        {
             "id": 40914,
             "name": "Fossilised Delirium Orb",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJGb3NzaWxzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ea3a92a762/DeliriumOrbFossils.png",
@@ -324,10 +371,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.02,
-            "count": 142,
+            "count": 143,
             "detailsId": "foreboding-delirium-orb",
             "tradeInfo": [],
-            "listingCount": 142
+            "listingCount": 143
         },
         {
             "id": 40919,
@@ -374,7 +421,7 @@
             "count": 399,
             "detailsId": "fine-delirium-orb",
             "tradeInfo": [],
-            "listingCount": 538
+            "listingCount": 537
         },
         {
             "id": 40924,
@@ -418,10 +465,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.02,
-            "count": 144,
+            "count": 145,
             "detailsId": "whispering-delirium-orb",
             "tradeInfo": [],
-            "listingCount": 144
+            "listingCount": 145
         },
         {
             "id": 40906,
@@ -468,54 +515,7 @@
             "count": 399,
             "detailsId": "jewellers-delirium-orb",
             "tradeInfo": [],
-            "listingCount": 781
-        },
-        {
-            "id": 40913,
-            "name": "Armoursmith's Delirium Orb",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJBcm1vdXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3f5099006e/DeliriumOrbArmour.png",
-            "baseType": "Armoursmith's Delirium Orb",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": 46,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    0,
-                    0,
-                    0,
-                    46
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 46,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    0,
-                    0,
-                    0,
-                    46
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Modifies a Map item adding layers of Delirium with the Armour reward type",
-                    "optional": false
-                }
-            ],
-            "flavourText": "",
-            "chaosValue": 1.46,
-            "exaltedValue": 0.15,
-            "divineValue": 0.01,
-            "count": 399,
-            "detailsId": "armoursmiths-delirium-orb",
-            "tradeInfo": [],
-            "listingCount": 766
+            "listingCount": 779
         },
         {
             "id": 40909,
@@ -747,10 +747,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 72,
+            "count": 71,
             "detailsId": "blighted-delirium-orb",
             "tradeInfo": [],
-            "listingCount": 72
+            "listingCount": 71
         }
     ]
 }
