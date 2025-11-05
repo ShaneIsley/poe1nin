@@ -5,35 +5,41 @@ from pathlib import Path
 import re
 
 # --- CONFIGURATION ---
-DB_FILE = "poe1_economy.db"
+DB_FILE = "poe_economy_keepers.db"
 LEAGUE_NAME = "Keepers" # Should match the name in fetch_data.py
 CHARTS_DIR = "charts"
 README_FILE = "README.md"
 
 def get_latest_data_df(conn: sqlite3.Connection) -> pd.DataFrame:
-    """Fetches the latest and previous price for all items from the last 2 days."""
+    """
+    Fetches the latest price from 'current_prices' and the previous price from 'price_history'.
+    This is much more efficient than the original query.
+    """
     query = """
-    WITH PriceHistory AS (
+    WITH PreviousPrices AS (
+        -- For each item, find its second most recent price entry in the history table.
+        -- This represents the "previous" price before the current one.
         SELECT
-            p.item_id, p.timestamp,
-            p.chaos_value, p.divine_value,
-            LAG(p.chaos_value, 1) OVER (PARTITION BY p.item_id ORDER BY p.timestamp) as prev_chaos_value,
-            LAG(p.divine_value, 1) OVER (PARTITION BY p.item_id ORDER BY p.timestamp) as prev_divine_value,
-            ROW_NUMBER() OVER (PARTITION BY p.item_id ORDER BY p.timestamp DESC) as rn
-        FROM price_entries p
-        JOIN leagues l ON p.league_id = l.id
-        WHERE l.name = ? AND p.timestamp >= DATETIME('now', '-2 days')
-    ),
-    LatestPrices AS (
-        SELECT * FROM PriceHistory WHERE rn = 1
+            item_id,
+            chaos_value as prev_chaos_value,
+            divine_value as prev_divine_value,
+            ROW_NUMBER() OVER (PARTITION BY item_id ORDER BY timestamp DESC) as rn
+        FROM price_history
     )
+    -- Main query to assemble the current and previous prices
     SELECT
-        i.name, c.name AS category,
-        lp.chaos_value, lp.divine_value,
-        lp.prev_chaos_value, lp.prev_divine_value
-    FROM LatestPrices lp
-    JOIN items i ON lp.item_id = i.id
-    JOIN item_categories c ON i.category_id = c.id;
+        i.name,
+        c.name AS category,
+        cp.chaos_value,
+        cp.divine_value,
+        pp.prev_chaos_value,
+        pp.prev_divine_value
+    FROM current_prices cp
+    JOIN items i ON cp.item_id = i.id
+    JOIN item_categories c ON i.category_id = c.id
+    JOIN leagues l ON l.name = ? -- Filter by league name (assuming only one league is tracked)
+    LEFT JOIN PreviousPrices pp ON cp.item_id = pp.item_id AND pp.rn = 2 -- Join with the 2nd-to-last entry
+    WHERE cp.last_updated_timestamp >= DATETIME('now', '-2 days');
     """
     return pd.read_sql(query, conn, params=(LEAGUE_NAME,))
 
@@ -62,17 +68,18 @@ def calculate_imputed_values_poe1(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 def generate_maintenance_table() -> str:
-    """Creates a markdown table with script maintenance info."""
+    """Creates a markdown table with script maintenance info from the new schema."""
     if not Path(DB_FILE).exists(): return "No database file found."
     with sqlite3.connect(DB_FILE) as conn:
         try:
-            latest_run_time = pd.read_sql("SELECT MAX(timestamp) as last_run FROM price_entries", conn).iloc[0]['last_run']
-            total_rows = pd.read_sql("SELECT COUNT(*) as count FROM price_entries", conn).iloc[0]['count']
+            # UPDATED: Query the new tables for more meaningful stats
+            latest_run_time = pd.read_sql("SELECT MAX(last_updated_timestamp) as last_run FROM current_prices", conn).iloc[0]['last_run']
+            total_rows = pd.read_sql("SELECT COUNT(*) as count FROM price_history", conn).iloc[0]['count']
         except (pd.io.sql.DatabaseError, IndexError):
             return "Database is empty or corrupt."
     table = "| Metric | Value |\n|:---|:---|\n"
-    table += f"| Last Successful Run (UTC) | `{latest_run_time}` |\n"
-    table += f"| Total Price Entries in DB | `{total_rows:,}` |\n"
+    table += f"| Last Price Update (UTC) | `{latest_run_time}` |\n"
+    table += f"| Total Price Changes Logged | `{total_rows:,}` |\n"
     return table
 
 def df_to_markdown(dataframe: pd.DataFrame, headers: list) -> str:
@@ -104,7 +111,7 @@ def generate_analysis_content(df: pd.DataFrame) -> tuple[str, str, str, str]:
         
         movers_chart_df = pd.concat([top_gainers, top_losers])
         if not movers_chart_df.empty:
-            fig_movers = px.bar(movers_chart_df, x='name', y='change', color='change', color_continuous_scale='RdYlGn', title='Top Market Movers (Last ~24 Hours)', labels={'name': 'Item', 'change': '% Change in Chaos Value'})
+            fig_movers = px.bar(movers_chart_df, x='name', y='change', color='change', color_continuous_scale='RdYlGn', title='Top Market Movers (Since Last Price Change)', labels={'name': 'Item', 'change': '% Change in Chaos Value'})
             movers_chart_path = charts_path / "market_movers.png"
             fig_movers.write_image(movers_chart_path, width=1000, height=600)
             movers_chart_path_str = str(movers_chart_path)
