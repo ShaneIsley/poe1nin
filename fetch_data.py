@@ -8,7 +8,7 @@ import time
 import json
 
 # --- Configuration ---
-DB_FILE = "poe1_economy.db"
+DB_FILE = "poe_economy_keepers.db"  # UPDATED: Points to the new database file
 LEAGUE_NAME = "Keepers"
 REQUEST_DELAY = 1.5  # Delay in seconds between API requests
 DATA_DIR = "data"    # Directory to store raw JSON responses
@@ -34,7 +34,11 @@ def sanitize_filename(name: str) -> str:
     return f"{name}.json"
 
 def create_database_schema(cursor: sqlite3.Cursor, conn: sqlite3.Connection):
-    """Creates the necessary tables if they don't exist."""
+    """
+    Creates the new, optimized database schema with current_prices and price_history tables.
+    """
+    logging.info("Ensuring optimized database schema exists...")
+    # --- Base Tables ---
     cursor.execute("CREATE TABLE IF NOT EXISTS leagues (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT UNIQUE NOT NULL);")
     cursor.execute("CREATE TABLE IF NOT EXISTS item_categories (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT UNIQUE NOT NULL);")
     cursor.execute("""
@@ -43,14 +47,34 @@ def create_database_schema(cursor: sqlite3.Cursor, conn: sqlite3.Connection):
         image_url TEXT, category_id INTEGER,
         FOREIGN KEY (category_id) REFERENCES item_categories (id)
     );""")
+
+    # --- NEW: High-performance Price Tables ---
     cursor.execute("""
-    CREATE TABLE IF NOT EXISTS price_entries (
-        id INTEGER PRIMARY KEY AUTOINCREMENT, item_id INTEGER NOT NULL, league_id INTEGER NOT NULL,
-        timestamp DATETIME NOT NULL, chaos_value REAL, divine_value REAL, exalted_value REAL,
-        volume_chaos REAL, volume_divine REAL, volume_exalted REAL, max_volume_currency TEXT,
-        FOREIGN KEY (item_id) REFERENCES items (id), FOREIGN KEY (league_id) REFERENCES leagues (id)
+    CREATE TABLE IF NOT EXISTS current_prices (
+        item_id INTEGER PRIMARY KEY,
+        chaos_value REAL,
+        divine_value REAL,
+        last_updated_timestamp DATETIME NOT NULL,
+        FOREIGN KEY (item_id) REFERENCES items(id) ON DELETE CASCADE
     );""")
+
+    cursor.execute("""
+    CREATE TABLE IF NOT EXISTS price_history (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        item_id INTEGER NOT NULL,
+        league_id INTEGER NOT NULL,
+        timestamp DATETIME NOT NULL,
+        chaos_value REAL,
+        divine_value REAL,
+        FOREIGN KEY (item_id) REFERENCES items(id) ON DELETE CASCADE,
+        FOREIGN KEY (league_id) REFERENCES leagues(id)
+    );""")
+
+    # --- NEW: Essential Performance Index ---
+    cursor.execute("CREATE INDEX IF NOT EXISTS idx_price_history_item_timestamp ON price_history (item_id, timestamp);")
+    
     conn.commit()
+    logging.info("Schema is ready.")
 
 def fetch_poe_ninja_data(league_name: str, item_type: str) -> dict | None:
     """
@@ -72,8 +96,8 @@ def fetch_poe_ninja_data(league_name: str, item_type: str) -> dict | None:
 
 def process_and_insert_data(data: dict, league_name: str, category_display_name: str, cursor: sqlite3.Cursor, conn: sqlite3.Connection):
     """
-    Processes JSON data from either endpoint, normalizes it, includes volume,
-    and inserts it into the SQLite database.
+    Processes JSON data, checks for price changes, and inserts data into the
+    new 'current_prices' and 'price_history' tables.
     """
     if not data:
         logging.warning("No valid data to process.")
@@ -88,62 +112,79 @@ def process_and_insert_data(data: dict, league_name: str, category_display_name:
     cursor.execute("SELECT id FROM item_categories WHERE name = ?", (category_display_name,))
     category_id = cursor.fetchone()[0]
 
-    items_processed = 0
-    lines = data.get('lines', [])
+    items_updated = 0
+    items_added = 0
+    items_skipped = 0
     
+    lines = data.get('lines', [])
     if not lines:
         logging.warning(f"No item lines found in the response for category '{category_display_name}'.")
         return
 
-    # Logic for both 'currencyoverview' and 'itemoverview' structures
     for item_data in lines:
-        # --- Data Extraction (handles both API formats) ---
         is_currency = 'currencyTypeName' in item_data
         
         item_name = item_data.get('currencyTypeName') if is_currency else item_data.get('name')
         api_id = item_data.get('detailsId') if is_currency else item_data.get('id')
-        image_url = item_data.get('icon') # Only present in itemoverview
+        image_url = item_data.get('icon')
         
         chaos_value = item_data.get('chaosEquivalent') if is_currency else item_data.get('chaosValue')
-        divine_value = item_data.get('divineValue') # Only in itemoverview
-        exalted_value = item_data.get('exaltedValue') # Only in itemoverview
-        
-        # Volume is 'listingCount' in itemoverview. Not available in currencyoverview.
-        volume_chaos = item_data.get('listingCount')
+        divine_value = item_data.get('divineValue')
         
         if not api_id or not item_name:
             continue
             
-        # --- Currency Price Normalization (from original PoE 1 script) ---
         if is_currency:
             receive_details = item_data.get('receive')
             if receive_details and receive_details.get('value', 0) > 1 and chaos_value and chaos_value > 1:
-                chaos_value = 1 / chaos_value # Convert rate to per-item value
+                chaos_value = 1 / chaos_value
 
-        # --- Database Insertion ---
+        # --- Get or create the item's master record ---
         cursor.execute("INSERT OR IGNORE INTO items (api_id, name, image_url, category_id) VALUES (?, ?, ?, ?)",
                        (api_id, item_name, image_url, category_id))
-        
         cursor.execute("SELECT id FROM items WHERE api_id = ?", (api_id,))
-        db_item_id_tuple = cursor.fetchone()
-        if not db_item_id_tuple: continue
-        db_item_id = db_item_id_tuple[0]
+        db_item_id = cursor.fetchone()[0]
 
-        cursor.execute("""
-        INSERT INTO price_entries (
-            item_id, league_id, timestamp, chaos_value, divine_value, exalted_value, volume_chaos
-        ) VALUES (?, ?, ?, ?, ?, ?, ?)
-        """, (db_item_id, league_id, current_timestamp, chaos_value, divine_value, exalted_value, volume_chaos))
-        
-        items_processed += 1
+        # --- NEW: Change-Detection Logic ---
+        cursor.execute("SELECT chaos_value, divine_value FROM current_prices WHERE item_id = ?", (db_item_id,))
+        old_price = cursor.fetchone()
+
+        price_has_changed = False
+        if not old_price:
+            price_has_changed = True
+            items_added += 1
+        # Compare, ensuring we handle None values correctly
+        elif old_price[0] != chaos_value or old_price[1] != divine_value:
+            price_has_changed = True
+            items_updated += 1
+        else:
+            items_skipped += 1
+
+        # --- NEW: Insert into new tables ONLY if the price has changed ---
+        if price_has_changed:
+            # 1. Log the change in the history table
+            cursor.execute("""
+            INSERT INTO price_history (item_id, league_id, timestamp, chaos_value, divine_value)
+            VALUES (?, ?, ?, ?, ?)
+            """, (db_item_id, league_id, current_timestamp, chaos_value, divine_value))
+            
+            # 2. Update the current price table using an UPSERT
+            cursor.execute("""
+            INSERT INTO current_prices (item_id, chaos_value, divine_value, last_updated_timestamp)
+            VALUES (?, ?, ?, ?)
+            ON CONFLICT(item_id) DO UPDATE SET
+                chaos_value = excluded.chaos_value,
+                divine_value = excluded.divine_value,
+                last_updated_timestamp = excluded.last_updated_timestamp;
+            """, (db_item_id, chaos_value, divine_value, current_timestamp))
 
     conn.commit()
-    logging.info(f"Successfully processed and inserted data for {items_processed} items in the '{category_display_name}' category.")
+    logging.info(f"'{category_display_name}' Report: {items_added} new items, {items_updated} updated, {items_skipped} skipped (price unchanged).")
 
 def main():
     """The main function to run the entire update process."""
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
-    logging.info(f"--- Starting PoE 1 Economy Data Fetch for {LEAGUE_NAME} League ---")
+    logging.info(f"--- Starting PoE Economy Data Fetch for {LEAGUE_NAME} League (Optimized Schema) ---")
 
     league_data_dir = os.path.join(DATA_DIR, LEAGUE_NAME.lower().replace(" ", "_"))
     os.makedirs(league_data_dir, exist_ok=True)
@@ -161,7 +202,6 @@ def main():
         api_data = fetch_poe_ninja_data(LEAGUE_NAME, api_type)
         
         if api_data:
-            # Save the raw data to a file
             filename = sanitize_filename(display_name)
             filepath = os.path.join(league_data_dir, filename)
             try:
@@ -171,7 +211,6 @@ def main():
             except IOError as e:
                 logging.error(f"Could not write to file '{filepath}': {e}")
             
-            # Process and insert into database
             process_and_insert_data(api_data, LEAGUE_NAME, display_name, cursor, conn)
         else:
             logging.warning(f"Skipping category '{display_name}' due to fetch error or no data.")
