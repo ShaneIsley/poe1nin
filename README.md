@@ -7,8 +7,8 @@ This repository tracks data the Keepers league.
 <!-- START_MAINTENANCE -->
 | Metric | Value |
 |:---|:---|
-| Last Successful Run (UTC) | `2025-11-05 04:49:20.585705` |
-| Total Price Entries in DB | `1,765,963` |
+| Last Successful Run (UTC) | `2025-11-05 05:10:17.728401` |
+| Total Price Entries in DB | `1,776,478` |
 
 <!-- END_MAINTENANCE -->
 
@@ -20,18 +20,18 @@ This repository tracks data the Keepers league.
 | :--- | :--- | :--- |
 | Skill Gems | Awakened Enlighten Support | 73,428.0 |
 | Unique Accessories | Original Sin | 21,650.0 |
-| Unique Jewels | Voices | 15,570.0 |
-| Unique Flasks | Progenesis | 5,734.0 |
+| Unique Jewels | Voices | 15,133.0 |
+| Unique Flasks | Progenesis | 5,632.0 |
 | Divination Cards | House of Mirrors | 4,540.0 |
-| Unique Armours | Svalinn | 4,350.0 |
-| Unique Weapons | Voidforge | 3,856.0 |
+| Unique Armours | Svalinn | 4,253.0 |
+| Unique Weapons | Voidforge | 3,857.0 |
 | Tattoos | Journey Tattoo of the Soul | 1,940.0 |
 | Cluster Jewels | 12% increased Fire Damage | 223.9 |
-| Scarabs | Horned Scarab of Preservation | 158.2 |
-| Maps | Ziggurat Map | 40.0 |
-| Oils | Golden Oil | 34.5 |
-| Essences | Essence of Horror | 11.0 |
-| Delirium Orbs | Skittering Delirium Orb | 3.2 |
+| Scarabs | Horned Scarab of Preservation | 157.5 |
+| Maps | Ziggurat Map | 43.6 |
+| Oils | Golden Oil | 34.2 |
+| Essences | Essence of Horror | 10.2 |
+| Delirium Orbs | Skittering Delirium Orb | 3.6 |
 | Incubators | Ornate Incubator | 3.0 |
 
 
@@ -48,8 +48,8 @@ This repository tracks data the Keepers league.
 | Awakened Enhance Support | 44,487.0 |
 | Original Sin | 21,650.0 |
 | Mageblood | 19,179.0 |
-| Voices | 15,570.0 |
 | Awakened Multistrike Support | 15,323.0 |
+| Voices | 15,133.0 |
 | Awakened Enlighten Support | 12,456.0 |
 | Awakened Empower Support | 11,818.0 |
 | Headhunter | 10,084.0 |
