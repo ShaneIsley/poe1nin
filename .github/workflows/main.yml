@@ -48,8 +48,8 @@ jobs:
       #  run: python analysis.py
 
       # Step 7: Commit all updated files back to the repository
-      #- name: Commit and push if changed
-      #  run: |
+      - name: Commit and push if changed
+        run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           # Add all relevant generated files
