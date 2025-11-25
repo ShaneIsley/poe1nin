@@ -142,7 +142,7 @@
             "chaosValue": 4298,
             "exaltedValue": 436.8,
             "divineValue": 29.0,
-            "count": 34,
+            "count": 33,
             "detailsId": "unrequited-love",
             "tradeInfo": [],
             "listingCount": 39
@@ -3391,7 +3391,7 @@
             "chaosValue": 10.0,
             "exaltedValue": 1.02,
             "divineValue": 0.07,
-            "count": 11,
+            "count": 10,
             "detailsId": "the-queen",
             "tradeInfo": [],
             "listingCount": 34
@@ -4173,7 +4173,7 @@
             "chaosValue": 8.0,
             "exaltedValue": 0.81,
             "divineValue": 0.05,
-            "count": 351,
+            "count": 350,
             "detailsId": "the-patient",
             "tradeInfo": [],
             "listingCount": 499
@@ -4956,7 +4956,7 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.51,
             "divineValue": 0.03,
-            "count": 52,
+            "count": 51,
             "detailsId": "the-journey",
             "tradeInfo": [],
             "listingCount": 84
@@ -5299,7 +5299,7 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.51,
             "divineValue": 0.03,
-            "count": 57,
+            "count": 56,
             "detailsId": "a-stone-perfected",
             "tradeInfo": [],
             "listingCount": 86
@@ -6138,6 +6138,55 @@
             "listingCount": 92
         },
         {
+            "id": 20739,
+            "name": "The Lord of Celebration",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Lord of Celebration",
+            "stackSize": 4,
+            "artFilename": "TheLordofCelebration",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 144.4,
+                "data": [
+                    0,
+                    33.33,
+                    11.11,
+                    -5.56,
+                    66.67,
+                    77.78,
+                    144.4
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 144.4,
+                "data": [
+                    0,
+                    33.33,
+                    11.11,
+                    -5.56,
+                    66.67,
+                    77.78,
+                    144.4
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<magicitem>{Sceptre of Celebration}\n<default>{Shaper Item}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Though they were a pack of elite combatants, the Emperor's royal guards were not ready to face one of his notorious parties.",
+            "chaosValue": 4.4,
+            "exaltedValue": 0.45,
+            "divineValue": 0.03,
+            "count": 17,
+            "detailsId": "the-lord-of-celebration",
+            "tradeInfo": [],
+            "listingCount": 42
+        },
+        {
             "id": 54410,
             "name": "Brotherhood in Exile",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -6724,55 +6773,6 @@
             "listingCount": 105
         },
         {
-            "id": 57,
-            "name": "Anarchy's Price",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Anarchy's Price",
-            "stackSize": 13,
-            "artFilename": "AnarchysPrice",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -48.65,
-                "data": [
-                    0,
-                    -12.16,
-                    -24.32,
-                    -41.89,
-                    -48.65,
-                    -52.7,
-                    -48.65
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -48.65,
-                "data": [
-                    0,
-                    -12.16,
-                    -24.32,
-                    -41.89,
-                    -48.65,
-                    -52.7,
-                    -48.65
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Voltaxic Rift}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:31>{Born of relentless fury and abhorrence, warped by turmoil and anguish, tainted through desire and carnality, I thirst for bloodshed once more.}",
-            "chaosValue": 3.8,
-            "exaltedValue": 0.39,
-            "divineValue": 0.03,
-            "count": 17,
-            "detailsId": "anarchys-price",
-            "tradeInfo": [],
-            "listingCount": 30
-        },
-        {
             "id": 21582,
             "name": "Pride of the First Ones",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -7065,6 +7065,55 @@
             "detailsId": "the-bones",
             "tradeInfo": [],
             "listingCount": 133
+        },
+        {
+            "id": 57,
+            "name": "Anarchy's Price",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Anarchy's Price",
+            "stackSize": 13,
+            "artFilename": "AnarchysPrice",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -52.7,
+                "data": [
+                    0,
+                    -12.16,
+                    -24.32,
+                    -41.89,
+                    -48.65,
+                    -52.7,
+                    -52.7
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -52.7,
+                "data": [
+                    0,
+                    -12.16,
+                    -24.32,
+                    -41.89,
+                    -48.65,
+                    -52.7,
+                    -52.7
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Voltaxic Rift}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:31>{Born of relentless fury and abhorrence, warped by turmoil and anguish, tainted through desire and carnality, I thirst for bloodshed once more.}",
+            "chaosValue": 3.5,
+            "exaltedValue": 0.36,
+            "divineValue": 0.02,
+            "count": 16,
+            "detailsId": "anarchys-price",
+            "tradeInfo": [],
+            "listingCount": 30
         },
         {
             "id": 20845,
@@ -7649,7 +7698,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.3,
             "divineValue": 0.02,
-            "count": 49,
+            "count": 48,
             "detailsId": "the-eye-of-the-dragon",
             "tradeInfo": [],
             "listingCount": 72
@@ -7702,55 +7751,6 @@
             "detailsId": "the-world-eater",
             "tradeInfo": [],
             "listingCount": 20
-        },
-        {
-            "id": 20739,
-            "name": "The Lord of Celebration",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Lord of Celebration",
-            "stackSize": 4,
-            "artFilename": "TheLordofCelebration",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 66.67,
-                "data": [
-                    0,
-                    33.33,
-                    11.11,
-                    -5.56,
-                    66.67,
-                    77.78,
-                    66.67
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 66.67,
-                "data": [
-                    0,
-                    33.33,
-                    11.11,
-                    -5.56,
-                    66.67,
-                    77.78,
-                    66.67
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<magicitem>{Sceptre of Celebration}\n<default>{Shaper Item}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Though they were a pack of elite combatants, the Emperor's royal guards were not ready to face one of his notorious parties.",
-            "chaosValue": 3.0,
-            "exaltedValue": 0.3,
-            "divineValue": 0.02,
-            "count": 18,
-            "detailsId": "the-lord-of-celebration",
-            "tradeInfo": [],
-            "listingCount": 42
         },
         {
             "id": 21558,
@@ -8138,7 +8138,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.3,
             "divineValue": 0.02,
-            "count": 124,
+            "count": 122,
             "detailsId": "the-academic",
             "tradeInfo": [],
             "listingCount": 252
@@ -8683,55 +8683,6 @@
             "listingCount": 14
         },
         {
-            "id": 95721,
-            "name": "From Bone to Ashes",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "From Bone to Ashes",
-            "stackSize": 8,
-            "artFilename": "FromBonesToAshes",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 51.35,
-                "data": [
-                    0,
-                    2.7,
-                    -13.51,
-                    -8.11,
-                    2.7,
-                    72.97,
-                    51.35
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 51.35,
-                "data": [
-                    0,
-                    2.7,
-                    -13.51,
-                    -8.11,
-                    2.7,
-                    72.97,
-                    51.35
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Ngamahu's Flame}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "For centuries, they stood vigil in secret over their sleeping goddess, even as contamination oozed out of the decadent Vaal empire.",
-            "chaosValue": 2.8,
-            "exaltedValue": 0.28,
-            "divineValue": 0.02,
-            "count": 25,
-            "detailsId": "from-bone-to-ashes",
-            "tradeInfo": [],
-            "listingCount": 59
-        },
-        {
             "id": 1559,
             "name": "The Offering",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -8879,6 +8830,55 @@
             "listingCount": 26
         },
         {
+            "id": 95721,
+            "name": "From Bone to Ashes",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "From Bone to Ashes",
+            "stackSize": 8,
+            "artFilename": "FromBonesToAshes",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 40.54,
+                "data": [
+                    0,
+                    2.7,
+                    -13.51,
+                    -8.11,
+                    2.7,
+                    72.97,
+                    40.54
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 40.54,
+                "data": [
+                    0,
+                    2.7,
+                    -13.51,
+                    -8.11,
+                    2.7,
+                    72.97,
+                    40.54
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Ngamahu's Flame}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "For centuries, they stood vigil in secret over their sleeping goddess, even as contamination oozed out of the decadent Vaal empire.",
+            "chaosValue": 2.6,
+            "exaltedValue": 0.26,
+            "divineValue": 0.02,
+            "count": 24,
+            "detailsId": "from-bone-to-ashes",
+            "tradeInfo": [],
+            "listingCount": 59
+        },
+        {
             "id": 100661,
             "name": "A Dusty Memory",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -8977,104 +8977,6 @@
             "listingCount": 52
         },
         {
-            "id": 1617,
-            "name": "The Spoiled Prince",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Spoiled Prince",
-            "stackSize": 4,
-            "artFilename": "TheSpoiledPrince",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 150,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    110,
-                    150
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 150,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    110,
-                    150
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<magicitem>{Dictator's Prophecy Wand}\n<default>{Item Level:} <normal>{100}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "A boy who grows up with everything learns to appreciate nothing.",
-            "chaosValue": 2.5,
-            "exaltedValue": 0.25,
-            "divineValue": 0.02,
-            "count": 29,
-            "detailsId": "the-spoiled-prince",
-            "tradeInfo": [],
-            "listingCount": 62
-        },
-        {
-            "id": 93185,
-            "name": "Parasitic Passengers",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Parasitic Passengers",
-            "stackSize": 8,
-            "artFilename": "ParasiticPassengers",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 25,
-                "data": [
-                    0,
-                    0,
-                    90,
-                    45,
-                    45,
-                    50,
-                    25
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 25,
-                "data": [
-                    0,
-                    0,
-                    90,
-                    45,
-                    45,
-                    50,
-                    25
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{10x Incubator}\n<default>{Item Level:} <normal>{84}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Feeding on death, they grew stronger and stronger, until they were ready to hatch...",
-            "chaosValue": 2.5,
-            "exaltedValue": 0.25,
-            "divineValue": 0.02,
-            "count": 50,
-            "detailsId": "parasitic-passengers",
-            "tradeInfo": [],
-            "listingCount": 91
-        },
-        {
             "id": 100491,
             "name": "The Return of the Rat",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -9122,6 +9024,55 @@
             "detailsId": "the-return-of-the-rat",
             "tradeInfo": [],
             "listingCount": 85
+        },
+        {
+            "id": 1617,
+            "name": "The Spoiled Prince",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Spoiled Prince",
+            "stackSize": 4,
+            "artFilename": "TheSpoiledPrince",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 140,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    110,
+                    140
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 140,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    110,
+                    140
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<magicitem>{Dictator's Prophecy Wand}\n<default>{Item Level:} <normal>{100}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "A boy who grows up with everything learns to appreciate nothing.",
+            "chaosValue": 2.4,
+            "exaltedValue": 0.24,
+            "divineValue": 0.02,
+            "count": 28,
+            "detailsId": "the-spoiled-prince",
+            "tradeInfo": [],
+            "listingCount": 62
         },
         {
             "id": 6981,
@@ -9173,102 +9124,53 @@
             "listingCount": 28
         },
         {
-            "id": 128427,
-            "name": "Bound by Flame",
+            "id": 93185,
+            "name": "Parasitic Passengers",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Bound by Flame",
-            "stackSize": 2,
-            "artFilename": "BoundByFlame",
+            "baseType": "Parasitic Passengers",
+            "stackSize": 8,
+            "artFilename": "ParasiticPassengers",
             "itemClass": 6,
             "sparkLine": {
-                "totalChange": -20,
+                "totalChange": 20,
                 "data": [
                     0,
                     0,
-                    0,
-                    23.33,
-                    23.33,
-                    -20,
-                    -20
+                    90,
+                    45,
+                    45,
+                    50,
+                    20
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -20,
+                "totalChange": 20,
                 "data": [
                     0,
                     0,
-                    0,
-                    23.33,
-                    23.33,
-                    -20,
-                    -20
+                    90,
+                    45,
+                    45,
+                    50,
+                    20
                 ]
             },
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "<gemitem>{Level 21 Flame Link}\n<default>{Quality:} <augmented>{+20%}",
+                    "text": "<currencyitem>{10x Incubator}\n<default>{Item Level:} <normal>{84}",
                     "optional": false
                 }
             ],
             "mutatedModifiers": [],
-            "flavourText": "<size:30>{In battle we burn together\nor not at all.}",
+            "flavourText": "Feeding on death, they grew stronger and stronger, until they were ready to hatch...",
             "chaosValue": 2.4,
             "exaltedValue": 0.24,
             "divineValue": 0.02,
-            "count": 58,
-            "detailsId": "bound-by-flame",
+            "count": 49,
+            "detailsId": "parasitic-passengers",
             "tradeInfo": [],
-            "listingCount": 131
-        },
-        {
-            "id": 1471,
-            "name": "The Dapper Prodigy",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Dapper Prodigy",
-            "stackSize": 6,
-            "artFilename": "TheDapperProdigy",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 15,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    15
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 15,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    15
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{Six-Link Body Armour}\n<default>{Item Level:} <normal>{100}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Many believe murder is a grisly, grim, and grotesque crime. Then there are those who simply make art of it.\"",
-            "chaosValue": 2.3,
-            "exaltedValue": 0.23,
-            "divineValue": 0.02,
-            "count": 156,
-            "detailsId": "the-dapper-prodigy",
-            "tradeInfo": [],
-            "listingCount": 298
+            "listingCount": 91
         },
         {
             "id": 20668,
@@ -9318,6 +9220,55 @@
             "detailsId": "arrogance-of-the-vaal",
             "tradeInfo": [],
             "listingCount": 160
+        },
+        {
+            "id": 1471,
+            "name": "The Dapper Prodigy",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Dapper Prodigy",
+            "stackSize": 6,
+            "artFilename": "TheDapperProdigy",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 10,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 10,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    10
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Six-Link Body Armour}\n<default>{Item Level:} <normal>{100}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Many believe murder is a grisly, grim, and grotesque crime. Then there are those who simply make art of it.\"",
+            "chaosValue": 2.2,
+            "exaltedValue": 0.22,
+            "divineValue": 0.01,
+            "count": 155,
+            "detailsId": "the-dapper-prodigy",
+            "tradeInfo": [],
+            "listingCount": 298
         },
         {
             "id": 1534,
@@ -9416,6 +9367,55 @@
             "detailsId": "peaceful-moments",
             "tradeInfo": [],
             "listingCount": 125
+        },
+        {
+            "id": 128427,
+            "name": "Bound by Flame",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Bound by Flame",
+            "stackSize": 2,
+            "artFilename": "BoundByFlame",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -26.67,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    23.33,
+                    23.33,
+                    -20,
+                    -26.67
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -26.67,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    23.33,
+                    23.33,
+                    -20,
+                    -26.67
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 21 Flame Link}\n<default>{Quality:} <augmented>{+20%}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:30>{In battle we burn together\nor not at all.}",
+            "chaosValue": 2.2,
+            "exaltedValue": 0.22,
+            "divineValue": 0.01,
+            "count": 57,
+            "detailsId": "bound-by-flame",
+            "tradeInfo": [],
+            "listingCount": 131
         },
         {
             "id": 23831,
@@ -9559,7 +9559,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 74,
+            "count": 73,
             "detailsId": "gift-of-the-gemling-queen",
             "tradeInfo": [],
             "listingCount": 148
@@ -9706,7 +9706,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 167,
+            "count": 166,
             "detailsId": "last-hope",
             "tradeInfo": [],
             "listingCount": 292
@@ -9902,7 +9902,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 52,
+            "count": 51,
             "detailsId": "the-betrayal",
             "tradeInfo": [],
             "listingCount": 142
@@ -10098,7 +10098,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 45,
+            "count": 44,
             "detailsId": "the-feast",
             "tradeInfo": [],
             "listingCount": 92
@@ -10202,55 +10202,6 @@
             "listingCount": 224
         },
         {
-            "id": 1592,
-            "name": "The Scavenger",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Scavenger",
-            "stackSize": 8,
-            "artFilename": "TheScavenger",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 100,
-                "data": [
-                    0,
-                    100,
-                    100,
-                    70,
-                    0,
-                    0,
-                    100
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 100,
-                "data": [
-                    0,
-                    100,
-                    100,
-                    70,
-                    0,
-                    0,
-                    100
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Carcass Jack}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Take small pieces of things and then assemble them together",
-            "chaosValue": 2.0,
-            "exaltedValue": 0.2,
-            "divineValue": 0.01,
-            "count": 53,
-            "detailsId": "the-scavenger",
-            "tradeInfo": [],
-            "listingCount": 145
-        },
-        {
             "id": 1612,
             "name": "The Siren",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -10300,55 +10251,6 @@
             "listingCount": 59
         },
         {
-            "id": 1624,
-            "name": "The Surgeon",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Surgeon",
-            "stackSize": 4,
-            "artFilename": "TheSurgeon",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 100,
-                "data": [
-                    0,
-                    70,
-                    70,
-                    0,
-                    0,
-                    140,
-                    100
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 100,
-                "data": [
-                    0,
-                    70,
-                    70,
-                    0,
-                    0,
-                    140,
-                    100
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<magicitem>{Surgeon's Flask}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"He might be lacking in vision, but his virtuosity is undeniable.\"\n- Malachai, on Maligaro",
-            "chaosValue": 2.0,
-            "exaltedValue": 0.2,
-            "divineValue": 0.01,
-            "count": 56,
-            "detailsId": "the-surgeon",
-            "tradeInfo": [],
-            "listingCount": 137
-        },
-        {
             "id": 1650,
             "name": "The Union",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -10392,7 +10294,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 159,
+            "count": 158,
             "detailsId": "the-union",
             "tradeInfo": [],
             "listingCount": 276
@@ -10441,7 +10343,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 82,
+            "count": 80,
             "detailsId": "the-visionary",
             "tradeInfo": [],
             "listingCount": 204
@@ -10490,7 +10392,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 123,
+            "count": 122,
             "detailsId": "the-wolf",
             "tradeInfo": [],
             "listingCount": 267
@@ -10539,7 +10441,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 211,
+            "count": 210,
             "detailsId": "vinias-token",
             "tradeInfo": [],
             "listingCount": 339
@@ -10833,7 +10735,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 176,
+            "count": 175,
             "detailsId": "no-traces",
             "tradeInfo": [],
             "listingCount": 322
@@ -11029,7 +10931,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 38,
+            "count": 37,
             "detailsId": "the-dreamland",
             "tradeInfo": [],
             "listingCount": 111
@@ -11274,7 +11176,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 64,
+            "count": 63,
             "detailsId": "the-messenger",
             "tradeInfo": [],
             "listingCount": 116
@@ -11329,55 +11231,6 @@
             "listingCount": 108
         },
         {
-            "id": 21569,
-            "name": "Demigod's Wager",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Demigod's Wager",
-            "stackSize": 7,
-            "artFilename": "DemigodsWagergives",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{Orb of Annulment}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Sometimes you need to make your own luck.",
-            "chaosValue": 2.0,
-            "exaltedValue": 0.2,
-            "divineValue": 0.01,
-            "count": 147,
-            "detailsId": "demigods-wager",
-            "tradeInfo": [],
-            "listingCount": 235
-        },
-        {
             "id": 21645,
             "name": "The Archmage's Right Hand",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -11421,7 +11274,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 50,
+            "count": 49,
             "detailsId": "the-archmages-right-hand",
             "tradeInfo": [],
             "listingCount": 103
@@ -11470,7 +11323,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 173,
+            "count": 172,
             "detailsId": "the-skeleton",
             "tradeInfo": [],
             "listingCount": 354
@@ -12407,55 +12260,6 @@
             "listingCount": 77
         },
         {
-            "id": 109207,
-            "name": "Eldritch Perfection",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Eldritch Perfection",
-            "stackSize": 4,
-            "artFilename": "EldritchPerfection",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    -45.0,
-                    -50.0,
-                    -50.0,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    -45.0,
-                    -50.0,
-                    -50.0,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{Item}\n<default>{Item Level:} <normal>{100}\n<enchanted>{Perfect Eldritch Implicit Modifier}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Embrace horror.\nBathe in its beauty.",
-            "chaosValue": 2.0,
-            "exaltedValue": 0.2,
-            "divineValue": 0.01,
-            "count": 108,
-            "detailsId": "eldritch-perfection",
-            "tradeInfo": [],
-            "listingCount": 210
-        },
-        {
             "id": 118613,
             "name": "Toxic Tidings",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12652,6 +12456,153 @@
             "listingCount": 116
         },
         {
+            "id": 1592,
+            "name": "The Scavenger",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Scavenger",
+            "stackSize": 8,
+            "artFilename": "TheScavenger",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 90,
+                "data": [
+                    0,
+                    100,
+                    100,
+                    70,
+                    0,
+                    0,
+                    90
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 90,
+                "data": [
+                    0,
+                    100,
+                    100,
+                    70,
+                    0,
+                    0,
+                    90
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Carcass Jack}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Take small pieces of things and then assemble them together",
+            "chaosValue": 1.9,
+            "exaltedValue": 0.19,
+            "divineValue": 0.01,
+            "count": 52,
+            "detailsId": "the-scavenger",
+            "tradeInfo": [],
+            "listingCount": 145
+        },
+        {
+            "id": 1624,
+            "name": "The Surgeon",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Surgeon",
+            "stackSize": 4,
+            "artFilename": "TheSurgeon",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 90,
+                "data": [
+                    0,
+                    70,
+                    70,
+                    0,
+                    0,
+                    140,
+                    90
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 90,
+                "data": [
+                    0,
+                    70,
+                    70,
+                    0,
+                    0,
+                    140,
+                    90
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<magicitem>{Surgeon's Flask}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"He might be lacking in vision, but his virtuosity is undeniable.\"\n- Malachai, on Maligaro",
+            "chaosValue": 1.9,
+            "exaltedValue": 0.19,
+            "divineValue": 0.01,
+            "count": 55,
+            "detailsId": "the-surgeon",
+            "tradeInfo": [],
+            "listingCount": 137
+        },
+        {
+            "id": 21569,
+            "name": "Demigod's Wager",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Demigod's Wager",
+            "stackSize": 7,
+            "artFilename": "DemigodsWagergives",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -5,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -5
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -5,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -5
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{Orb of Annulment}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Sometimes you need to make your own luck.",
+            "chaosValue": 1.9,
+            "exaltedValue": 0.19,
+            "divineValue": 0.01,
+            "count": 146,
+            "detailsId": "demigods-wager",
+            "tradeInfo": [],
+            "listingCount": 235
+        },
+        {
             "id": 22480,
             "name": "The Side Quest",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12699,6 +12650,55 @@
             "detailsId": "the-side-quest",
             "tradeInfo": [],
             "listingCount": 154
+        },
+        {
+            "id": 109207,
+            "name": "Eldritch Perfection",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Eldritch Perfection",
+            "stackSize": 4,
+            "artFilename": "EldritchPerfection",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -5,
+                "data": [
+                    0,
+                    -45.0,
+                    -50.0,
+                    -50.0,
+                    0,
+                    0,
+                    -5
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -5,
+                "data": [
+                    0,
+                    -45.0,
+                    -50.0,
+                    -50.0,
+                    0,
+                    0,
+                    -5
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Item}\n<default>{Item Level:} <normal>{100}\n<enchanted>{Perfect Eldritch Implicit Modifier}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Embrace horror.\nBathe in its beauty.",
+            "chaosValue": 1.9,
+            "exaltedValue": 0.19,
+            "divineValue": 0.01,
+            "count": 107,
+            "detailsId": "eldritch-perfection",
+            "tradeInfo": [],
+            "listingCount": 210
         },
         {
             "id": 2040,
@@ -13338,55 +13338,6 @@
             "listingCount": 164
         },
         {
-            "id": 20793,
-            "name": "The Golden Era",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Golden Era",
-            "stackSize": 7,
-            "artFilename": "TheGoldenEra",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 50,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    10,
-                    80,
-                    60,
-                    50
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 50,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    10,
-                    80,
-                    60,
-                    50
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<magicitem>{Flaring Eclipse Staff}\n<default>{Item Level:} <normal>{100}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Before gemlings, before thaumaturgy, a simple court magician could enthrall the masses.",
-            "chaosValue": 1.5,
-            "exaltedValue": 0.15,
-            "divineValue": 0.01,
-            "count": 38,
-            "detailsId": "the-golden-era",
-            "tradeInfo": [],
-            "listingCount": 75
-        },
-        {
             "id": 125018,
             "name": "When Currents Blaze",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -13534,55 +13485,6 @@
             "listingCount": 66
         },
         {
-            "id": 1590,
-            "name": "The Road to Power",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Road to Power",
-            "stackSize": 7,
-            "artFilename": "TheRoadToPower",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -30,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -5.0,
-                    -5.0,
-                    -10.0,
-                    -30
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -30,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -5.0,
-                    -5.0,
-                    -10.0,
-                    -30
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<magicitem>{Runic One-Hand Weapon}\n<default>{Item Level:} <normal>{100}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "A beacon on the horizon; a guiding light, a call for help, or a warning to turn back.",
-            "chaosValue": 1.4,
-            "exaltedValue": 0.14,
-            "divineValue": 0.01,
-            "count": 17,
-            "detailsId": "the-road-to-power",
-            "tradeInfo": [],
-            "listingCount": 36
-        },
-        {
             "id": 2041,
             "name": "The Wolven King's Bite",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -13681,12 +13583,12 @@
             "listingCount": 99
         },
         {
-            "id": 93152,
-            "name": "Justified Ambition",
+            "id": 20793,
+            "name": "The Golden Era",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Justified Ambition",
-            "stackSize": 5,
-            "artFilename": "JustifiedAmbition",
+            "baseType": "The Golden Era",
+            "stackSize": 7,
+            "artFilename": "TheGoldenEra",
             "itemClass": 6,
             "sparkLine": {
                 "totalChange": 40,
@@ -13694,9 +13596,9 @@
                     0,
                     0,
                     0,
-                    0,
-                    0,
-                    0,
+                    10,
+                    80,
+                    60,
                     40
                 ]
             },
@@ -13706,28 +13608,28 @@
                     0,
                     0,
                     0,
-                    0,
-                    0,
-                    0,
+                    10,
+                    80,
+                    60,
                     40
                 ]
             },
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "<uniqueitem>{Synthesis Map}",
+                    "text": "<magicitem>{Flaring Eclipse Staff}\n<default>{Item Level:} <normal>{100}",
                     "optional": false
                 }
             ],
             "mutatedModifiers": [],
-            "flavourText": "\"Everything I have done has been for Wraeclast. You would pledge your life to me if you saw things my way... and soon, you will.\"\n- High Templar Venarius",
+            "flavourText": "Before gemlings, before thaumaturgy, a simple court magician could enthrall the masses.",
             "chaosValue": 1.4,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 94,
-            "detailsId": "justified-ambition",
+            "count": 37,
+            "detailsId": "the-golden-era",
             "tradeInfo": [],
-            "listingCount": 189
+            "listingCount": 75
         },
         {
             "id": 1485,
@@ -13828,6 +13730,104 @@
             "listingCount": 133
         },
         {
+            "id": 1590,
+            "name": "The Road to Power",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Road to Power",
+            "stackSize": 7,
+            "artFilename": "TheRoadToPower",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -35,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -5.0,
+                    -5.0,
+                    -10.0,
+                    -35
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -35,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -5.0,
+                    -5.0,
+                    -10.0,
+                    -35
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<magicitem>{Runic One-Hand Weapon}\n<default>{Item Level:} <normal>{100}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "A beacon on the horizon; a guiding light, a call for help, or a warning to turn back.",
+            "chaosValue": 1.3,
+            "exaltedValue": 0.13,
+            "divineValue": 0.01,
+            "count": 16,
+            "detailsId": "the-road-to-power",
+            "tradeInfo": [],
+            "listingCount": 36
+        },
+        {
+            "id": 93152,
+            "name": "Justified Ambition",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Justified Ambition",
+            "stackSize": 5,
+            "artFilename": "JustifiedAmbition",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 30,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    30
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 30,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    30
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Synthesis Map}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Everything I have done has been for Wraeclast. You would pledge your life to me if you saw things my way... and soon, you will.\"\n- High Templar Venarius",
+            "chaosValue": 1.3,
+            "exaltedValue": 0.13,
+            "divineValue": 0.01,
+            "count": 93,
+            "detailsId": "justified-ambition",
+            "tradeInfo": [],
+            "listingCount": 189
+        },
+        {
             "id": 588,
             "name": "Grave Knowledge",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -13924,55 +13924,6 @@
             "detailsId": "merciless-armament",
             "tradeInfo": [],
             "listingCount": 46
-        },
-        {
-            "id": 1475,
-            "name": "The Demoness",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Demoness",
-            "stackSize": 5,
-            "artFilename": "TheDemoness",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 10,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    10
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 10,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    10
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Death's Hand}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Wherever she went, death was sure to follow.",
-            "chaosValue": 1.1,
-            "exaltedValue": 0.11,
-            "divineValue": 0.01,
-            "count": 93,
-            "detailsId": "the-demoness",
-            "tradeInfo": [],
-            "listingCount": 195
         },
         {
             "id": 6915,
@@ -14361,7 +14312,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 347,
+            "count": 346,
             "detailsId": "destined-to-crumble",
             "tradeInfo": [],
             "listingCount": 491
@@ -14410,7 +14361,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 128,
+            "count": 127,
             "detailsId": "diallas-subjugation",
             "tradeInfo": [],
             "listingCount": 246
@@ -14557,7 +14508,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 70,
+            "count": 69,
             "detailsId": "earth-drinker",
             "tradeInfo": [],
             "listingCount": 178
@@ -14606,7 +14557,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 130,
+            "count": 129,
             "detailsId": "emperor-of-purity",
             "tradeInfo": [],
             "listingCount": 260
@@ -14753,7 +14704,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 168,
+            "count": 167,
             "detailsId": "glimmer-of-hope",
             "tradeInfo": [],
             "listingCount": 397
@@ -14802,7 +14753,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 97,
+            "count": 96,
             "detailsId": "her-mask",
             "tradeInfo": [],
             "listingCount": 258
@@ -14900,7 +14851,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 123,
+            "count": 122,
             "detailsId": "hubris",
             "tradeInfo": [],
             "listingCount": 302
@@ -14998,7 +14949,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 153,
+            "count": 152,
             "detailsId": "jack-in-the-box",
             "tradeInfo": [],
             "listingCount": 455
@@ -15145,7 +15096,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 108,
+            "count": 106,
             "detailsId": "lost-worlds",
             "tradeInfo": [],
             "listingCount": 232
@@ -15243,7 +15194,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 324,
+            "count": 323,
             "detailsId": "lucky-connections",
             "tradeInfo": [],
             "listingCount": 646
@@ -15488,7 +15439,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 84,
+            "count": 83,
             "detailsId": "rats",
             "tradeInfo": [],
             "listingCount": 231
@@ -15880,7 +15831,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 212,
+            "count": 209,
             "detailsId": "the-calling",
             "tradeInfo": [],
             "listingCount": 917
@@ -15978,7 +15929,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 180,
+            "count": 177,
             "detailsId": "the-catalyst",
             "tradeInfo": [],
             "listingCount": 501
@@ -16080,6 +16031,55 @@
             "detailsId": "the-cursed-king",
             "tradeInfo": [],
             "listingCount": 54
+        },
+        {
+            "id": 1475,
+            "name": "The Demoness",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Demoness",
+            "stackSize": 5,
+            "artFilename": "TheDemoness",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Death's Hand}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Wherever she went, death was sure to follow.",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.1,
+            "divineValue": 0.01,
+            "count": 92,
+            "detailsId": "the-demoness",
+            "tradeInfo": [],
+            "listingCount": 195
         },
         {
             "id": 1477,
@@ -16223,7 +16223,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 48,
+            "count": 47,
             "detailsId": "the-drunken-aristocrat",
             "tradeInfo": [],
             "listingCount": 107
@@ -16321,7 +16321,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 170,
+            "count": 169,
             "detailsId": "the-explorer",
             "tradeInfo": [],
             "listingCount": 419
@@ -16419,7 +16419,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 140,
+            "count": 139,
             "detailsId": "the-floras-gift",
             "tradeInfo": [],
             "listingCount": 371
@@ -16468,7 +16468,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 65,
+            "count": 64,
             "detailsId": "the-fox",
             "tradeInfo": [],
             "listingCount": 180
@@ -16664,7 +16664,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 150,
+            "count": 149,
             "detailsId": "the-gladiator",
             "tradeInfo": [],
             "listingCount": 338
@@ -16762,7 +16762,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 100,
+            "count": 99,
             "detailsId": "the-hermit",
             "tradeInfo": [],
             "listingCount": 279
@@ -17154,7 +17154,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 136,
+            "count": 134,
             "detailsId": "the-lover",
             "tradeInfo": [],
             "listingCount": 329
@@ -17252,7 +17252,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 100,
+            "count": 99,
             "detailsId": "the-mercenary",
             "tradeInfo": [],
             "listingCount": 204
@@ -17742,7 +17742,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 204,
+            "count": 202,
             "detailsId": "the-scholar",
             "tradeInfo": [],
             "listingCount": 547
@@ -18183,7 +18183,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 72,
+            "count": 70,
             "detailsId": "the-traitor",
             "tradeInfo": [],
             "listingCount": 151
@@ -18428,7 +18428,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 55,
+            "count": 54,
             "detailsId": "the-warlord",
             "tradeInfo": [],
             "listingCount": 102
@@ -18869,7 +18869,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 45,
+            "count": 44,
             "detailsId": "call-to-the-first-ones",
             "tradeInfo": [],
             "listingCount": 86
@@ -19065,7 +19065,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 53,
+            "count": 52,
             "detailsId": "might-is-right",
             "tradeInfo": [],
             "listingCount": 123
@@ -19163,7 +19163,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 75,
+            "count": 74,
             "detailsId": "the-opulent",
             "tradeInfo": [],
             "listingCount": 165
@@ -19555,7 +19555,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 307,
+            "count": 305,
             "detailsId": "three-voices",
             "tradeInfo": [],
             "listingCount": 635
@@ -19604,7 +19604,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 109,
+            "count": 108,
             "detailsId": "the-jewellers-boon",
             "tradeInfo": [],
             "listingCount": 254
@@ -19849,7 +19849,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 130,
+            "count": 129,
             "detailsId": "the-wilted-rose",
             "tradeInfo": [],
             "listingCount": 275
@@ -19996,7 +19996,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 103,
+            "count": 102,
             "detailsId": "alone-in-the-darkness",
             "tradeInfo": [],
             "listingCount": 234
@@ -20045,7 +20045,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 113,
+            "count": 112,
             "detailsId": "dark-temptation",
             "tradeInfo": [],
             "listingCount": 255
@@ -20094,7 +20094,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 61,
+            "count": 60,
             "detailsId": "the-landing",
             "tradeInfo": [],
             "listingCount": 133
@@ -20143,7 +20143,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 154,
+            "count": 152,
             "detailsId": "boon-of-justice",
             "tradeInfo": [],
             "listingCount": 337
@@ -20339,7 +20339,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 146,
+            "count": 145,
             "detailsId": "the-fool",
             "tradeInfo": [],
             "listingCount": 292
@@ -20731,7 +20731,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 40,
+            "count": 39,
             "detailsId": "the-unexpected-prize",
             "tradeInfo": [],
             "listingCount": 88
@@ -20829,7 +20829,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 111,
+            "count": 110,
             "detailsId": "the-journalist",
             "tradeInfo": [],
             "listingCount": 433
@@ -21465,7 +21465,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 193,
+            "count": 191,
             "detailsId": "disdain",
             "tradeInfo": [],
             "listingCount": 436
@@ -21612,7 +21612,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 88,
+            "count": 87,
             "detailsId": "broken-truce",
             "tradeInfo": [],
             "listingCount": 200
