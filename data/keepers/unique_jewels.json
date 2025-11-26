@@ -1,13 +1,69 @@
 {
     "lines": [
         {
+            "id": 485,
+            "name": "Emperor's Wit",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1dpdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/bc537c241b/Wit.png",
+            "baseType": "Cobalt Jewel",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 4.96,
+                "data": [
+                    null,
+                    0,
+                    4.96,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 12562,
+                "data": [
+                    0,
+                    -15.99,
+                    -11.82,
+                    -1.66,
+                    6.62,
+                    13.95,
+                    12562
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(4-6)% increased Intelligence",
+                    "optional": false
+                },
+                {
+                    "text": "30% increased Global Critical Strike Chance",
+                    "optional": false
+                },
+                {
+                    "text": "3% increased Character Size",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Language is a tool that can be used to build walls \nor tear them down.",
+            "itemType": "Jewel",
+            "chaosValue": 912323,
+            "exaltedValue": 92716,
+            "divineValue": 6189,
+            "count": 2,
+            "detailsId": "emperors-wit-cobalt-jewel",
+            "tradeInfo": [],
+            "listingCount": 2
+        },
+        {
             "id": 40773,
             "name": "Voices",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1VuaXF1ZUpld2VsQmFzZTMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/314c9905c8/UniqueJewelBase3.png",
             "baseType": "Large Cluster Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 73.23,
+                "totalChange": 75.29,
                 "data": [
                     0,
                     -8.0,
@@ -15,11 +71,11 @@
                     15.63,
                     18.29,
                     22.4,
-                    73.23
+                    75.29
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 73.23,
+                "totalChange": 75.29,
                 "data": [
                     0,
                     -8.0,
@@ -27,20 +83,20 @@
                     15.63,
                     18.29,
                     22.4,
-                    73.23
+                    75.29
                 ]
             },
             "implicitModifiers": [],
             "explicitModifiers": [],
             "mutatedModifiers": [],
             "flavourText": "Only a madman would ignore a god's instructions.",
-            "chaosValue": 81937,
-            "exaltedValue": 8327,
-            "divineValue": 555.9,
-            "count": 122,
+            "chaosValue": 82912,
+            "exaltedValue": 8426,
+            "divineValue": 562.5,
+            "count": 121,
             "detailsId": "voices-large-cluster-jewel",
             "tradeInfo": [],
-            "listingCount": 128
+            "listingCount": 127
         },
         {
             "id": 483,
@@ -132,10 +188,10 @@
             "chaosValue": 7075,
             "exaltedValue": 719.0,
             "divineValue": 48.0,
-            "count": 82,
+            "count": 79,
             "detailsId": "voices-3-passives-large-cluster-jewel",
             "tradeInfo": [],
-            "listingCount": 86
+            "listingCount": 83
         },
         {
             "id": 2029,
@@ -245,63 +301,10 @@
             "chaosValue": 884.4,
             "exaltedValue": 89.88,
             "divineValue": 6.0,
-            "count": 16,
+            "count": 15,
             "detailsId": "emperors-might-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 17
-        },
-        {
-            "id": 60117,
-            "name": "Amanamu's Gaze",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0doYXN0bHlFeWVVbmlxdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/301d98e6cb/GhastlyEyeUnique.png",
-            "levelRequired": 40,
-            "baseType": "Ghastly Eye Jewel",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -11.42,
-                "data": [
-                    0,
-                    3.93,
-                    12.58,
-                    8.21,
-                    4.12,
-                    -10.94,
-                    -11.42
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -11.42,
-                "data": [
-                    0,
-                    3.93,
-                    12.58,
-                    8.21,
-                    4.12,
-                    -10.94,
-                    -11.42
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "+(5-10) to all Attributes",
-                    "optional": false
-                },
-                {
-                    "text": "Minions have +6% to Damage over Time Multiplier per\nGhastly Eye Jewel affecting you, up to a maximum of +30%",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The Liege of the Lightless seeks dominion over the surface dwellers.",
-            "itemType": "Jewel",
-            "chaosValue": 884.4,
-            "exaltedValue": 89.88,
-            "divineValue": 6.0,
-            "count": 339,
-            "detailsId": "amanamus-gaze-ghastly-eye-jewel",
-            "tradeInfo": [],
-            "listingCount": 343
+            "listingCount": 16
         },
         {
             "id": 100723,
@@ -710,7 +713,60 @@
             "count": 399,
             "detailsId": "rational-doctrine-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 569
+            "listingCount": 570
+        },
+        {
+            "id": 60117,
+            "name": "Amanamu's Gaze",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0doYXN0bHlFeWVVbmlxdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/301d98e6cb/GhastlyEyeUnique.png",
+            "levelRequired": 40,
+            "baseType": "Ghastly Eye Jewel",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -13.88,
+                "data": [
+                    0,
+                    3.93,
+                    12.58,
+                    8.21,
+                    4.12,
+                    -10.94,
+                    -13.88
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -13.88,
+                "data": [
+                    0,
+                    3.93,
+                    12.58,
+                    8.21,
+                    4.12,
+                    -10.94,
+                    -13.88
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "+(5-10) to all Attributes",
+                    "optional": false
+                },
+                {
+                    "text": "Minions have +6% to Damage over Time Multiplier per\nGhastly Eye Jewel affecting you, up to a maximum of +30%",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "The Liege of the Lightless seeks dominion over the surface dwellers.",
+            "itemType": "Jewel",
+            "chaosValue": 859.8,
+            "exaltedValue": 87.38,
+            "divineValue": 5.83,
+            "count": 344,
+            "detailsId": "amanamus-gaze-ghastly-eye-jewel",
+            "tradeInfo": [],
+            "listingCount": 348
         },
         {
             "id": 115275,
@@ -749,10 +805,10 @@
             "chaosValue": 806.4,
             "exaltedValue": 81.95,
             "divineValue": 5.47,
-            "count": 256,
+            "count": 255,
             "detailsId": "beauty-vaal-aspect",
             "tradeInfo": [],
-            "listingCount": 254
+            "listingCount": 256
         },
         {
             "id": 128467,
@@ -810,10 +866,10 @@
             "chaosValue": 589.6,
             "exaltedValue": 59.92,
             "divineValue": 4.0,
-            "count": 157,
+            "count": 164,
             "detailsId": "foulborn-unnatural-instinct-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 160
+            "listingCount": 167
         },
         {
             "id": 481,
@@ -878,7 +934,7 @@
             "baseType": "Viridian Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 0,
+                "totalChange": -2.08,
                 "data": [
                     0,
                     -16.67,
@@ -886,11 +942,11 @@
                     19.08,
                     -16.67,
                     16.62,
-                    0
+                    -2.08
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 0,
+                "totalChange": -2.08,
                 "data": [
                     0,
                     -16.67,
@@ -898,7 +954,7 @@
                     19.08,
                     -16.67,
                     16.62,
-                    0
+                    -2.08
                 ]
             },
             "implicitModifiers": [],
@@ -919,13 +975,13 @@
             "mutatedModifiers": [],
             "flavourText": "The true secret of the elements\nis that all are one and the same.",
             "itemType": "Jewel",
-            "chaosValue": 240.0,
-            "exaltedValue": 24.39,
-            "divineValue": 1.63,
+            "chaosValue": 235.0,
+            "exaltedValue": 23.88,
+            "divineValue": 1.59,
             "count": 399,
             "detailsId": "stormshroud-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 1541
+            "listingCount": 1554
         },
         {
             "id": 95758,
@@ -1113,7 +1169,7 @@
             "count": 399,
             "detailsId": "sublime-vision-prismatic-jewel",
             "tradeInfo": [],
-            "listingCount": 1525
+            "listingCount": 1523
         },
         {
             "id": 115269,
@@ -1152,10 +1208,10 @@
             "chaosValue": 147.4,
             "exaltedValue": 14.98,
             "divineValue": 1.0,
-            "count": 375,
+            "count": 378,
             "detailsId": "cooperation-vaal-aspect",
             "tradeInfo": [],
-            "listingCount": 416
+            "listingCount": 419
         },
         {
             "id": 93039,
@@ -1164,7 +1220,7 @@
             "baseType": "Cobalt Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 30,
+                "totalChange": 40,
                 "data": [
                     0,
                     -20,
@@ -1172,11 +1228,11 @@
                     -10,
                     0,
                     0,
-                    30
+                    40
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 30,
+                "totalChange": 40,
                 "data": [
                     0,
                     -20,
@@ -1184,7 +1240,7 @@
                     -10,
                     0,
                     0,
-                    30
+                    40
                 ]
             },
             "implicitModifiers": [],
@@ -1205,13 +1261,13 @@
             "mutatedModifiers": [],
             "flavourText": "\"We awoke to a sudden jungle rupturing the valleys of our home.\nGrasping limbs coiled around us, into us. We sank into each other,\nthen rose into the living sky. My family screams alongside me still.\"",
             "itemType": "Jewel",
-            "chaosValue": 130.0,
-            "exaltedValue": 13.21,
-            "divineValue": 0.88,
+            "chaosValue": 140.0,
+            "exaltedValue": 14.23,
+            "divineValue": 0.95,
             "count": 399,
             "detailsId": "melding-of-the-flesh-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 1034
+            "listingCount": 1015
         },
         {
             "id": 7376,
@@ -1263,7 +1319,7 @@
             "count": 399,
             "detailsId": "unnatural-instinct-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 2664
+            "listingCount": 2661
         },
         {
             "id": 22431,
@@ -1309,73 +1365,13 @@
             "listingCount": 785
         },
         {
-            "id": 6959,
-            "name": "Transcendent Spirit",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RyYW5zY2VuZGVudEdyZWVuIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6eb091ee7a/TranscendentGreen.png",
-            "baseType": "Viridian Jewel",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 7.14,
-                "data": [
-                    0,
-                    -7.14,
-                    -14.29,
-                    7.14,
-                    12.86,
-                    0,
-                    7.14
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 7.14,
-                "data": [
-                    0,
-                    -7.14,
-                    -14.29,
-                    7.14,
-                    12.86,
-                    0,
-                    7.14
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "-1 Dexterity per 1 Dexterity on Allocated Passives in Radius",
-                    "optional": false
-                },
-                {
-                    "text": "3% increased Movement Speed per 10 Dexterity on Allocated Passives in Radius",
-                    "optional": false
-                },
-                {
-                    "text": "+125 to Accuracy Rating per 10 Dexterity on Unallocated Passives in Radius",
-                    "optional": false
-                },
-                {
-                    "text": "2% reduced Movement Speed per 10 Dexterity on Unallocated Passives in Radius",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Take comfort knowing that, even in death,\nwe may serve our Queen and fuel her empire.",
-            "itemType": "Jewel",
-            "chaosValue": 75.0,
-            "exaltedValue": 7.62,
-            "divineValue": 0.51,
-            "count": 195,
-            "detailsId": "transcendent-spirit-viridian-jewel",
-            "tradeInfo": [],
-            "listingCount": 238
-        },
-        {
             "id": 6961,
             "name": "Transcendent Flesh",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RyYW5zY2VuZGVudFJlZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7dcf8933ad/TranscendentRed.png",
             "baseType": "Crimson Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 16.09,
+                "totalChange": 17.19,
                 "data": [
                     0,
                     -21.88,
@@ -1383,11 +1379,11 @@
                     9.38,
                     17.19,
                     17.19,
-                    16.09
+                    17.19
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 16.09,
+                "totalChange": 17.19,
                 "data": [
                     0,
                     -21.88,
@@ -1395,7 +1391,7 @@
                     9.38,
                     17.19,
                     17.19,
-                    16.09
+                    17.19
                 ]
             },
             "implicitModifiers": [],
@@ -1420,13 +1416,73 @@
             "mutatedModifiers": [],
             "flavourText": "We are as much shaped by what we do\nas what is done to us.",
             "itemType": "Jewel",
-            "chaosValue": 74.3,
-            "exaltedValue": 7.55,
-            "divineValue": 0.5,
-            "count": 86,
+            "chaosValue": 75.0,
+            "exaltedValue": 7.62,
+            "divineValue": 0.51,
+            "count": 78,
             "detailsId": "transcendent-flesh-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 96
+            "listingCount": 89
+        },
+        {
+            "id": 6959,
+            "name": "Transcendent Spirit",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RyYW5zY2VuZGVudEdyZWVuIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6eb091ee7a/TranscendentGreen.png",
+            "baseType": "Viridian Jewel",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 4.86,
+                "data": [
+                    0,
+                    -7.14,
+                    -14.29,
+                    7.14,
+                    12.86,
+                    0,
+                    4.86
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 4.86,
+                "data": [
+                    0,
+                    -7.14,
+                    -14.29,
+                    7.14,
+                    12.86,
+                    0,
+                    4.86
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "-1 Dexterity per 1 Dexterity on Allocated Passives in Radius",
+                    "optional": false
+                },
+                {
+                    "text": "3% increased Movement Speed per 10 Dexterity on Allocated Passives in Radius",
+                    "optional": false
+                },
+                {
+                    "text": "+125 to Accuracy Rating per 10 Dexterity on Unallocated Passives in Radius",
+                    "optional": false
+                },
+                {
+                    "text": "2% reduced Movement Speed per 10 Dexterity on Unallocated Passives in Radius",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Take comfort knowing that, even in death,\nwe may serve our Queen and fuel her empire.",
+            "itemType": "Jewel",
+            "chaosValue": 73.4,
+            "exaltedValue": 7.46,
+            "divineValue": 0.5,
+            "count": 198,
+            "detailsId": "transcendent-spirit-viridian-jewel",
+            "tradeInfo": [],
+            "listingCount": 241
         },
         {
             "id": 6957,
@@ -1435,7 +1491,7 @@
             "baseType": "Cobalt Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 32.69,
+                "totalChange": 32.31,
                 "data": [
                     0,
                     -3.85,
@@ -1443,11 +1499,11 @@
                     -5.77,
                     -5.77,
                     -2.12,
-                    32.69
+                    32.31
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 32.69,
+                "totalChange": 32.31,
                 "data": [
                     0,
                     -3.85,
@@ -1455,7 +1511,7 @@
                     -5.77,
                     -5.77,
                     -2.12,
-                    32.69
+                    32.31
                 ]
             },
             "implicitModifiers": [],
@@ -1480,13 +1536,13 @@
             "mutatedModifiers": [],
             "flavourText": "A keen mind sees what others do not,\nmakes connections where others do not, \nand is dangerous in a way that others are not.",
             "itemType": "Jewel",
-            "chaosValue": 69.0,
-            "exaltedValue": 7.01,
+            "chaosValue": 68.8,
+            "exaltedValue": 6.99,
             "divineValue": 0.47,
-            "count": 74,
+            "count": 75,
             "detailsId": "transcendent-mind-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 86
+            "listingCount": 87
         },
         {
             "id": 115271,
@@ -1495,7 +1551,7 @@
             "baseType": "Vaal Aspect",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 31.56,
+                "totalChange": 31.11,
                 "data": [
                     0,
                     0,
@@ -1503,11 +1559,11 @@
                     0,
                     11.11,
                     11.11,
-                    31.56
+                    31.11
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 31.56,
+                "totalChange": 31.11,
                 "data": [
                     0,
                     0,
@@ -1515,20 +1571,20 @@
                     0,
                     11.11,
                     11.11,
-                    31.56
+                    31.11
                 ]
             },
             "implicitModifiers": [],
             "explicitModifiers": [],
             "mutatedModifiers": [],
             "flavourText": "Not content to live in harmony with the world, they strove\nto understand it, to improve it... and then, to master it.",
-            "chaosValue": 59.2,
-            "exaltedValue": 6.02,
+            "chaosValue": 59.0,
+            "exaltedValue": 6.0,
             "divineValue": 0.4,
             "count": 399,
             "detailsId": "ambition-vaal-aspect",
             "tradeInfo": [],
-            "listingCount": 494
+            "listingCount": 496
         },
         {
             "id": 585,
@@ -1584,7 +1640,7 @@
             "count": 399,
             "detailsId": "grand-spectrum-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 524
+            "listingCount": 520
         },
         {
             "id": 101151,
@@ -1593,7 +1649,7 @@
             "baseType": "Cobalt Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 58.33,
+                "totalChange": 50,
                 "data": [
                     0,
                     13.33,
@@ -1601,11 +1657,11 @@
                     -33.33,
                     -12.83,
                     33.33,
-                    58.33
+                    50
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 58.33,
+                "totalChange": 50,
                 "data": [
                     0,
                     13.33,
@@ -1613,7 +1669,7 @@
                     -33.33,
                     -12.83,
                     33.33,
-                    58.33
+                    50
                 ]
             },
             "implicitModifiers": [],
@@ -1698,13 +1754,13 @@
             "mutatedModifiers": [],
             "flavourText": "Fellshrine stood as a holy bastion opposite the\nChamber of Sins, and all that it represented.\nFor one to rise, the other must fall.",
             "itemType": "Jewel",
-            "chaosValue": 47.5,
-            "exaltedValue": 4.83,
-            "divineValue": 0.32,
+            "chaosValue": 45.0,
+            "exaltedValue": 4.57,
+            "divineValue": 0.31,
             "count": 399,
             "detailsId": "the-balance-of-terror-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 9456
+            "listingCount": 9449
         },
         {
             "id": 128896,
@@ -1829,7 +1885,115 @@
             "count": 399,
             "detailsId": "primordial-eminence-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 5189
+            "listingCount": 5184
+        },
+        {
+            "id": 6893,
+            "name": "Combat Focus",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0VsZW1lbnRhbEhpdENvbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2d08fbc4ec/ElementalHitCold.png",
+            "baseType": "Crimson Jewel",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 4.9,
+                "data": [
+                    0,
+                    -3.67,
+                    4.9,
+                    4.9,
+                    4.9,
+                    4.9,
+                    4.9
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 4.9,
+                "data": [
+                    0,
+                    -3.67,
+                    4.9,
+                    4.9,
+                    4.9,
+                    4.9,
+                    4.9
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(10-15)% increased Elemental Damage",
+                    "optional": false
+                },
+                {
+                    "text": "With 40 total Strength and Intelligence in Radius, Prismatic Skills deal 50% less Cold Damage",
+                    "optional": false
+                },
+                {
+                    "text": "With 40 total Strength and Intelligence in Radius, Prismatic Skills cannot choose Cold",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Kaom watched the torches patrol the top of the Watch. \nHe observed the lay of the beach, its barricades and rocks, \nand his men in their canoes, ready to lay their lives down for him.\nBut when his foot hit the sand, he thought only of the fight.",
+            "itemType": "Jewel",
+            "chaosValue": 30.0,
+            "exaltedValue": 3.05,
+            "divineValue": 0.2,
+            "count": 48,
+            "detailsId": "combat-focus-crimson-jewel",
+            "tradeInfo": [],
+            "listingCount": 49
+        },
+        {
+            "id": 2030,
+            "name": "The Green Nightmare",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RoZUdyZWVuRHJlYW1VcGdyYWRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2a2234606a/TheGreenDreamUpgrade.png",
+            "baseType": "Viridian Jewel",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 19.05,
+                "data": [
+                    0,
+                    4.76,
+                    19.05,
+                    19.05,
+                    14.29,
+                    19.05,
+                    19.05
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 19.05,
+                "data": [
+                    0,
+                    4.76,
+                    19.05,
+                    19.05,
+                    14.29,
+                    19.05,
+                    19.05
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Gain (6-10)% of Cold Damage as Extra Chaos Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Passives granting Cold Resistance or all Elemental Resistances in Radius\nalso grant Chance to Suppress Spell Damage at 70% of its value",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "We take root in the dirt\nand strangle those who tread upon it.",
+            "itemType": "Jewel",
+            "chaosValue": 25.0,
+            "exaltedValue": 2.54,
+            "divineValue": 0.17,
+            "count": 311,
+            "detailsId": "the-green-nightmare-viridian-jewel",
+            "tradeInfo": [],
+            "listingCount": 457
         },
         {
             "id": 2302,
@@ -1838,7 +2002,7 @@
             "baseType": "Prismatic Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 1.69,
+                "totalChange": -15.25,
                 "data": [
                     0,
                     -1.19,
@@ -1846,11 +2010,11 @@
                     1.69,
                     1.69,
                     1.69,
-                    1.69
+                    -15.25
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 1.69,
+                "totalChange": -15.25,
                 "data": [
                     0,
                     -1.19,
@@ -1858,7 +2022,7 @@
                     1.69,
                     1.69,
                     1.69,
-                    1.69
+                    -15.25
                 ]
             },
             "implicitModifiers": [],
@@ -2227,69 +2391,13 @@
             "mutatedModifiers": [],
             "flavourText": "One by one, they stood their ground against a creature \nthey had no hope of understanding, let alone defeating,\nand one by one, they became a part of it.",
             "itemType": "Jewel",
-            "chaosValue": 30.0,
-            "exaltedValue": 3.05,
-            "divineValue": 0.2,
+            "chaosValue": 25.0,
+            "exaltedValue": 2.54,
+            "divineValue": 0.17,
             "count": 399,
             "detailsId": "watchers-eye-prismatic-jewel",
             "tradeInfo": [],
-            "listingCount": 159115
-        },
-        {
-            "id": 6893,
-            "name": "Combat Focus",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0VsZW1lbnRhbEhpdENvbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2d08fbc4ec/ElementalHitCold.png",
-            "baseType": "Crimson Jewel",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 4.9,
-                "data": [
-                    0,
-                    -3.67,
-                    4.9,
-                    4.9,
-                    4.9,
-                    4.9,
-                    4.9
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 4.9,
-                "data": [
-                    0,
-                    -3.67,
-                    4.9,
-                    4.9,
-                    4.9,
-                    4.9,
-                    4.9
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(10-15)% increased Elemental Damage",
-                    "optional": false
-                },
-                {
-                    "text": "With 40 total Strength and Intelligence in Radius, Prismatic Skills deal 50% less Cold Damage",
-                    "optional": false
-                },
-                {
-                    "text": "With 40 total Strength and Intelligence in Radius, Prismatic Skills cannot choose Cold",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Kaom watched the torches patrol the top of the Watch. \nHe observed the lay of the beach, its barricades and rocks, \nand his men in their canoes, ready to lay their lives down for him.\nBut when his foot hit the sand, he thought only of the fight.",
-            "itemType": "Jewel",
-            "chaosValue": 30.0,
-            "exaltedValue": 3.05,
-            "divineValue": 0.2,
-            "count": 48,
-            "detailsId": "combat-focus-crimson-jewel",
-            "tradeInfo": [],
-            "listingCount": 49
+            "listingCount": 159290
         },
         {
             "id": 21663,
@@ -2298,7 +2406,7 @@
             "baseType": "Timeless Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -5.84,
+                "totalChange": -18.83,
                 "data": [
                     0,
                     -2.6,
@@ -2306,11 +2414,11 @@
                     -0.97,
                     3.08,
                     -2.6,
-                    -5.84
+                    -18.83
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -5.84,
+                "totalChange": -18.83,
                 "data": [
                     0,
                     -2.6,
@@ -2318,7 +2426,7 @@
                     -0.97,
                     3.08,
                     -2.6,
-                    -5.84
+                    -18.83
                 ]
             },
             "implicitModifiers": [],
@@ -2343,65 +2451,13 @@
             "mutatedModifiers": [],
             "flavourText": "They believed themselves the greatest warriors, but that savagery turned upon their own.",
             "itemType": "Jewel",
-            "chaosValue": 29.0,
-            "exaltedValue": 2.95,
-            "divineValue": 0.2,
-            "count": 399,
-            "detailsId": "lethal-pride-timeless-jewel",
-            "tradeInfo": [],
-            "listingCount": 207138
-        },
-        {
-            "id": 2030,
-            "name": "The Green Nightmare",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RoZUdyZWVuRHJlYW1VcGdyYWRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2a2234606a/TheGreenDreamUpgrade.png",
-            "baseType": "Viridian Jewel",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 19.05,
-                "data": [
-                    0,
-                    4.76,
-                    19.05,
-                    19.05,
-                    14.29,
-                    19.05,
-                    19.05
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 19.05,
-                "data": [
-                    0,
-                    4.76,
-                    19.05,
-                    19.05,
-                    14.29,
-                    19.05,
-                    19.05
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Gain (6-10)% of Cold Damage as Extra Chaos Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Passives granting Cold Resistance or all Elemental Resistances in Radius\nalso grant Chance to Suppress Spell Damage at 70% of its value",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "We take root in the dirt\nand strangle those who tread upon it.",
-            "itemType": "Jewel",
             "chaosValue": 25.0,
             "exaltedValue": 2.54,
             "divineValue": 0.17,
-            "count": 312,
-            "detailsId": "the-green-nightmare-viridian-jewel",
+            "count": 399,
+            "detailsId": "lethal-pride-timeless-jewel",
             "tradeInfo": [],
-            "listingCount": 458
+            "listingCount": 207187
         },
         {
             "id": 7301,
@@ -2572,61 +2628,13 @@
             "listingCount": 576
         },
         {
-            "id": 1977,
-            "name": "The Anima Stone",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dvbGVtQ2hhb3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2daa0c1149/GolemChaos.png",
-            "baseType": "Prismatic Jewel",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -42.86,
-                "data": [
-                    0,
-                    0,
-                    -14.29,
-                    -14.29,
-                    -22.86,
-                    -34.29,
-                    -42.86
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -42.86,
-                "data": [
-                    0,
-                    0,
-                    -14.29,
-                    -14.29,
-                    -22.86,
-                    -34.29,
-                    -42.86
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "+1 to maximum number of Summoned Golems if you have 3 Primordial Items Socketed or Equipped",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "All revere the earth they walk,\nFor it wields strength beyond compare,\nHolds knowledge more than thought,\nStands long after all else falls.",
-            "itemType": "Jewel",
-            "chaosValue": 20.0,
-            "exaltedValue": 2.03,
-            "divineValue": 0.14,
-            "count": 399,
-            "detailsId": "the-anima-stone-prismatic-jewel",
-            "tradeInfo": [],
-            "listingCount": 2377
-        },
-        {
             "id": 21665,
             "name": "Militant Faith",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RlbXBsYXJDaXZpbGl6YXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/09ecf8ac86/TemplarCivilization.png",
             "baseType": "Timeless Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 0,
+                "totalChange": 10,
                 "data": [
                     0,
                     0,
@@ -2634,11 +2642,11 @@
                     0,
                     0,
                     0,
-                    0
+                    10
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 0,
+                "totalChange": 10,
                 "data": [
                     0,
                     0,
@@ -2646,7 +2654,7 @@
                     0,
                     0,
                     0,
-                    0
+                    10
                 ]
             },
             "implicitModifiers": [],
@@ -2727,13 +2735,113 @@
             "mutatedModifiers": [],
             "flavourText": "They believed themselves the utmost faithful, but that conviction became oppression.",
             "itemType": "Jewel",
+            "chaosValue": 22.0,
+            "exaltedValue": 2.24,
+            "divineValue": 0.15,
+            "count": 399,
+            "detailsId": "militant-faith-timeless-jewel",
+            "tradeInfo": [],
+            "listingCount": 236379
+        },
+        {
+            "id": 128414,
+            "name": "Foulborn Might of the Meek",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1BvdGVuY3lPZlRoZVVucmVtYXJrYWJsZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/57c60a8de9/PotencyOfTheUnremarkable.png",
+            "baseType": "Crimson Jewel",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 4,
+                "data": [
+                    0,
+                    25,
+                    45.25,
+                    0,
+                    0,
+                    11.5,
+                    4
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 4,
+                "data": [
+                    0,
+                    25,
+                    45.25,
+                    0,
+                    0,
+                    11.5,
+                    4
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [],
+            "mutatedModifiers": [
+                {
+                    "text": "(75-100)% increased Effect of non-Keystone Passive Skills in Radius",
+                    "optional": false
+                },
+                {
+                    "text": "Notable Passive Skills in Radius grant nothing",
+                    "optional": false
+                }
+            ],
+            "flavourText": "Enough mice can kill a wolf.",
+            "itemType": "Jewel",
+            "chaosValue": 20.8,
+            "exaltedValue": 2.11,
+            "divineValue": 0.14,
+            "count": 399,
+            "detailsId": "foulborn-might-of-the-meek-crimson-jewel",
+            "tradeInfo": [],
+            "listingCount": 508
+        },
+        {
+            "id": 1977,
+            "name": "The Anima Stone",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dvbGVtQ2hhb3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2daa0c1149/GolemChaos.png",
+            "baseType": "Prismatic Jewel",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -42.86,
+                "data": [
+                    0,
+                    0,
+                    -14.29,
+                    -14.29,
+                    -22.86,
+                    -34.29,
+                    -42.86
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -42.86,
+                "data": [
+                    0,
+                    0,
+                    -14.29,
+                    -14.29,
+                    -22.86,
+                    -34.29,
+                    -42.86
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "+1 to maximum number of Summoned Golems if you have 3 Primordial Items Socketed or Equipped",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "All revere the earth they walk,\nFor it wields strength beyond compare,\nHolds knowledge more than thought,\nStands long after all else falls.",
+            "itemType": "Jewel",
             "chaosValue": 20.0,
             "exaltedValue": 2.03,
             "divineValue": 0.14,
             "count": 399,
-            "detailsId": "militant-faith-timeless-jewel",
+            "detailsId": "the-anima-stone-prismatic-jewel",
             "tradeInfo": [],
-            "listingCount": 236351
+            "listingCount": 2378
         },
         {
             "id": 21701,
@@ -2793,7 +2901,7 @@
             "count": 399,
             "detailsId": "elegant-hubris-timeless-jewel",
             "tradeInfo": [],
-            "listingCount": 229506
+            "listingCount": 229566
         },
         {
             "id": 93024,
@@ -2849,71 +2957,50 @@
             "count": 399,
             "detailsId": "dissolution-of-the-flesh-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 850
+            "listingCount": 847
         },
         {
-            "id": 103486,
-            "name": "Ancestral Vision",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1ByaXN0aW5lQ29uZGl0aW9uaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5ad58d3a2e/PristineConditioning.png",
-            "baseType": "Viridian Jewel",
+            "id": 93025,
+            "name": "Forbidden Flame",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1B1enpsZVBpZWNlSmV3ZWxfQ2xlYW5zaW5nRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ddfe57ac90/PuzzlePieceJewel_CleansingFire.png",
+            "baseType": "Crimson Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 0,
+                "totalChange": 45.99,
                 "data": [
                     0,
-                    0,
-                    0,
-                    20,
-                    0,
-                    0,
-                    0
+                    9.49,
+                    9.49,
+                    21.17,
+                    14.6,
+                    9.49,
+                    45.99
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 0,
+                "totalChange": 45.99,
                 "data": [
                     0,
-                    0,
-                    0,
-                    20,
-                    0,
-                    0,
-                    0
+                    9.49,
+                    9.49,
+                    21.17,
+                    14.6,
+                    9.49,
+                    45.99
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Prevent +5% of Suppressed Spell Damage",
-                    "optional": true
-                },
-                {
-                    "text": "+(5-10) to Dexterity",
-                    "optional": true
-                },
-                {
-                    "text": "+9% chance to Suppress Spell Damage",
-                    "optional": true
-                },
-                {
-                    "text": "Modifiers to Chance to Suppress Spell Damage also apply to Chance to Defend with 200% of Armour at 50% of their Value",
-                    "optional": true
-                },
-                {
-                    "text": "Modifiers to Chance to Suppress Spell Damage also apply to Chance to Avoid Elemental Ailments at 50% of their Value",
-                    "optional": true
-                }
-            ],
+            "explicitModifiers": [],
             "mutatedModifiers": [],
-            "flavourText": "The spirits of our ancestors guided us from the Archipelago to the continent.\nInextricably, the purity of our souls is linked to the ones who came before us.",
+            "flavourText": "The minds of those studied utterly by the Cleansing Fire\ncontinue to think and dream and beg for silence...",
             "itemType": "Jewel",
             "chaosValue": 20.0,
             "exaltedValue": 2.03,
             "divineValue": 0.14,
             "count": 399,
-            "detailsId": "ancestral-vision-viridian-jewel",
+            "detailsId": "forbidden-flame-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 2575
+            "listingCount": 5229
         },
         {
             "id": 118579,
@@ -3009,59 +3096,71 @@
             "count": 399,
             "detailsId": "the-light-of-meaning-prismatic-jewel",
             "tradeInfo": [],
-            "listingCount": 7455
+            "listingCount": 7448
         },
         {
-            "id": 128414,
-            "name": "Foulborn Might of the Meek",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1BvdGVuY3lPZlRoZVVucmVtYXJrYWJsZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/57c60a8de9/PotencyOfTheUnremarkable.png",
-            "baseType": "Crimson Jewel",
+            "id": 103486,
+            "name": "Ancestral Vision",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1ByaXN0aW5lQ29uZGl0aW9uaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5ad58d3a2e/PristineConditioning.png",
+            "baseType": "Viridian Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 0,
+                "totalChange": -5,
                 "data": [
                     0,
-                    25,
-                    45.25,
                     0,
                     0,
-                    11.5,
-                    0
+                    20,
+                    0,
+                    0,
+                    -5
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 0,
+                "totalChange": -5,
                 "data": [
                     0,
-                    25,
-                    45.25,
                     0,
                     0,
-                    11.5,
-                    0
+                    20,
+                    0,
+                    0,
+                    -5
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
-            "mutatedModifiers": [
+            "explicitModifiers": [
                 {
-                    "text": "(75-100)% increased Effect of non-Keystone Passive Skills in Radius",
-                    "optional": false
+                    "text": "Prevent +5% of Suppressed Spell Damage",
+                    "optional": true
                 },
                 {
-                    "text": "Notable Passive Skills in Radius grant nothing",
-                    "optional": false
+                    "text": "+(5-10) to Dexterity",
+                    "optional": true
+                },
+                {
+                    "text": "+9% chance to Suppress Spell Damage",
+                    "optional": true
+                },
+                {
+                    "text": "Modifiers to Chance to Suppress Spell Damage also apply to Chance to Defend with 200% of Armour at 50% of their Value",
+                    "optional": true
+                },
+                {
+                    "text": "Modifiers to Chance to Suppress Spell Damage also apply to Chance to Avoid Elemental Ailments at 50% of their Value",
+                    "optional": true
                 }
             ],
-            "flavourText": "Enough mice can kill a wolf.",
+            "mutatedModifiers": [],
+            "flavourText": "The spirits of our ancestors guided us from the Archipelago to the continent.\nInextricably, the purity of our souls is linked to the ones who came before us.",
             "itemType": "Jewel",
-            "chaosValue": 20.0,
-            "exaltedValue": 2.03,
-            "divineValue": 0.14,
+            "chaosValue": 19.0,
+            "exaltedValue": 1.93,
+            "divineValue": 0.13,
             "count": 399,
-            "detailsId": "foulborn-might-of-the-meek-crimson-jewel",
+            "detailsId": "ancestral-vision-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 505
+            "listingCount": 2586
         },
         {
             "id": 21780,
@@ -3121,50 +3220,7 @@
             "count": 399,
             "detailsId": "brutal-restraint-timeless-jewel",
             "tradeInfo": [],
-            "listingCount": 216283
-        },
-        {
-            "id": 93025,
-            "name": "Forbidden Flame",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1B1enpsZVBpZWNlSmV3ZWxfQ2xlYW5zaW5nRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ddfe57ac90/PuzzlePieceJewel_CleansingFire.png",
-            "baseType": "Crimson Jewel",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 9.49,
-                "data": [
-                    0,
-                    9.49,
-                    9.49,
-                    21.17,
-                    14.6,
-                    9.49,
-                    9.49
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 9.49,
-                "data": [
-                    0,
-                    9.49,
-                    9.49,
-                    21.17,
-                    14.6,
-                    9.49,
-                    9.49
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [],
-            "mutatedModifiers": [],
-            "flavourText": "The minds of those studied utterly by the Cleansing Fire\ncontinue to think and dream and beg for silence...",
-            "itemType": "Jewel",
-            "chaosValue": 15.0,
-            "exaltedValue": 1.52,
-            "divineValue": 0.1,
-            "count": 399,
-            "detailsId": "forbidden-flame-crimson-jewel",
-            "tradeInfo": [],
-            "listingCount": 5252
+            "listingCount": 216346
         },
         {
             "id": 100351,
@@ -3212,50 +3268,7 @@
             "count": 399,
             "detailsId": "immutable-force-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 3156
-        },
-        {
-            "id": 95710,
-            "name": "Impossible Escape",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL01pbmRib3JlUGVhcmwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/367683a1bb/MindborePearl.png",
-            "baseType": "Viridian Jewel",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 44,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -0.5,
-                    0,
-                    0,
-                    44
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 44,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -0.5,
-                    0,
-                    0,
-                    44
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [],
-            "mutatedModifiers": [],
-            "flavourText": "She was the last of countless progeny bred to test the limits of limitless power.\nIn the cosmic prison of her birth, her siblings fought each other to the death\nfor supremacy. She alone reached her limit... and broke through.",
-            "itemType": "Jewel",
-            "chaosValue": 14.4,
-            "exaltedValue": 1.46,
-            "divineValue": 0.1,
-            "count": 399,
-            "detailsId": "impossible-escape-viridian-jewel",
-            "tradeInfo": [],
-            "listingCount": 5438
+            "listingCount": 3162
         },
         {
             "id": 128489,
@@ -3264,7 +3277,7 @@
             "baseType": "Viridian Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -4.67,
+                "totalChange": -4,
                 "data": [
                     0,
                     -6.67,
@@ -3272,11 +3285,11 @@
                     -20,
                     -33.33,
                     0,
-                    -4.67
+                    -4
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -4.67,
+                "totalChange": -4,
                 "data": [
                     0,
                     -6.67,
@@ -3284,7 +3297,7 @@
                     -20,
                     -33.33,
                     0,
-                    -4.67
+                    -4
                 ]
             },
             "implicitModifiers": [],
@@ -3297,13 +3310,13 @@
             ],
             "flavourText": "The carpenter who picks up a blade is not mad.\nHe's ambitious.",
             "itemType": "Jewel",
-            "chaosValue": 14.3,
-            "exaltedValue": 1.45,
+            "chaosValue": 14.4,
+            "exaltedValue": 1.46,
             "divineValue": 0.1,
             "count": 399,
             "detailsId": "foulborn-intuitive-leap-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 615
+            "listingCount": 616
         },
         {
             "id": 128938,
@@ -3368,7 +3381,50 @@
             "count": 399,
             "detailsId": "foulborn-the-blue-nightmare-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 1223
+            "listingCount": 1226
+        },
+        {
+            "id": 95710,
+            "name": "Impossible Escape",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL01pbmRib3JlUGVhcmwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/367683a1bb/MindborePearl.png",
+            "baseType": "Viridian Jewel",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 32,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -0.5,
+                    0,
+                    0,
+                    32
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 32,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -0.5,
+                    0,
+                    0,
+                    32
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [],
+            "mutatedModifiers": [],
+            "flavourText": "She was the last of countless progeny bred to test the limits of limitless power.\nIn the cosmic prison of her birth, her siblings fought each other to the death\nfor supremacy. She alone reached her limit... and broke through.",
+            "itemType": "Jewel",
+            "chaosValue": 13.2,
+            "exaltedValue": 1.34,
+            "divineValue": 0.09,
+            "count": 399,
+            "detailsId": "impossible-escape-viridian-jewel",
+            "tradeInfo": [],
+            "listingCount": 5437
         },
         {
             "id": 128672,
@@ -3420,7 +3476,7 @@
             "count": 399,
             "detailsId": "foulborn-inspired-learning-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 667
+            "listingCount": 670
         },
         {
             "id": 2032,
@@ -3469,10 +3525,10 @@
             "chaosValue": 10.0,
             "exaltedValue": 1.02,
             "divineValue": 0.07,
-            "count": 371,
+            "count": 370,
             "detailsId": "the-blue-nightmare-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 472
+            "listingCount": 471
         },
         {
             "id": 21720,
@@ -3532,7 +3588,7 @@
             "count": 399,
             "detailsId": "glorious-vanity-timeless-jewel",
             "tradeInfo": [],
-            "listingCount": 254078
+            "listingCount": 254145
         },
         {
             "id": 40065,
@@ -3581,7 +3637,7 @@
             "count": 399,
             "detailsId": "one-with-nothing-small-cluster-jewel",
             "tradeInfo": [],
-            "listingCount": 3485
+            "listingCount": 3486
         },
         {
             "id": 44261,
@@ -3637,7 +3693,7 @@
             "count": 399,
             "detailsId": "replica-reckless-defence-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 2634
+            "listingCount": 2636
         },
         {
             "id": 93067,
@@ -3680,7 +3736,7 @@
             "count": 399,
             "detailsId": "forbidden-flesh-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 6097
+            "listingCount": 6071
         },
         {
             "id": 125008,
@@ -3940,7 +3996,7 @@
             "count": 399,
             "detailsId": "bound-by-destiny-prismatic-jewel",
             "tradeInfo": [],
-            "listingCount": 34458
+            "listingCount": 34464
         },
         {
             "id": 128397,
@@ -4001,7 +4057,7 @@
             "count": 399,
             "detailsId": "foulborn-stormshroud-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 1121
+            "listingCount": 1120
         },
         {
             "id": 128539,
@@ -4066,7 +4122,7 @@
             "count": 399,
             "detailsId": "foulborn-the-red-dream-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 3539
+            "listingCount": 3538
         },
         {
             "id": 128900,
@@ -4127,7 +4183,7 @@
             "count": 399,
             "detailsId": "foulborn-witchbane-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 749
+            "listingCount": 748
         },
         {
             "id": 677,
@@ -4175,7 +4231,7 @@
             "count": 398,
             "detailsId": "intuitive-leap-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 2027
+            "listingCount": 2030
         },
         {
             "id": 6897,
@@ -4227,7 +4283,7 @@
             "count": 399,
             "detailsId": "tempered-spirit-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 960
+            "listingCount": 961
         },
         {
             "id": 587,
@@ -4283,7 +4339,7 @@
             "count": 399,
             "detailsId": "grand-spectrum-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 971
+            "listingCount": 968
         },
         {
             "id": 1745,
@@ -4335,7 +4391,7 @@
             "count": 399,
             "detailsId": "unending-hunger-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 2587
+            "listingCount": 2590
         },
         {
             "id": 1964,
@@ -4399,7 +4455,7 @@
             "count": 398,
             "detailsId": "primordial-might-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 1418
+            "listingCount": 1415
         },
         {
             "id": 50060,
@@ -4442,7 +4498,7 @@
             "count": 399,
             "detailsId": "voices-5-passives-large-cluster-jewel",
             "tradeInfo": [],
-            "listingCount": 4844
+            "listingCount": 4832
         },
         {
             "id": 103434,
@@ -4490,50 +4546,7 @@
             "count": 399,
             "detailsId": "bloodnotch-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 3819
-        },
-        {
-            "id": 40116,
-            "name": "Megalomaniac",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1VuaXF1ZUpld2VsQmFzZTIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/659b3e6b90/UniqueJewelBase2.png",
-            "levelRequired": 54,
-            "baseType": "Medium Cluster Jewel",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -23,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -23
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -23,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -23
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [],
-            "mutatedModifiers": [],
-            "flavourText": "If you're going to act like you're better than everyone else, make sure you are.",
-            "chaosValue": 7.7,
-            "exaltedValue": 0.78,
-            "divineValue": 0.05,
-            "count": 399,
-            "detailsId": "megalomaniac-medium-cluster-jewel",
-            "tradeInfo": [],
-            "listingCount": 532726
+            "listingCount": 3823
         },
         {
             "id": 676,
@@ -4586,7 +4599,7 @@
             "count": 399,
             "detailsId": "inspired-learning-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 4760
+            "listingCount": 4777
         },
         {
             "id": 60160,
@@ -4643,7 +4656,7 @@
             "count": 399,
             "detailsId": "tecrods-gaze-murderous-eye-jewel",
             "tradeInfo": [],
-            "listingCount": 745
+            "listingCount": 734
         },
         {
             "id": 128417,
@@ -4708,7 +4721,7 @@
             "count": 399,
             "detailsId": "foulborn-ancestral-vision-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 687
+            "listingCount": 682
         },
         {
             "id": 25056,
@@ -4776,7 +4789,7 @@
             "count": 399,
             "detailsId": "thread-of-hope-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 13859
+            "listingCount": 13824
         },
         {
             "id": 1952,
@@ -4883,7 +4896,7 @@
             "count": 399,
             "detailsId": "quickening-covenant-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 1168
+            "listingCount": 1169
         },
         {
             "id": 40069,
@@ -4931,7 +4944,50 @@
             "count": 399,
             "detailsId": "natural-affinity-small-cluster-jewel",
             "tradeInfo": [],
-            "listingCount": 3349
+            "listingCount": 3343
+        },
+        {
+            "id": 40116,
+            "name": "Megalomaniac",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1VuaXF1ZUpld2VsQmFzZTIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/659b3e6b90/UniqueJewelBase2.png",
+            "levelRequired": 54,
+            "baseType": "Medium Cluster Jewel",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -50,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -50
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -50,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -50
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [],
+            "mutatedModifiers": [],
+            "flavourText": "If you're going to act like you're better than everyone else, make sure you are.",
+            "chaosValue": 5.0,
+            "exaltedValue": 0.51,
+            "divineValue": 0.03,
+            "count": 399,
+            "detailsId": "megalomaniac-medium-cluster-jewel",
+            "tradeInfo": [],
+            "listingCount": 532860
         },
         {
             "id": 60064,
@@ -4984,7 +5040,7 @@
             "count": 399,
             "detailsId": "kurgals-gaze-hypnotic-eye-jewel",
             "tradeInfo": [],
-            "listingCount": 767
+            "listingCount": 759
         },
         {
             "id": 108967,
@@ -5027,7 +5083,7 @@
             "count": 399,
             "detailsId": "the-adorned-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 1030
+            "listingCount": 1028
         },
         {
             "id": 115270,
@@ -5069,7 +5125,7 @@
             "count": 399,
             "detailsId": "curiosity-vaal-aspect",
             "tradeInfo": [],
-            "listingCount": 1315
+            "listingCount": 1319
         },
         {
             "id": 129071,
@@ -5134,7 +5190,7 @@
             "count": 399,
             "detailsId": "foulborn-the-green-nightmare-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 1468
+            "listingCount": 1467
         },
         {
             "id": 60136,
@@ -5187,7 +5243,7 @@
             "count": 399,
             "detailsId": "ulamans-gaze-searching-eye-jewel",
             "tradeInfo": [],
-            "listingCount": 752
+            "listingCount": 753
         },
         {
             "id": 1007,
@@ -5282,7 +5338,7 @@
             "count": 399,
             "detailsId": "tempered-flesh-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 926
+            "listingCount": 921
         },
         {
             "id": 128558,
@@ -5343,7 +5399,7 @@
             "count": 399,
             "detailsId": "foulborn-firesong-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 1034
+            "listingCount": 1033
         },
         {
             "id": 211,
@@ -5386,7 +5442,7 @@
             "count": 399,
             "detailsId": "brute-force-solution-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 9422
+            "listingCount": 9433
         },
         {
             "id": 489,
@@ -5472,7 +5528,7 @@
             "count": 399,
             "detailsId": "healthy-mind-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 2642
+            "listingCount": 2648
         },
         {
             "id": 2004,
@@ -5529,7 +5585,7 @@
             "count": 399,
             "detailsId": "the-red-dream-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 1719
+            "listingCount": 1720
         },
         {
             "id": 2284,
@@ -5577,7 +5633,7 @@
             "count": 399,
             "detailsId": "pure-talent-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 2818
+            "listingCount": 2819
         },
         {
             "id": 40072,
@@ -5625,7 +5681,7 @@
             "count": 399,
             "detailsId": "the-interrogation-small-cluster-jewel",
             "tradeInfo": [],
-            "listingCount": 3371
+            "listingCount": 3372
         },
         {
             "id": 128541,
@@ -5690,7 +5746,7 @@
             "count": 399,
             "detailsId": "foulborn-the-blue-dream-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 5173
+            "listingCount": 5170
         },
         {
             "id": 754,
@@ -5738,7 +5794,7 @@
             "count": 399,
             "detailsId": "lioneyes-fall-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 1932
+            "listingCount": 1931
         },
         {
             "id": 4858,
@@ -5790,7 +5846,7 @@
             "count": 399,
             "detailsId": "might-of-the-meek-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 1910
+            "listingCount": 1914
         },
         {
             "id": 40067,
@@ -5838,7 +5894,7 @@
             "count": 399,
             "detailsId": "calamitous-visions-small-cluster-jewel",
             "tradeInfo": [],
-            "listingCount": 3372
+            "listingCount": 3371
         },
         {
             "id": 40071,
@@ -5886,7 +5942,7 @@
             "count": 399,
             "detailsId": "kitavas-teachings-small-cluster-jewel",
             "tradeInfo": [],
-            "listingCount": 2792
+            "listingCount": 2791
         },
         {
             "id": 40117,
@@ -5929,7 +5985,7 @@
             "count": 399,
             "detailsId": "split-personality-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 57105
+            "listingCount": 57096
         },
         {
             "id": 45461,
@@ -6028,7 +6084,7 @@
             "count": 398,
             "detailsId": "seething-fury-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 1979
+            "listingCount": 1984
         },
         {
             "id": 109084,
@@ -6068,7 +6124,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.2,
             "divineValue": 0.01,
-            "count": 58,
+            "count": 57,
             "detailsId": "replica-fragility-crimson-jewel",
             "tradeInfo": [],
             "listingCount": 121
@@ -6162,7 +6218,7 @@
             "count": 398,
             "detailsId": "atziris-reign-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 3272
+            "listingCount": 3274
         },
         {
             "id": 226,
@@ -6205,7 +6261,7 @@
             "count": 399,
             "detailsId": "careful-planning-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 10115
+            "listingCount": 10130
         },
         {
             "id": 266,
@@ -6248,7 +6304,7 @@
             "count": 399,
             "detailsId": "chill-of-corruption-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 1885
+            "listingCount": 1889
         },
         {
             "id": 362,
@@ -6296,7 +6352,7 @@
             "count": 398,
             "detailsId": "dead-reckoning-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 2444
+            "listingCount": 2446
         },
         {
             "id": 477,
@@ -6339,7 +6395,7 @@
             "count": 399,
             "detailsId": "efficient-training-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 15757
+            "listingCount": 15775
         },
         {
             "id": 488,
@@ -6382,7 +6438,7 @@
             "count": 399,
             "detailsId": "energised-armour-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 3650
+            "listingCount": 3649
         },
         {
             "id": 525,
@@ -6425,7 +6481,7 @@
             "count": 399,
             "detailsId": "fertile-mind-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 11923
+            "listingCount": 11932
         },
         {
             "id": 526,
@@ -6468,7 +6524,7 @@
             "count": 399,
             "detailsId": "fevered-mind-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 2398
+            "listingCount": 2404
         },
         {
             "id": 536,
@@ -6511,7 +6567,7 @@
             "count": 399,
             "detailsId": "fluid-motion-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 9653
+            "listingCount": 9659
         },
         {
             "id": 546,
@@ -6554,7 +6610,7 @@
             "count": 399,
             "detailsId": "fragility-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 11196
+            "listingCount": 11210
         },
         {
             "id": 624,
@@ -6597,7 +6653,7 @@
             "count": 399,
             "detailsId": "hidden-potential-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 2124
+            "listingCount": 2127
         },
         {
             "id": 665,
@@ -6640,7 +6696,7 @@
             "count": 399,
             "detailsId": "inertia-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 15379
+            "listingCount": 15396
         },
         {
             "id": 912,
@@ -6683,7 +6739,7 @@
             "count": 398,
             "detailsId": "pacifism-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 8144
+            "listingCount": 8157
         },
         {
             "id": 964,
@@ -6726,7 +6782,7 @@
             "count": 399,
             "detailsId": "powerlessness-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 9004
+            "listingCount": 9012
         },
         {
             "id": 1033,
@@ -6769,7 +6825,7 @@
             "count": 399,
             "detailsId": "reckless-defence-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 11869
+            "listingCount": 11881
         },
         {
             "id": 1109,
@@ -6812,7 +6868,7 @@
             "count": 399,
             "detailsId": "self-flagellation-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 7381
+            "listingCount": 7385
         },
         {
             "id": 1998,
@@ -6869,7 +6925,7 @@
             "count": 399,
             "detailsId": "the-green-dream-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 1768
+            "listingCount": 1766
         },
         {
             "id": 2007,
@@ -6921,7 +6977,7 @@
             "count": 399,
             "detailsId": "the-blue-dream-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 1671
+            "listingCount": 1672
         },
         {
             "id": 2184,
@@ -6964,7 +7020,7 @@
             "count": 399,
             "detailsId": "to-dust-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 11494
+            "listingCount": 11499
         },
         {
             "id": 2276,
@@ -7007,7 +7063,7 @@
             "count": 399,
             "detailsId": "the-golden-rule-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 8457
+            "listingCount": 8470
         },
         {
             "id": 6895,
@@ -7276,7 +7332,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 362,
+            "count": 361,
             "detailsId": "apex-mode-cobalt-jewel",
             "tradeInfo": [],
             "listingCount": 605
@@ -7388,7 +7444,7 @@
             "count": 399,
             "detailsId": "witchbane-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 1933
+            "listingCount": 1936
         },
         {
             "id": 109024,
@@ -7539,7 +7595,7 @@
             "count": 399,
             "detailsId": "foulborn-the-green-dream-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 5741
+            "listingCount": 5738
         },
         {
             "id": 50059,
@@ -7582,7 +7638,7 @@
             "count": 399,
             "detailsId": "voices-7-passives-large-cluster-jewel",
             "tradeInfo": [],
-            "listingCount": 11934
+            "listingCount": 11912
         }
     ]
 }
