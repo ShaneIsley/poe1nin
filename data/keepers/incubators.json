@@ -1,6 +1,54 @@
 {
     "lines": [
         {
+            "id": 21674,
+            "name": "Ornate Incubator",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uQ3VycmVuY3kiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/90d8bfe442/IncubationCurrency.png",
+            "baseType": "Ornate Incubator",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    -10.4,
+                    0,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    -10.4,
+                    0,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Adds an incubated Currency item to an equippable item\nItem drops after killing (3458-4230) monsters",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 5.0,
+            "exaltedValue": 0.51,
+            "divineValue": 0.03,
+            "count": 399,
+            "detailsId": "ornate-incubator",
+            "tradeInfo": [],
+            "listingCount": 15521
+        },
+        {
             "id": 21675,
             "name": "Gemcutter's Incubator",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uR2VtcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5e44f2f524/IncubationGems.png",
@@ -43,58 +91,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.51,
             "divineValue": 0.03,
-            "count": 13,
+            "count": 14,
             "detailsId": "gemcutters-incubator",
             "tradeInfo": [],
             "listingCount": 39
-        },
-        {
-            "id": 21674,
-            "name": "Ornate Incubator",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uQ3VycmVuY3kiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/90d8bfe442/IncubationCurrency.png",
-            "baseType": "Ornate Incubator",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": -20,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    -10.4,
-                    0,
-                    -20
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -20,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    -10.4,
-                    0,
-                    -20
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Adds an incubated Currency item to an equippable item\nItem drops after killing (3458-4230) monsters",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 4.0,
-            "exaltedValue": 0.41,
-            "divineValue": 0.03,
-            "count": 399,
-            "detailsId": "ornate-incubator",
-            "tradeInfo": [],
-            "listingCount": 15543
         },
         {
             "id": 21684,
@@ -142,7 +142,103 @@
             "count": 399,
             "detailsId": "diviners-incubator",
             "tradeInfo": [],
-            "listingCount": 28302
+            "listingCount": 28379
+        },
+        {
+            "id": 21688,
+            "name": "Thaumaturge's Incubator",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uR2VtcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5e44f2f524/IncubationGems.png",
+            "baseType": "Thaumaturge's Incubator",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 100,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    100
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 100,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    100,
+                    100,
+                    100
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Adds an incubated high level Corrupted Gem or valuable Gem item to an equippable item\nItem drops after killing (12289-15030) monsters",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.2,
+            "divineValue": 0.01,
+            "count": 399,
+            "detailsId": "thaumaturges-incubator",
+            "tradeInfo": [],
+            "listingCount": 3646
+        },
+        {
+            "id": 21683,
+            "name": "Skittering Incubator",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uU2NhcmFicyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/edaa4a92ba/IncubationScarabs.png",
+            "baseType": "Skittering Incubator",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 64,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    64
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 64,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    64
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Adds an incubated Scarab item to an equippable item\nItem drops after killing (7383-9030) monsters",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 1.64,
+            "exaltedValue": 0.17,
+            "divineValue": 0.01,
+            "count": 399,
+            "detailsId": "skittering-incubator",
+            "tradeInfo": [],
+            "listingCount": 34552
         },
         {
             "id": 21676,
@@ -187,7 +283,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 25,
+            "count": 24,
             "detailsId": "whispering-incubator",
             "tradeInfo": [],
             "listingCount": 63
@@ -286,7 +382,7 @@
             "count": 399,
             "detailsId": "primal-incubator",
             "tradeInfo": [],
-            "listingCount": 5606
+            "listingCount": 5607
         },
         {
             "id": 21679,
@@ -334,7 +430,7 @@
             "count": 399,
             "detailsId": "celestial-jewellers-incubator",
             "tradeInfo": [],
-            "listingCount": 2504
+            "listingCount": 2500
         },
         {
             "id": 21681,
@@ -430,55 +526,7 @@
             "count": 399,
             "detailsId": "cartographers-incubator",
             "tradeInfo": [],
-            "listingCount": 9591
-        },
-        {
-            "id": 21683,
-            "name": "Skittering Incubator",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uU2NhcmFicyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/edaa4a92ba/IncubationScarabs.png",
-            "baseType": "Skittering Incubator",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Adds an incubated Scarab item to an equippable item\nItem drops after killing (7383-9030) monsters",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 1.0,
-            "exaltedValue": 0.1,
-            "divineValue": 0.01,
-            "count": 399,
-            "detailsId": "skittering-incubator",
-            "tradeInfo": [],
-            "listingCount": 34516
+            "listingCount": 9594
         },
         {
             "id": 21686,
@@ -526,7 +574,7 @@
             "count": 399,
             "detailsId": "fossilised-incubator",
             "tradeInfo": [],
-            "listingCount": 22905
+            "listingCount": 22915
         },
         {
             "id": 21687,
@@ -574,55 +622,7 @@
             "count": 399,
             "detailsId": "abyssal-incubator",
             "tradeInfo": [],
-            "listingCount": 14956
-        },
-        {
-            "id": 21688,
-            "name": "Thaumaturge's Incubator",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uR2VtcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5e44f2f524/IncubationGems.png",
-            "baseType": "Thaumaturge's Incubator",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    100,
-                    100,
-                    0
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    100,
-                    100,
-                    0
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Adds an incubated high level Corrupted Gem or valuable Gem item to an equippable item\nItem drops after killing (12289-15030) monsters",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 1.0,
-            "exaltedValue": 0.1,
-            "divineValue": 0.01,
-            "count": 399,
-            "detailsId": "thaumaturges-incubator",
-            "tradeInfo": [],
-            "listingCount": 3656
+            "listingCount": 14959
         },
         {
             "id": 21689,
@@ -670,7 +670,7 @@
             "count": 399,
             "detailsId": "mysterious-incubator",
             "tradeInfo": [],
-            "listingCount": 14457
+            "listingCount": 14465
         },
         {
             "id": 21690,
@@ -718,7 +718,7 @@
             "count": 399,
             "detailsId": "celestial-armoursmiths-incubator",
             "tradeInfo": [],
-            "listingCount": 2570
+            "listingCount": 2569
         },
         {
             "id": 21691,
@@ -766,7 +766,7 @@
             "count": 399,
             "detailsId": "foreboding-incubator",
             "tradeInfo": [],
-            "listingCount": 15879
+            "listingCount": 15880
         },
         {
             "id": 21692,
@@ -814,7 +814,7 @@
             "count": 399,
             "detailsId": "otherworldly-incubator",
             "tradeInfo": [],
-            "listingCount": 4765
+            "listingCount": 4761
         },
         {
             "id": 21693,
@@ -862,7 +862,7 @@
             "count": 399,
             "detailsId": "geomancers-incubator",
             "tradeInfo": [],
-            "listingCount": 11097
+            "listingCount": 11107
         },
         {
             "id": 21695,
@@ -910,7 +910,7 @@
             "count": 399,
             "detailsId": "infused-incubator",
             "tradeInfo": [],
-            "listingCount": 18808
+            "listingCount": 18782
         },
         {
             "id": 21696,
@@ -958,7 +958,7 @@
             "count": 399,
             "detailsId": "fragmented-incubator",
             "tradeInfo": [],
-            "listingCount": 33910
+            "listingCount": 33937
         },
         {
             "id": 21700,
@@ -1006,7 +1006,7 @@
             "count": 399,
             "detailsId": "celestial-blacksmiths-incubator",
             "tradeInfo": [],
-            "listingCount": 2683
+            "listingCount": 2676
         },
         {
             "id": 60145,
@@ -1054,7 +1054,7 @@
             "count": 399,
             "detailsId": "maddening-incubator",
             "tradeInfo": [],
-            "listingCount": 10330
+            "listingCount": 10340
         },
         {
             "id": 60147,
@@ -1102,7 +1102,7 @@
             "count": 399,
             "detailsId": "blighted-incubator",
             "tradeInfo": [],
-            "listingCount": 7085
+            "listingCount": 7091
         },
         {
             "id": 70529,
@@ -1150,7 +1150,7 @@
             "count": 399,
             "detailsId": "kalguuran-incubator",
             "tradeInfo": [],
-            "listingCount": 15825
+            "listingCount": 15837
         }
     ]
 }
