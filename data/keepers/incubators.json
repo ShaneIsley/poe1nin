@@ -1,6 +1,54 @@
 {
     "lines": [
         {
+            "id": 21674,
+            "name": "Ornate Incubator",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uQ3VycmVuY3kiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/90d8bfe442/IncubationCurrency.png",
+            "baseType": "Ornate Incubator",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    -10.4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    -10.4,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Adds an incubated Currency item to an equippable item\nItem drops after killing (3458-4230) monsters",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 5.0,
+            "exaltedValue": 0.51,
+            "divineValue": 0.03,
+            "count": 399,
+            "detailsId": "ornate-incubator",
+            "tradeInfo": [],
+            "listingCount": 15579
+        },
+        {
             "id": 21675,
             "name": "Gemcutter's Incubator",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uR2VtcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5e44f2f524/IncubationGems.png",
@@ -49,54 +97,6 @@
             "listingCount": 42
         },
         {
-            "id": 21674,
-            "name": "Ornate Incubator",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uQ3VycmVuY3kiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/90d8bfe442/IncubationCurrency.png",
-            "baseType": "Ornate Incubator",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": -6.8,
-                "data": [
-                    0,
-                    0,
-                    -10.4,
-                    0,
-                    0,
-                    0,
-                    -6.8
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -6.8,
-                "data": [
-                    0,
-                    0,
-                    -10.4,
-                    0,
-                    0,
-                    0,
-                    -6.8
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Adds an incubated Currency item to an equippable item\nItem drops after killing (3458-4230) monsters",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 4.66,
-            "exaltedValue": 0.47,
-            "divineValue": 0.03,
-            "count": 399,
-            "detailsId": "ornate-incubator",
-            "tradeInfo": [],
-            "listingCount": 15672
-        },
-        {
             "id": 21684,
             "name": "Diviner's Incubator",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uRGl2aW5hdGlvbkNhcmRzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c5f63e4263/IncubationDivinationCards.png",
@@ -142,7 +142,7 @@
             "count": 399,
             "detailsId": "diviners-incubator",
             "tradeInfo": [],
-            "listingCount": 28684
+            "listingCount": 28646
         },
         {
             "id": 21683,
@@ -152,7 +152,7 @@
             "stackSize": 10,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": 70,
+                "totalChange": 50,
                 "data": [
                     0,
                     0,
@@ -160,11 +160,11 @@
                     0,
                     0,
                     0,
-                    70
+                    50
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 70,
+                "totalChange": 50,
                 "data": [
                     0,
                     0,
@@ -172,7 +172,7 @@
                     0,
                     0,
                     0,
-                    70
+                    50
                 ]
             },
             "implicitModifiers": [],
@@ -184,13 +184,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "",
-            "chaosValue": 1.7,
-            "exaltedValue": 0.17,
+            "chaosValue": 1.5,
+            "exaltedValue": 0.15,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "skittering-incubator",
             "tradeInfo": [],
-            "listingCount": 34403
+            "listingCount": 34393
         },
         {
             "id": 21676,
@@ -286,7 +286,7 @@
             "count": 399,
             "detailsId": "singular-incubator",
             "tradeInfo": [],
-            "listingCount": 6956
+            "listingCount": 6959
         },
         {
             "id": 21678,
@@ -334,7 +334,7 @@
             "count": 399,
             "detailsId": "primal-incubator",
             "tradeInfo": [],
-            "listingCount": 5701
+            "listingCount": 5700
         },
         {
             "id": 21679,
@@ -382,7 +382,7 @@
             "count": 399,
             "detailsId": "celestial-jewellers-incubator",
             "tradeInfo": [],
-            "listingCount": 2503
+            "listingCount": 2504
         },
         {
             "id": 21682,
@@ -478,7 +478,7 @@
             "count": 399,
             "detailsId": "fossilised-incubator",
             "tradeInfo": [],
-            "listingCount": 22836
+            "listingCount": 22873
         },
         {
             "id": 21687,
@@ -526,7 +526,7 @@
             "count": 399,
             "detailsId": "abyssal-incubator",
             "tradeInfo": [],
-            "listingCount": 15019
+            "listingCount": 15026
         },
         {
             "id": 21688,
@@ -574,7 +574,7 @@
             "count": 399,
             "detailsId": "thaumaturges-incubator",
             "tradeInfo": [],
-            "listingCount": 3721
+            "listingCount": 3723
         },
         {
             "id": 21689,
@@ -622,7 +622,7 @@
             "count": 399,
             "detailsId": "mysterious-incubator",
             "tradeInfo": [],
-            "listingCount": 14533
+            "listingCount": 14538
         },
         {
             "id": 21690,
@@ -670,7 +670,7 @@
             "count": 399,
             "detailsId": "celestial-armoursmiths-incubator",
             "tradeInfo": [],
-            "listingCount": 2577
+            "listingCount": 2578
         },
         {
             "id": 21691,
@@ -718,7 +718,7 @@
             "count": 399,
             "detailsId": "foreboding-incubator",
             "tradeInfo": [],
-            "listingCount": 15863
+            "listingCount": 15870
         },
         {
             "id": 21692,
@@ -814,7 +814,7 @@
             "count": 399,
             "detailsId": "geomancers-incubator",
             "tradeInfo": [],
-            "listingCount": 11234
+            "listingCount": 11233
         },
         {
             "id": 21695,
@@ -862,7 +862,7 @@
             "count": 399,
             "detailsId": "infused-incubator",
             "tradeInfo": [],
-            "listingCount": 18815
+            "listingCount": 18839
         },
         {
             "id": 21696,
@@ -910,7 +910,7 @@
             "count": 399,
             "detailsId": "fragmented-incubator",
             "tradeInfo": [],
-            "listingCount": 34229
+            "listingCount": 34228
         },
         {
             "id": 21700,
@@ -958,7 +958,7 @@
             "count": 399,
             "detailsId": "celestial-blacksmiths-incubator",
             "tradeInfo": [],
-            "listingCount": 2682
+            "listingCount": 2681
         },
         {
             "id": 60145,
@@ -1006,7 +1006,7 @@
             "count": 399,
             "detailsId": "maddening-incubator",
             "tradeInfo": [],
-            "listingCount": 10492
+            "listingCount": 10491
         },
         {
             "id": 60147,
@@ -1054,7 +1054,7 @@
             "count": 399,
             "detailsId": "blighted-incubator",
             "tradeInfo": [],
-            "listingCount": 7059
+            "listingCount": 7060
         },
         {
             "id": 70529,
@@ -1102,7 +1102,7 @@
             "count": 399,
             "detailsId": "kalguuran-incubator",
             "tradeInfo": [],
-            "listingCount": 16179
+            "listingCount": 16180
         },
         {
             "id": 21681,
