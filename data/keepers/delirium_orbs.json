@@ -1,6 +1,54 @@
 {
     "lines": [
         {
+            "id": 40914,
+            "name": "Fossilised Delirium Orb",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJGb3NzaWxzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ea3a92a762/DeliriumOrbFossils.png",
+            "baseType": "Fossilised Delirium Orb",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 20,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 20,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Modifies a Map item adding layers of Delirium with the Fossils reward type",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 6.0,
+            "exaltedValue": 0.41,
+            "divineValue": 0.03,
+            "count": 105,
+            "detailsId": "fossilised-delirium-orb",
+            "tradeInfo": [],
+            "listingCount": 296
+        },
+        {
             "id": 40925,
             "name": "Skittering Delirium Orb",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJTY2FyYWJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fa4c5160ca/DeliriumOrbScarabs.png",
@@ -47,54 +95,6 @@
             "detailsId": "skittering-delirium-orb",
             "tradeInfo": [],
             "listingCount": 176
-        },
-        {
-            "id": 40914,
-            "name": "Fossilised Delirium Orb",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJGb3NzaWxzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ea3a92a762/DeliriumOrbFossils.png",
-            "baseType": "Fossilised Delirium Orb",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": 18,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    18
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 18,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    18
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Modifies a Map item adding layers of Delirium with the Fossils reward type",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 5.9,
-            "exaltedValue": 0.4,
-            "divineValue": 0.03,
-            "count": 104,
-            "detailsId": "fossilised-delirium-orb",
-            "tradeInfo": [],
-            "listingCount": 295
         },
         {
             "id": 40904,
@@ -283,7 +283,7 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.34,
             "divineValue": 0.03,
-            "count": 118,
+            "count": 117,
             "detailsId": "singular-delirium-orb",
             "tradeInfo": [],
             "listingCount": 396
@@ -761,7 +761,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 3.0,
-            "exaltedValue": 0.2,
+            "exaltedValue": 0.21,
             "divineValue": 0.02,
             "count": 399,
             "detailsId": "blacksmiths-delirium-orb",
