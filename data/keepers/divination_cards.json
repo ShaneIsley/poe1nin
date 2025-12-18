@@ -1342,10 +1342,10 @@
             "chaosValue": 201.6,
             "exaltedValue": 15.39,
             "divineValue": 1.2,
-            "count": 57,
+            "count": 58,
             "detailsId": "desecrated-virtue",
             "tradeInfo": [],
-            "listingCount": 154
+            "listingCount": 155
         },
         {
             "id": 1476,
@@ -3275,6 +3275,55 @@
             "listingCount": 57
         },
         {
+            "id": 54415,
+            "name": "The Long Watch",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Long Watch",
+            "stackSize": 3,
+            "artFilename": "TheLongWatch",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 3900,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    870,
+                    870,
+                    3900
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{The Fourth Vow}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:26>{The rain pelts down, Mud grasping at his feet, as thoughts of those in his care bolster his resolve.}",
+            "chaosValue": 40.0,
+            "exaltedValue": 3.05,
+            "divineValue": 0.24,
+            "count": 3,
+            "detailsId": "the-long-watch",
+            "tradeInfo": [],
+            "listingCount": 35
+        },
+        {
             "id": 1653,
             "name": "The Vast",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -3520,55 +3569,6 @@
             "listingCount": 102
         },
         {
-            "id": 1421,
-            "name": "The Artist",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Artist",
-            "stackSize": 11,
-            "artFilename": "TheArtist",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 16.67,
-                "data": [
-                    0,
-                    0,
-                    10,
-                    16.67,
-                    18.33,
-                    16.67,
-                    16.67
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 16.67,
-                "data": [
-                    0,
-                    0,
-                    10,
-                    16.67,
-                    18.33,
-                    16.67,
-                    16.67
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Level 4 Enhance}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Paint, metal, flesh... A true artist does not limit himself.\" - Malachai the Soulless",
-            "chaosValue": 35.0,
-            "exaltedValue": 2.67,
-            "divineValue": 0.21,
-            "count": 42,
-            "detailsId": "the-artist",
-            "tradeInfo": [],
-            "listingCount": 125
-        },
-        {
             "id": 1460,
             "name": "The Conduit",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -3616,6 +3616,55 @@
             "detailsId": "the-conduit",
             "tradeInfo": [],
             "listingCount": 50
+        },
+        {
+            "id": 1421,
+            "name": "The Artist",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Artist",
+            "stackSize": 11,
+            "artFilename": "TheArtist",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 15,
+                "data": [
+                    0,
+                    0,
+                    10,
+                    16.67,
+                    18.33,
+                    16.67,
+                    15
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 15,
+                "data": [
+                    0,
+                    0,
+                    10,
+                    16.67,
+                    18.33,
+                    16.67,
+                    15
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 4 Enhance}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Paint, metal, flesh... A true artist does not limit himself.\" - Malachai the Soulless",
+            "chaosValue": 34.5,
+            "exaltedValue": 2.63,
+            "divineValue": 0.21,
+            "count": 41,
+            "detailsId": "the-artist",
+            "tradeInfo": [],
+            "listingCount": 125
         },
         {
             "id": 1503,
@@ -5986,55 +6035,6 @@
             "listingCount": 565
         },
         {
-            "id": 54415,
-            "name": "The Long Watch",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Long Watch",
-            "stackSize": 3,
-            "artFilename": "TheLongWatch",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    null,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 870,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    870,
-                    870,
-                    870
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{The Fourth Vow}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:26>{The rain pelts down, Mud grasping at his feet, as thoughts of those in his care bolster his resolve.}",
-            "chaosValue": 9.7,
-            "exaltedValue": 0.74,
-            "divineValue": 0.06,
-            "count": 4,
-            "detailsId": "the-long-watch",
-            "tradeInfo": [],
-            "listingCount": 35
-        },
-        {
             "id": 20739,
             "name": "The Lord of Celebration",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -7454,6 +7454,55 @@
             "listingCount": 469
         },
         {
+            "id": 40049,
+            "name": "Council of Cats",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Council of Cats",
+            "stackSize": 4,
+            "artFilename": "CounciloOfCats",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 20,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 20,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    20
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Farrul Item}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:30>{A King Loved By All,\nA Shadow Awaiting Nightfall,\nA Speaker Howling Away,\nA Hunter Seeking Prey}",
+            "chaosValue": 6.0,
+            "exaltedValue": 0.46,
+            "divineValue": 0.04,
+            "count": 12,
+            "detailsId": "council-of-cats",
+            "tradeInfo": [],
+            "listingCount": 84
+        },
+        {
             "id": 128427,
             "name": "Bound by Flame",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -8771,10 +8820,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.38,
             "divineValue": 0.03,
-            "count": 39,
+            "count": 38,
             "detailsId": "the-wilted-rose",
             "tradeInfo": [],
-            "listingCount": 299
+            "listingCount": 298
         },
         {
             "id": 20777,
@@ -9118,55 +9167,6 @@
             "detailsId": "the-easy-stroll",
             "tradeInfo": [],
             "listingCount": 246
-        },
-        {
-            "id": 40049,
-            "name": "Council of Cats",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Council of Cats",
-            "stackSize": 4,
-            "artFilename": "CounciloOfCats",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Farrul Item}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:30>{A King Loved By All,\nA Shadow Awaiting Nightfall,\nA Speaker Howling Away,\nA Hunter Seeking Prey}",
-            "chaosValue": 5.0,
-            "exaltedValue": 0.38,
-            "divineValue": 0.03,
-            "count": 13,
-            "detailsId": "council-of-cats",
-            "tradeInfo": [],
-            "listingCount": 84
         },
         {
             "id": 42405,
@@ -13080,6 +13080,55 @@
             "listingCount": 972
         },
         {
+            "id": 1668,
+            "name": "The Watcher",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Watcher",
+            "stackSize": 12,
+            "artFilename": "TheWatcher",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 150,
+                "data": [
+                    0,
+                    -16.67,
+                    -16.67,
+                    -16.67,
+                    -16.67,
+                    -16.67,
+                    150
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 150,
+                "data": [
+                    0,
+                    -16.67,
+                    -16.67,
+                    -16.67,
+                    -16.67,
+                    -16.67,
+                    150
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Crown of Eyes}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:31>{Strange eyes on top of spines \nGaze beyond the veil of time \nDeep down below the mines \nA dream of crimson and of grime}",
+            "chaosValue": 3.0,
+            "exaltedValue": 0.23,
+            "divineValue": 0.02,
+            "count": 9,
+            "detailsId": "the-watcher",
+            "tradeInfo": [],
+            "listingCount": 123
+        },
+        {
             "id": 2475,
             "name": "Left to Fate",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -13368,7 +13417,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.23,
             "divineValue": 0.02,
-            "count": 40,
+            "count": 39,
             "detailsId": "the-last-laugh",
             "tradeInfo": [],
             "listingCount": 222
@@ -13617,55 +13666,6 @@
             "detailsId": "the-dragon",
             "tradeInfo": [],
             "listingCount": 204
-        },
-        {
-            "id": 1668,
-            "name": "The Watcher",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Watcher",
-            "stackSize": 12,
-            "artFilename": "TheWatcher",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 133.3,
-                "data": [
-                    0,
-                    -16.67,
-                    -16.67,
-                    -16.67,
-                    -16.67,
-                    -16.67,
-                    133.3
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 133.3,
-                "data": [
-                    0,
-                    -16.67,
-                    -16.67,
-                    -16.67,
-                    -16.67,
-                    -16.67,
-                    133.3
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Crown of Eyes}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:31>{Strange eyes on top of spines \nGaze beyond the veil of time \nDeep down below the mines \nA dream of crimson and of grime}",
-            "chaosValue": 2.8,
-            "exaltedValue": 0.21,
-            "divineValue": 0.02,
-            "count": 10,
-            "detailsId": "the-watcher",
-            "tradeInfo": [],
-            "listingCount": 123
         },
         {
             "id": 2087,
