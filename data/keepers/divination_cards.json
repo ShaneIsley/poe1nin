@@ -196,7 +196,7 @@
             "artFilename": "History",
             "itemClass": 6,
             "sparkLine": {
-                "totalChange": -24.6,
+                "totalChange": -24.14,
                 "data": [
                     0,
                     -2.23,
@@ -204,11 +204,11 @@
                     -12.82,
                     -15.39,
                     -24.11,
-                    -24.6
+                    -24.14
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -24.6,
+                "totalChange": -24.14,
                 "data": [
                     0,
                     -2.23,
@@ -216,7 +216,7 @@
                     -12.82,
                     -15.39,
                     -24.11,
-                    -24.6
+                    -24.14
                 ]
             },
             "implicitModifiers": [],
@@ -228,13 +228,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "The future is oft-foretold\nin records of the past.",
-            "chaosValue": 7719,
-            "exaltedValue": 572.2,
-            "divineValue": 49.1,
-            "count": 12,
+            "chaosValue": 7766,
+            "exaltedValue": 575.7,
+            "divineValue": 49.4,
+            "count": 13,
             "detailsId": "history",
             "tradeInfo": [],
-            "listingCount": 23
+            "listingCount": 24
         },
         {
             "id": 22512,
@@ -933,10 +933,10 @@
             "chaosValue": 393.0,
             "exaltedValue": 29.13,
             "divineValue": 2.5,
-            "count": 169,
+            "count": 168,
             "detailsId": "seven-years-bad-luck",
             "tradeInfo": [],
-            "listingCount": 429
+            "listingCount": 428
         },
         {
             "id": 98362,
@@ -4265,55 +4265,6 @@
             "listingCount": 76
         },
         {
-            "id": 60137,
-            "name": "Sambodhi's Wisdom",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Sambodhi's Wisdom",
-            "stackSize": 3,
-            "artFilename": "SambodhisWisdom",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -38.18,
-                "data": [
-                    null,
-                    0,
-                    0,
-                    -38.18,
-                    -38.18,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 33.16,
-                "data": [
-                    0,
-                    15.79,
-                    15.79,
-                    -28.42,
-                    -28.42,
-                    33.16,
-                    33.16
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Tabula Rasa}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:28>{No blade conquers sin;\nguide a sinner to virtue,\nunveil their lost sight\u2014\nyour eyes, too, see in\neveryone the inner child,\nno matter their might.}",
-            "chaosValue": 25.3,
-            "exaltedValue": 1.88,
-            "divineValue": 0.16,
-            "count": 4,
-            "detailsId": "sambodhis-wisdom",
-            "tradeInfo": [],
-            "listingCount": 45
-        },
-        {
             "id": 54415,
             "name": "The Long Watch",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -4459,6 +4410,55 @@
             "detailsId": "the-blessing-of-moosh",
             "tradeInfo": [],
             "listingCount": 81
+        },
+        {
+            "id": 60137,
+            "name": "Sambodhi's Wisdom",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Sambodhi's Wisdom",
+            "stackSize": 3,
+            "artFilename": "SambodhisWisdom",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -38.18,
+                "data": [
+                    null,
+                    0,
+                    0,
+                    -38.18,
+                    -38.18,
+                    null,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 22.11,
+                "data": [
+                    0,
+                    15.79,
+                    15.79,
+                    -28.42,
+                    -28.42,
+                    33.16,
+                    22.11
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Tabula Rasa}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:28>{No blade conquers sin;\nguide a sinner to virtue,\nunveil their lost sight\u2014\nyour eyes, too, see in\neveryone the inner child,\nno matter their might.}",
+            "chaosValue": 23.2,
+            "exaltedValue": 1.72,
+            "divineValue": 0.15,
+            "count": 3,
+            "detailsId": "sambodhis-wisdom",
+            "tradeInfo": [],
+            "listingCount": 45
         },
         {
             "id": 54410,
@@ -5090,6 +5090,55 @@
             "listingCount": 31
         },
         {
+            "id": 95769,
+            "name": "Altered Perception",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Altered Perception",
+            "stackSize": 3,
+            "artFilename": "AlteredPerception",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -22.22,
+                "data": [
+                    0,
+                    -5.56,
+                    -11.11,
+                    -16.67,
+                    -22.22,
+                    null,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 154.2,
+                "data": [
+                    0,
+                    -5.56,
+                    -11.11,
+                    -16.67,
+                    -22.22,
+                    152.8,
+                    154.2
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{Simulacrum}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "You mustn't forget: you won't be leaving this place.",
+            "chaosValue": 18.3,
+            "exaltedValue": 1.36,
+            "divineValue": 0.12,
+            "count": 4,
+            "detailsId": "altered-perception",
+            "tradeInfo": [],
+            "listingCount": 49
+        },
+        {
             "id": 1612,
             "name": "The Siren",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -5137,55 +5186,6 @@
             "detailsId": "the-siren",
             "tradeInfo": [],
             "listingCount": 65
-        },
-        {
-            "id": 95769,
-            "name": "Altered Perception",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Altered Perception",
-            "stackSize": 3,
-            "artFilename": "AlteredPerception",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -22.22,
-                "data": [
-                    0,
-                    -5.56,
-                    -11.11,
-                    -16.67,
-                    -22.22,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 152.8,
-                "data": [
-                    0,
-                    -5.56,
-                    -11.11,
-                    -16.67,
-                    -22.22,
-                    152.8,
-                    152.8
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{Simulacrum}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "You mustn't forget: you won't be leaving this place.",
-            "chaosValue": 18.2,
-            "exaltedValue": 1.35,
-            "divineValue": 0.12,
-            "count": 3,
-            "detailsId": "altered-perception",
-            "tradeInfo": [],
-            "listingCount": 48
         },
         {
             "id": 188,
@@ -8885,6 +8885,55 @@
             "listingCount": 62
         },
         {
+            "id": 1482,
+            "name": "The Drunken Aristocrat",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Drunken Aristocrat",
+            "stackSize": 8,
+            "artFilename": "TheDrunkenAristocrat",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 89.66,
+                "data": [
+                    0,
+                    0,
+                    -10.34,
+                    67.59,
+                    124.1,
+                    72.41,
+                    89.66
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 89.66,
+                "data": [
+                    0,
+                    0,
+                    -10.34,
+                    67.59,
+                    124.1,
+                    72.41,
+                    89.66
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Divination Distillate}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "The finer the brew, the harder it is to remember drinking it.",
+            "chaosValue": 5.5,
+            "exaltedValue": 0.41,
+            "divineValue": 0.03,
+            "count": 12,
+            "detailsId": "the-drunken-aristocrat",
+            "tradeInfo": [],
+            "listingCount": 126
+        },
+        {
             "id": 22476,
             "name": "Void of the Elements",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -9226,55 +9275,6 @@
             "detailsId": "pride-before-the-fall",
             "tradeInfo": [],
             "listingCount": 82
-        },
-        {
-            "id": 1482,
-            "name": "The Drunken Aristocrat",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Drunken Aristocrat",
-            "stackSize": 8,
-            "artFilename": "TheDrunkenAristocrat",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 72.41,
-                "data": [
-                    0,
-                    0,
-                    -10.34,
-                    67.59,
-                    124.1,
-                    72.41,
-                    72.41
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 72.41,
-                "data": [
-                    0,
-                    0,
-                    -10.34,
-                    67.59,
-                    124.1,
-                    72.41,
-                    72.41
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Divination Distillate}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The finer the brew, the harder it is to remember drinking it.",
-            "chaosValue": 5.0,
-            "exaltedValue": 0.37,
-            "divineValue": 0.03,
-            "count": 11,
-            "detailsId": "the-drunken-aristocrat",
-            "tradeInfo": [],
-            "listingCount": 125
         },
         {
             "id": 1544,
@@ -12104,10 +12104,10 @@
             "chaosValue": 4.0,
             "exaltedValue": 0.3,
             "divineValue": 0.03,
-            "count": 153,
+            "count": 156,
             "detailsId": "the-void",
             "tradeInfo": [],
-            "listingCount": 982
+            "listingCount": 985
         },
         {
             "id": 2048,
@@ -14511,6 +14511,55 @@
             "listingCount": 101
         },
         {
+            "id": 103356,
+            "name": "The Rusted Bard",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Rusted Bard",
+            "stackSize": 9,
+            "artFilename": "TheRustedBard",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 7.69,
+                "data": [
+                    0,
+                    -15.38,
+                    -15.38,
+                    -15.38,
+                    0,
+                    7.69,
+                    7.69
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 7.69,
+                "data": [
+                    0,
+                    -15.38,
+                    -15.38,
+                    -15.38,
+                    0,
+                    7.69,
+                    7.69
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{4x Tainted Mythic Orb}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:19>{Fourfold the refrain, fortissimo cheer.\nOne hundred rent twain, naught left for a bier.\nThe song rattles on, though hollow a bit.\nSee the hope is gone, no prize shall ye get.}",
+            "chaosValue": 2.8,
+            "exaltedValue": 0.21,
+            "divineValue": 0.02,
+            "count": 10,
+            "detailsId": "the-rusted-bard",
+            "tradeInfo": [],
+            "listingCount": 90
+        },
+        {
             "id": 1083,
             "name": "Scholar of the Seas",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -14950,55 +14999,6 @@
             "detailsId": "underground-forest",
             "tradeInfo": [],
             "listingCount": 97
-        },
-        {
-            "id": 103356,
-            "name": "The Rusted Bard",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Rusted Bard",
-            "stackSize": 9,
-            "artFilename": "TheRustedBard",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    -15.38,
-                    -15.38,
-                    -15.38,
-                    0,
-                    7.69,
-                    0
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    -15.38,
-                    -15.38,
-                    -15.38,
-                    0,
-                    7.69,
-                    0
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{4x Tainted Mythic Orb}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:19>{Fourfold the refrain, fortissimo cheer.\nOne hundred rent twain, naught left for a bier.\nThe song rattles on, though hollow a bit.\nSee the hope is gone, no prize shall ye get.}",
-            "chaosValue": 2.6,
-            "exaltedValue": 0.19,
-            "divineValue": 0.02,
-            "count": 9,
-            "detailsId": "the-rusted-bard",
-            "tradeInfo": [],
-            "listingCount": 89
         },
         {
             "id": 480,
@@ -16765,6 +16765,55 @@
             "listingCount": 720
         },
         {
+            "id": 6942,
+            "name": "Immortal Resolve",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Immortal Resolve",
+            "stackSize": 6,
+            "artFilename": "ImmortalResolve",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    -5.0,
+                    -15.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    -5.0,
+                    -15.0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Six-Linked Body Armour}\n<default>{Influenced Item}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "The threads of fate are the strongest ties.",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.15,
+            "divineValue": 0.01,
+            "count": 11,
+            "detailsId": "immortal-resolve",
+            "tradeInfo": [],
+            "listingCount": 196
+        },
+        {
             "id": 20762,
             "name": "Dark Temptation",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -17105,55 +17154,6 @@
             "detailsId": "parasitic-passengers",
             "tradeInfo": [],
             "listingCount": 109
-        },
-        {
-            "id": 6942,
-            "name": "Immortal Resolve",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Immortal Resolve",
-            "stackSize": 6,
-            "artFilename": "ImmortalResolve",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -5,
-                "data": [
-                    0,
-                    0,
-                    -5.0,
-                    -15.0,
-                    0,
-                    0,
-                    -5
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -5,
-                "data": [
-                    0,
-                    0,
-                    -5.0,
-                    -15.0,
-                    0,
-                    0,
-                    -5
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{Six-Linked Body Armour}\n<default>{Influenced Item}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The threads of fate are the strongest ties.",
-            "chaosValue": 1.9,
-            "exaltedValue": 0.14,
-            "divineValue": 0.01,
-            "count": 10,
-            "detailsId": "immortal-resolve",
-            "tradeInfo": [],
-            "listingCount": 195
         },
         {
             "id": 1477,
@@ -20286,7 +20286,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.07,
             "divineValue": 0.01,
-            "count": 11,
+            "count": 10,
             "detailsId": "the-witch",
             "tradeInfo": [],
             "listingCount": 196
@@ -20776,10 +20776,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.07,
             "divineValue": 0.01,
-            "count": 45,
+            "count": 46,
             "detailsId": "the-tireless-extractor",
             "tradeInfo": [],
-            "listingCount": 883
+            "listingCount": 884
         },
         {
             "id": 100491,
