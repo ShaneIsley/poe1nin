@@ -86,7 +86,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 15.7,
-            "exaltedValue": 1.38,
+            "exaltedValue": 1.4,
             "divineValue": 0.11,
             "count": 39,
             "detailsId": "essence-of-horror",
@@ -179,7 +179,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 14.23,
-            "exaltedValue": 1.25,
+            "exaltedValue": 1.27,
             "divineValue": 0.1,
             "count": 40,
             "detailsId": "essence-of-hysteria",
@@ -272,7 +272,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 14.0,
-            "exaltedValue": 1.23,
+            "exaltedValue": 1.25,
             "divineValue": 0.09,
             "count": 36,
             "detailsId": "essence-of-insanity",
@@ -365,7 +365,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 12.13,
-            "exaltedValue": 1.07,
+            "exaltedValue": 1.08,
             "divineValue": 0.08,
             "count": 36,
             "detailsId": "essence-of-delirium",
@@ -458,35 +458,35 @@
             "listingCount": 228
         },
         {
-            "id": 383,
-            "name": "Deafening Essence of Spite",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGl0ZTciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/67b002a3b7/Spite7.png",
+            "id": 374,
+            "name": "Deafening Essence of Envy",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9FbnZ5NyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7e2590a0e6/Envy7.png",
             "mapTier": 7,
-            "baseType": "Deafening Essence of Spite",
+            "baseType": "Deafening Essence of Envy",
             "stackSize": 9,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": -28.1,
+                "totalChange": 0,
                 "data": [
                     0,
-                    16.67,
-                    -4.76,
-                    -6.67,
-                    -10.24,
-                    -25.95,
-                    -28.1
+                    0,
+                    0,
+                    0,
+                    0,
+                    -3.67,
+                    0
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -28.1,
+                "totalChange": 0,
                 "data": [
                     0,
-                    16.67,
-                    -4.76,
-                    -6.67,
-                    -10.24,
-                    -25.95,
-                    -28.1
+                    0,
+                    0,
+                    0,
+                    0,
+                    -3.67,
+                    0
                 ]
             },
             "implicitModifiers": [],
@@ -500,27 +500,39 @@
                     "optional": false
                 },
                 {
-                    "text": "One Handed Weapon: Damage Penetrates 8% Lightning Resistance",
+                    "text": "One Handed Weapon: Adds (53-79) to (101-131) Chaos Damage",
                     "optional": false
                 },
                 {
-                    "text": "Two Handed Weapon: Damage Penetrates (15-16)% Lightning Resistance",
+                    "text": "Two Handed Weapon: Adds (89-131) to (181-229) Chaos Damage",
                     "optional": false
                 },
                 {
-                    "text": "Other Item: (51-58) to Intelligence",
+                    "text": "Armour: (31-35)% to Chaos Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Quiver: Adds (23-37) to (49-61) Chaos Damage to Attacks",
+                    "optional": false
+                },
+                {
+                    "text": "Belt: (31-35)% to Chaos Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Other Jewellery: (31-34)% increased Chaos Damage",
                     "optional": false
                 }
             ],
             "mutatedModifiers": [],
             "flavourText": "",
-            "chaosValue": 3.02,
+            "chaosValue": 3.0,
             "exaltedValue": 0.27,
             "divineValue": 0.02,
-            "count": 73,
-            "detailsId": "deafening-essence-of-spite",
+            "count": 58,
+            "detailsId": "deafening-essence-of-envy",
             "tradeInfo": [],
-            "listingCount": 265
+            "listingCount": 280
         },
         {
             "id": 380,
@@ -580,12 +592,77 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 3.0,
-            "exaltedValue": 0.26,
+            "exaltedValue": 0.27,
             "divineValue": 0.02,
-            "count": 57,
+            "count": 56,
             "detailsId": "deafening-essence-of-rage",
             "tradeInfo": [],
             "listingCount": 298
+        },
+        {
+            "id": 383,
+            "name": "Deafening Essence of Spite",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGl0ZTciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/67b002a3b7/Spite7.png",
+            "mapTier": 7,
+            "baseType": "Deafening Essence of Spite",
+            "stackSize": 9,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": -28.57,
+                "data": [
+                    0,
+                    16.67,
+                    -4.76,
+                    -6.67,
+                    -10.24,
+                    -25.95,
+                    -28.57
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -28.57,
+                "data": [
+                    0,
+                    16.67,
+                    -4.76,
+                    -6.67,
+                    -10.24,
+                    -25.95,
+                    -28.57
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+                    "optional": false
+                },
+                {
+                    "text": "",
+                    "optional": false
+                },
+                {
+                    "text": "One Handed Weapon: Damage Penetrates 8% Lightning Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Two Handed Weapon: Damage Penetrates (15-16)% Lightning Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Other Item: (51-58) to Intelligence",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 3.0,
+            "exaltedValue": 0.27,
+            "divineValue": 0.02,
+            "count": 72,
+            "detailsId": "deafening-essence-of-spite",
+            "tradeInfo": [],
+            "listingCount": 265
         },
         {
             "id": 386,
@@ -673,43 +750,43 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 3.0,
-            "exaltedValue": 0.26,
+            "exaltedValue": 0.27,
             "divineValue": 0.02,
-            "count": 60,
+            "count": 59,
             "detailsId": "deafening-essence-of-woe",
             "tradeInfo": [],
             "listingCount": 286
         },
         {
-            "id": 374,
-            "name": "Deafening Essence of Envy",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9FbnZ5NyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7e2590a0e6/Envy7.png",
+            "id": 378,
+            "name": "Deafening Essence of Loathing",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Mb2F0aGluZzciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fdf6345fe6/Loathing7.png",
             "mapTier": 7,
-            "baseType": "Deafening Essence of Envy",
+            "baseType": "Deafening Essence of Loathing",
             "stackSize": 9,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": -0.67,
+                "totalChange": -8,
                 "data": [
                     0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -3.67,
-                    -0.67
+                    -1.67,
+                    -0.33,
+                    -0.33,
+                    -5.5,
+                    -8.67,
+                    -8
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -0.67,
+                "totalChange": -8,
                 "data": [
                     0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -3.67,
-                    -0.67
+                    -1.67,
+                    -0.33,
+                    -0.33,
+                    -5.5,
+                    -8.67,
+                    -8
                 ]
             },
             "implicitModifiers": [],
@@ -723,39 +800,51 @@
                     "optional": false
                 },
                 {
-                    "text": "One Handed Weapon: Adds (53-79) to (101-131) Chaos Damage",
+                    "text": "Weapon: (35-38)% increased Critical Strike Chance",
                     "optional": false
                 },
                 {
-                    "text": "Two Handed Weapon: Adds (89-131) to (181-229) Chaos Damage",
+                    "text": "Gloves: (24-26)% increased Global Critical Strike Chance",
                     "optional": false
                 },
                 {
-                    "text": "Armour: (31-35)% to Chaos Resistance",
+                    "text": "Boots: (31-35)% chance to Avoid Elemental Ailments",
                     "optional": false
                 },
                 {
-                    "text": "Quiver: Adds (23-37) to (49-61) Chaos Damage to Attacks",
+                    "text": "Shield: (70-75)% increased Chance to Block",
                     "optional": false
                 },
                 {
-                    "text": "Belt: (31-35)% to Chaos Resistance",
+                    "text": "Other Armour: (9-10)% increased Mana Reservation Efficiency of Skills",
                     "optional": false
                 },
                 {
-                    "text": "Other Jewellery: (31-34)% increased Chaos Damage",
+                    "text": "Quiver: (39-42)% increased Global Critical Strike Chance",
+                    "optional": false
+                },
+                {
+                    "text": "Amulet: (39-42)% increased Global Critical Strike Chance",
+                    "optional": false
+                },
+                {
+                    "text": "Ring: (24-26)% increased Global Critical Strike Chance",
+                    "optional": false
+                },
+                {
+                    "text": "Belt: (36-39)% increased Stun Duration on Enemies",
                     "optional": false
                 }
             ],
             "mutatedModifiers": [],
             "flavourText": "",
-            "chaosValue": 2.98,
-            "exaltedValue": 0.26,
+            "chaosValue": 2.76,
+            "exaltedValue": 0.25,
             "divineValue": 0.02,
-            "count": 59,
-            "detailsId": "deafening-essence-of-envy",
+            "count": 63,
+            "detailsId": "deafening-essence-of-loathing",
             "tradeInfo": [],
-            "listingCount": 280
+            "listingCount": 299
         },
         {
             "id": 388,
@@ -855,160 +944,6 @@
             "listingCount": 289
         },
         {
-            "id": 378,
-            "name": "Deafening Essence of Loathing",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Mb2F0aGluZzciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fdf6345fe6/Loathing7.png",
-            "mapTier": 7,
-            "baseType": "Deafening Essence of Loathing",
-            "stackSize": 9,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": -11,
-                "data": [
-                    0,
-                    -1.67,
-                    -0.33,
-                    -0.33,
-                    -5.5,
-                    -8.67,
-                    -11
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -11,
-                "data": [
-                    0,
-                    -1.67,
-                    -0.33,
-                    -0.33,
-                    -5.5,
-                    -8.67,
-                    -11
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-                    "optional": false
-                },
-                {
-                    "text": "",
-                    "optional": false
-                },
-                {
-                    "text": "Weapon: (35-38)% increased Critical Strike Chance",
-                    "optional": false
-                },
-                {
-                    "text": "Gloves: (24-26)% increased Global Critical Strike Chance",
-                    "optional": false
-                },
-                {
-                    "text": "Boots: (31-35)% chance to Avoid Elemental Ailments",
-                    "optional": false
-                },
-                {
-                    "text": "Shield: (70-75)% increased Chance to Block",
-                    "optional": false
-                },
-                {
-                    "text": "Other Armour: (9-10)% increased Mana Reservation Efficiency of Skills",
-                    "optional": false
-                },
-                {
-                    "text": "Quiver: (39-42)% increased Global Critical Strike Chance",
-                    "optional": false
-                },
-                {
-                    "text": "Amulet: (39-42)% increased Global Critical Strike Chance",
-                    "optional": false
-                },
-                {
-                    "text": "Ring: (24-26)% increased Global Critical Strike Chance",
-                    "optional": false
-                },
-                {
-                    "text": "Belt: (36-39)% increased Stun Duration on Enemies",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 2.67,
-            "exaltedValue": 0.24,
-            "divineValue": 0.02,
-            "count": 65,
-            "detailsId": "deafening-essence-of-loathing",
-            "tradeInfo": [],
-            "listingCount": 299
-        },
-        {
-            "id": 382,
-            "name": "Deafening Essence of Sorrow",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Tb3Jyb3c3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0b97d1a6b0/Sorrow7.png",
-            "mapTier": 7,
-            "baseType": "Deafening Essence of Sorrow",
-            "stackSize": 9,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": 18.91,
-                "data": [
-                    0,
-                    -0.5,
-                    1.99,
-                    7.96,
-                    0,
-                    0,
-                    18.91
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 18.91,
-                "data": [
-                    0,
-                    -0.5,
-                    1.99,
-                    7.96,
-                    0,
-                    0,
-                    18.91
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-                    "optional": false
-                },
-                {
-                    "text": "",
-                    "optional": false
-                },
-                {
-                    "text": "One Handed Weapon: Damage Penetrates 8% Cold Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Two Handed Weapon: Damage Penetrates (15-16)% Cold Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Other Item: (51-58) to Dexterity",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 2.39,
-            "exaltedValue": 0.21,
-            "divineValue": 0.02,
-            "count": 61,
-            "detailsId": "deafening-essence-of-sorrow",
-            "tradeInfo": [],
-            "listingCount": 312
-        },
-        {
             "id": 371,
             "name": "Deafening Essence of Contempt",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db250ZW1wdDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/eabee1b2e2/Contempt7.png",
@@ -1017,7 +952,7 @@
             "stackSize": 9,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": -23.08,
+                "totalChange": -5.59,
                 "data": [
                     0,
                     0.35,
@@ -1025,11 +960,11 @@
                     4.9,
                     0,
                     -13.29,
-                    -23.08
+                    -5.59
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -23.08,
+                "totalChange": -5.59,
                 "data": [
                     0,
                     0.35,
@@ -1037,7 +972,7 @@
                     4.9,
                     0,
                     -13.29,
-                    -23.08
+                    -5.59
                 ]
             },
             "implicitModifiers": [],
@@ -1085,13 +1020,78 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "",
-            "chaosValue": 2.2,
-            "exaltedValue": 0.19,
-            "divineValue": 0.01,
-            "count": 66,
+            "chaosValue": 2.7,
+            "exaltedValue": 0.24,
+            "divineValue": 0.02,
+            "count": 65,
             "detailsId": "deafening-essence-of-contempt",
             "tradeInfo": [],
             "listingCount": 302
+        },
+        {
+            "id": 382,
+            "name": "Deafening Essence of Sorrow",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Tb3Jyb3c3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0b97d1a6b0/Sorrow7.png",
+            "mapTier": 7,
+            "baseType": "Deafening Essence of Sorrow",
+            "stackSize": 9,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 31.34,
+                "data": [
+                    0,
+                    -0.5,
+                    1.99,
+                    7.96,
+                    0,
+                    0,
+                    31.34
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 31.34,
+                "data": [
+                    0,
+                    -0.5,
+                    1.99,
+                    7.96,
+                    0,
+                    0,
+                    31.34
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+                    "optional": false
+                },
+                {
+                    "text": "",
+                    "optional": false
+                },
+                {
+                    "text": "One Handed Weapon: Damage Penetrates 8% Cold Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Two Handed Weapon: Damage Penetrates (15-16)% Cold Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Other Item: (51-58) to Dexterity",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 2.64,
+            "exaltedValue": 0.24,
+            "divineValue": 0.02,
+            "count": 60,
+            "detailsId": "deafening-essence-of-sorrow",
+            "tradeInfo": [],
+            "listingCount": 312
         },
         {
             "id": 369,
@@ -1169,7 +1169,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.18,
             "divineValue": 0.01,
-            "count": 62,
+            "count": 61,
             "detailsId": "deafening-essence-of-anger",
             "tradeInfo": [],
             "listingCount": 291
@@ -1258,7 +1258,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.18,
             "divineValue": 0.01,
-            "count": 50,
+            "count": 49,
             "detailsId": "deafening-essence-of-anguish",
             "tradeInfo": [],
             "listingCount": 278
@@ -1359,7 +1359,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.18,
             "divineValue": 0.01,
-            "count": 58,
+            "count": 57,
             "detailsId": "deafening-essence-of-dread",
             "tradeInfo": [],
             "listingCount": 273
@@ -1444,7 +1444,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.18,
             "divineValue": 0.01,
-            "count": 61,
+            "count": 60,
             "detailsId": "deafening-essence-of-fear",
             "tradeInfo": [],
             "listingCount": 288
@@ -1533,7 +1533,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.18,
             "divineValue": 0.01,
-            "count": 67,
+            "count": 66,
             "detailsId": "deafening-essence-of-greed",
             "tradeInfo": [],
             "listingCount": 311
@@ -1614,7 +1614,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.18,
             "divineValue": 0.01,
-            "count": 68,
+            "count": 67,
             "detailsId": "deafening-essence-of-hatred",
             "tradeInfo": [],
             "listingCount": 321
@@ -1701,6 +1701,95 @@
             "listingCount": 263
         },
         {
+            "id": 385,
+            "name": "Deafening Essence of Torment",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Ub3JtZW50NyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/de4367a1ca/Torment7.png",
+            "mapTier": 7,
+            "baseType": "Deafening Essence of Torment",
+            "stackSize": 9,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    9.5,
+                    6,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    9.5,
+                    6,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+                    "optional": false
+                },
+                {
+                    "text": "",
+                    "optional": false
+                },
+                {
+                    "text": "One Handed Weapon: Adds (4-14) to (170-179) Lightning Damage to Spells",
+                    "optional": false
+                },
+                {
+                    "text": "Two Handed Weapon: Adds (7-20) to (255-270) Lightning Damage to Spells",
+                    "optional": false
+                },
+                {
+                    "text": "Gloves: Adds (1-4) to (40-43) Lightning Damage to Attacks",
+                    "optional": false
+                },
+                {
+                    "text": "Body Armour: (9-10)% chance to Avoid Lightning Damage from Hits",
+                    "optional": false
+                },
+                {
+                    "text": "Shield: (9-10)% chance to Avoid Lightning Damage from Hits",
+                    "optional": false
+                },
+                {
+                    "text": "Other Armour: (56-60)% chance to Avoid being Shocked",
+                    "optional": false
+                },
+                {
+                    "text": "Quiver: Adds (6-13) to (136-155) Lightning Damage to Attacks",
+                    "optional": false
+                },
+                {
+                    "text": "Belt: (56-60)% chance to Avoid being Shocked",
+                    "optional": false
+                },
+                {
+                    "text": "Other Jewellery: Adds (4-8) to (71-76) Lightning Damage to Attacks",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.18,
+            "divineValue": 0.01,
+            "count": 57,
+            "detailsId": "deafening-essence-of-torment",
+            "tradeInfo": [],
+            "listingCount": 295
+        },
+        {
             "id": 387,
             "name": "Deafening Essence of Wrath",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9XcmF0aDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea0157df49/Wrath7.png",
@@ -1776,7 +1865,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.18,
             "divineValue": 0.01,
-            "count": 55,
+            "count": 54,
             "detailsId": "deafening-essence-of-wrath",
             "tradeInfo": [],
             "listingCount": 283
@@ -1867,6 +1956,91 @@
             "listingCount": 432
         },
         {
+            "id": 372,
+            "name": "Deafening Essence of Doubt",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/49e11518a1/Doubt7.png",
+            "mapTier": 7,
+            "baseType": "Deafening Essence of Doubt",
+            "stackSize": 9,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": -0.5,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    -3.5,
+                    -7.0,
+                    -0.5
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -0.5,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    -3.5,
+                    -7.0,
+                    -0.5
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+                    "optional": false
+                },
+                {
+                    "text": "",
+                    "optional": false
+                },
+                {
+                    "text": "Weapon: (625-780) to Accuracy Rating",
+                    "optional": false
+                },
+                {
+                    "text": "Body Armour: (390-475) to Evasion Rating",
+                    "optional": false
+                },
+                {
+                    "text": "Helmet: (161-180) to Evasion Rating",
+                    "optional": false
+                },
+                {
+                    "text": "Shield: (301-375) to Evasion Rating",
+                    "optional": false
+                },
+                {
+                    "text": "Other Armour: (121-135) to Evasion Rating",
+                    "optional": false
+                },
+                {
+                    "text": "Quiver: (481-600) to Accuracy Rating",
+                    "optional": false
+                },
+                {
+                    "text": "Amulet: (32-33)% increased Evasion Rating",
+                    "optional": false
+                },
+                {
+                    "text": "Other Jewellery: (151-180) to Evasion Rating",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 1.99,
+            "exaltedValue": 0.18,
+            "divineValue": 0.01,
+            "count": 54,
+            "detailsId": "deafening-essence-of-doubt",
+            "tradeInfo": [],
+            "listingCount": 296
+        },
+        {
             "id": 1293,
             "name": "Shrieking Essence of Spite",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGl0ZTYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3e98d86275/Spite6.png",
@@ -1875,7 +2049,7 @@
             "stackSize": 9,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": 97,
+                "totalChange": 96,
                 "data": [
                     0,
                     0,
@@ -1883,11 +2057,11 @@
                     64,
                     89,
                     90,
-                    97
+                    96
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 97,
+                "totalChange": 96,
                 "data": [
                     0,
                     0,
@@ -1895,7 +2069,7 @@
                     64,
                     89,
                     90,
-                    97
+                    96
                 ]
             },
             "implicitModifiers": [],
@@ -1923,102 +2097,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "",
-            "chaosValue": 1.97,
+            "chaosValue": 1.96,
             "exaltedValue": 0.17,
             "divineValue": 0.01,
             "count": 49,
             "detailsId": "shrieking-essence-of-spite",
             "tradeInfo": [],
             "listingCount": 421
-        },
-        {
-            "id": 385,
-            "name": "Deafening Essence of Torment",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Ub3JtZW50NyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/de4367a1ca/Torment7.png",
-            "mapTier": 7,
-            "baseType": "Deafening Essence of Torment",
-            "stackSize": 9,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": -2,
-                "data": [
-                    0,
-                    9.5,
-                    6,
-                    0,
-                    0,
-                    0,
-                    -2
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -2,
-                "data": [
-                    0,
-                    9.5,
-                    6,
-                    0,
-                    0,
-                    0,
-                    -2
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-                    "optional": false
-                },
-                {
-                    "text": "",
-                    "optional": false
-                },
-                {
-                    "text": "One Handed Weapon: Adds (4-14) to (170-179) Lightning Damage to Spells",
-                    "optional": false
-                },
-                {
-                    "text": "Two Handed Weapon: Adds (7-20) to (255-270) Lightning Damage to Spells",
-                    "optional": false
-                },
-                {
-                    "text": "Gloves: Adds (1-4) to (40-43) Lightning Damage to Attacks",
-                    "optional": false
-                },
-                {
-                    "text": "Body Armour: (9-10)% chance to Avoid Lightning Damage from Hits",
-                    "optional": false
-                },
-                {
-                    "text": "Shield: (9-10)% chance to Avoid Lightning Damage from Hits",
-                    "optional": false
-                },
-                {
-                    "text": "Other Armour: (56-60)% chance to Avoid being Shocked",
-                    "optional": false
-                },
-                {
-                    "text": "Quiver: Adds (6-13) to (136-155) Lightning Damage to Attacks",
-                    "optional": false
-                },
-                {
-                    "text": "Belt: (56-60)% chance to Avoid being Shocked",
-                    "optional": false
-                },
-                {
-                    "text": "Other Jewellery: Adds (4-8) to (71-76) Lightning Damage to Attacks",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 1.96,
-            "exaltedValue": 0.17,
-            "divineValue": 0.01,
-            "count": 58,
-            "detailsId": "deafening-essence-of-torment",
-            "tradeInfo": [],
-            "listingCount": 295
         },
         {
             "id": 384,
@@ -2029,7 +2114,7 @@
             "stackSize": 9,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": -2.5,
+                "totalChange": -3,
                 "data": [
                     0,
                     0,
@@ -2037,11 +2122,11 @@
                     0,
                     0,
                     -0.5,
-                    -2.5
+                    -3
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -2.5,
+                "totalChange": -3,
                 "data": [
                     0,
                     0,
@@ -2049,7 +2134,7 @@
                     0,
                     0,
                     -0.5,
-                    -2.5
+                    -3
                 ]
             },
             "implicitModifiers": [],
@@ -2101,7 +2186,7 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "",
-            "chaosValue": 1.95,
+            "chaosValue": 1.94,
             "exaltedValue": 0.17,
             "divineValue": 0.01,
             "count": 59,
@@ -2118,7 +2203,7 @@
             "stackSize": 9,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": 92,
+                "totalChange": 88,
                 "data": [
                     0,
                     0,
@@ -2126,11 +2211,11 @@
                     7,
                     65,
                     60,
-                    92
+                    88
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 92,
+                "totalChange": 88,
                 "data": [
                     0,
                     0,
@@ -2138,7 +2223,7 @@
                     7,
                     65,
                     60,
-                    92
+                    88
                 ]
             },
             "implicitModifiers": [],
@@ -2182,10 +2267,10 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "",
-            "chaosValue": 1.92,
+            "chaosValue": 1.88,
             "exaltedValue": 0.17,
             "divineValue": 0.01,
-            "count": 65,
+            "count": 64,
             "detailsId": "shrieking-essence-of-misery",
             "tradeInfo": [],
             "listingCount": 439
@@ -2199,7 +2284,7 @@
             "stackSize": 9,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": 89,
+                "totalChange": 87,
                 "data": [
                     0,
                     0,
@@ -2207,11 +2292,11 @@
                     0,
                     80,
                     62,
-                    89
+                    87
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 89,
+                "totalChange": 87,
                 "data": [
                     0,
                     0,
@@ -2219,7 +2304,7 @@
                     0,
                     80,
                     62,
-                    89
+                    87
                 ]
             },
             "implicitModifiers": [],
@@ -2259,98 +2344,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "",
-            "chaosValue": 1.89,
+            "chaosValue": 1.87,
             "exaltedValue": 0.17,
             "divineValue": 0.01,
             "count": 58,
             "detailsId": "shrieking-essence-of-envy",
             "tradeInfo": [],
             "listingCount": 420
-        },
-        {
-            "id": 372,
-            "name": "Deafening Essence of Doubt",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/49e11518a1/Doubt7.png",
-            "mapTier": 7,
-            "baseType": "Deafening Essence of Doubt",
-            "stackSize": 9,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": -8,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    -3.5,
-                    -7.0,
-                    -8
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -8,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    -3.5,
-                    -7.0,
-                    -8
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-                    "optional": false
-                },
-                {
-                    "text": "",
-                    "optional": false
-                },
-                {
-                    "text": "Weapon: (625-780) to Accuracy Rating",
-                    "optional": false
-                },
-                {
-                    "text": "Body Armour: (390-475) to Evasion Rating",
-                    "optional": false
-                },
-                {
-                    "text": "Helmet: (161-180) to Evasion Rating",
-                    "optional": false
-                },
-                {
-                    "text": "Shield: (301-375) to Evasion Rating",
-                    "optional": false
-                },
-                {
-                    "text": "Other Armour: (121-135) to Evasion Rating",
-                    "optional": false
-                },
-                {
-                    "text": "Quiver: (481-600) to Accuracy Rating",
-                    "optional": false
-                },
-                {
-                    "text": "Amulet: (32-33)% increased Evasion Rating",
-                    "optional": false
-                },
-                {
-                    "text": "Other Jewellery: (151-180) to Evasion Rating",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 1.84,
-            "exaltedValue": 0.16,
-            "divineValue": 0.01,
-            "count": 55,
-            "detailsId": "deafening-essence-of-doubt",
-            "tradeInfo": [],
-            "listingCount": 296
         },
         {
             "id": 1297,
@@ -2361,7 +2361,7 @@
             "stackSize": 9,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": -9.73,
+                "totalChange": -11.35,
                 "data": [
                     0,
                     -4.32,
@@ -2369,11 +2369,11 @@
                     -16.22,
                     -20.54,
                     -22.16,
-                    -9.73
+                    -11.35
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -9.73,
+                "totalChange": -11.35,
                 "data": [
                     0,
                     -4.32,
@@ -2381,7 +2381,7 @@
                     -16.22,
                     -20.54,
                     -22.16,
-                    -9.73
+                    -11.35
                 ]
             },
             "implicitModifiers": [],
@@ -2425,10 +2425,10 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "",
-            "chaosValue": 1.67,
+            "chaosValue": 1.64,
             "exaltedValue": 0.15,
             "divineValue": 0.01,
-            "count": 67,
+            "count": 66,
             "detailsId": "shrieking-essence-of-wrath",
             "tradeInfo": [],
             "listingCount": 424
@@ -3007,10 +3007,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 32,
+            "count": 33,
             "detailsId": "muttering-essence-of-hatred",
             "tradeInfo": [],
-            "listingCount": 474
+            "listingCount": 475
         },
         {
             "id": 852,
@@ -3772,7 +3772,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 95,
+            "count": 94,
             "detailsId": "screaming-essence-of-envy",
             "tradeInfo": [],
             "listingCount": 913
@@ -4566,7 +4566,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 106,
+            "count": 105,
             "detailsId": "screaming-essence-of-suffering",
             "tradeInfo": [],
             "listingCount": 1048
@@ -5541,7 +5541,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 71,
+            "count": 70,
             "detailsId": "shrieking-essence-of-hatred",
             "tradeInfo": [],
             "listingCount": 524
@@ -6508,10 +6508,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 44,
+            "count": 45,
             "detailsId": "wailing-essence-of-fear",
             "tradeInfo": [],
-            "listingCount": 493
+            "listingCount": 494
         },
         {
             "id": 1821,
@@ -6986,10 +6986,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 39,
+            "count": 40,
             "detailsId": "wailing-essence-of-spite",
             "tradeInfo": [],
-            "listingCount": 456
+            "listingCount": 457
         },
         {
             "id": 1827,
