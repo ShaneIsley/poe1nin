@@ -1203,7 +1203,7 @@
             "chaosValue": 293.6,
             "exaltedValue": 24.99,
             "divineValue": 2.0,
-            "count": 7,
+            "count": 6,
             "detailsId": "the-lake",
             "tradeInfo": [],
             "listingCount": 51
@@ -4226,6 +4226,55 @@
             "listingCount": 66
         },
         {
+            "id": 71022,
+            "name": "The Aspirant",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Aspirant",
+            "stackSize": 5,
+            "artFilename": "Dream",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 12.88,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    6.25,
+                    -24.17,
+                    -22.5,
+                    12.88
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 12.88,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    6.25,
+                    -24.17,
+                    -22.5,
+                    12.88
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<magicitem>{Item}\n<default>{Elevated Item}\n<default>{Influenced Item}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:26>{Those Exiles that survive Wraeclast\ndream not of home, but of power.}",
+            "chaosValue": 27.09,
+            "exaltedValue": 2.31,
+            "divineValue": 0.18,
+            "count": 9,
+            "detailsId": "the-aspirant",
+            "tradeInfo": [],
+            "listingCount": 52
+        },
+        {
             "id": 60137,
             "name": "Sambodhi's Wisdom",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -4265,55 +4314,6 @@
             "detailsId": "sambodhis-wisdom",
             "tradeInfo": [],
             "listingCount": 46
-        },
-        {
-            "id": 1421,
-            "name": "The Artist",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Artist",
-            "stackSize": 11,
-            "artFilename": "TheArtist",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -33.7,
-                "data": [
-                    0,
-                    -0.83,
-                    -0.83,
-                    -3.31,
-                    -3.31,
-                    -8.84,
-                    -33.7
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -33.7,
-                "data": [
-                    0,
-                    -0.83,
-                    -0.83,
-                    -3.31,
-                    -3.31,
-                    -8.84,
-                    -33.7
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Level 4 Enhance}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Paint, metal, flesh... A true artist does not limit himself.\" - Malachai the Soulless",
-            "chaosValue": 24.0,
-            "exaltedValue": 2.04,
-            "divineValue": 0.16,
-            "count": 16,
-            "detailsId": "the-artist",
-            "tradeInfo": [],
-            "listingCount": 124
         },
         {
             "id": 1479,
@@ -4412,6 +4412,55 @@
             "detailsId": "boon-of-the-first-ones",
             "tradeInfo": [],
             "listingCount": 57
+        },
+        {
+            "id": 1421,
+            "name": "The Artist",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Artist",
+            "stackSize": 11,
+            "artFilename": "TheArtist",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -36.46,
+                "data": [
+                    0,
+                    -0.83,
+                    -0.83,
+                    -3.31,
+                    -3.31,
+                    -8.84,
+                    -36.46
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -36.46,
+                "data": [
+                    0,
+                    -0.83,
+                    -0.83,
+                    -3.31,
+                    -3.31,
+                    -8.84,
+                    -36.46
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 4 Enhance}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Paint, metal, flesh... A true artist does not limit himself.\" - Malachai the Soulless",
+            "chaosValue": 23.0,
+            "exaltedValue": 1.96,
+            "divineValue": 0.16,
+            "count": 15,
+            "detailsId": "the-artist",
+            "tradeInfo": [],
+            "listingCount": 124
         },
         {
             "id": 22460,
@@ -5219,55 +5268,6 @@
             "detailsId": "a-fate-worse-than-death",
             "tradeInfo": [],
             "listingCount": 164
-        },
-        {
-            "id": 71022,
-            "name": "The Aspirant",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Aspirant",
-            "stackSize": 5,
-            "artFilename": "Dream",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -26.25,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    6.25,
-                    -24.17,
-                    -22.5,
-                    -26.25
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -26.25,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    6.25,
-                    -24.17,
-                    -22.5,
-                    -26.25
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<magicitem>{Item}\n<default>{Elevated Item}\n<default>{Influenced Item}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:26>{Those Exiles that survive Wraeclast\ndream not of home, but of power.}",
-            "chaosValue": 17.7,
-            "exaltedValue": 1.51,
-            "divineValue": 0.12,
-            "count": 10,
-            "detailsId": "the-aspirant",
-            "tradeInfo": [],
-            "listingCount": 52
         },
         {
             "id": 71683,
@@ -6183,6 +6183,55 @@
             "detailsId": "draped-in-dreams",
             "tradeInfo": [],
             "listingCount": 59
+        },
+        {
+            "id": 21571,
+            "name": "The Primordial",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Primordial",
+            "stackSize": 5,
+            "artFilename": "ThePrimordial",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 380.8,
+                "data": [
+                    0,
+                    0,
+                    42.31,
+                    30.77,
+                    92.31,
+                    92.31,
+                    380.8
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 380.8,
+                "data": [
+                    0,
+                    0,
+                    42.31,
+                    30.77,
+                    92.31,
+                    92.31,
+                    380.8
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Jewel}\n<magicitem>{Primordial}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "We play at God with our necromancy, \nbut forces far more potent \nsleep within these stones.",
+            "chaosValue": 12.5,
+            "exaltedValue": 1.06,
+            "divineValue": 0.09,
+            "count": 6,
+            "detailsId": "the-primordial",
+            "tradeInfo": [],
+            "listingCount": 195
         },
         {
             "id": 1423,
@@ -7483,6 +7532,55 @@
             "listingCount": 90
         },
         {
+            "id": 67881,
+            "name": "Lachrymal Necrosis",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Lachrymal Necrosis",
+            "stackSize": 3,
+            "artFilename": "LachrymalNecrosis",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 145,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    10,
+                    7.5,
+                    20,
+                    145
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 145,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    10,
+                    7.5,
+                    20,
+                    145
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<rareitem>{Jewel}\n<enchanted>{Implicit Modifier:} \n<magicitem>{Corrupted Blood cannot be inflicted on you}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Without the ability to weep, the heart hardens against both the pure and the corrupt.",
+            "chaosValue": 9.8,
+            "exaltedValue": 0.83,
+            "divineValue": 0.07,
+            "count": 17,
+            "detailsId": "lachrymal-necrosis",
+            "tradeInfo": [],
+            "listingCount": 201
+        },
+        {
             "id": 1530,
             "name": "The Incantation",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -7867,55 +7965,6 @@
             "listingCount": 128
         },
         {
-            "id": 21558,
-            "name": "The Deep Ones",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Deep Ones",
-            "stackSize": 5,
-            "artFilename": "TheDeepOnes",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 51.67,
-                "data": [
-                    0,
-                    0,
-                    6.67,
-                    31.67,
-                    26.67,
-                    66.67,
-                    51.67
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 51.67,
-                "data": [
-                    0,
-                    0,
-                    6.67,
-                    31.67,
-                    26.67,
-                    66.67,
-                    51.67
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Tidebreaker}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:28>{\"The Seas Call, the Mad Answer\"}",
-            "chaosValue": 9.1,
-            "exaltedValue": 0.77,
-            "divineValue": 0.06,
-            "count": 12,
-            "detailsId": "the-deep-ones",
-            "tradeInfo": [],
-            "listingCount": 97
-        },
-        {
             "id": 22480,
             "name": "The Side Quest",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -8012,6 +8061,55 @@
             "detailsId": "last-hope",
             "tradeInfo": [],
             "listingCount": 303
+        },
+        {
+            "id": 21558,
+            "name": "The Deep Ones",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Deep Ones",
+            "stackSize": 5,
+            "artFilename": "TheDeepOnes",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 50,
+                "data": [
+                    0,
+                    0,
+                    6.67,
+                    31.67,
+                    26.67,
+                    66.67,
+                    50
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 50,
+                "data": [
+                    0,
+                    0,
+                    6.67,
+                    31.67,
+                    26.67,
+                    66.67,
+                    50
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Tidebreaker}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:28>{\"The Seas Call, the Mad Answer\"}",
+            "chaosValue": 9.0,
+            "exaltedValue": 0.77,
+            "divineValue": 0.06,
+            "count": 11,
+            "detailsId": "the-deep-ones",
+            "tradeInfo": [],
+            "listingCount": 97
         },
         {
             "id": 2045,
@@ -8355,55 +8453,6 @@
             "detailsId": "the-garish-power",
             "tradeInfo": [],
             "listingCount": 90
-        },
-        {
-            "id": 21571,
-            "name": "The Primordial",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Primordial",
-            "stackSize": 5,
-            "artFilename": "ThePrimordial",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 207.7,
-                "data": [
-                    0,
-                    0,
-                    42.31,
-                    30.77,
-                    92.31,
-                    92.31,
-                    207.7
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 207.7,
-                "data": [
-                    0,
-                    0,
-                    42.31,
-                    30.77,
-                    92.31,
-                    92.31,
-                    207.7
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Jewel}\n<magicitem>{Primordial}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "We play at God with our necromancy, \nbut forces far more potent \nsleep within these stones.",
-            "chaosValue": 8.0,
-            "exaltedValue": 0.68,
-            "divineValue": 0.05,
-            "count": 7,
-            "detailsId": "the-primordial",
-            "tradeInfo": [],
-            "listingCount": 195
         },
         {
             "id": 40042,
@@ -10007,55 +10056,6 @@
             "listingCount": 146
         },
         {
-            "id": 67881,
-            "name": "Lachrymal Necrosis",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Lachrymal Necrosis",
-            "stackSize": 3,
-            "artFilename": "LachrymalNecrosis",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 50,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    10,
-                    7.5,
-                    20,
-                    50
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 50,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    10,
-                    7.5,
-                    20,
-                    50
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<rareitem>{Jewel}\n<enchanted>{Implicit Modifier:} \n<magicitem>{Corrupted Blood cannot be inflicted on you}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Without the ability to weep, the heart hardens against both the pure and the corrupt.",
-            "chaosValue": 6.0,
-            "exaltedValue": 0.51,
-            "divineValue": 0.04,
-            "count": 18,
-            "detailsId": "lachrymal-necrosis",
-            "tradeInfo": [],
-            "listingCount": 201
-        },
-        {
             "id": 649,
             "name": "Hunter's Reward",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -11112,7 +11112,7 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.43,
             "divineValue": 0.03,
-            "count": 33,
+            "count": 32,
             "detailsId": "the-patient",
             "tradeInfo": [],
             "listingCount": 521
@@ -11363,55 +11363,6 @@
             "listingCount": 232
         },
         {
-            "id": 44131,
-            "name": "The Academic",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Academic",
-            "stackSize": 8,
-            "artFilename": "TheAcademic",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 22.5,
-                "data": [
-                    0,
-                    0,
-                    25,
-                    25,
-                    25,
-                    25,
-                    22.5
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 22.5,
-                "data": [
-                    0,
-                    0,
-                    25,
-                    25,
-                    25,
-                    25,
-                    22.5
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Inspired Learning}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:26>{\"Such dedication for so many years,\nall for a couple extra letters at the front of your name...\"}",
-            "chaosValue": 4.9,
-            "exaltedValue": 0.42,
-            "divineValue": 0.03,
-            "count": 11,
-            "detailsId": "the-academic",
-            "tradeInfo": [],
-            "listingCount": 265
-        },
-        {
             "id": 1545,
             "name": "The Lion",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -11508,6 +11459,55 @@
             "detailsId": "the-lord-in-black",
             "tradeInfo": [],
             "listingCount": 73
+        },
+        {
+            "id": 44131,
+            "name": "The Academic",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Academic",
+            "stackSize": 8,
+            "artFilename": "TheAcademic",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 20,
+                "data": [
+                    0,
+                    0,
+                    25,
+                    25,
+                    25,
+                    25,
+                    20
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 20,
+                "data": [
+                    0,
+                    0,
+                    25,
+                    25,
+                    25,
+                    25,
+                    20
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Inspired Learning}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:26>{\"Such dedication for so many years,\nall for a couple extra letters at the front of your name...\"}",
+            "chaosValue": 4.8,
+            "exaltedValue": 0.41,
+            "divineValue": 0.03,
+            "count": 9,
+            "detailsId": "the-academic",
+            "tradeInfo": [],
+            "listingCount": 265
         },
         {
             "id": 2595,
@@ -11902,55 +11902,6 @@
             "listingCount": 135
         },
         {
-            "id": 6951,
-            "name": "The Undaunted",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Undaunted",
-            "stackSize": 5,
-            "artFilename": "TheUndaunted",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 46.67,
-                "data": [
-                    0,
-                    -3.33,
-                    -6.67,
-                    -20,
-                    -5,
-                    46.67,
-                    46.67
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 46.67,
-                "data": [
-                    0,
-                    -3.33,
-                    -6.67,
-                    -20,
-                    -5,
-                    46.67,
-                    46.67
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Nemesis Item}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:29>{\"Fate was always my nemesis... \nBut it didn't stop me then, and it won't stop me now.\"\n- Kjetilbrann, The Undaunted}",
-            "chaosValue": 4.4,
-            "exaltedValue": 0.37,
-            "divineValue": 0.03,
-            "count": 18,
-            "detailsId": "the-undaunted",
-            "tradeInfo": [],
-            "listingCount": 340
-        },
-        {
             "id": 21645,
             "name": "The Archmage's Right Hand",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12243,6 +12194,55 @@
             "detailsId": "the-fathomless-depths",
             "tradeInfo": [],
             "listingCount": 78
+        },
+        {
+            "id": 6951,
+            "name": "The Undaunted",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Undaunted",
+            "stackSize": 5,
+            "artFilename": "TheUndaunted",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 40,
+                "data": [
+                    0,
+                    -3.33,
+                    -6.67,
+                    -20,
+                    -5,
+                    46.67,
+                    40
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 40,
+                "data": [
+                    0,
+                    -3.33,
+                    -6.67,
+                    -20,
+                    -5,
+                    46.67,
+                    40
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Nemesis Item}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:29>{\"Fate was always my nemesis... \nBut it didn't stop me then, and it won't stop me now.\"\n- Kjetilbrann, The Undaunted}",
+            "chaosValue": 4.2,
+            "exaltedValue": 0.36,
+            "divineValue": 0.03,
+            "count": 17,
+            "detailsId": "the-undaunted",
+            "tradeInfo": [],
+            "listingCount": 340
         },
         {
             "id": 44109,
@@ -13749,7 +13749,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.26,
             "divineValue": 0.02,
-            "count": 36,
+            "count": 33,
             "detailsId": "the-void",
             "tradeInfo": [],
             "listingCount": 978
@@ -17666,55 +17666,6 @@
             "listingCount": 131
         },
         {
-            "id": 6913,
-            "name": "The Army of Blood",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Army of Blood",
-            "stackSize": 6,
-            "artFilename": "TheArmyOfBlood",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 7.69,
-                "data": [
-                    0,
-                    30.77,
-                    30.77,
-                    23.08,
-                    15.38,
-                    15.38,
-                    7.69
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 7.69,
-                "data": [
-                    0,
-                    30.77,
-                    30.77,
-                    23.08,
-                    15.38,
-                    15.38,
-                    7.69
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Bloodbond}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:28>{I gave my mind without a fight, \nThe twelfth hour I lost control. \nThe day is gone but there is light, \neyes that glow like red-hot coal.}",
-            "chaosValue": 1.4,
-            "exaltedValue": 0.12,
-            "divineValue": 0.01,
-            "count": 12,
-            "detailsId": "the-army-of-blood",
-            "tradeInfo": [],
-            "listingCount": 242
-        },
-        {
             "id": 1591,
             "name": "The Scarred Meadow",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -17811,55 +17762,6 @@
             "detailsId": "destined-to-crumble",
             "tradeInfo": [],
             "listingCount": 527
-        },
-        {
-            "id": 1412,
-            "name": "The Aesthete",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Aesthete",
-            "stackSize": 8,
-            "artFilename": "TheAesthete",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -48,
-                "data": [
-                    0,
-                    -20,
-                    -12,
-                    -36.0,
-                    -36.0,
-                    -20,
-                    -48
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -48,
-                "data": [
-                    0,
-                    -20,
-                    -12,
-                    -36.0,
-                    -36.0,
-                    -20,
-                    -48
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Shavronne Item}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Some see our mortal flesh as a limitation. I see it as an opportunity for vast, miraculous improvements.\"\n- Shavronne of Umbra",
-            "chaosValue": 1.3,
-            "exaltedValue": 0.11,
-            "divineValue": 0.01,
-            "count": 14,
-            "detailsId": "the-aesthete",
-            "tradeInfo": [],
-            "listingCount": 408
         },
         {
             "id": 1478,
@@ -18056,6 +17958,55 @@
             "detailsId": "the-lunaris-priestess",
             "tradeInfo": [],
             "listingCount": 184
+        },
+        {
+            "id": 1412,
+            "name": "The Aesthete",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Aesthete",
+            "stackSize": 8,
+            "artFilename": "TheAesthete",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -52,
+                "data": [
+                    0,
+                    -20,
+                    -12,
+                    -36.0,
+                    -36.0,
+                    -20,
+                    -52
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -52,
+                "data": [
+                    0,
+                    -20,
+                    -12,
+                    -36.0,
+                    -36.0,
+                    -20,
+                    -52
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Shavronne Item}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Some see our mortal flesh as a limitation. I see it as an opportunity for vast, miraculous improvements.\"\n- Shavronne of Umbra",
+            "chaosValue": 1.2,
+            "exaltedValue": 0.1,
+            "divineValue": 0.01,
+            "count": 13,
+            "detailsId": "the-aesthete",
+            "tradeInfo": [],
+            "listingCount": 408
         },
         {
             "id": 1552,
@@ -18640,10 +18591,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 28,
+            "count": 29,
             "detailsId": "lucky-connections",
             "tradeInfo": [],
-            "listingCount": 683
+            "listingCount": 684
         },
         {
             "id": 1006,
@@ -19626,6 +19577,55 @@
             "listingCount": 3369
         },
         {
+            "id": 6913,
+            "name": "The Army of Blood",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Army of Blood",
+            "stackSize": 6,
+            "artFilename": "TheArmyOfBlood",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -23.08,
+                "data": [
+                    0,
+                    30.77,
+                    30.77,
+                    23.08,
+                    15.38,
+                    15.38,
+                    -23.08
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -23.08,
+                "data": [
+                    0,
+                    30.77,
+                    30.77,
+                    23.08,
+                    15.38,
+                    15.38,
+                    -23.08
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Bloodbond}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:28>{I gave my mind without a fight, \nThe twelfth hour I lost control. \nThe day is gone but there is light, \neyes that glow like red-hot coal.}",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.09,
+            "divineValue": 0.01,
+            "count": 11,
+            "detailsId": "the-army-of-blood",
+            "tradeInfo": [],
+            "listingCount": 242
+        },
+        {
             "id": 20734,
             "name": "Alone in the Darkness",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -20124,7 +20124,7 @@
             "artFilename": "VilePower",
             "itemClass": 6,
             "sparkLine": {
-                "totalChange": 0,
+                "totalChange": -94.55,
                 "data": [
                     0,
                     null,
@@ -20132,11 +20132,11 @@
                     null,
                     null,
                     null,
-                    null
+                    -94.55
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -96,
+                "totalChange": -94.55,
                 "data": [
                     0,
                     -27.27,
@@ -20144,7 +20144,7 @@
                     -96.0,
                     -96.0,
                     -96.0,
-                    -96
+                    -94.55
                 ]
             },
             "implicitModifiers": [],
@@ -20156,13 +20156,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "<size:24>{Dread and danger \nmakes the air feel thin. \nAbove, power slumbers, tempting fate. \nGreed and ambition \ndraws countless in, \nFor those who seek power \ncan never wait.}",
-            "chaosValue": 0.44,
-            "exaltedValue": 0.04,
+            "chaosValue": 0.6,
+            "exaltedValue": 0.05,
             "divineValue": 0.0,
-            "count": 4,
+            "count": 6,
             "detailsId": "vile-power",
             "tradeInfo": [],
-            "listingCount": 143
+            "listingCount": 145
         },
         {
             "id": 1458,
