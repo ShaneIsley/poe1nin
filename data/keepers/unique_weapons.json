@@ -1732,6 +1732,80 @@
             "listingCount": 29
         },
         {
+            "id": 101353,
+            "name": "The Winds of Fate",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQW53ZW5zU3RhZmYiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/e26a5d3c65/AnwensStaff.png",
+            "levelRequired": 55,
+            "baseType": "Foul Staff",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -12.64,
+                "data": [
+                    0,
+                    -0.13,
+                    -21.68,
+                    -9.45,
+                    -11.32,
+                    -15.79,
+                    -12.64
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -12.64,
+                "data": [
+                    0,
+                    -0.13,
+                    -21.68,
+                    -9.45,
+                    -11.32,
+                    -15.79,
+                    -12.64
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "+22% Chance to Block Attack Damage while wielding a Staff",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "(700-800)% increased Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "+(100-150)% to Global Critical Strike Multiplier",
+                    "optional": false
+                },
+                {
+                    "text": "75% of Physical Damage converted to a random Element",
+                    "optional": false
+                },
+                {
+                    "text": "25% of Physical Damage Converted to Chaos Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Maximum Critical Strike Chance is 50%",
+                    "optional": false
+                },
+                {
+                    "text": "Non-Critical Strikes deal no Damage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Life... Death...\nThe whim of the cosmos.",
+            "itemType": "Staff",
+            "chaosValue": 868.8,
+            "exaltedValue": 90.03,
+            "divineValue": 5.48,
+            "count": 10,
+            "detailsId": "the-winds-of-fate-foul-staff",
+            "tradeInfo": [],
+            "listingCount": 17
+        },
+        {
             "id": 45222,
             "name": "Replica Kongor's Undying Rage",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvS29uZ29yc1VuZHlpbmdSYWdlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/5fa26110bc/KongorsUndyingRage.png",
@@ -1797,80 +1871,6 @@
             "detailsId": "replica-kongors-undying-rage-terror-maul-6l",
             "tradeInfo": [],
             "listingCount": 4
-        },
-        {
-            "id": 101353,
-            "name": "The Winds of Fate",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvQW53ZW5zU3RhZmYiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/e26a5d3c65/AnwensStaff.png",
-            "levelRequired": 55,
-            "baseType": "Foul Staff",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -16.78,
-                "data": [
-                    0,
-                    -0.13,
-                    -21.68,
-                    -9.45,
-                    -11.32,
-                    -15.79,
-                    -16.78
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -16.78,
-                "data": [
-                    0,
-                    -0.13,
-                    -21.68,
-                    -9.45,
-                    -11.32,
-                    -15.79,
-                    -16.78
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "+22% Chance to Block Attack Damage while wielding a Staff",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "(700-800)% increased Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "+(100-150)% to Global Critical Strike Multiplier",
-                    "optional": false
-                },
-                {
-                    "text": "75% of Physical Damage converted to a random Element",
-                    "optional": false
-                },
-                {
-                    "text": "25% of Physical Damage Converted to Chaos Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Maximum Critical Strike Chance is 50%",
-                    "optional": false
-                },
-                {
-                    "text": "Non-Critical Strikes deal no Damage",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Life... Death...\nThe whim of the cosmos.",
-            "itemType": "Staff",
-            "chaosValue": 827.7,
-            "exaltedValue": 85.77,
-            "divineValue": 5.22,
-            "count": 9,
-            "detailsId": "the-winds-of-fate-foul-staff",
-            "tradeInfo": [],
-            "listingCount": 16
         },
         {
             "id": 757,
@@ -2093,10 +2093,10 @@
             "chaosValue": 792.5,
             "exaltedValue": 82.12,
             "divineValue": 5.0,
-            "count": 49,
+            "count": 47,
             "detailsId": "kingmaker-despot-axe",
             "tradeInfo": [],
-            "listingCount": 56
+            "listingCount": 54
         },
         {
             "id": 790,
@@ -2164,6 +2164,80 @@
             "detailsId": "marohi-erqi-karui-maul-6l",
             "tradeInfo": [],
             "listingCount": 42
+        },
+        {
+            "id": 44710,
+            "name": "Replica Kongor's Undying Rage",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvS29uZ29yc1VuZHlpbmdSYWdlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/5fa26110bc/KongorsUndyingRage.png",
+            "levelRequired": 67,
+            "baseType": "Terror Maul",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 27.0,
+                "data": [
+                    0,
+                    4.05,
+                    -11.06,
+                    -12.69,
+                    -5.96,
+                    -7.05,
+                    27.0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 27.0,
+                "data": [
+                    0,
+                    4.05,
+                    -11.06,
+                    -12.69,
+                    -5.96,
+                    -7.05,
+                    27.0
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "25% chance to double Stun Duration",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Adds (43-56) to (330-400) Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(30-40)% increased Critical Strike Chance",
+                    "optional": false
+                },
+                {
+                    "text": "+(15-20)% to all Elemental Resistances",
+                    "optional": false
+                },
+                {
+                    "text": "Hits can't be Evaded",
+                    "optional": false
+                },
+                {
+                    "text": "Your Critical Strikes do not deal extra Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Regenerate 20% of Energy Shield per second if you've dealt a Critical Strike with this weapon Recently",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Prototype #599 offers an incredible defensive power, but at a cost.\nWhat underlying physics are at play here, I wonder?\"",
+            "itemType": "Two Handed Mace",
+            "chaosValue": 792.5,
+            "exaltedValue": 82.12,
+            "divineValue": 5.0,
+            "count": 25,
+            "detailsId": "replica-kongors-undying-rage-terror-maul",
+            "tradeInfo": [],
+            "listingCount": 39
         },
         {
             "id": 44932,
@@ -2744,80 +2818,6 @@
             "listingCount": 7
         },
         {
-            "id": 44710,
-            "name": "Replica Kongor's Undying Rage",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvS29uZ29yc1VuZHlpbmdSYWdlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/5fa26110bc/KongorsUndyingRage.png",
-            "levelRequired": 67,
-            "baseType": "Terror Maul",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 9.22,
-                "data": [
-                    0,
-                    4.05,
-                    -11.06,
-                    -12.69,
-                    -5.96,
-                    -7.05,
-                    9.22
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 9.22,
-                "data": [
-                    0,
-                    4.05,
-                    -11.06,
-                    -12.69,
-                    -5.96,
-                    -7.05,
-                    9.22
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "25% chance to double Stun Duration",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "Adds (43-56) to (330-400) Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(30-40)% increased Critical Strike Chance",
-                    "optional": false
-                },
-                {
-                    "text": "+(15-20)% to all Elemental Resistances",
-                    "optional": false
-                },
-                {
-                    "text": "Hits can't be Evaded",
-                    "optional": false
-                },
-                {
-                    "text": "Your Critical Strikes do not deal extra Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Regenerate 20% of Energy Shield per second if you've dealt a Critical Strike with this weapon Recently",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Prototype #599 offers an incredible defensive power, but at a cost.\nWhat underlying physics are at play here, I wonder?\"",
-            "itemType": "Two Handed Mace",
-            "chaosValue": 681.6,
-            "exaltedValue": 70.63,
-            "divineValue": 4.3,
-            "count": 26,
-            "detailsId": "replica-kongors-undying-rage-terror-maul",
-            "tradeInfo": [],
-            "listingCount": 40
-        },
-        {
             "id": 789,
             "name": "Marohi Erqi",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVHdvSGFuZE1hY2UydW5pcXVlMiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/6ae0a56923/TwoHandMace2unique2.png",
@@ -2940,10 +2940,10 @@
             "chaosValue": 634.0,
             "exaltedValue": 65.7,
             "divineValue": 4.0,
-            "count": 68,
+            "count": 57,
             "detailsId": "soul-taker-siege-axe",
             "tradeInfo": [],
-            "listingCount": 120
+            "listingCount": 109
         },
         {
             "id": 1813,
@@ -3009,10 +3009,10 @@
             "chaosValue": 634.0,
             "exaltedValue": 65.7,
             "divineValue": 4.0,
-            "count": 37,
+            "count": 36,
             "detailsId": "voltaxic-rift-spine-bow",
             "tradeInfo": [],
-            "listingCount": 67
+            "listingCount": 66
         },
         {
             "id": 25769,
@@ -3157,10 +3157,10 @@
             "chaosValue": 634.0,
             "exaltedValue": 65.7,
             "divineValue": 4.0,
-            "count": 51,
+            "count": 50,
             "detailsId": "the-golden-charlatan-lion-sword",
             "tradeInfo": [],
-            "listingCount": 265
+            "listingCount": 264
         },
         {
             "id": 130091,
@@ -3320,7 +3320,7 @@
             "baseType": "Vaal Axe",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 10.37,
+                "totalChange": 10.56,
                 "data": [
                     0,
                     -0.74,
@@ -3328,11 +3328,11 @@
                     -7.41,
                     8,
                     0.37,
-                    10.37
+                    10.56
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 10.37,
+                "totalChange": 10.56,
                 "data": [
                     0,
                     -0.74,
@@ -3340,7 +3340,7 @@
                     -7.41,
                     8,
                     0.37,
-                    10.37
+                    10.56
                 ]
             },
             "implicitModifiers": [
@@ -3374,13 +3374,13 @@
             "mutatedModifiers": [],
             "flavourText": "\"I do not believe in disguising my disappointment.\"\n- Atziri, Queen of the Vaal",
             "itemType": "Two Handed Axe",
-            "chaosValue": 596.0,
-            "exaltedValue": 61.76,
-            "divineValue": 3.76,
-            "count": 42,
+            "chaosValue": 597.0,
+            "exaltedValue": 61.87,
+            "divineValue": 3.77,
+            "count": 43,
             "detailsId": "atziris-disfavour-vaal-axe",
             "tradeInfo": [],
-            "listingCount": 79
+            "listingCount": 80
         },
         {
             "id": 957,
@@ -3436,6 +3436,80 @@
             "detailsId": "pledge-of-hands-judgement-staff-6l",
             "tradeInfo": [],
             "listingCount": 9
+        },
+        {
+            "id": 45363,
+            "name": "Replica Duskdawn",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU29sYXJpc0x1bmFyaXNTdGFmZiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/e5e9df18a4/SolarisLunarisStaff.png",
+            "levelRequired": 64,
+            "baseType": "Maelstr\u00f6m Staff",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -5.69,
+                "data": [
+                    0,
+                    -2.2,
+                    -18.97,
+                    -17.62,
+                    -6.55,
+                    -6.9,
+                    -5.69
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -5.69,
+                "data": [
+                    0,
+                    -2.2,
+                    -18.97,
+                    -17.62,
+                    -6.55,
+                    -6.9,
+                    -5.69
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "+25% Chance to Block Attack Damage while wielding a Staff",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "+10% Chance to Block Attack Damage while wielding a Staff",
+                    "optional": false
+                },
+                {
+                    "text": "(40-50)% increased Critical Strike Chance",
+                    "optional": false
+                },
+                {
+                    "text": "Gain (10-20)% of Elemental Damage as Extra Chaos Damage",
+                    "optional": false
+                },
+                {
+                    "text": "+1% to Critical Strike Multiplier per 1% Chance to Block Attack Damage",
+                    "optional": false
+                },
+                {
+                    "text": "+60% to Critical Strike Multiplier if you've dealt a Non-Critical Strike Recently",
+                    "optional": false
+                },
+                {
+                    "text": "(120-150)% increased Elemental Damage if you've dealt a Critical Strike Recently",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Lab Two suffered significant structural damage in the process of creating\nPrototype #77. It is, however, the closest we've come to perfection.\"",
+            "itemType": "Staff",
+            "chaosValue": 547.0,
+            "exaltedValue": 56.68,
+            "divineValue": 3.45,
+            "count": 34,
+            "detailsId": "replica-duskdawn-maelstrom-staff",
+            "tradeInfo": [],
+            "listingCount": 61
         },
         {
             "id": 124530,
@@ -3496,154 +3570,6 @@
             "detailsId": "song-of-the-sirens-fishing-rod",
             "tradeInfo": [],
             "listingCount": 102
-        },
-        {
-            "id": 755,
-            "name": "Lioneye's Glare",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jvdzh1bmlxdWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/29fc966523/Bow8unique.png",
-            "levelRequired": 66,
-            "baseType": "Imperial Bow",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -13.64,
-                "data": [
-                    0,
-                    -1.09,
-                    -4.04,
-                    -4.13,
-                    -5.83,
-                    -6.15,
-                    -13.64
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -13.64,
-                "data": [
-                    0,
-                    -1.09,
-                    -4.04,
-                    -4.13,
-                    -5.83,
-                    -6.15,
-                    -13.64
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "(20-24)% increased Elemental Damage with Attack Skills",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "(180-200)% increased Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Adds (7-14) to (24-34) Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(10-20)% increased Attack Speed",
-                    "optional": false
-                },
-                {
-                    "text": "+(80-100) to maximum Mana",
-                    "optional": false
-                },
-                {
-                    "text": "Hits can't be Evaded",
-                    "optional": false
-                },
-                {
-                    "text": "Far Shot",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"See without doubt, slay without hesitation.\"\n- Marceus Lioneye of Sarn",
-            "itemType": "Bow",
-            "chaosValue": 538.9,
-            "exaltedValue": 55.84,
-            "divineValue": 3.4,
-            "count": 25,
-            "detailsId": "lioneyes-glare-imperial-bow",
-            "tradeInfo": [],
-            "listingCount": 57
-        },
-        {
-            "id": 45363,
-            "name": "Replica Duskdawn",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvU29sYXJpc0x1bmFyaXNTdGFmZiIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/e5e9df18a4/SolarisLunarisStaff.png",
-            "levelRequired": 64,
-            "baseType": "Maelstr\u00f6m Staff",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -7.16,
-                "data": [
-                    0,
-                    -2.2,
-                    -18.97,
-                    -17.62,
-                    -6.55,
-                    -6.9,
-                    -7.16
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -7.16,
-                "data": [
-                    0,
-                    -2.2,
-                    -18.97,
-                    -17.62,
-                    -6.55,
-                    -6.9,
-                    -7.16
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "+25% Chance to Block Attack Damage while wielding a Staff",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "+10% Chance to Block Attack Damage while wielding a Staff",
-                    "optional": false
-                },
-                {
-                    "text": "(40-50)% increased Critical Strike Chance",
-                    "optional": false
-                },
-                {
-                    "text": "Gain (10-20)% of Elemental Damage as Extra Chaos Damage",
-                    "optional": false
-                },
-                {
-                    "text": "+1% to Critical Strike Multiplier per 1% Chance to Block Attack Damage",
-                    "optional": false
-                },
-                {
-                    "text": "+60% to Critical Strike Multiplier if you've dealt a Non-Critical Strike Recently",
-                    "optional": false
-                },
-                {
-                    "text": "(120-150)% increased Elemental Damage if you've dealt a Critical Strike Recently",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Lab Two suffered significant structural damage in the process of creating\nPrototype #77. It is, however, the closest we've come to perfection.\"",
-            "itemType": "Staff",
-            "chaosValue": 538.5,
-            "exaltedValue": 55.8,
-            "divineValue": 3.4,
-            "count": 34,
-            "detailsId": "replica-duskdawn-maelstrom-staff",
-            "tradeInfo": [],
-            "listingCount": 61
         },
         {
             "id": 1765,
@@ -3710,6 +3636,80 @@
             "detailsId": "varunastra-vaal-blade",
             "tradeInfo": [],
             "listingCount": 119
+        },
+        {
+            "id": 755,
+            "name": "Lioneye's Glare",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jvdzh1bmlxdWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/29fc966523/Bow8unique.png",
+            "levelRequired": 66,
+            "baseType": "Imperial Bow",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -18.72,
+                "data": [
+                    0,
+                    -1.09,
+                    -4.04,
+                    -4.13,
+                    -5.83,
+                    -6.15,
+                    -18.72
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -18.72,
+                "data": [
+                    0,
+                    -1.09,
+                    -4.04,
+                    -4.13,
+                    -5.83,
+                    -6.15,
+                    -18.72
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "(20-24)% increased Elemental Damage with Attack Skills",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "(180-200)% increased Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Adds (7-14) to (24-34) Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(10-20)% increased Attack Speed",
+                    "optional": false
+                },
+                {
+                    "text": "+(80-100) to maximum Mana",
+                    "optional": false
+                },
+                {
+                    "text": "Hits can't be Evaded",
+                    "optional": false
+                },
+                {
+                    "text": "Far Shot",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"See without doubt, slay without hesitation.\"\n- Marceus Lioneye of Sarn",
+            "itemType": "Bow",
+            "chaosValue": 507.2,
+            "exaltedValue": 52.56,
+            "divineValue": 3.2,
+            "count": 23,
+            "detailsId": "lioneyes-glare-imperial-bow",
+            "tradeInfo": [],
+            "listingCount": 55
         },
         {
             "id": 160,
@@ -3846,10 +3846,10 @@
             "chaosValue": 475.5,
             "exaltedValue": 49.27,
             "divineValue": 3.0,
-            "count": 56,
+            "count": 55,
             "detailsId": "marohi-erqi-karui-maul",
             "tradeInfo": [],
-            "listingCount": 122
+            "listingCount": 121
         },
         {
             "id": 179,
@@ -4424,6 +4424,81 @@
             "listingCount": 10
         },
         {
+            "id": 129658,
+            "name": "Wing of the Wyvern",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0ZlYXJvZnRoZUZhbGwiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/1bfa2147c3/FearoftheFall.png",
+            "levelRequired": 66,
+            "baseType": "Imperial Bow",
+            "links": 6,
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -21.94,
+                "data": [
+                    0,
+                    -22.71,
+                    -27.36,
+                    -51.8,
+                    -52.85,
+                    -40.99,
+                    -21.94
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -21.94,
+                "data": [
+                    0,
+                    -22.71,
+                    -27.36,
+                    -51.8,
+                    -52.85,
+                    -40.99,
+                    -21.94
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "(20-24)% increased Elemental Damage with Attack Skills",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Trigger a Socketed Spell when a Hit from this\nWeapon Freezes a Target, with a 0.25 second Cooldown",
+                    "optional": false
+                },
+                {
+                    "text": "Adds (164-204) to (250-300) Cold Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Adds (163-199) to (241-293) Chaos Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(20-30)% increased Attack Speed",
+                    "optional": false
+                },
+                {
+                    "text": "Your Chaos Damage can Freeze",
+                    "optional": false
+                },
+                {
+                    "text": "Battlemage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Fear flies by night,\na bone, cold as death,\nall that remains\nof hope's whisper.",
+            "itemType": "Bow",
+            "chaosValue": 243.4,
+            "exaltedValue": 25.22,
+            "divineValue": 1.54,
+            "count": 8,
+            "detailsId": "wing-of-the-wyvern-imperial-bow-6l",
+            "tradeInfo": [],
+            "listingCount": 24
+        },
+        {
             "id": 130100,
             "name": "Foulborn Quill Rain",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzJ1bmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0962feb029/Bow2unique.png",
@@ -4786,85 +4861,10 @@
             "chaosValue": 200.0,
             "exaltedValue": 20.73,
             "divineValue": 1.26,
-            "count": 131,
+            "count": 130,
             "detailsId": "ephemeral-edge-dusk-blade",
             "tradeInfo": [],
-            "listingCount": 369
-        },
-        {
-            "id": 129658,
-            "name": "Wing of the Wyvern",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0ZlYXJvZnRoZUZhbGwiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/1bfa2147c3/FearoftheFall.png",
-            "levelRequired": 66,
-            "baseType": "Imperial Bow",
-            "links": 6,
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -39.85,
-                "data": [
-                    0,
-                    -22.71,
-                    -27.36,
-                    -51.8,
-                    -52.85,
-                    -40.99,
-                    -39.85
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -39.85,
-                "data": [
-                    0,
-                    -22.71,
-                    -27.36,
-                    -51.8,
-                    -52.85,
-                    -40.99,
-                    -39.85
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "(20-24)% increased Elemental Damage with Attack Skills",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "Trigger a Socketed Spell when a Hit from this\nWeapon Freezes a Target, with a 0.25 second Cooldown",
-                    "optional": false
-                },
-                {
-                    "text": "Adds (164-204) to (250-300) Cold Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Adds (163-199) to (241-293) Chaos Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(20-30)% increased Attack Speed",
-                    "optional": false
-                },
-                {
-                    "text": "Your Chaos Damage can Freeze",
-                    "optional": false
-                },
-                {
-                    "text": "Battlemage",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Fear flies by night,\na bone, cold as death,\nall that remains\nof hope's whisper.",
-            "itemType": "Bow",
-            "chaosValue": 187.6,
-            "exaltedValue": 19.44,
-            "divineValue": 1.18,
-            "count": 9,
-            "detailsId": "wing-of-the-wyvern-imperial-bow-6l",
-            "tradeInfo": [],
-            "listingCount": 25
+            "listingCount": 368
         },
         {
             "id": 130345,
@@ -5348,10 +5348,10 @@
             "chaosValue": 158.5,
             "exaltedValue": 16.42,
             "divineValue": 1.0,
-            "count": 22,
+            "count": 21,
             "detailsId": "duskdawn-maelstrom-staff",
             "tradeInfo": [],
-            "listingCount": 48
+            "listingCount": 47
         },
         {
             "id": 42715,
@@ -6788,6 +6788,80 @@
             "listingCount": 28
         },
         {
+            "id": 45157,
+            "name": "Replica Windripper",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0VhZ2xlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/01fdf37ac0/Eagle.png",
+            "levelRequired": 66,
+            "baseType": "Imperial Bow",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 2.99,
+                "data": [
+                    0,
+                    -3.17,
+                    -11.97,
+                    -11.97,
+                    -2.46,
+                    -10.65,
+                    2.99
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 2.99,
+                "data": [
+                    0,
+                    -3.17,
+                    -11.97,
+                    -11.97,
+                    -2.46,
+                    -10.65,
+                    2.99
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "(20-24)% increased Elemental Damage with Attack Skills",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Adds (48-60) to (72-90) Cold Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Adds 1 to (120-150) Lightning Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(10-15)% increased Attack Speed",
+                    "optional": false
+                },
+                {
+                    "text": "(30-40)% increased Critical Strike Chance",
+                    "optional": false
+                },
+                {
+                    "text": "Enemies Frozen by you take 20% increased Damage",
+                    "optional": false
+                },
+                {
+                    "text": "+(90-120) Energy Shield gained on Killing a Shocked Enemy",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Beware. Prototype #91 is haunted by a strange miasma,\nan odour of evil. Nothing can shield the senses.\" \n- Researcher Arn",
+            "itemType": "Bow",
+            "chaosValue": 117.0,
+            "exaltedValue": 12.12,
+            "divineValue": 0.74,
+            "count": 31,
+            "detailsId": "replica-windripper-imperial-bow",
+            "tradeInfo": [],
+            "listingCount": 127
+        },
+        {
             "id": 44929,
             "name": "Replica Nebulis",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9TY2VwdHJlT2ZNZW1vcmllcyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/a627a19fc4/SceptreOfMemories.png",
@@ -6848,80 +6922,6 @@
             "detailsId": "replica-nebulis-void-sceptre",
             "tradeInfo": [],
             "listingCount": 265
-        },
-        {
-            "id": 45157,
-            "name": "Replica Windripper",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0VhZ2xlIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/01fdf37ac0/Eagle.png",
-            "levelRequired": 66,
-            "baseType": "Imperial Bow",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -0.97,
-                "data": [
-                    0,
-                    -3.17,
-                    -11.97,
-                    -11.97,
-                    -2.46,
-                    -10.65,
-                    -0.97
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -0.97,
-                "data": [
-                    0,
-                    -3.17,
-                    -11.97,
-                    -11.97,
-                    -2.46,
-                    -10.65,
-                    -0.97
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "(20-24)% increased Elemental Damage with Attack Skills",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "Adds (48-60) to (72-90) Cold Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Adds 1 to (120-150) Lightning Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(10-15)% increased Attack Speed",
-                    "optional": false
-                },
-                {
-                    "text": "(30-40)% increased Critical Strike Chance",
-                    "optional": false
-                },
-                {
-                    "text": "Enemies Frozen by you take 20% increased Damage",
-                    "optional": false
-                },
-                {
-                    "text": "+(90-120) Energy Shield gained on Killing a Shocked Enemy",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Beware. Prototype #91 is haunted by a strange miasma,\nan odour of evil. Nothing can shield the senses.\" \n- Researcher Arn",
-            "itemType": "Bow",
-            "chaosValue": 112.5,
-            "exaltedValue": 11.66,
-            "divineValue": 0.71,
-            "count": 32,
-            "detailsId": "replica-windripper-imperial-bow",
-            "tradeInfo": [],
-            "listingCount": 128
         },
         {
             "id": 130318,
@@ -6990,6 +6990,75 @@
             "detailsId": "foulborn-the-poets-pen-physical-spell-damage-somatic-wand",
             "tradeInfo": [],
             "listingCount": 141
+        },
+        {
+            "id": 1974,
+            "name": "Kitava's Feast",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9LaXRhdmFzSHVuZ2VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/7e0b7ac41a/KitavasHunger.png",
+            "levelRequired": 68,
+            "baseType": "Void Axe",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -15.32,
+                "data": [
+                    0,
+                    1.49,
+                    -8.87,
+                    -11.29,
+                    -9.68,
+                    -11.29,
+                    -15.32
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -15.32,
+                "data": [
+                    0,
+                    1.49,
+                    -8.87,
+                    -11.29,
+                    -9.68,
+                    -11.29,
+                    -15.32
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Socketed Gems are supported by Level 30 Melee Splash",
+                    "optional": false
+                },
+                {
+                    "text": "(200-240)% increased Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "1% of Physical Attack Damage Leeched as Life",
+                    "optional": false
+                },
+                {
+                    "text": "1% of Physical Attack Damage Leeched as Mana",
+                    "optional": false
+                },
+                {
+                    "text": "Recover 5% of Life on Kill",
+                    "optional": false
+                },
+                {
+                    "text": "Enemies Killed by your Hits are destroyed",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Hinekora bound Kitava to a rock \nthat Kitava could not lift with all his might.\nKitava vowed that when he broke free, \nhe would devour every soul in Hinekora's domain.",
+            "itemType": "Two Handed Axe",
+            "chaosValue": 105.0,
+            "exaltedValue": 10.88,
+            "divineValue": 0.66,
+            "count": 137,
+            "detailsId": "kitavas-feast-void-axe",
+            "tradeInfo": [],
+            "listingCount": 538
         },
         {
             "id": 130103,
@@ -7062,75 +7131,6 @@
             "detailsId": "foulborn-nulls-inclination-summon-phantasm-writhing-worm-ranger-bow-5l",
             "tradeInfo": [],
             "listingCount": 25
-        },
-        {
-            "id": 1974,
-            "name": "Kitava's Feast",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9LaXRhdmFzSHVuZ2VyIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/7e0b7ac41a/KitavasHunger.png",
-            "levelRequired": 68,
-            "baseType": "Void Axe",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -17.74,
-                "data": [
-                    0,
-                    1.49,
-                    -8.87,
-                    -11.29,
-                    -9.68,
-                    -11.29,
-                    -17.74
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -17.74,
-                "data": [
-                    0,
-                    1.49,
-                    -8.87,
-                    -11.29,
-                    -9.68,
-                    -11.29,
-                    -17.74
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Socketed Gems are supported by Level 30 Melee Splash",
-                    "optional": false
-                },
-                {
-                    "text": "(200-240)% increased Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "1% of Physical Attack Damage Leeched as Life",
-                    "optional": false
-                },
-                {
-                    "text": "1% of Physical Attack Damage Leeched as Mana",
-                    "optional": false
-                },
-                {
-                    "text": "Recover 5% of Life on Kill",
-                    "optional": false
-                },
-                {
-                    "text": "Enemies Killed by your Hits are destroyed",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Hinekora bound Kitava to a rock \nthat Kitava could not lift with all his might.\nKitava vowed that when he broke free, \nhe would devour every soul in Hinekora's domain.",
-            "itemType": "Two Handed Axe",
-            "chaosValue": 102.0,
-            "exaltedValue": 10.57,
-            "divineValue": 0.64,
-            "count": 138,
-            "detailsId": "kitavas-feast-void-axe",
-            "tradeInfo": [],
-            "listingCount": 539
         },
         {
             "id": 1884,
@@ -7535,10 +7535,10 @@
             "chaosValue": 100.0,
             "exaltedValue": 10.36,
             "divineValue": 0.63,
-            "count": 195,
+            "count": 196,
             "detailsId": "festering-resentment-demon-dagger",
             "tradeInfo": [],
-            "listingCount": 972
+            "listingCount": 973
         },
         {
             "id": 130008,
@@ -8914,7 +8914,7 @@
             "baseType": "Faun's Horn",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -3.44,
+                "totalChange": -1.53,
                 "data": [
                     0,
                     0.83,
@@ -8922,11 +8922,11 @@
                     0.77,
                     -8.48,
                     -10.71,
-                    -3.44
+                    -1.53
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -3.44,
+                "totalChange": -1.53,
                 "data": [
                     0,
                     0.83,
@@ -8934,7 +8934,7 @@
                     0.77,
                     -8.48,
                     -10.71,
-                    -3.44
+                    -1.53
                 ]
             },
             "implicitModifiers": [
@@ -8972,13 +8972,13 @@
             "mutatedModifiers": [],
             "flavourText": "Every decade, Lunaris devours Solaris\nEach time, Solaris emerges from Lunaris, born anew.",
             "itemType": "Wand",
-            "chaosValue": 75.7,
-            "exaltedValue": 7.84,
-            "divineValue": 0.48,
-            "count": 196,
+            "chaosValue": 77.2,
+            "exaltedValue": 8.0,
+            "divineValue": 0.49,
+            "count": 195,
             "detailsId": "eclipse-solaris-fauns-horn",
             "tradeInfo": [],
-            "listingCount": 1006
+            "listingCount": 1005
         },
         {
             "id": 1715,
@@ -9124,7 +9124,7 @@
             "baseType": "Fiend Dagger",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -13.33,
+                "totalChange": -11.2,
                 "data": [
                     0,
                     -6.67,
@@ -9132,11 +9132,11 @@
                     -13.33,
                     -15.73,
                     -17.6,
-                    -13.33
+                    -11.2
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -13.33,
+                "totalChange": -11.2,
                 "data": [
                     0,
                     -6.67,
@@ -9144,7 +9144,7 @@
                     -13.33,
                     -15.73,
                     -17.6,
-                    -13.33
+                    -11.2
                 ]
             },
             "implicitModifiers": [
@@ -9178,13 +9178,13 @@
             "mutatedModifiers": [],
             "flavourText": "All children must eat.",
             "itemType": "Dagger",
-            "chaosValue": 65.0,
-            "exaltedValue": 6.74,
-            "divineValue": 0.41,
-            "count": 135,
+            "chaosValue": 66.6,
+            "exaltedValue": 6.9,
+            "divineValue": 0.42,
+            "count": 131,
             "detailsId": "arakaalis-fang-fiend-dagger",
             "tradeInfo": [],
-            "listingCount": 661
+            "listingCount": 657
         },
         {
             "id": 130132,
@@ -9263,7 +9263,7 @@
             "baseType": "Highborn Staff",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -13.69,
+                "totalChange": -13.83,
                 "data": [
                     0,
                     -7.78,
@@ -9271,11 +9271,11 @@
                     -6.34,
                     -9.22,
                     -13.54,
-                    -13.69
+                    -13.83
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -13.69,
+                "totalChange": -13.83,
                 "data": [
                     0,
                     -7.78,
@@ -9283,7 +9283,7 @@
                     -6.34,
                     -9.22,
                     -13.54,
-                    -13.69
+                    -13.83
                 ]
             },
             "implicitModifiers": [
@@ -9325,87 +9325,13 @@
             "mutatedModifiers": [],
             "flavourText": "You have been found guilty.\nLet the fires cleanse you of your sins.",
             "itemType": "Staff",
-            "chaosValue": 59.9,
-            "exaltedValue": 6.21,
+            "chaosValue": 59.8,
+            "exaltedValue": 6.2,
             "divineValue": 0.38,
-            "count": 111,
+            "count": 110,
             "detailsId": "martyr-of-innocence-highborn-staff",
             "tradeInfo": [],
-            "listingCount": 419
-        },
-        {
-            "id": 1003,
-            "name": "Quill Rain",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzJ1bmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/5c5cad82e8/Bow2unique.png",
-            "levelRequired": 5,
-            "baseType": "Short Bow",
-            "links": 6,
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -17.17,
-                "data": [
-                    0,
-                    -0.6,
-                    -8.73,
-                    -24.7,
-                    -24.7,
-                    -24.7,
-                    -17.17
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -17.17,
-                "data": [
-                    0,
-                    -0.6,
-                    -8.73,
-                    -24.7,
-                    -24.7,
-                    -24.7,
-                    -17.17
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "+(10-20) to Dexterity",
-                    "optional": false
-                },
-                {
-                    "text": "100% increased Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "100% increased Attack Speed",
-                    "optional": false
-                },
-                {
-                    "text": "Grants 2 Mana per Enemy Hit",
-                    "optional": false
-                },
-                {
-                    "text": "(50-100)% increased Projectile Speed",
-                    "optional": false
-                },
-                {
-                    "text": "+(25-50) to Accuracy Rating",
-                    "optional": false
-                },
-                {
-                    "text": "30% less Damage",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"The rain of a thousand quills that whittle\npresent into past, life into death.\"\n- Rigwald of the Ezomytes",
-            "itemType": "Bow",
-            "chaosValue": 55.0,
-            "exaltedValue": 5.7,
-            "divineValue": 0.35,
-            "count": 25,
-            "detailsId": "quill-rain-short-bow-6l",
-            "tradeInfo": [],
-            "listingCount": 203
+            "listingCount": 418
         },
         {
             "id": 5027,
@@ -9485,6 +9411,80 @@
             "detailsId": "disintegrator-maelstrom-staff-5l",
             "tradeInfo": [],
             "listingCount": 3
+        },
+        {
+            "id": 1003,
+            "name": "Quill Rain",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzJ1bmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/5c5cad82e8/Bow2unique.png",
+            "levelRequired": 5,
+            "baseType": "Short Bow",
+            "links": 6,
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -21.69,
+                "data": [
+                    0,
+                    -0.6,
+                    -8.73,
+                    -24.7,
+                    -24.7,
+                    -24.7,
+                    -21.69
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -21.69,
+                "data": [
+                    0,
+                    -0.6,
+                    -8.73,
+                    -24.7,
+                    -24.7,
+                    -24.7,
+                    -21.69
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "+(10-20) to Dexterity",
+                    "optional": false
+                },
+                {
+                    "text": "100% increased Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "100% increased Attack Speed",
+                    "optional": false
+                },
+                {
+                    "text": "Grants 2 Mana per Enemy Hit",
+                    "optional": false
+                },
+                {
+                    "text": "(50-100)% increased Projectile Speed",
+                    "optional": false
+                },
+                {
+                    "text": "+(25-50) to Accuracy Rating",
+                    "optional": false
+                },
+                {
+                    "text": "30% less Damage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"The rain of a thousand quills that whittle\npresent into past, life into death.\"\n- Rigwald of the Ezomytes",
+            "itemType": "Bow",
+            "chaosValue": 52.0,
+            "exaltedValue": 5.39,
+            "divineValue": 0.33,
+            "count": 25,
+            "detailsId": "quill-rain-short-bow-6l",
+            "tradeInfo": [],
+            "listingCount": 203
         },
         {
             "id": 130081,
@@ -9780,7 +9780,7 @@
             "count": 399,
             "detailsId": "grace-of-the-goddess-prophecy-wand",
             "tradeInfo": [],
-            "listingCount": 6667
+            "listingCount": 6666
         },
         {
             "id": 130101,
@@ -10015,7 +10015,7 @@
             "baseType": "Shadow Sceptre",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -10,
+                "totalChange": -15,
                 "data": [
                     0,
                     -2,
@@ -10023,11 +10023,11 @@
                     -20,
                     0,
                     -10,
-                    -10
+                    -15
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -10,
+                "totalChange": -15,
                 "data": [
                     0,
                     -2,
@@ -10035,7 +10035,7 @@
                     -20,
                     0,
                     -10,
-                    -10
+                    -15
                 ]
             },
             "implicitModifiers": [
@@ -10077,13 +10077,13 @@
             "mutatedModifiers": [],
             "flavourText": "Feed on the light of the living,\nBring darkness to all I see,\nUntil we are one in shadow.",
             "itemType": "One Handed Mace",
-            "chaosValue": 45.0,
-            "exaltedValue": 4.66,
-            "divineValue": 0.28,
-            "count": 144,
+            "chaosValue": 42.5,
+            "exaltedValue": 4.4,
+            "divineValue": 0.27,
+            "count": 143,
             "detailsId": "the-dark-seer-shadow-sceptre",
             "tradeInfo": [],
-            "listingCount": 630
+            "listingCount": 629
         },
         {
             "id": 44540,
@@ -10517,6 +10517,285 @@
             "listingCount": 4471
         },
         {
+            "id": 44591,
+            "name": "Replica Wings of Entropy",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9FbnRyb3B5d2luZ3MiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/86e128789a/Entropywings.png",
+            "levelRequired": 62,
+            "baseType": "Ezomyte Axe",
+            "links": 5,
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -29.82,
+                "data": [
+                    0,
+                    -12.28,
+                    -29.82,
+                    -29.82,
+                    -29.82,
+                    -29.82,
+                    -29.82
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(8-10)% Chance to Block Spell Damage",
+                    "optional": false
+                },
+                {
+                    "text": "+(8-12)% Chance to Block Attack Damage while Dual Wielding",
+                    "optional": false
+                },
+                {
+                    "text": "(62-79)% increased Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Counts as Dual Wielding",
+                    "optional": false
+                },
+                {
+                    "text": "+(12.66-18.18)% to Off Hand Critical Strike Chance",
+                    "optional": false
+                },
+                {
+                    "text": "(67-97)% more Main Hand attack speed",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"The remarkable imbalance of Prototype #848 leads to uncommon\npower or speed when striking.\"",
+            "itemType": "Two Handed Axe",
+            "chaosValue": 40.0,
+            "exaltedValue": 4.15,
+            "divineValue": 0.25,
+            "count": 1,
+            "detailsId": "replica-wings-of-entropy-ezomyte-axe-5l",
+            "tradeInfo": [],
+            "listingCount": 1
+        },
+        {
+            "id": 130092,
+            "name": "Foulborn Xoph's Inception",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jsb29kUGVyaWdyZWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0aba82adb6/BloodPerigree.png",
+            "levelRequired": 58,
+            "baseType": "Citadel Bow",
+            "variant": "Returning Projectiles, Fast Ignite",
+            "links": 5,
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -5.88,
+                "data": [
+                    0,
+                    0,
+                    -41.18,
+                    -41.18,
+                    -41.18,
+                    163.1,
+                    -5.88
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -5.88,
+                "data": [
+                    0,
+                    0,
+                    -41.18,
+                    -41.18,
+                    -41.18,
+                    163.1,
+                    -5.88
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(161-190)% increased Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Gain (200-300) Life per Ignited Enemy Killed",
+                    "optional": false
+                },
+                {
+                    "text": "10% chance to Ignite",
+                    "optional": false
+                },
+                {
+                    "text": "Arrows deal 30 to 50 Added Fire Damage for each time they've Pierced",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [
+                {
+                    "text": "Socketed Gems are Supported by Level 20 Returning Projectiles",
+                    "optional": false
+                },
+                {
+                    "text": "Ignites you inflict deal Damage (20-40)% faster",
+                    "optional": false
+                }
+            ],
+            "flavourText": "Upon the red pyre we are born.",
+            "itemType": "Bow",
+            "chaosValue": 40.0,
+            "exaltedValue": 4.15,
+            "divineValue": 0.25,
+            "count": 11,
+            "detailsId": "foulborn-xophs-inception-returning-projectiles-fast-ignite-citadel-bow-5l",
+            "tradeInfo": [],
+            "listingCount": 57
+        },
+        {
+            "id": 130141,
+            "name": "Foulborn Xoph's Inception",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jsb29kUGVyaWdyZWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0aba82adb6/BloodPerigree.png",
+            "levelRequired": 58,
+            "baseType": "Citadel Bow",
+            "variant": "Returning Projectiles",
+            "links": 6,
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 21.95,
+                "data": [
+                    0,
+                    -26.22,
+                    -30.49,
+                    -41.77,
+                    -48.78,
+                    -48.78,
+                    21.95
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 21.95,
+                "data": [
+                    0,
+                    -26.22,
+                    -30.49,
+                    -41.77,
+                    -48.78,
+                    -48.78,
+                    21.95
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(160-190)% increased Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Gain (201-300) Life per Ignited Enemy Killed",
+                    "optional": false
+                },
+                {
+                    "text": "Gain 20% of Physical Damage as Extra Fire Damage",
+                    "optional": false
+                },
+                {
+                    "text": "10% chance to Ignite",
+                    "optional": false
+                },
+                {
+                    "text": "Arrows deal 30 to 50 Added Fire Damage for each time they've Pierced",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [
+                {
+                    "text": "Socketed Gems are Supported by Level 20 Returning Projectiles",
+                    "optional": false
+                }
+            ],
+            "flavourText": "Upon the red pyre we are born.",
+            "itemType": "Bow",
+            "chaosValue": 40.0,
+            "exaltedValue": 4.15,
+            "divineValue": 0.25,
+            "count": 6,
+            "detailsId": "foulborn-xophs-inception-returning-projectiles-citadel-bow-6l",
+            "tradeInfo": [],
+            "listingCount": 49
+        },
+        {
+            "id": 130342,
+            "name": "Foulborn Tremor Rod",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvTWluZVN0YWZmIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/778c9992f4/MineStaff.png",
+            "levelRequired": 41,
+            "baseType": "Military Staff",
+            "variant": "Mine Auras",
+            "links": 6,
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 368.4,
+                "data": [
+                    0,
+                    -17.72,
+                    482.3,
+                    482.3,
+                    null,
+                    368.4,
+                    368.4
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 368.4,
+                "data": [
+                    0,
+                    -17.72,
+                    482.3,
+                    482.3,
+                    254.4,
+                    368.4,
+                    368.4
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "+22% Chance to Block Attack Damage while wielding a Staff",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "+2 to Level of Socketed Spell Gems",
+                    "optional": false
+                },
+                {
+                    "text": "(40-60)% increased Spell Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(15-20)% reduced Enemy Stun Threshold",
+                    "optional": false
+                },
+                {
+                    "text": "Mines can be Detonated an additional time",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [
+                {
+                    "text": "(60-100)% increased Effect of Auras from Mines",
+                    "optional": false
+                }
+            ],
+            "flavourText": "The best way to gain the element of surprise,\nis to let your enemy learn your plans,\nand execute them - twice.",
+            "itemType": "Staff",
+            "chaosValue": 37.0,
+            "exaltedValue": 3.83,
+            "divineValue": 0.23,
+            "count": 5,
+            "detailsId": "foulborn-tremor-rod-mine-auras-military-staff-6l",
+            "tradeInfo": [],
+            "listingCount": 73
+        },
+        {
             "id": 23105,
             "name": "Nebulis",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9TY2VwdHJlT2ZNZW1vcmllcyIsInciOjIsImgiOjMsInNjYWxlIjoxLCJyZWxpYyI6NSwic3ludGhlc2lzZWQiOnRydWV9XQ/d51c11db1e/SceptreOfMemories.png",
@@ -10524,7 +10803,7 @@
             "baseType": "Void Sceptre",
             "itemClass": 10,
             "sparkLine": {
-                "totalChange": 36.99,
+                "totalChange": 21.58,
                 "data": [
                     0,
                     2.74,
@@ -10532,11 +10811,11 @@
                     2.74,
                     -14.38,
                     2.74,
-                    36.99
+                    21.58
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 36.99,
+                "totalChange": 21.58,
                 "data": [
                     0,
                     2.74,
@@ -10544,7 +10823,7 @@
                     2.74,
                     -14.38,
                     2.74,
-                    36.99
+                    21.58
                 ]
             },
             "implicitModifiers": [
@@ -10990,292 +11269,13 @@
             "mutatedModifiers": [],
             "flavourText": "The vastness of the cosmos holds energies beyond comprehension,\nshould one have the fortitude to grasp them.",
             "itemType": "One Handed Mace",
-            "chaosValue": 40.0,
-            "exaltedValue": 4.15,
-            "divineValue": 0.25,
+            "chaosValue": 35.5,
+            "exaltedValue": 3.68,
+            "divineValue": 0.22,
             "count": 399,
             "detailsId": "nebulis-void-sceptre",
             "tradeInfo": [],
-            "listingCount": 18890
-        },
-        {
-            "id": 44591,
-            "name": "Replica Wings of Entropy",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9FbnRyb3B5d2luZ3MiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/86e128789a/Entropywings.png",
-            "levelRequired": 62,
-            "baseType": "Ezomyte Axe",
-            "links": 5,
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -29.82,
-                "data": [
-                    0,
-                    -12.28,
-                    -29.82,
-                    -29.82,
-                    -29.82,
-                    -29.82,
-                    -29.82
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(8-10)% Chance to Block Spell Damage",
-                    "optional": false
-                },
-                {
-                    "text": "+(8-12)% Chance to Block Attack Damage while Dual Wielding",
-                    "optional": false
-                },
-                {
-                    "text": "(62-79)% increased Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Counts as Dual Wielding",
-                    "optional": false
-                },
-                {
-                    "text": "+(12.66-18.18)% to Off Hand Critical Strike Chance",
-                    "optional": false
-                },
-                {
-                    "text": "(67-97)% more Main Hand attack speed",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"The remarkable imbalance of Prototype #848 leads to uncommon\npower or speed when striking.\"",
-            "itemType": "Two Handed Axe",
-            "chaosValue": 40.0,
-            "exaltedValue": 4.15,
-            "divineValue": 0.25,
-            "count": 1,
-            "detailsId": "replica-wings-of-entropy-ezomyte-axe-5l",
-            "tradeInfo": [],
-            "listingCount": 1
-        },
-        {
-            "id": 130092,
-            "name": "Foulborn Xoph's Inception",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jsb29kUGVyaWdyZWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0aba82adb6/BloodPerigree.png",
-            "levelRequired": 58,
-            "baseType": "Citadel Bow",
-            "variant": "Returning Projectiles, Fast Ignite",
-            "links": 5,
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -5.88,
-                "data": [
-                    0,
-                    0,
-                    -41.18,
-                    -41.18,
-                    -41.18,
-                    163.1,
-                    -5.88
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -5.88,
-                "data": [
-                    0,
-                    0,
-                    -41.18,
-                    -41.18,
-                    -41.18,
-                    163.1,
-                    -5.88
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(161-190)% increased Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Gain (200-300) Life per Ignited Enemy Killed",
-                    "optional": false
-                },
-                {
-                    "text": "10% chance to Ignite",
-                    "optional": false
-                },
-                {
-                    "text": "Arrows deal 30 to 50 Added Fire Damage for each time they've Pierced",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [
-                {
-                    "text": "Socketed Gems are Supported by Level 20 Returning Projectiles",
-                    "optional": false
-                },
-                {
-                    "text": "Ignites you inflict deal Damage (20-40)% faster",
-                    "optional": false
-                }
-            ],
-            "flavourText": "Upon the red pyre we are born.",
-            "itemType": "Bow",
-            "chaosValue": 40.0,
-            "exaltedValue": 4.15,
-            "divineValue": 0.25,
-            "count": 11,
-            "detailsId": "foulborn-xophs-inception-returning-projectiles-fast-ignite-citadel-bow-5l",
-            "tradeInfo": [],
-            "listingCount": 57
-        },
-        {
-            "id": 130141,
-            "name": "Foulborn Xoph's Inception",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Jsb29kUGVyaWdyZWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/0aba82adb6/BloodPerigree.png",
-            "levelRequired": 58,
-            "baseType": "Citadel Bow",
-            "variant": "Returning Projectiles",
-            "links": 6,
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 21.95,
-                "data": [
-                    0,
-                    -26.22,
-                    -30.49,
-                    -41.77,
-                    -48.78,
-                    -48.78,
-                    21.95
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 21.95,
-                "data": [
-                    0,
-                    -26.22,
-                    -30.49,
-                    -41.77,
-                    -48.78,
-                    -48.78,
-                    21.95
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(160-190)% increased Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Gain (201-300) Life per Ignited Enemy Killed",
-                    "optional": false
-                },
-                {
-                    "text": "Gain 20% of Physical Damage as Extra Fire Damage",
-                    "optional": false
-                },
-                {
-                    "text": "10% chance to Ignite",
-                    "optional": false
-                },
-                {
-                    "text": "Arrows deal 30 to 50 Added Fire Damage for each time they've Pierced",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [
-                {
-                    "text": "Socketed Gems are Supported by Level 20 Returning Projectiles",
-                    "optional": false
-                }
-            ],
-            "flavourText": "Upon the red pyre we are born.",
-            "itemType": "Bow",
-            "chaosValue": 40.0,
-            "exaltedValue": 4.15,
-            "divineValue": 0.25,
-            "count": 6,
-            "detailsId": "foulborn-xophs-inception-returning-projectiles-citadel-bow-6l",
-            "tradeInfo": [],
-            "listingCount": 49
-        },
-        {
-            "id": 130342,
-            "name": "Foulborn Tremor Rod",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvTWluZVN0YWZmIiwidyI6MiwiaCI6NCwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/778c9992f4/MineStaff.png",
-            "levelRequired": 41,
-            "baseType": "Military Staff",
-            "variant": "Mine Auras",
-            "links": 6,
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 368.4,
-                "data": [
-                    0,
-                    -17.72,
-                    482.3,
-                    482.3,
-                    null,
-                    368.4,
-                    368.4
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 368.4,
-                "data": [
-                    0,
-                    -17.72,
-                    482.3,
-                    482.3,
-                    254.4,
-                    368.4,
-                    368.4
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "+22% Chance to Block Attack Damage while wielding a Staff",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "+2 to Level of Socketed Spell Gems",
-                    "optional": false
-                },
-                {
-                    "text": "(40-60)% increased Spell Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(15-20)% reduced Enemy Stun Threshold",
-                    "optional": false
-                },
-                {
-                    "text": "Mines can be Detonated an additional time",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [
-                {
-                    "text": "(60-100)% increased Effect of Auras from Mines",
-                    "optional": false
-                }
-            ],
-            "flavourText": "The best way to gain the element of surprise,\nis to let your enemy learn your plans,\nand execute them - twice.",
-            "itemType": "Staff",
-            "chaosValue": 37.0,
-            "exaltedValue": 3.83,
-            "divineValue": 0.23,
-            "count": 5,
-            "detailsId": "foulborn-tremor-rod-mine-auras-military-staff-6l",
-            "tradeInfo": [],
-            "listingCount": 73
+            "listingCount": 18891
         },
         {
             "id": 93288,
@@ -11405,7 +11405,7 @@
             "count": 399,
             "detailsId": "foulborn-hand-of-thought-and-motion-int-accuracy-imperial-claw",
             "tradeInfo": [],
-            "listingCount": 5431
+            "listingCount": 5437
         },
         {
             "id": 130105,
@@ -11814,7 +11814,7 @@
             "baseType": "Prophecy Wand",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -3.33,
+                "totalChange": -4.33,
                 "data": [
                     0,
                     0,
@@ -11822,11 +11822,11 @@
                     0,
                     0,
                     0,
-                    -3.33
+                    -4.33
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -3.33,
+                "totalChange": -4.33,
                 "data": [
                     0,
                     0,
@@ -11834,7 +11834,7 @@
                     0,
                     0,
                     0,
-                    -3.33
+                    -4.33
                 ]
             },
             "implicitModifiers": [
@@ -11872,13 +11872,13 @@
             "mutatedModifiers": [],
             "flavourText": "\"The trick is to give nothingness,\nand to receive everything in return.\"\n- Inquisitor Maligaro",
             "itemType": "Wand",
-            "chaosValue": 29.0,
-            "exaltedValue": 3.01,
+            "chaosValue": 28.7,
+            "exaltedValue": 2.97,
             "divineValue": 0.18,
-            "count": 316,
+            "count": 320,
             "detailsId": "void-battery-prophecy-wand",
             "tradeInfo": [],
-            "listingCount": 2686
+            "listingCount": 2690
         },
         {
             "id": 130149,
@@ -12950,7 +12950,7 @@
             "baseType": "Assassin Bow",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 6,
+                "totalChange": 10,
                 "data": [
                     0,
                     0,
@@ -12958,11 +12958,11 @@
                     22.5,
                     0,
                     0,
-                    6
+                    10
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 6,
+                "totalChange": 10,
                 "data": [
                     0,
                     0,
@@ -12970,7 +12970,7 @@
                     22.5,
                     0,
                     0,
-                    6
+                    10
                 ]
             },
             "implicitModifiers": [
@@ -13016,10 +13016,10 @@
             "mutatedModifiers": [],
             "flavourText": "Through droughts, fires, floods and frost,\nthe ancient giants stand resolute,\nwhile deep in the rich, dark earth,\ntheir grasp stretches ever farther.",
             "itemType": "Bow",
-            "chaosValue": 21.2,
-            "exaltedValue": 2.2,
-            "divineValue": 0.13,
-            "count": 12,
+            "chaosValue": 22.0,
+            "exaltedValue": 2.28,
+            "divineValue": 0.14,
+            "count": 13,
             "detailsId": "arborix-assassin-bow",
             "tradeInfo": [],
             "listingCount": 39
@@ -13381,10 +13381,10 @@
             "chaosValue": 20.0,
             "exaltedValue": 2.07,
             "divineValue": 0.13,
-            "count": 197,
+            "count": 200,
             "detailsId": "windripper-imperial-bow",
             "tradeInfo": [],
-            "listingCount": 1166
+            "listingCount": 1169
         },
         {
             "id": 44487,
@@ -13643,10 +13643,10 @@
             "chaosValue": 20.0,
             "exaltedValue": 2.07,
             "divineValue": 0.13,
-            "count": 354,
+            "count": 355,
             "detailsId": "replica-paradoxica-vaal-rapier",
             "tradeInfo": [],
-            "listingCount": 3031
+            "listingCount": 3032
         },
         {
             "id": 60018,
@@ -13892,7 +13892,7 @@
             "count": 399,
             "detailsId": "cane-of-kulemak-serpentine-staff",
             "tradeInfo": [],
-            "listingCount": 9700
+            "listingCount": 9701
         },
         {
             "id": 130097,
@@ -14921,10 +14921,10 @@
             "chaosValue": 16.0,
             "exaltedValue": 1.66,
             "divineValue": 0.1,
-            "count": 234,
+            "count": 235,
             "detailsId": "cospris-malice-jewelled-foil",
             "tradeInfo": [],
-            "listingCount": 1300
+            "listingCount": 1301
         },
         {
             "id": 1912,
@@ -15360,75 +15360,6 @@
             "listingCount": 69
         },
         {
-            "id": 704,
-            "name": "Kaom's Primacy",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9Ud29IYW5kQXhlMTFVbmlxdWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/544409d7f6/TwoHandAxe11Unique.png",
-            "levelRequired": 58,
-            "baseType": "Karui Chopper",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 50,
-                "data": [
-                    0,
-                    4,
-                    0,
-                    30,
-                    30,
-                    20,
-                    50
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 50,
-                "data": [
-                    0,
-                    4,
-                    0,
-                    30,
-                    30,
-                    20,
-                    50
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(100-140)% increased Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Gain 20 Life per Enemy Killed",
-                    "optional": false
-                },
-                {
-                    "text": "+(150-250) to Accuracy Rating",
-                    "optional": false
-                },
-                {
-                    "text": "Culling Strike",
-                    "optional": false
-                },
-                {
-                    "text": "Gain 5 Rage on Melee Hit",
-                    "optional": false
-                },
-                {
-                    "text": "Every Rage also grants 1% of Physical Damage as Extra Fire Damage",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "One by one, Kaom slaughtered the weakest tribe\nleaders until the others leapt to join his cause.",
-            "itemType": "Two Handed Axe",
-            "chaosValue": 15.0,
-            "exaltedValue": 1.55,
-            "divineValue": 0.09,
-            "count": 94,
-            "detailsId": "kaoms-primacy-karui-chopper",
-            "tradeInfo": [],
-            "listingCount": 537
-        },
-        {
             "id": 60045,
             "name": "Atziri's Rule",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvUG9ydGVudE9mQUZhbHNlR29kIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/a3949ac141/PortentOfAFalseGod.png",
@@ -15707,6 +15638,75 @@
             "detailsId": "limbsplit-woodsplitter-6l",
             "tradeInfo": [],
             "listingCount": 73
+        },
+        {
+            "id": 704,
+            "name": "Kaom's Primacy",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kQXhlcy9Ud29IYW5kQXhlMTFVbmlxdWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/544409d7f6/TwoHandAxe11Unique.png",
+            "levelRequired": 58,
+            "baseType": "Karui Chopper",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 43,
+                "data": [
+                    0,
+                    4,
+                    0,
+                    30,
+                    30,
+                    20,
+                    43
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 43,
+                "data": [
+                    0,
+                    4,
+                    0,
+                    30,
+                    30,
+                    20,
+                    43
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(100-140)% increased Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Gain 20 Life per Enemy Killed",
+                    "optional": false
+                },
+                {
+                    "text": "+(150-250) to Accuracy Rating",
+                    "optional": false
+                },
+                {
+                    "text": "Culling Strike",
+                    "optional": false
+                },
+                {
+                    "text": "Gain 5 Rage on Melee Hit",
+                    "optional": false
+                },
+                {
+                    "text": "Every Rage also grants 1% of Physical Damage as Extra Fire Damage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "One by one, Kaom slaughtered the weakest tribe\nleaders until the others leapt to join his cause.",
+            "itemType": "Two Handed Axe",
+            "chaosValue": 14.3,
+            "exaltedValue": 1.48,
+            "divineValue": 0.09,
+            "count": 95,
+            "detailsId": "kaoms-primacy-karui-chopper",
+            "tradeInfo": [],
+            "listingCount": 538
         },
         {
             "id": 821,
@@ -17475,10 +17475,10 @@
             "chaosValue": 10.0,
             "exaltedValue": 1.04,
             "divineValue": 0.06,
-            "count": 53,
+            "count": 54,
             "detailsId": "foulborn-quill-rain-mana-bow-short-bow-5l",
             "tradeInfo": [],
-            "listingCount": 295
+            "listingCount": 296
         },
         {
             "id": 130069,
@@ -18853,7 +18853,7 @@
             "baseType": "Shadow Sceptre",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 18.92,
+                "totalChange": 20.27,
                 "data": [
                     0,
                     -14.86,
@@ -18861,11 +18861,11 @@
                     -32.43,
                     -32.43,
                     -32.43,
-                    18.92
+                    20.27
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 18.92,
+                "totalChange": 20.27,
                 "data": [
                     0,
                     -14.86,
@@ -18873,7 +18873,7 @@
                     -32.43,
                     -32.43,
                     -32.43,
-                    18.92
+                    20.27
                 ]
             },
             "implicitModifiers": [
@@ -18911,13 +18911,13 @@
             "mutatedModifiers": [],
             "flavourText": "\"Attempt #2520: Been slaving away at this one for longer than I can remember.\nConvinced this assignment is retribution from my superior...\"",
             "itemType": "One Handed Mace",
-            "chaosValue": 8.8,
-            "exaltedValue": 0.91,
+            "chaosValue": 8.9,
+            "exaltedValue": 0.92,
             "divineValue": 0.06,
-            "count": 73,
+            "count": 75,
             "detailsId": "replica-bitterdream-shadow-sceptre",
             "tradeInfo": [],
-            "listingCount": 651
+            "listingCount": 653
         },
         {
             "id": 19100,
@@ -19147,75 +19147,6 @@
             "listingCount": 51
         },
         {
-            "id": 130327,
-            "name": "Foulborn Doomfletch",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Rvb21GbGV0Y2giLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/ff568d0ebd/DoomFletch.png",
-            "levelRequired": 28,
-            "baseType": "Royal Bow",
-            "variant": "Prismatic Burst",
-            "links": 5,
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -5.56,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    4.44,
-                    0,
-                    -5.56
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -5.56,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    4.44,
-                    0,
-                    -5.56
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "(20-24)% increased Elemental Damage with Attack Skills",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "Adds (12-16) to (20-24) Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "60% increased Mana Regeneration Rate",
-                    "optional": false
-                },
-                {
-                    "text": "Gain 100% of Weapon Physical Damage as Extra Damage of each Element",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [
-                {
-                    "text": "Socketed Gems are Supported by Level 25 Prismatic Burst",
-                    "optional": false
-                }
-            ],
-            "flavourText": "\"Toasted or frozen\nOr twitching in the light\nI'm not fussy\nAnd neither is Death.\"\n- Koralus Doomfletch",
-            "itemType": "Bow",
-            "chaosValue": 8.5,
-            "exaltedValue": 0.88,
-            "divineValue": 0.05,
-            "count": 46,
-            "detailsId": "foulborn-doomfletch-prismatic-burst-royal-bow-5l",
-            "tradeInfo": [],
-            "listingCount": 315
-        },
-        {
             "id": 191,
             "name": "Brain Rattler",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvQnJhaW5TY3JhbWJsZXIiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/0749c07fa6/BrainScrambler.png",
@@ -19293,6 +19224,75 @@
             "detailsId": "brain-rattler-meatgrinder-6l",
             "tradeInfo": [],
             "listingCount": 61
+        },
+        {
+            "id": 130327,
+            "name": "Foulborn Doomfletch",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0Rvb21GbGV0Y2giLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/ff568d0ebd/DoomFletch.png",
+            "levelRequired": 28,
+            "baseType": "Royal Bow",
+            "variant": "Prismatic Burst",
+            "links": 5,
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -6.67,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    4.44,
+                    0,
+                    -6.67
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -6.67,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    4.44,
+                    0,
+                    -6.67
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "(20-24)% increased Elemental Damage with Attack Skills",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Adds (12-16) to (20-24) Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "60% increased Mana Regeneration Rate",
+                    "optional": false
+                },
+                {
+                    "text": "Gain 100% of Weapon Physical Damage as Extra Damage of each Element",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [
+                {
+                    "text": "Socketed Gems are Supported by Level 25 Prismatic Burst",
+                    "optional": false
+                }
+            ],
+            "flavourText": "\"Toasted or frozen\nOr twitching in the light\nI'm not fussy\nAnd neither is Death.\"\n- Koralus Doomfletch",
+            "itemType": "Bow",
+            "chaosValue": 8.4,
+            "exaltedValue": 0.87,
+            "divineValue": 0.05,
+            "count": 45,
+            "detailsId": "foulborn-doomfletch-prismatic-burst-royal-bow-5l",
+            "tradeInfo": [],
+            "listingCount": 315
         },
         {
             "id": 1020,
@@ -19745,10 +19745,10 @@
             "chaosValue": 8.0,
             "exaltedValue": 0.83,
             "divineValue": 0.05,
-            "count": 109,
+            "count": 106,
             "detailsId": "nebuloch-nightmare-mace",
             "tradeInfo": [],
-            "listingCount": 1154
+            "listingCount": 1151
         },
         {
             "id": 7632,
@@ -19979,80 +19979,6 @@
             "detailsId": "foulborn-dreamfeather-accuracy-attack-speed-eternal-sword",
             "tradeInfo": [],
             "listingCount": 830
-        },
-        {
-            "id": 44503,
-            "name": "Replica Dreamfeather",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0RyZWFtZmVhdGhlciIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/89a3a7588c/Dreamfeather.png",
-            "levelRequired": 66,
-            "baseType": "Eternal Sword",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 12.86,
-                "data": [
-                    0,
-                    -22.86,
-                    -14.29,
-                    -14.29,
-                    -28.57,
-                    -11.43,
-                    12.86
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 12.86,
-                "data": [
-                    0,
-                    -22.86,
-                    -14.29,
-                    -14.29,
-                    -28.57,
-                    -11.43,
-                    12.86
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "+475 to Accuracy Rating",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "Adds (40-65) to (70-100) Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(5-10)% increased Attack Speed",
-                    "optional": false
-                },
-                {
-                    "text": "+(180-200) to Armour",
-                    "optional": false
-                },
-                {
-                    "text": "3% reduced Movement Speed",
-                    "optional": false
-                },
-                {
-                    "text": "+(280-300) to Accuracy Rating",
-                    "optional": false
-                },
-                {
-                    "text": "1% increased Attack Damage per 450 Armour",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Once we armoured the test subject heavily enough to test Prototype #502, he proceeded\nto fight his way out. I don't know what we expected.\" \n- Researcher Graven",
-            "itemType": "One Handed Sword",
-            "chaosValue": 7.9,
-            "exaltedValue": 0.82,
-            "divineValue": 0.05,
-            "count": 176,
-            "detailsId": "replica-dreamfeather-eternal-sword",
-            "tradeInfo": [],
-            "listingCount": 1391
         },
         {
             "id": 1316,
@@ -20567,6 +20493,80 @@
             "listingCount": 79
         },
         {
+            "id": 44503,
+            "name": "Replica Dreamfeather",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kU3dvcmRzL0RyZWFtZmVhdGhlciIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/89a3a7588c/Dreamfeather.png",
+            "levelRequired": 66,
+            "baseType": "Eternal Sword",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    -22.86,
+                    -14.29,
+                    -14.29,
+                    -28.57,
+                    -11.43,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    -22.86,
+                    -14.29,
+                    -14.29,
+                    -28.57,
+                    -11.43,
+                    0
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "+475 to Accuracy Rating",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Adds (40-65) to (70-100) Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(5-10)% increased Attack Speed",
+                    "optional": false
+                },
+                {
+                    "text": "+(180-200) to Armour",
+                    "optional": false
+                },
+                {
+                    "text": "3% reduced Movement Speed",
+                    "optional": false
+                },
+                {
+                    "text": "+(280-300) to Accuracy Rating",
+                    "optional": false
+                },
+                {
+                    "text": "1% increased Attack Damage per 450 Armour",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Once we armoured the test subject heavily enough to test Prototype #502, he proceeded\nto fight his way out. I don't know what we expected.\" \n- Researcher Graven",
+            "itemType": "One Handed Sword",
+            "chaosValue": 7.0,
+            "exaltedValue": 0.73,
+            "divineValue": 0.04,
+            "count": 177,
+            "detailsId": "replica-dreamfeather-eternal-sword",
+            "tradeInfo": [],
+            "listingCount": 1391
+        },
+        {
             "id": 128208,
             "name": "The Poet's Pen",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9Qb2V0c1BlbiIsInciOjEsImgiOjMsInNjYWxlIjoxfV0/f6f0645739/PoetsPen.png",
@@ -20627,10 +20627,10 @@
             "chaosValue": 7.0,
             "exaltedValue": 0.73,
             "divineValue": 0.04,
-            "count": 169,
+            "count": 167,
             "detailsId": "the-poets-pen-somatic-wand",
             "tradeInfo": [],
-            "listingCount": 1362
+            "listingCount": 1360
         },
         {
             "id": 130031,
@@ -20702,10 +20702,10 @@
             "chaosValue": 7.0,
             "exaltedValue": 0.73,
             "divineValue": 0.04,
-            "count": 83,
+            "count": 84,
             "detailsId": "foulborn-quill-rain-mana-bow-short-bow",
             "tradeInfo": [],
-            "listingCount": 964
+            "listingCount": 965
         },
         {
             "id": 130098,
@@ -21388,72 +21388,6 @@
             "listingCount": 194
         },
         {
-            "id": 125015,
-            "name": "Mystic Refractor",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9XYW5kb2ZCbGFzdGluZyIsInciOjEsImgiOjMsInNjYWxlIjoxfV0/de9f534714/WandofBlasting.png",
-            "levelRequired": 34,
-            "baseType": "Pagan Wand",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 14,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    14
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 14,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    14
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "10% increased Cast Speed",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "Skills fire (2-3) additional Projectiles",
-                    "optional": false
-                },
-                {
-                    "text": "(10-20)% increased Projectile Speed",
-                    "optional": false
-                },
-                {
-                    "text": "(30-50)% increased Projectile Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Projectiles cannot continue after colliding with targets",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Waging war is a simple matter of geometry and death.\"\n- Trinian, Intellectus Prime",
-            "itemType": "Wand",
-            "chaosValue": 5.7,
-            "exaltedValue": 0.59,
-            "divineValue": 0.04,
-            "count": 264,
-            "detailsId": "mystic-refractor-pagan-wand",
-            "tradeInfo": [],
-            "listingCount": 3485
-        },
-        {
             "id": 130123,
             "name": "Foulborn Null's Inclination",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL051bGxCb3ciLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/6610536a61/NullBow.png",
@@ -21665,6 +21599,72 @@
             "detailsId": "foulborn-edge-of-madness-accuracy-per-level-etched-greatsword-6l",
             "tradeInfo": [],
             "listingCount": 143
+        },
+        {
+            "id": 125015,
+            "name": "Mystic Refractor",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9XYW5kb2ZCbGFzdGluZyIsInciOjEsImgiOjMsInNjYWxlIjoxfV0/de9f534714/WandofBlasting.png",
+            "levelRequired": 34,
+            "baseType": "Pagan Wand",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 2,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 2,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    2
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "10% increased Cast Speed",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Skills fire (2-3) additional Projectiles",
+                    "optional": false
+                },
+                {
+                    "text": "(10-20)% increased Projectile Speed",
+                    "optional": false
+                },
+                {
+                    "text": "(30-50)% increased Projectile Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Projectiles cannot continue after colliding with targets",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Waging war is a simple matter of geometry and death.\"\n- Trinian, Intellectus Prime",
+            "itemType": "Wand",
+            "chaosValue": 5.1,
+            "exaltedValue": 0.53,
+            "divineValue": 0.03,
+            "count": 269,
+            "detailsId": "mystic-refractor-pagan-wand",
+            "tradeInfo": [],
+            "listingCount": 3490
         },
         {
             "id": 31,
@@ -21960,10 +21960,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.52,
             "divineValue": 0.03,
-            "count": 149,
+            "count": 148,
             "detailsId": "razor-of-the-seventh-sun-midnight-blade",
             "tradeInfo": [],
-            "listingCount": 1419
+            "listingCount": 1418
         },
         {
             "id": 1310,
@@ -22390,10 +22390,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.52,
             "divineValue": 0.03,
-            "count": 85,
+            "count": 86,
             "detailsId": "replica-iron-commander-death-bow",
             "tradeInfo": [],
-            "listingCount": 811
+            "listingCount": 812
         },
         {
             "id": 93031,
@@ -23302,80 +23302,6 @@
             "listingCount": 136
         },
         {
-            "id": 1623,
-            "name": "The Supreme Truth",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9UaGVzdXByZW1ldHJ1dGgiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/1f03434324/Thesupremetruth.png",
-            "levelRequired": 41,
-            "baseType": "Crystal Sceptre",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -4,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -4.1,
-                    -4
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -4,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -4.1,
-                    -4
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "30% increased Elemental Damage",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "+1 to Level of Socketed Gems",
-                    "optional": false
-                },
-                {
-                    "text": "60% increased Intelligence Requirement",
-                    "optional": false
-                },
-                {
-                    "text": "(80-100)% increased Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(10-20)% increased Attack Speed",
-                    "optional": false
-                },
-                {
-                    "text": "3% increased Experience gain",
-                    "optional": false
-                },
-                {
-                    "text": "20% increased Elemental Damage",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Knowledge brings power, and with power you can\ngrab truth by the throat and shape it as you wish.",
-            "itemType": "One Handed Mace",
-            "chaosValue": 4.8,
-            "exaltedValue": 0.5,
-            "divineValue": 0.03,
-            "count": 180,
-            "detailsId": "the-supreme-truth-crystal-sceptre",
-            "tradeInfo": [],
-            "listingCount": 2422
-        },
-        {
             "id": 1714,
             "name": "Tremor Rod",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9TdGF2ZXMvTWluZVN0YWZmIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/51a69e0959/MineStaff.png",
@@ -23671,6 +23597,80 @@
             "detailsId": "brain-rattler-meatgrinder-5l",
             "tradeInfo": [],
             "listingCount": 142
+        },
+        {
+            "id": 1623,
+            "name": "The Supreme Truth",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9UaGVzdXByZW1ldHJ1dGgiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/1f03434324/Thesupremetruth.png",
+            "levelRequired": 41,
+            "baseType": "Crystal Sceptre",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -6,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -4.1,
+                    -6
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -6,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -4.1,
+                    -6
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "30% increased Elemental Damage",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "+1 to Level of Socketed Gems",
+                    "optional": false
+                },
+                {
+                    "text": "60% increased Intelligence Requirement",
+                    "optional": false
+                },
+                {
+                    "text": "(80-100)% increased Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(10-20)% increased Attack Speed",
+                    "optional": false
+                },
+                {
+                    "text": "3% increased Experience gain",
+                    "optional": false
+                },
+                {
+                    "text": "20% increased Elemental Damage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Knowledge brings power, and with power you can\ngrab truth by the throat and shape it as you wish.",
+            "itemType": "One Handed Mace",
+            "chaosValue": 4.7,
+            "exaltedValue": 0.49,
+            "divineValue": 0.03,
+            "count": 179,
+            "detailsId": "the-supreme-truth-crystal-sceptre",
+            "tradeInfo": [],
+            "listingCount": 2422
         },
         {
             "id": 130119,
@@ -24190,10 +24190,10 @@
             "chaosValue": 4.0,
             "exaltedValue": 0.41,
             "divineValue": 0.03,
-            "count": 157,
+            "count": 156,
             "detailsId": "bitterdream-shadow-sceptre",
             "tradeInfo": [],
-            "listingCount": 2036
+            "listingCount": 2035
         },
         {
             "id": 615,
@@ -24410,10 +24410,10 @@
             "chaosValue": 4.0,
             "exaltedValue": 0.41,
             "divineValue": 0.03,
-            "count": 95,
+            "count": 94,
             "detailsId": "the-scourge-terror-claw",
             "tradeInfo": [],
-            "listingCount": 1169
+            "listingCount": 1168
         },
         {
             "id": 2010,
@@ -24707,10 +24707,10 @@
             "chaosValue": 4.0,
             "exaltedValue": 0.41,
             "divineValue": 0.03,
-            "count": 275,
+            "count": 277,
             "detailsId": "vulconus-demon-dagger",
             "tradeInfo": [],
-            "listingCount": 3470
+            "listingCount": 3472
         },
         {
             "id": 2481,
@@ -25421,6 +25421,83 @@
             "listingCount": 388
         },
         {
+            "id": 130088,
+            "name": "Foulborn Jorrhast's Blacksteel",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvSm9ycmhhc3RzQmxhY2tzdGVlbCIsInciOjIsImgiOjQsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/4c1dbe7235/JorrhastsBlacksteel.png",
+            "levelRequired": 44,
+            "baseType": "Steelhead",
+            "variant": "Minion Hit",
+            "links": 6,
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -13.64,
+                "data": [
+                    0,
+                    0,
+                    -6.82,
+                    -61.36,
+                    -31.82,
+                    -31.82,
+                    -13.64
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -13.64,
+                "data": [
+                    0,
+                    0,
+                    -6.82,
+                    -61.36,
+                    -31.82,
+                    -31.82,
+                    -13.64
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "45% increased Stun Duration on Enemies",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "25% chance to Trigger Level 20 Animate Weapon on Kill",
+                    "optional": false
+                },
+                {
+                    "text": "(150-200)% increased Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(8-12)% increased Attack Speed",
+                    "optional": false
+                },
+                {
+                    "text": "30% less Animate Weapon Duration",
+                    "optional": false
+                },
+                {
+                    "text": "Weapons you Animate create an additional copy",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [
+                {
+                    "text": "Minions deal (50-70)% increased Damage if you've Hit Recently",
+                    "optional": false
+                }
+            ],
+            "flavourText": "His flesh had long turned to dust,\nbut his vengeance lived on\nin every scrap of iron he touched.",
+            "itemType": "Two Handed Mace",
+            "chaosValue": 3.8,
+            "exaltedValue": 0.39,
+            "divineValue": 0.02,
+            "count": 7,
+            "detailsId": "foulborn-jorrhasts-blacksteel-minion-hit-steelhead-6l",
+            "tradeInfo": [],
+            "listingCount": 98
+        },
+        {
             "id": 45082,
             "name": "Actum",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9IYW5sb25zUmF6b3IiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwicmVsaWMiOjEwfV0/98620f769d/HanlonsRazor.png",
@@ -25480,6 +25557,75 @@
             "detailsId": "actum-butcher-axe",
             "tradeInfo": [],
             "listingCount": 310
+        },
+        {
+            "id": 130322,
+            "name": "Foulborn Death's Harp",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0RlYXRoc2hhcnAiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/ca47723a74/Deathsharp.png",
+            "levelRequired": 32,
+            "baseType": "Death Bow",
+            "variant": "Physical as Chaos",
+            "links": 5,
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 20,
+                "data": [
+                    0,
+                    0,
+                    -10,
+                    0,
+                    13.33,
+                    10,
+                    20
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 20,
+                "data": [
+                    0,
+                    0,
+                    -10,
+                    0,
+                    13.33,
+                    10,
+                    20
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "(30-50)% increased Critical Strike Chance",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "10% increased Attack Speed",
+                    "optional": false
+                },
+                {
+                    "text": "+50% to Global Critical Strike Multiplier",
+                    "optional": false
+                },
+                {
+                    "text": "Bow Attacks fire 2 additional Arrows",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [
+                {
+                    "text": "Gain (67-83)% of Physical Damage as Extra Chaos Damage",
+                    "optional": false
+                }
+            ],
+            "flavourText": "The mournful music of the strings,\nThe creaking arch, the arrow sings.\nA choking cry, a rattled breath,\nThe Reaper's Song, the Harp of Death.",
+            "itemType": "Bow",
+            "chaosValue": 3.6,
+            "exaltedValue": 0.37,
+            "divineValue": 0.02,
+            "count": 28,
+            "detailsId": "foulborn-deaths-harp-physical-as-chaos-death-bow-5l",
+            "tradeInfo": [],
+            "listingCount": 238
         },
         {
             "id": 130137,
@@ -25557,75 +25703,6 @@
             "detailsId": "foulborn-kongors-undying-rage-crit-life-loss-terror-maul-6l",
             "tradeInfo": [],
             "listingCount": 62
-        },
-        {
-            "id": 130322,
-            "name": "Foulborn Death's Harp",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0RlYXRoc2hhcnAiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/ca47723a74/Deathsharp.png",
-            "levelRequired": 32,
-            "baseType": "Death Bow",
-            "variant": "Physical as Chaos",
-            "links": 5,
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 16.67,
-                "data": [
-                    0,
-                    0,
-                    -10,
-                    0,
-                    13.33,
-                    10,
-                    16.67
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 16.67,
-                "data": [
-                    0,
-                    0,
-                    -10,
-                    0,
-                    13.33,
-                    10,
-                    16.67
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "(30-50)% increased Critical Strike Chance",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "10% increased Attack Speed",
-                    "optional": false
-                },
-                {
-                    "text": "+50% to Global Critical Strike Multiplier",
-                    "optional": false
-                },
-                {
-                    "text": "Bow Attacks fire 2 additional Arrows",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [
-                {
-                    "text": "Gain (67-83)% of Physical Damage as Extra Chaos Damage",
-                    "optional": false
-                }
-            ],
-            "flavourText": "The mournful music of the strings,\nThe creaking arch, the arrow sings.\nA choking cry, a rattled breath,\nThe Reaper's Song, the Harp of Death.",
-            "itemType": "Bow",
-            "chaosValue": 3.5,
-            "exaltedValue": 0.36,
-            "divineValue": 0.02,
-            "count": 27,
-            "detailsId": "foulborn-deaths-harp-physical-as-chaos-death-bow-5l",
-            "tradeInfo": [],
-            "listingCount": 237
         },
         {
             "id": 37,
@@ -26790,10 +26867,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.31,
             "divineValue": 0.02,
-            "count": 162,
+            "count": 161,
             "detailsId": "jack-the-axe-vaal-hatchet",
             "tradeInfo": [],
-            "listingCount": 2095
+            "listingCount": 2094
         },
         {
             "id": 1002,
@@ -26938,10 +27015,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.31,
             "divineValue": 0.02,
-            "count": 268,
+            "count": 267,
             "detailsId": "rebuke-of-the-vaal-vaal-blade",
             "tradeInfo": [],
-            "listingCount": 4829
+            "listingCount": 4827
         },
         {
             "id": 2504,
@@ -27345,7 +27422,7 @@
             "count": 44,
             "detailsId": "replica-wings-of-entropy-ezomyte-axe",
             "tradeInfo": [],
-            "listingCount": 281
+            "listingCount": 280
         },
         {
             "id": 60091,
@@ -27757,7 +27834,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.31,
             "divineValue": 0.02,
-            "count": 17,
+            "count": 18,
             "detailsId": "foulborn-jorrhasts-blacksteel-double-weapons-minion-hit-steelhead",
             "tradeInfo": [],
             "listingCount": 210
@@ -27825,78 +27902,6 @@
             "detailsId": "foulborn-the-harvest-spell-damage-jasper-chopper-6l",
             "tradeInfo": [],
             "listingCount": 127
-        },
-        {
-            "id": 130072,
-            "name": "Foulborn Tulfall",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9UdWxib3JuVXBncmFkZWQiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/27c80db79e/TulbornUpgraded.png",
-            "levelRequired": 62,
-            "baseType": "Opal Wand",
-            "variant": "Cold Multi, Mana Power",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 45,
-                "data": [
-                    0,
-                    5,
-                    0,
-                    0,
-                    -45.0,
-                    -45.0,
-                    45
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 45,
-                "data": [
-                    0,
-                    5,
-                    0,
-                    0,
-                    -45.0,
-                    -45.0,
-                    45
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "Adds (14-29) to (42-47) Cold Damage to Spells and Attacks",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "(10-20)% increased Cast Speed",
-                    "optional": false
-                },
-                {
-                    "text": "Lose all Power Charges on reaching Maximum Power Charges",
-                    "optional": false
-                },
-                {
-                    "text": "Gain a Frenzy Charge on reaching Maximum Power Charges",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [
-                {
-                    "text": "+(15-20)% to Cold Damage over Time Multiplier per Power Charge",
-                    "optional": false
-                },
-                {
-                    "text": "Gain a Power Charge after Spending a total of 200 Mana",
-                    "optional": false
-                }
-            ],
-            "flavourText": "We fracture and splinter.\nWe pierce our sides.\nBut in the great freeze we are forged anew.",
-            "itemType": "Wand",
-            "chaosValue": 2.9,
-            "exaltedValue": 0.3,
-            "divineValue": 0.02,
-            "count": 32,
-            "detailsId": "foulborn-tulfall-cold-multi-mana-power-opal-wand",
-            "tradeInfo": [],
-            "listingCount": 483
         },
         {
             "id": 1723,
@@ -28609,7 +28614,7 @@
             "baseType": "Imperial Staff",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 7,
+                "totalChange": 5.5,
                 "data": [
                     0,
                     0,
@@ -28617,11 +28622,11 @@
                     0,
                     0,
                     0,
-                    7
+                    5.5
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 7,
+                "totalChange": 5.5,
                 "data": [
                     0,
                     0,
@@ -28629,7 +28634,7 @@
                     0,
                     0,
                     0,
-                    7
+                    5.5
                 ]
             },
             "implicitModifiers": [
@@ -28667,13 +28672,13 @@
             "mutatedModifiers": [],
             "flavourText": "One for each corner of the great Vinktar Square.",
             "itemType": "Staff",
-            "chaosValue": 2.14,
+            "chaosValue": 2.11,
             "exaltedValue": 0.22,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "agnerod-north-imperial-staff",
             "tradeInfo": [],
-            "listingCount": 4025
+            "listingCount": 4026
         },
         {
             "id": 622,
@@ -28818,7 +28823,7 @@
             "count": 399,
             "detailsId": "agnerod-east-imperial-staff",
             "tradeInfo": [],
-            "listingCount": 3932
+            "listingCount": 3931
         },
         {
             "id": 35,
@@ -28892,7 +28897,7 @@
             "count": 399,
             "detailsId": "agnerod-south-imperial-staff",
             "tradeInfo": [],
-            "listingCount": 3988
+            "listingCount": 3989
         },
         {
             "id": 38,
@@ -28966,7 +28971,7 @@
             "count": 399,
             "detailsId": "agnerod-west-imperial-staff",
             "tradeInfo": [],
-            "listingCount": 4327
+            "listingCount": 4329
         },
         {
             "id": 212,
@@ -29321,7 +29326,7 @@
             "count": 399,
             "detailsId": "heartbreaker-royal-skean",
             "tradeInfo": [],
-            "listingCount": 6760
+            "listingCount": 6758
         },
         {
             "id": 621,
@@ -29464,7 +29469,7 @@
             "count": 399,
             "detailsId": "lifesprig-driftwood-wand",
             "tradeInfo": [],
-            "listingCount": 7324
+            "listingCount": 7325
         },
         {
             "id": 753,
@@ -29605,10 +29610,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.21,
             "divineValue": 0.01,
-            "count": 147,
+            "count": 148,
             "detailsId": "montreguls-grasp-void-sceptre",
             "tradeInfo": [],
-            "listingCount": 2135
+            "listingCount": 2136
         },
         {
             "id": 1018,
@@ -30114,10 +30119,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.21,
             "divineValue": 0.01,
-            "count": 64,
+            "count": 63,
             "detailsId": "the-searing-touch-lathi",
             "tradeInfo": [],
-            "listingCount": 815
+            "listingCount": 814
         },
         {
             "id": 1878,
@@ -30263,10 +30268,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.21,
             "divineValue": 0.01,
-            "count": 64,
+            "count": 65,
             "detailsId": "hand-of-wisdom-and-action-imperial-claw",
             "tradeInfo": [],
-            "listingCount": 782
+            "listingCount": 783
         },
         {
             "id": 7392,
@@ -30465,10 +30470,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.21,
             "divineValue": 0.01,
-            "count": 30,
+            "count": 29,
             "detailsId": "replica-tempestuous-steel-war-sword",
             "tradeInfo": [],
-            "listingCount": 277
+            "listingCount": 276
         },
         {
             "id": 44200,
@@ -30538,7 +30543,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.21,
             "divineValue": 0.01,
-            "count": 43,
+            "count": 44,
             "detailsId": "replica-quill-rain-short-bow",
             "tradeInfo": [],
             "listingCount": 409
@@ -31035,7 +31040,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.21,
             "divineValue": 0.01,
-            "count": 194,
+            "count": 193,
             "detailsId": "apeps-rage-omen-wand",
             "tradeInfo": [],
             "listingCount": 3208
@@ -31169,7 +31174,7 @@
             "count": 399,
             "detailsId": "the-grey-wind-spectral-axe",
             "tradeInfo": [],
-            "listingCount": 5089
+            "listingCount": 5090
         },
         {
             "id": 130005,
@@ -31446,10 +31451,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.21,
             "divineValue": 0.01,
-            "count": 171,
+            "count": 172,
             "detailsId": "foulborn-al-dhih-chaos-damage-timeworn-claw",
             "tradeInfo": [],
-            "listingCount": 2394
+            "listingCount": 2395
         },
         {
             "id": 130039,
@@ -31662,6 +31667,78 @@
             "detailsId": "foulborn-midnight-bargain-golems-calling-wand",
             "tradeInfo": [],
             "listingCount": 1895
+        },
+        {
+            "id": 130072,
+            "name": "Foulborn Tulfall",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9XYW5kcy9UdWxib3JuVXBncmFkZWQiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/27c80db79e/TulbornUpgraded.png",
+            "levelRequired": 62,
+            "baseType": "Opal Wand",
+            "variant": "Cold Multi, Mana Power",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    5,
+                    0,
+                    0,
+                    -45.0,
+                    -45.0,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    5,
+                    0,
+                    0,
+                    -45.0,
+                    -45.0,
+                    0
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "Adds (14-29) to (42-47) Cold Damage to Spells and Attacks",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "(10-20)% increased Cast Speed",
+                    "optional": false
+                },
+                {
+                    "text": "Lose all Power Charges on reaching Maximum Power Charges",
+                    "optional": false
+                },
+                {
+                    "text": "Gain a Frenzy Charge on reaching Maximum Power Charges",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [
+                {
+                    "text": "+(15-20)% to Cold Damage over Time Multiplier per Power Charge",
+                    "optional": false
+                },
+                {
+                    "text": "Gain a Power Charge after Spending a total of 200 Mana",
+                    "optional": false
+                }
+            ],
+            "flavourText": "We fracture and splinter.\nWe pierce our sides.\nBut in the great freeze we are forged anew.",
+            "itemType": "Wand",
+            "chaosValue": 2.0,
+            "exaltedValue": 0.21,
+            "divineValue": 0.01,
+            "count": 33,
+            "detailsId": "foulborn-tulfall-cold-multi-mana-power-opal-wand",
+            "tradeInfo": [],
+            "listingCount": 484
         },
         {
             "id": 130077,
@@ -32533,83 +32610,6 @@
             "listingCount": 800
         },
         {
-            "id": 130088,
-            "name": "Foulborn Jorrhast's Blacksteel",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvSm9ycmhhc3RzQmxhY2tzdGVlbCIsInciOjIsImgiOjQsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/4c1dbe7235/JorrhastsBlacksteel.png",
-            "levelRequired": 44,
-            "baseType": "Steelhead",
-            "variant": "Minion Hit",
-            "links": 6,
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -61.36,
-                "data": [
-                    0,
-                    0,
-                    -6.82,
-                    -61.36,
-                    -31.82,
-                    -31.82,
-                    -61.36
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -61.36,
-                "data": [
-                    0,
-                    0,
-                    -6.82,
-                    -61.36,
-                    -31.82,
-                    -31.82,
-                    -61.36
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "45% increased Stun Duration on Enemies",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "25% chance to Trigger Level 20 Animate Weapon on Kill",
-                    "optional": false
-                },
-                {
-                    "text": "(150-200)% increased Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(8-12)% increased Attack Speed",
-                    "optional": false
-                },
-                {
-                    "text": "30% less Animate Weapon Duration",
-                    "optional": false
-                },
-                {
-                    "text": "Weapons you Animate create an additional copy",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [
-                {
-                    "text": "Minions deal (50-70)% increased Damage if you've Hit Recently",
-                    "optional": false
-                }
-            ],
-            "flavourText": "His flesh had long turned to dust,\nbut his vengeance lived on\nin every scrap of iron he touched.",
-            "itemType": "Two Handed Mace",
-            "chaosValue": 1.7,
-            "exaltedValue": 0.18,
-            "divineValue": 0.01,
-            "count": 8,
-            "detailsId": "foulborn-jorrhasts-blacksteel-minion-hit-steelhead-6l",
-            "tradeInfo": [],
-            "listingCount": 99
-        },
-        {
             "id": 268,
             "name": "Chin Sol",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0JvdzV1bmlxdWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/199f28ea8d/Bow5unique.png",
@@ -32897,7 +32897,7 @@
             "links": 5,
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -40,
+                "totalChange": -36,
                 "data": [
                     0,
                     -4,
@@ -32905,11 +32905,11 @@
                     -8,
                     -20,
                     -20,
-                    -40
+                    -36
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -40,
+                "totalChange": -36,
                 "data": [
                     0,
                     -4,
@@ -32917,7 +32917,7 @@
                     -8,
                     -20,
                     -20,
-                    -40
+                    -36
                 ]
             },
             "implicitModifiers": [
@@ -32956,13 +32956,13 @@
             ],
             "flavourText": "So the seed of hate was born,\nEvil forged and Hope forsworn.",
             "itemType": "Two Handed Sword",
-            "chaosValue": 1.5,
-            "exaltedValue": 0.16,
+            "chaosValue": 1.6,
+            "exaltedValue": 0.17,
             "divineValue": 0.01,
-            "count": 16,
+            "count": 17,
             "detailsId": "foulborn-doomsower-red-immortal-lion-sword-5l",
             "tradeInfo": [],
-            "listingCount": 110
+            "listingCount": 111
         },
         {
             "id": 130323,
@@ -33369,10 +33369,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 279,
+            "count": 280,
             "detailsId": "abberaths-horn-goats-horn",
             "tradeInfo": [],
-            "listingCount": 5791
+            "listingCount": 5792
         },
         {
             "id": 26,
@@ -33587,10 +33587,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 190,
+            "count": 192,
             "detailsId": "aurumvorax-basket-rapier",
             "tradeInfo": [],
-            "listingCount": 4303
+            "listingCount": 4305
         },
         {
             "id": 135,
@@ -33723,10 +33723,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 203,
+            "count": 202,
             "detailsId": "breath-of-the-council-carnal-sceptre",
             "tradeInfo": [],
-            "listingCount": 4893
+            "listingCount": 4892
         },
         {
             "id": 197,
@@ -33793,7 +33793,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 267,
+            "count": 268,
             "detailsId": "brightbeak-war-hammer",
             "tradeInfo": [],
             "listingCount": 5354
@@ -34214,10 +34214,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 306,
+            "count": 307,
             "detailsId": "deaths-hand-karui-sceptre",
             "tradeInfo": [],
-            "listingCount": 5702
+            "listingCount": 5703
         },
         {
             "id": 394,
@@ -34424,10 +34424,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 205,
+            "count": 204,
             "detailsId": "dyadus-infernal-axe",
             "tradeInfo": [],
-            "listingCount": 3331
+            "listingCount": 3330
         },
         {
             "id": 474,
@@ -34494,10 +34494,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 192,
+            "count": 191,
             "detailsId": "edge-of-madness-etched-greatsword",
             "tradeInfo": [],
-            "listingCount": 4607
+            "listingCount": 4606
         },
         {
             "id": 475,
@@ -34917,10 +34917,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 386,
+            "count": 387,
             "detailsId": "hyaons-fury-legion-sword",
             "tradeInfo": [],
-            "listingCount": 6868
+            "listingCount": 6869
         },
         {
             "id": 659,
@@ -34995,10 +34995,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 310,
+            "count": 311,
             "detailsId": "ichimonji-corsair-sword",
             "tradeInfo": [],
-            "listingCount": 4848
+            "listingCount": 4849
         },
         {
             "id": 673,
@@ -35144,10 +35144,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 220,
+            "count": 218,
             "detailsId": "innsbury-edge-elder-sword",
             "tradeInfo": [],
-            "listingCount": 4158
+            "listingCount": 4156
         },
         {
             "id": 679,
@@ -35665,10 +35665,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 207,
+            "count": 206,
             "detailsId": "lakishus-blade-elegant-sword",
             "tradeInfo": [],
-            "listingCount": 4157
+            "listingCount": 4156
         },
         {
             "id": 737,
@@ -35734,7 +35734,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 216,
+            "count": 215,
             "detailsId": "last-resort-nailed-fist",
             "tradeInfo": [],
             "listingCount": 3705
@@ -35803,10 +35803,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 261,
+            "count": 262,
             "detailsId": "limbsplit-woodsplitter",
             "tradeInfo": [],
-            "listingCount": 4328
+            "listingCount": 4329
         },
         {
             "id": 825,
@@ -35942,10 +35942,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 238,
+            "count": 237,
             "detailsId": "mortem-morsu-fright-claw",
             "tradeInfo": [],
-            "listingCount": 4908
+            "listingCount": 4907
         },
         {
             "id": 870,
@@ -36011,10 +36011,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 88,
+            "count": 89,
             "detailsId": "nulls-inclination-ranger-bow",
             "tradeInfo": [],
-            "listingCount": 1040
+            "listingCount": 1041
         },
         {
             "id": 873,
@@ -36093,10 +36093,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 204,
+            "count": 202,
             "detailsId": "nuros-harp-harbinger-bow",
             "tradeInfo": [],
-            "listingCount": 3898
+            "listingCount": 3896
         },
         {
             "id": 874,
@@ -36481,10 +36481,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 196,
+            "count": 197,
             "detailsId": "prismatic-eclipse-twilight-blade",
             "tradeInfo": [],
-            "listingCount": 3911
+            "listingCount": 3912
         },
         {
             "id": 991,
@@ -36707,7 +36707,7 @@
             "count": 344,
             "detailsId": "quill-rain-short-bow",
             "tradeInfo": [],
-            "listingCount": 5478
+            "listingCount": 5477
         },
         {
             "id": 1025,
@@ -36922,10 +36922,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 243,
+            "count": 244,
             "detailsId": "redbeak-rusted-sword",
             "tradeInfo": [],
-            "listingCount": 3741
+            "listingCount": 3742
         },
         {
             "id": 1045,
@@ -37127,10 +37127,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 184,
+            "count": 182,
             "detailsId": "rigwalds-command-midnight-blade",
             "tradeInfo": [],
-            "listingCount": 3132
+            "listingCount": 3131
         },
         {
             "id": 1061,
@@ -37188,10 +37188,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 179,
+            "count": 180,
             "detailsId": "rigwalds-savagery-royal-axe",
             "tradeInfo": [],
-            "listingCount": 2267
+            "listingCount": 2268
         },
         {
             "id": 1065,
@@ -37262,10 +37262,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 199,
+            "count": 201,
             "detailsId": "rive-terror-claw",
             "tradeInfo": [],
-            "listingCount": 4084
+            "listingCount": 4085
         },
         {
             "id": 1082,
@@ -37344,10 +37344,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 171,
+            "count": 172,
             "detailsId": "scaeva-gladius",
             "tradeInfo": [],
-            "listingCount": 3725
+            "listingCount": 3726
         },
         {
             "id": 1309,
@@ -37408,7 +37408,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 332,
+            "count": 333,
             "detailsId": "silverbranch-crude-bow",
             "tradeInfo": [],
             "listingCount": 6255
@@ -37478,10 +37478,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 296,
+            "count": 294,
             "detailsId": "singularity-platinum-sceptre",
             "tradeInfo": [],
-            "listingCount": 6729
+            "listingCount": 6728
         },
         {
             "id": 1315,
@@ -37679,7 +37679,7 @@
             "count": 282,
             "detailsId": "storm-cloud-long-bow",
             "tradeInfo": [],
-            "listingCount": 6269
+            "listingCount": 6268
         },
         {
             "id": 1390,
@@ -37750,10 +37750,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 109,
+            "count": 108,
             "detailsId": "taryns-shiver-maelstrom-staff",
             "tradeInfo": [],
-            "listingCount": 1605
+            "listingCount": 1604
         },
         {
             "id": 1401,
@@ -37824,7 +37824,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 290,
+            "count": 291,
             "detailsId": "terminus-est-tiger-sword",
             "tradeInfo": [],
             "listingCount": 4847
@@ -37963,10 +37963,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 12,
+            "count": 13,
             "detailsId": "the-blood-reaper-headsman-axe-5l",
             "tradeInfo": [],
-            "listingCount": 145
+            "listingCount": 146
         },
         {
             "id": 1437,
@@ -38110,7 +38110,7 @@
             "count": 399,
             "detailsId": "the-consuming-dark-fiend-dagger",
             "tradeInfo": [],
-            "listingCount": 10908
+            "listingCount": 10906
         },
         {
             "id": 1469,
@@ -38189,7 +38189,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 176,
+            "count": 175,
             "detailsId": "the-dancing-dervish-reaver-sword",
             "tradeInfo": [],
             "listingCount": 3796
@@ -38354,10 +38354,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 201,
+            "count": 200,
             "detailsId": "the-goddess-bound-whalebone-rapier",
             "tradeInfo": [],
-            "listingCount": 4095
+            "listingCount": 4094
         },
         {
             "id": 1519,
@@ -38690,10 +38690,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 237,
+            "count": 239,
             "detailsId": "the-tempestuous-steel-war-sword",
             "tradeInfo": [],
-            "listingCount": 5411
+            "listingCount": 5413
         },
         {
             "id": 1672,
@@ -38763,7 +38763,7 @@
             "count": 80,
             "detailsId": "the-whispering-ice-vile-staff",
             "tradeInfo": [],
-            "listingCount": 1194
+            "listingCount": 1193
         },
         {
             "id": 1705,
@@ -38838,10 +38838,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 331,
+            "count": 330,
             "detailsId": "touch-of-anguish-imperial-claw",
             "tradeInfo": [],
-            "listingCount": 6352
+            "listingCount": 6351
         },
         {
             "id": 1713,
@@ -39106,10 +39106,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 206,
+            "count": 207,
             "detailsId": "wideswing-poleaxe",
             "tradeInfo": [],
-            "listingCount": 4072
+            "listingCount": 4073
         },
         {
             "id": 1880,
@@ -39465,10 +39465,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 137,
+            "count": 138,
             "detailsId": "ngamahus-flame-abyssal-axe",
             "tradeInfo": [],
-            "listingCount": 2090
+            "listingCount": 2091
         },
         {
             "id": 1978,
@@ -39819,10 +39819,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 285,
+            "count": 283,
             "detailsId": "dying-breath-iron-staff",
             "tradeInfo": [],
-            "listingCount": 4431
+            "listingCount": 4429
         },
         {
             "id": 2194,
@@ -39897,7 +39897,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 374,
+            "count": 375,
             "detailsId": "taproot-ambusher",
             "tradeInfo": [],
             "listingCount": 5562
@@ -40177,10 +40177,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 299,
+            "count": 297,
             "detailsId": "cane-of-unravelling-ezomyte-staff",
             "tradeInfo": [],
-            "listingCount": 6325
+            "listingCount": 6323
         },
         {
             "id": 2316,
@@ -40395,10 +40395,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 165,
+            "count": 163,
             "detailsId": "sinvictas-mettle-ezomyte-axe",
             "tradeInfo": [],
-            "listingCount": 4096
+            "listingCount": 4094
         },
         {
             "id": 7377,
@@ -40472,7 +40472,7 @@
             "count": 399,
             "detailsId": "soulwrest-ezomyte-staff",
             "tradeInfo": [],
-            "listingCount": 7769
+            "listingCount": 7768
         },
         {
             "id": 7418,
@@ -41292,7 +41292,7 @@
             "count": 333,
             "detailsId": "goblinedge-ambusher",
             "tradeInfo": [],
-            "listingCount": 5954
+            "listingCount": 5953
         },
         {
             "id": 92937,
@@ -41354,10 +41354,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 230,
+            "count": 231,
             "detailsId": "the-gluttonous-tide-citadel-bow",
             "tradeInfo": [],
-            "listingCount": 5212
+            "listingCount": 5213
         },
         {
             "id": 103407,
@@ -41424,7 +41424,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 322,
+            "count": 321,
             "detailsId": "storm-prison-spiraled-wand",
             "tradeInfo": [],
             "listingCount": 6119
@@ -41848,7 +41848,7 @@
             "count": 399,
             "detailsId": "unlight-extant-sage-wand",
             "tradeInfo": [],
-            "listingCount": 15463
+            "listingCount": 15462
         },
         {
             "id": 128182,
@@ -41919,10 +41919,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 349,
+            "count": 350,
             "detailsId": "piscators-vigil-kinetic-wand",
             "tradeInfo": [],
-            "listingCount": 8554
+            "listingCount": 8555
         },
         {
             "id": 128224,
@@ -42004,7 +42004,7 @@
             "count": 346,
             "detailsId": "midnight-bargain-calling-wand",
             "tradeInfo": [],
-            "listingCount": 5464
+            "listingCount": 5463
         },
         {
             "id": 128229,
@@ -42149,10 +42149,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 380,
+            "count": 379,
             "detailsId": "the-monastery-bell-dream-mace",
             "tradeInfo": [],
-            "listingCount": 7411
+            "listingCount": 7410
         },
         {
             "id": 128308,
@@ -42210,7 +42210,7 @@
             "count": 399,
             "detailsId": "obliteration-omen-wand",
             "tradeInfo": [],
-            "listingCount": 8790
+            "listingCount": 8789
         },
         {
             "id": 128404,
@@ -42285,10 +42285,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 275,
+            "count": 276,
             "detailsId": "moonsorrow-kinetic-wand",
             "tradeInfo": [],
-            "listingCount": 7909
+            "listingCount": 7910
         },
         {
             "id": 130006,
@@ -42357,10 +42357,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 142,
+            "count": 143,
             "detailsId": "foulborn-uul-netols-kiss-exert-vaal-axe",
             "tradeInfo": [],
-            "listingCount": 3053
+            "listingCount": 3054
         },
         {
             "id": 130007,
@@ -42573,7 +42573,7 @@
             "count": 399,
             "detailsId": "foulborn-tulborn-cold-spell-level-opal-wand",
             "tradeInfo": [],
-            "listingCount": 9037
+            "listingCount": 9038
         },
         {
             "id": 130017,
@@ -42633,7 +42633,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 182,
+            "count": 183,
             "detailsId": "foulborn-moonbenders-wing-attack-speed-tomahawk",
             "tradeInfo": [],
             "listingCount": 2673
@@ -42992,10 +42992,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 317,
+            "count": 318,
             "detailsId": "foulborn-tulborn-mana-power-opal-wand",
             "tradeInfo": [],
-            "listingCount": 7340
+            "listingCount": 7341
         },
         {
             "id": 130029,
@@ -43372,7 +43372,7 @@
             "count": 399,
             "detailsId": "foulborn-severed-in-sleep-minion-unholy-cutlass",
             "tradeInfo": [],
-            "listingCount": 8633
+            "listingCount": 8632
         },
         {
             "id": 130037,
@@ -43436,7 +43436,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 80,
+            "count": 79,
             "detailsId": "foulborn-xophs-nurture-all-ignite-citadel-bow",
             "tradeInfo": [],
             "listingCount": 1710
@@ -43658,10 +43658,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 57,
+            "count": 56,
             "detailsId": "foulborn-quill-rain-area-short-bow",
             "tradeInfo": [],
-            "listingCount": 1141
+            "listingCount": 1140
         },
         {
             "id": 130045,
@@ -43729,10 +43729,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 271,
+            "count": 272,
             "detailsId": "foulborn-xophs-inception-fast-ignite-citadel-bow",
             "tradeInfo": [],
-            "listingCount": 5900
+            "listingCount": 5901
         },
         {
             "id": 130046,
@@ -44173,7 +44173,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 86,
+            "count": 85,
             "detailsId": "foulborn-sire-of-shards-chain-serpentine-staff",
             "tradeInfo": [],
             "listingCount": 1909
@@ -44245,10 +44245,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 194,
+            "count": 195,
             "detailsId": "foulborn-hand-of-wisdom-and-action-dex-multi-imperial-claw",
             "tradeInfo": [],
-            "listingCount": 2655
+            "listingCount": 2656
         },
         {
             "id": 130056,
@@ -44448,10 +44448,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 79,
+            "count": 80,
             "detailsId": "foulborn-the-harvest-spell-damage-jasper-chopper",
             "tradeInfo": [],
-            "listingCount": 1983
+            "listingCount": 1984
         },
         {
             "id": 130059,
@@ -44520,10 +44520,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 125,
+            "count": 126,
             "detailsId": "foulborn-tulfall-mana-power-opal-wand",
             "tradeInfo": [],
-            "listingCount": 2287
+            "listingCount": 2288
         },
         {
             "id": 130060,
@@ -45111,10 +45111,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 42,
+            "count": 43,
             "detailsId": "foulborn-the-dancing-dervish-lightning-reaver-sword-5l",
             "tradeInfo": [],
-            "listingCount": 636
+            "listingCount": 637
         },
         {
             "id": 130082,
@@ -45835,7 +45835,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 17,
+            "count": 16,
             "detailsId": "foulborn-tremor-rod-mine-auras-military-staff-5l",
             "tradeInfo": [],
             "listingCount": 293
@@ -45908,6 +45908,80 @@
             "detailsId": "reapers-pursuit-shadow-axe",
             "tradeInfo": [],
             "listingCount": 4077
+        },
+        {
+            "id": 898,
+            "name": "Ornament of the East",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9Pcm5hbWVudE9mVGhlRWFzdCIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/5bea7643a2/OrnamentOfTheEast.png",
+            "levelRequired": 46,
+            "baseType": "Gut Ripper",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 231.0,
+                "data": [
+                    0,
+                    -58.62,
+                    -62.07,
+                    -75.86,
+                    -75.86,
+                    -34.48,
+                    231.0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 231.0,
+                "data": [
+                    0,
+                    -58.62,
+                    -62.07,
+                    -75.86,
+                    -75.86,
+                    -34.48,
+                    231.0
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "Grants 44 Life per Enemy Hit",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "+1 to Level of Socketed Dexterity Gems",
+                    "optional": false
+                },
+                {
+                    "text": "Socketed Gems are Supported by Level 15 Faster Attacks",
+                    "optional": false
+                },
+                {
+                    "text": "(160-180)% increased Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(10-15)% increased Attack Speed",
+                    "optional": false
+                },
+                {
+                    "text": "25% increased Stun and Block Recovery",
+                    "optional": false
+                },
+                {
+                    "text": "Hits can't be Evaded",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "To the Maraketh, death is as intimate as love.",
+            "itemType": "Claw",
+            "chaosValue": 0.96,
+            "exaltedValue": 0.1,
+            "divineValue": 0.01,
+            "count": 144,
+            "detailsId": "ornament-of-the-east-gut-ripper",
+            "tradeInfo": [],
+            "listingCount": 3674
         },
         {
             "id": 995,
@@ -45986,80 +46060,6 @@
             "detailsId": "queens-decree-ornate-sword",
             "tradeInfo": [],
             "listingCount": 4189
-        },
-        {
-            "id": 898,
-            "name": "Ornament of the East",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9DbGF3cy9Pcm5hbWVudE9mVGhlRWFzdCIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/5bea7643a2/OrnamentOfTheEast.png",
-            "levelRequired": 46,
-            "baseType": "Gut Ripper",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 217.2,
-                "data": [
-                    0,
-                    -58.62,
-                    -62.07,
-                    -75.86,
-                    -75.86,
-                    -34.48,
-                    217.2
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 217.2,
-                "data": [
-                    0,
-                    -58.62,
-                    -62.07,
-                    -75.86,
-                    -75.86,
-                    -34.48,
-                    217.2
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "Grants 44 Life per Enemy Hit",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "+1 to Level of Socketed Dexterity Gems",
-                    "optional": false
-                },
-                {
-                    "text": "Socketed Gems are Supported by Level 15 Faster Attacks",
-                    "optional": false
-                },
-                {
-                    "text": "(160-180)% increased Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(10-15)% increased Attack Speed",
-                    "optional": false
-                },
-                {
-                    "text": "25% increased Stun and Block Recovery",
-                    "optional": false
-                },
-                {
-                    "text": "Hits can't be Evaded",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "To the Maraketh, death is as intimate as love.",
-            "itemType": "Claw",
-            "chaosValue": 0.92,
-            "exaltedValue": 0.1,
-            "divineValue": 0.01,
-            "count": 143,
-            "detailsId": "ornament-of-the-east-gut-ripper",
-            "tradeInfo": [],
-            "listingCount": 3673
         },
         {
             "id": 41,
@@ -46207,76 +46207,6 @@
             "listingCount": 185
         },
         {
-            "id": 2281,
-            "name": "Balefire",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9CYWVsZmlyZSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/082c0ee423/Baelfire.png",
-            "levelRequired": 60,
-            "baseType": "Opal Sceptre",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 116.2,
-                "data": [
-                    0,
-                    -10.81,
-                    -48.65,
-                    -64.86,
-                    -67.57,
-                    -67.57,
-                    116.2
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 116.2,
-                "data": [
-                    0,
-                    -10.81,
-                    -48.65,
-                    -64.86,
-                    -67.57,
-                    -67.57,
-                    116.2
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "40% increased Elemental Damage",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "Grants Level 25 Scorching Ray Skill",
-                    "optional": false
-                },
-                {
-                    "text": "(12-20)% increased Cast Speed",
-                    "optional": false
-                },
-                {
-                    "text": "Recover (1-3)% of Life on Kill",
-                    "optional": false
-                },
-                {
-                    "text": "Recover (1-3)% of Mana on Kill",
-                    "optional": false
-                },
-                {
-                    "text": "10% increased Scorching Ray beam length",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "After the fires swept down from the sky and swallowed the city,\nall that lingered, as if locked in time,\nwas a memory of that which was gone, a whisper of deeds undone.",
-            "itemType": "One Handed Mace",
-            "chaosValue": 0.8,
-            "exaltedValue": 0.08,
-            "divineValue": 0.01,
-            "count": 162,
-            "detailsId": "balefire-opal-sceptre",
-            "tradeInfo": [],
-            "listingCount": 4472
-        },
-        {
             "id": 1799,
             "name": "Voidhome",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Ud29IYW5kTWFjZXMvVm9pZGhvbWUiLCJ3IjoyLCJoIjo0LCJzY2FsZSI6MX1d/0122c9dcf4/Voidhome.png",
@@ -46345,6 +46275,76 @@
             "detailsId": "voidhome-dread-maul",
             "tradeInfo": [],
             "listingCount": 2504
+        },
+        {
+            "id": 2281,
+            "name": "Balefire",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9TY2VwdGVycy9CYWVsZmlyZSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/082c0ee423/Baelfire.png",
+            "levelRequired": 60,
+            "baseType": "Opal Sceptre",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 105.4,
+                "data": [
+                    0,
+                    -10.81,
+                    -48.65,
+                    -64.86,
+                    -67.57,
+                    -67.57,
+                    105.4
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 105.4,
+                "data": [
+                    0,
+                    -10.81,
+                    -48.65,
+                    -64.86,
+                    -67.57,
+                    -67.57,
+                    105.4
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "40% increased Elemental Damage",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Grants Level 25 Scorching Ray Skill",
+                    "optional": false
+                },
+                {
+                    "text": "(12-20)% increased Cast Speed",
+                    "optional": false
+                },
+                {
+                    "text": "Recover (1-3)% of Life on Kill",
+                    "optional": false
+                },
+                {
+                    "text": "Recover (1-3)% of Mana on Kill",
+                    "optional": false
+                },
+                {
+                    "text": "10% increased Scorching Ray beam length",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "After the fires swept down from the sky and swallowed the city,\nall that lingered, as if locked in time,\nwas a memory of that which was gone, a whisper of deeds undone.",
+            "itemType": "One Handed Mace",
+            "chaosValue": 0.76,
+            "exaltedValue": 0.08,
+            "divineValue": 0.0,
+            "count": 161,
+            "detailsId": "balefire-opal-sceptre",
+            "tradeInfo": [],
+            "listingCount": 4472
         },
         {
             "id": 1746,
@@ -46648,7 +46648,7 @@
             "count": 324,
             "detailsId": "mark-of-the-doubting-knight-platinum-kris",
             "tradeInfo": [],
-            "listingCount": 6792
+            "listingCount": 6793
         },
         {
             "id": 1273,
@@ -46772,10 +46772,10 @@
             "chaosValue": 0.34,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 154,
+            "count": 153,
             "detailsId": "debeons-dirge-despot-axe",
             "tradeInfo": [],
-            "listingCount": 3404
+            "listingCount": 3403
         },
         {
             "id": 814,
@@ -46918,6 +46918,75 @@
             "listingCount": 5966
         },
         {
+            "id": 444,
+            "name": "Dreadarc",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9EcmVhZGFyYyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/fd1e188ee3/Dreadarc.png",
+            "levelRequired": 16,
+            "baseType": "Cleaver",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -31.25,
+                "data": [
+                    0,
+                    107.8,
+                    43.75,
+                    53.12,
+                    -20.31,
+                    -62.5,
+                    -31.25
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -31.25,
+                "data": [
+                    0,
+                    107.8,
+                    43.75,
+                    53.12,
+                    -20.31,
+                    -62.5,
+                    -31.25
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Adds (5-15) to (20-25) Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Adds (5-15) to (20-25) Fire Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(7-10)% increased Attack Speed",
+                    "optional": false
+                },
+                {
+                    "text": "+(15-25)% to Fire Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "5% increased Movement Speed",
+                    "optional": false
+                },
+                {
+                    "text": "Curse Enemies with Flammability on Hit",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "The fastest way to a man's heart\nis through his sternum.",
+            "itemType": "One Handed Axe",
+            "chaosValue": 0.22,
+            "exaltedValue": 0.02,
+            "divineValue": 0.0,
+            "count": 184,
+            "detailsId": "dreadarc-cleaver",
+            "tradeInfo": [],
+            "listingCount": 4884
+        },
+        {
             "id": 1879,
             "name": "Widowmaker",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9EYWdnZXJzL1dpZG93bWFrZXIiLCJ3IjoxLCJoIjozLCJzY2FsZSI6MX1d/c581a2aec4/Widowmaker.png",
@@ -47052,10 +47121,10 @@
             "chaosValue": 0.2,
             "exaltedValue": 0.02,
             "divineValue": 0.0,
-            "count": 183,
+            "count": 184,
             "detailsId": "rigwalds-charge-highland-blade",
             "tradeInfo": [],
-            "listingCount": 3729
+            "listingCount": 3730
         },
         {
             "id": 267,
@@ -47126,10 +47195,10 @@
             "chaosValue": 0.17,
             "exaltedValue": 0.02,
             "divineValue": 0.0,
-            "count": 260,
+            "count": 259,
             "detailsId": "chin-sol-assassin-bow",
             "tradeInfo": [],
-            "listingCount": 5142
+            "listingCount": 5141
         },
         {
             "id": 1070,
@@ -47205,7 +47274,7 @@
             "baseType": "Ezomyte Axe",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -36.36,
+                "totalChange": -31.82,
                 "data": [
                     0,
                     -11.36,
@@ -47213,11 +47282,11 @@
                     -4.55,
                     13.64,
                     13.64,
-                    -36.36
+                    -31.82
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -36.36,
+                "totalChange": -31.82,
                 "data": [
                     0,
                     -11.36,
@@ -47225,7 +47294,7 @@
                     -4.55,
                     13.64,
                     13.64,
-                    -36.36
+                    -31.82
                 ]
             },
             "implicitModifiers": [],
@@ -47258,82 +47327,13 @@
             "mutatedModifiers": [],
             "flavourText": "Fire and Anarchy are the most reliable agents of change.",
             "itemType": "Two Handed Axe",
-            "chaosValue": 0.14,
-            "exaltedValue": 0.01,
+            "chaosValue": 0.15,
+            "exaltedValue": 0.02,
             "divineValue": 0.0,
-            "count": 205,
+            "count": 206,
             "detailsId": "wings-of-entropy-ezomyte-axe",
             "tradeInfo": [],
-            "listingCount": 3958
-        },
-        {
-            "id": 444,
-            "name": "Dreadarc",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9PbmVIYW5kQXhlcy9EcmVhZGFyYyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/fd1e188ee3/Dreadarc.png",
-            "levelRequired": 16,
-            "baseType": "Cleaver",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -59.38,
-                "data": [
-                    0,
-                    107.8,
-                    43.75,
-                    53.12,
-                    -20.31,
-                    -62.5,
-                    -59.38
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -59.38,
-                "data": [
-                    0,
-                    107.8,
-                    43.75,
-                    53.12,
-                    -20.31,
-                    -62.5,
-                    -59.38
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Adds (5-15) to (20-25) Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Adds (5-15) to (20-25) Fire Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(7-10)% increased Attack Speed",
-                    "optional": false
-                },
-                {
-                    "text": "+(15-25)% to Fire Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "5% increased Movement Speed",
-                    "optional": false
-                },
-                {
-                    "text": "Curse Enemies with Flammability on Hit",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The fastest way to a man's heart\nis through his sternum.",
-            "itemType": "One Handed Axe",
-            "chaosValue": 0.13,
-            "exaltedValue": 0.01,
-            "divineValue": 0.0,
-            "count": 187,
-            "detailsId": "dreadarc-cleaver",
-            "tradeInfo": [],
-            "listingCount": 4887
+            "listingCount": 3959
         },
         {
             "id": 521,
@@ -47480,6 +47480,84 @@
             "listingCount": 4252
         },
         {
+            "id": 672,
+            "name": "Infractem",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0luZnJhY3RlbSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/ea06e13fb8/Infractem.png",
+            "levelRequired": 53,
+            "baseType": "Decimation Bow",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -54.55,
+                "data": [
+                    0,
+                    -13.64,
+                    -4.55,
+                    -18.18,
+                    -27.27,
+                    -9.09,
+                    -54.55
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -54.55,
+                "data": [
+                    0,
+                    -13.64,
+                    -4.55,
+                    -18.18,
+                    -27.27,
+                    -9.09,
+                    -54.55
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "(30-50)% increased Critical Strike Chance",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "+(20-30) to Dexterity",
+                    "optional": false
+                },
+                {
+                    "text": "(70-80)% increased Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Adds (25-35) to (36-45) Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "10% increased Movement Speed",
+                    "optional": false
+                },
+                {
+                    "text": "+(350-400) to Accuracy Rating",
+                    "optional": false
+                },
+                {
+                    "text": "Cannot Leech Life",
+                    "optional": false
+                },
+                {
+                    "text": "Arrows Pierce all Targets",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Mark us with mercy, then press on with care,\nExecute us steadily, notch away at our despair.",
+            "itemType": "Bow",
+            "chaosValue": 0.1,
+            "exaltedValue": 0.01,
+            "divineValue": 0.0,
+            "count": 184,
+            "detailsId": "infractem-decimation-bow",
+            "tradeInfo": [],
+            "listingCount": 4177
+        },
+        {
             "id": 348,
             "name": "Daresso's Passion",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9PbmVIYW5kV2VhcG9ucy9SYXBpZXJzL0RhcmVzc29zIiwidyI6MSwiaCI6NCwic2NhbGUiOjF9XQ/d698c36c19/Daressos.png",
@@ -47548,84 +47626,6 @@
             "detailsId": "daressos-passion-estoc",
             "tradeInfo": [],
             "listingCount": 3762
-        },
-        {
-            "id": 672,
-            "name": "Infractem",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvV2VhcG9ucy9Ud29IYW5kV2VhcG9ucy9Cb3dzL0luZnJhY3RlbSIsInciOjIsImgiOjQsInNjYWxlIjoxfV0/ea06e13fb8/Infractem.png",
-            "levelRequired": 53,
-            "baseType": "Decimation Bow",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -59.09,
-                "data": [
-                    0,
-                    -13.64,
-                    -4.55,
-                    -18.18,
-                    -27.27,
-                    -9.09,
-                    -59.09
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -59.09,
-                "data": [
-                    0,
-                    -13.64,
-                    -4.55,
-                    -18.18,
-                    -27.27,
-                    -9.09,
-                    -59.09
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "(30-50)% increased Critical Strike Chance",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "+(20-30) to Dexterity",
-                    "optional": false
-                },
-                {
-                    "text": "(70-80)% increased Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Adds (25-35) to (36-45) Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "10% increased Movement Speed",
-                    "optional": false
-                },
-                {
-                    "text": "+(350-400) to Accuracy Rating",
-                    "optional": false
-                },
-                {
-                    "text": "Cannot Leech Life",
-                    "optional": false
-                },
-                {
-                    "text": "Arrows Pierce all Targets",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Mark us with mercy, then press on with care,\nExecute us steadily, notch away at our despair.",
-            "itemType": "Bow",
-            "chaosValue": 0.09,
-            "exaltedValue": 0.01,
-            "divineValue": 0.0,
-            "count": 183,
-            "detailsId": "infractem-decimation-bow",
-            "tradeInfo": [],
-            "listingCount": 4176
         },
         {
             "id": 178,
@@ -47761,10 +47761,10 @@
             "chaosValue": 0.07,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 195,
+            "count": 196,
             "detailsId": "fencoil-gnarled-branch",
             "tradeInfo": [],
-            "listingCount": 4470
+            "listingCount": 4471
         },
         {
             "id": 527,
@@ -47913,10 +47913,10 @@
             "chaosValue": 0.07,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 247,
+            "count": 249,
             "detailsId": "flesh-eater-dream-mace",
             "tradeInfo": [],
-            "listingCount": 5411
+            "listingCount": 5412
         },
         {
             "id": 557,
@@ -48123,10 +48123,10 @@
             "chaosValue": 0.07,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 164,
+            "count": 163,
             "detailsId": "hrimnors-hymn-sledgehammer",
             "tradeInfo": [],
-            "listingCount": 3342
+            "listingCount": 3341
         },
         {
             "id": 740,
@@ -48200,7 +48200,7 @@
             "count": 191,
             "detailsId": "laviangas-wisdom-war-hammer",
             "tradeInfo": [],
-            "listingCount": 4182
+            "listingCount": 4181
         },
         {
             "id": 990,
@@ -48555,10 +48555,10 @@
             "chaosValue": 0.07,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 221,
+            "count": 222,
             "detailsId": "earendels-embrace-grinning-fetish",
             "tradeInfo": [],
-            "listingCount": 4988
+            "listingCount": 4989
         },
         {
             "id": 21514,
