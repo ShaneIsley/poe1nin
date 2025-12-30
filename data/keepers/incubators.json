@@ -1,6 +1,46 @@
 {
     "lines": [
         {
+            "id": 21675,
+            "name": "Gemcutter's Incubator",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uR2VtcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5e44f2f524/IncubationGems.png",
+            "baseType": "Gemcutter's Incubator",
+            "stackSize": 10,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 449.7,
+                "data": [
+                    0,
+                    -37.5,
+                    -37.5,
+                    -37.5,
+                    -37.5,
+                    -37.5,
+                    449.7
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Adds an incubated Quality Gem item to an equippable item\nItem drops after killing (447-1645) monsters",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 17.59,
+            "exaltedValue": 1.61,
+            "divineValue": 0.11,
+            "count": 2,
+            "detailsId": "gemcutters-incubator",
+            "tradeInfo": [],
+            "listingCount": 40
+        },
+        {
             "id": 21676,
             "name": "Whispering Incubator",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uRXNzZW5jZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4a659194f8/IncubationEssence.png",
@@ -8,15 +48,15 @@
             "stackSize": 10,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": 0,
+                "totalChange": 570,
                 "data": [
                     0,
                     0,
                     0,
                     0,
                     0,
-                    0,
-                    null
+                    null,
+                    570
                 ]
             },
             "lowConfidenceSparkLine": {
@@ -27,7 +67,7 @@
                     0,
                     0,
                     0,
-                    0,
+                    570,
                     570
                 ]
             },
@@ -41,12 +81,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 6.7,
-            "exaltedValue": 0.67,
+            "exaltedValue": 0.61,
             "divineValue": 0.04,
-            "count": 4,
+            "count": 6,
             "detailsId": "whispering-incubator",
             "tradeInfo": [],
-            "listingCount": 61
+            "listingCount": 63
         },
         {
             "id": 21674,
@@ -56,27 +96,27 @@
             "stackSize": 10,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": 0,
+                "totalChange": -16,
                 "data": [
-                    0,
                     0,
                     0,
                     0,
                     -20,
                     0,
-                    0
+                    -20,
+                    -16
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 0,
+                "totalChange": -16,
                 "data": [
-                    0,
                     0,
                     0,
                     0,
                     -20,
                     0,
-                    0
+                    -20,
+                    -16
                 ]
             },
             "implicitModifiers": [],
@@ -88,53 +128,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "",
-            "chaosValue": 5.0,
-            "exaltedValue": 0.5,
+            "chaosValue": 4.2,
+            "exaltedValue": 0.38,
             "divineValue": 0.03,
             "count": 399,
             "detailsId": "ornate-incubator",
             "tradeInfo": [],
-            "listingCount": 14758
-        },
-        {
-            "id": 21675,
-            "name": "Gemcutter's Incubator",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5jdWJhdGlvbi9JbmN1YmF0aW9uR2VtcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5e44f2f524/IncubationGems.png",
-            "baseType": "Gemcutter's Incubator",
-            "stackSize": 10,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -51.22,
-                "data": [
-                    0,
-                    -21.95,
-                    -51.22,
-                    -51.22,
-                    -51.22,
-                    -51.22,
-                    -51.22
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Adds an incubated Quality Gem item to an equippable item\nItem drops after killing (447-1645) monsters",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 2.0,
-            "exaltedValue": 0.2,
-            "divineValue": 0.01,
-            "count": 1,
-            "detailsId": "gemcutters-incubator",
-            "tradeInfo": [],
-            "listingCount": 40
+            "listingCount": 14787
         },
         {
             "id": 21684,
@@ -177,12 +177,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 2.0,
-            "exaltedValue": 0.2,
+            "exaltedValue": 0.18,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "diviners-incubator",
             "tradeInfo": [],
-            "listingCount": 26890
+            "listingCount": 27039
         },
         {
             "id": 21688,
@@ -192,27 +192,27 @@
             "stackSize": 10,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": -72.5,
+                "totalChange": -65.71,
                 "data": [
                     0,
-                    -12.5,
-                    -50,
-                    -50,
-                    -22.5,
-                    -4,
-                    -72.5
+                    -42.86,
+                    -42.86,
+                    -11.43,
+                    9.71,
+                    -42.86,
+                    -65.71
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -72.5,
+                "totalChange": -65.71,
                 "data": [
                     0,
-                    -12.5,
-                    -50,
-                    -50,
-                    -22.5,
-                    -4,
-                    -72.5
+                    -42.86,
+                    -42.86,
+                    -11.43,
+                    9.71,
+                    -42.86,
+                    -65.71
                 ]
             },
             "implicitModifiers": [],
@@ -224,13 +224,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "",
-            "chaosValue": 1.1,
+            "chaosValue": 1.2,
             "exaltedValue": 0.11,
             "divineValue": 0.01,
-            "count": 203,
+            "count": 204,
             "detailsId": "thaumaturges-incubator",
             "tradeInfo": [],
-            "listingCount": 3708
+            "listingCount": 3710
         },
         {
             "id": 21677,
@@ -273,12 +273,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
             "count": 177,
             "detailsId": "singular-incubator",
             "tradeInfo": [],
-            "listingCount": 6688
+            "listingCount": 6689
         },
         {
             "id": 21678,
@@ -321,12 +321,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 307,
+            "count": 302,
             "detailsId": "primal-incubator",
             "tradeInfo": [],
-            "listingCount": 6243
+            "listingCount": 6242
         },
         {
             "id": 21679,
@@ -369,12 +369,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 78,
+            "count": 73,
             "detailsId": "celestial-jewellers-incubator",
             "tradeInfo": [],
-            "listingCount": 2537
+            "listingCount": 2533
         },
         {
             "id": 21682,
@@ -417,12 +417,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 245,
+            "count": 246,
             "detailsId": "cartographers-incubator",
             "tradeInfo": [],
-            "listingCount": 9755
+            "listingCount": 9756
         },
         {
             "id": 21683,
@@ -465,12 +465,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "skittering-incubator",
             "tradeInfo": [],
-            "listingCount": 32243
+            "listingCount": 32252
         },
         {
             "id": 21686,
@@ -513,12 +513,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "fossilised-incubator",
             "tradeInfo": [],
-            "listingCount": 22080
+            "listingCount": 22079
         },
         {
             "id": 21687,
@@ -561,12 +561,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 366,
+            "count": 367,
             "detailsId": "abyssal-incubator",
             "tradeInfo": [],
-            "listingCount": 15397
+            "listingCount": 15395
         },
         {
             "id": 21689,
@@ -609,12 +609,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "mysterious-incubator",
             "tradeInfo": [],
-            "listingCount": 14753
+            "listingCount": 14756
         },
         {
             "id": 21690,
@@ -657,12 +657,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 77,
+            "count": 78,
             "detailsId": "celestial-armoursmiths-incubator",
             "tradeInfo": [],
-            "listingCount": 2649
+            "listingCount": 2650
         },
         {
             "id": 21691,
@@ -705,12 +705,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "foreboding-incubator",
             "tradeInfo": [],
-            "listingCount": 16202
+            "listingCount": 16209
         },
         {
             "id": 21692,
@@ -753,9 +753,9 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 129,
+            "count": 124,
             "detailsId": "otherworldly-incubator",
             "tradeInfo": [],
             "listingCount": 4826
@@ -801,12 +801,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "geomancers-incubator",
             "tradeInfo": [],
-            "listingCount": 11777
+            "listingCount": 11780
         },
         {
             "id": 21695,
@@ -849,12 +849,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "infused-incubator",
             "tradeInfo": [],
-            "listingCount": 18962
+            "listingCount": 18960
         },
         {
             "id": 21696,
@@ -897,12 +897,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "fragmented-incubator",
             "tradeInfo": [],
-            "listingCount": 35983
+            "listingCount": 35982
         },
         {
             "id": 21700,
@@ -945,12 +945,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 67,
+            "count": 65,
             "detailsId": "celestial-blacksmiths-incubator",
             "tradeInfo": [],
-            "listingCount": 2781
+            "listingCount": 2782
         },
         {
             "id": 60145,
@@ -993,12 +993,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 380,
+            "count": 386,
             "detailsId": "maddening-incubator",
             "tradeInfo": [],
-            "listingCount": 10872
+            "listingCount": 10876
         },
         {
             "id": 60147,
@@ -1041,9 +1041,9 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
-            "count": 164,
+            "count": 162,
             "detailsId": "blighted-incubator",
             "tradeInfo": [],
             "listingCount": 7048
@@ -1089,12 +1089,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.0,
-            "exaltedValue": 0.1,
+            "exaltedValue": 0.09,
             "divineValue": 0.01,
             "count": 399,
             "detailsId": "kalguuran-incubator",
             "tradeInfo": [],
-            "listingCount": 17076
+            "listingCount": 17065
         }
     ]
 }
