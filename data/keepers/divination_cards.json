@@ -999,10 +999,10 @@
             "chaosValue": 386.8,
             "exaltedValue": 37.59,
             "divineValue": 2.5,
-            "count": 108,
+            "count": 107,
             "detailsId": "seven-years-bad-luck",
             "tradeInfo": [],
-            "listingCount": 436
+            "listingCount": 435
         },
         {
             "id": 129508,
@@ -5894,55 +5894,6 @@
             "listingCount": 82
         },
         {
-            "id": 2042,
-            "name": "The Saint's Treasure",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Saint's Treasure",
-            "stackSize": 10,
-            "artFilename": "TheSaintsTreasure",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 54.17,
-                "data": [
-                    0,
-                    -4.17,
-                    -21.88,
-                    35.42,
-                    35.42,
-                    322.9,
-                    54.17
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 54.17,
-                "data": [
-                    0,
-                    -4.17,
-                    -21.88,
-                    35.42,
-                    35.42,
-                    322.9,
-                    54.17
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{2x Exalted Orb}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:31>{Publicly, he lived a pious and chaste life of poverty. Privately, tithes and tributes made him and his lascivious company very comfortable indeed.}",
-            "chaosValue": 14.8,
-            "exaltedValue": 1.44,
-            "divineValue": 0.1,
-            "count": 15,
-            "detailsId": "the-saints-treasure",
-            "tradeInfo": [],
-            "listingCount": 306
-        },
-        {
             "id": 6920,
             "name": "Perfection",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -6546,6 +6497,55 @@
             "detailsId": "the-craving",
             "tradeInfo": [],
             "listingCount": 70
+        },
+        {
+            "id": 2042,
+            "name": "The Saint's Treasure",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Saint's Treasure",
+            "stackSize": 10,
+            "artFilename": "TheSaintsTreasure",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 16.67,
+                "data": [
+                    0,
+                    -4.17,
+                    -21.88,
+                    35.42,
+                    35.42,
+                    322.9,
+                    16.67
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 16.67,
+                "data": [
+                    0,
+                    -4.17,
+                    -21.88,
+                    35.42,
+                    35.42,
+                    322.9,
+                    16.67
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{2x Exalted Orb}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:31>{Publicly, he lived a pious and chaste life of poverty. Privately, tithes and tributes made him and his lascivious company very comfortable indeed.}",
+            "chaosValue": 11.2,
+            "exaltedValue": 1.09,
+            "divineValue": 0.07,
+            "count": 14,
+            "detailsId": "the-saints-treasure",
+            "tradeInfo": [],
+            "listingCount": 306
         },
         {
             "id": 1445,
@@ -14070,7 +14070,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.29,
             "divineValue": 0.02,
-            "count": 30,
+            "count": 29,
             "detailsId": "the-void",
             "tradeInfo": [],
             "listingCount": 978
@@ -16860,6 +16860,47 @@
             "listingCount": 446
         },
         {
+            "id": 103548,
+            "name": "Poisoned Faith",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Poisoned Faith",
+            "stackSize": 8,
+            "artFilename": "PoisonedFaith",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -85.45,
+                "data": [
+                    0,
+                    0,
+                    81.82,
+                    81.82,
+                    null,
+                    -90.91,
+                    -85.45
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Arakaali's Fang}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Even our most devout beliefs are subtly shaped by our darkest desires.",
+            "chaosValue": 1.6,
+            "exaltedValue": 0.16,
+            "divineValue": 0.01,
+            "count": 3,
+            "detailsId": "poisoned-faith",
+            "tradeInfo": [],
+            "listingCount": 66
+        },
+        {
             "id": 588,
             "name": "Grave Knowledge",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -17005,47 +17046,6 @@
             "detailsId": "alivias-grace",
             "tradeInfo": [],
             "listingCount": 141
-        },
-        {
-            "id": 103548,
-            "name": "Poisoned Faith",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Poisoned Faith",
-            "stackSize": 8,
-            "artFilename": "PoisonedFaith",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -87.27,
-                "data": [
-                    0,
-                    0,
-                    81.82,
-                    81.82,
-                    null,
-                    -90.91,
-                    -87.27
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Arakaali's Fang}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Even our most devout beliefs are subtly shaped by our darkest desires.",
-            "chaosValue": 1.4,
-            "exaltedValue": 0.14,
-            "divineValue": 0.01,
-            "count": 2,
-            "detailsId": "poisoned-faith",
-            "tradeInfo": [],
-            "listingCount": 66
         },
         {
             "id": 420,
@@ -19884,7 +19884,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 22,
+            "count": 21,
             "detailsId": "the-tireless-extractor",
             "tradeInfo": [],
             "listingCount": 881
