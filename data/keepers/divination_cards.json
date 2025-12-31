@@ -84,10 +84,10 @@
             "chaosValue": 13787,
             "exaltedValue": 1476,
             "divineValue": 88.27,
-            "count": 27,
+            "count": 30,
             "detailsId": "house-of-mirrors",
             "tradeInfo": [],
-            "listingCount": 57
+            "listingCount": 60
         },
         {
             "id": 120242,
@@ -4222,10 +4222,10 @@
             "chaosValue": 30.0,
             "exaltedValue": 3.21,
             "divineValue": 0.19,
-            "count": 16,
+            "count": 17,
             "detailsId": "broken-promises",
             "tradeInfo": [],
-            "listingCount": 84
+            "listingCount": 85
         },
         {
             "id": 23816,
@@ -8647,55 +8647,6 @@
             "listingCount": 159
         },
         {
-            "id": 649,
-            "name": "Hunter's Reward",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Hunter's Reward",
-            "stackSize": 3,
-            "artFilename": "HuntersReward",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 40,
-                "data": [
-                    0,
-                    24,
-                    16,
-                    16,
-                    20,
-                    20,
-                    40
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 40,
-                "data": [
-                    0,
-                    24,
-                    16,
-                    16,
-                    20,
-                    20,
-                    40
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{The Taming}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "To tame a beast, you first must subdue its heart.",
-            "chaosValue": 7.0,
-            "exaltedValue": 0.75,
-            "divineValue": 0.04,
-            "count": 5,
-            "detailsId": "hunters-reward",
-            "tradeInfo": [],
-            "listingCount": 118
-        },
-        {
             "id": 1544,
             "name": "The Lich",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -9233,6 +9184,55 @@
             "detailsId": "bound-by-flame",
             "tradeInfo": [],
             "listingCount": 149
+        },
+        {
+            "id": 649,
+            "name": "Hunter's Reward",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Hunter's Reward",
+            "stackSize": 3,
+            "artFilename": "HuntersReward",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 20,
+                "data": [
+                    0,
+                    24,
+                    16,
+                    16,
+                    20,
+                    20,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 30,
+                "data": [
+                    0,
+                    24,
+                    16,
+                    16,
+                    20,
+                    20,
+                    30
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{The Taming}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "To tame a beast, you first must subdue its heart.",
+            "chaosValue": 6.5,
+            "exaltedValue": 0.7,
+            "divineValue": 0.04,
+            "count": 4,
+            "detailsId": "hunters-reward",
+            "tradeInfo": [],
+            "listingCount": 118
         },
         {
             "id": 971,
@@ -11588,6 +11588,55 @@
             "listingCount": 271
         },
         {
+            "id": 1671,
+            "name": "The Web",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Web",
+            "stackSize": 8,
+            "artFilename": "TheWeb",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 360,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    320,
+                    320,
+                    360
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 360,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    320,
+                    320,
+                    360
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<magicitem>{Weapon of Crafting}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:30>{A weapon, a shelter, a prison.\nThe web's purpose changes\nwith the spider's needs.\nA lesson we should\ntake to heart.}",
+            "chaosValue": 4.6,
+            "exaltedValue": 0.49,
+            "divineValue": 0.03,
+            "count": 12,
+            "detailsId": "the-web",
+            "tradeInfo": [],
+            "listingCount": 190
+        },
+        {
             "id": 2048,
             "name": "The Forsaken",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -11929,55 +11978,6 @@
             "detailsId": "the-gemcutter",
             "tradeInfo": [],
             "listingCount": 508
-        },
-        {
-            "id": 1671,
-            "name": "The Web",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Web",
-            "stackSize": 8,
-            "artFilename": "TheWeb",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 320,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    320,
-                    320,
-                    320
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 320,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    320,
-                    320,
-                    320
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<magicitem>{Weapon of Crafting}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:30>{A weapon, a shelter, a prison.\nThe web's purpose changes\nwith the spider's needs.\nA lesson we should\ntake to heart.}",
-            "chaosValue": 4.2,
-            "exaltedValue": 0.45,
-            "divineValue": 0.03,
-            "count": 9,
-            "detailsId": "the-web",
-            "tradeInfo": [],
-            "listingCount": 187
         },
         {
             "id": 2037,
@@ -19877,10 +19877,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.11,
             "divineValue": 0.01,
-            "count": 14,
+            "count": 15,
             "detailsId": "ever-changing",
             "tradeInfo": [],
-            "listingCount": 543
+            "listingCount": 544
         },
         {
             "id": 125022,
