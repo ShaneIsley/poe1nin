@@ -1563,10 +1563,10 @@
             "chaosValue": 153.4,
             "exaltedValue": 17.22,
             "divineValue": 1.0,
-            "count": 8,
+            "count": 9,
             "detailsId": "love-through-ice",
             "tradeInfo": [],
-            "listingCount": 100
+            "listingCount": 101
         },
         {
             "id": 54642,
@@ -7130,6 +7130,54 @@
             "listingCount": 201
         },
         {
+            "id": 257,
+            "name": "Chaotic Disposition",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Chaotic Disposition",
+            "artFilename": "ChaoticDisposition",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -43.04,
+                "data": [
+                    0,
+                    -43.52,
+                    -52.44,
+                    -55.41,
+                    -52.44,
+                    -52.44,
+                    -43.04
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -43.04,
+                "data": [
+                    0,
+                    -43.52,
+                    -52.44,
+                    -55.41,
+                    -52.44,
+                    -52.44,
+                    -43.04
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{5x Chaos Orb}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Life isn't what you make of it, it's already been made for you.",
+            "chaosValue": 9.58,
+            "exaltedValue": 1.08,
+            "divineValue": 0.06,
+            "count": 6,
+            "detailsId": "chaotic-disposition",
+            "tradeInfo": [],
+            "listingCount": 455
+        },
+        {
             "id": 744,
             "name": "Light and Truth",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -8135,54 +8183,6 @@
             "listingCount": 235
         },
         {
-            "id": 257,
-            "name": "Chaotic Disposition",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Chaotic Disposition",
-            "artFilename": "ChaoticDisposition",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -58.38,
-                "data": [
-                    0,
-                    -43.52,
-                    -52.44,
-                    -55.41,
-                    -52.44,
-                    -52.44,
-                    -58.38
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -58.38,
-                "data": [
-                    0,
-                    -43.52,
-                    -52.44,
-                    -55.41,
-                    -52.44,
-                    -52.44,
-                    -58.38
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{5x Chaos Orb}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Life isn't what you make of it, it's already been made for you.",
-            "chaosValue": 7.0,
-            "exaltedValue": 0.79,
-            "divineValue": 0.05,
-            "count": 8,
-            "detailsId": "chaotic-disposition",
-            "tradeInfo": [],
-            "listingCount": 457
-        },
-        {
             "id": 1425,
             "name": "The Battle Born",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -8851,6 +8851,55 @@
             "detailsId": "the-union",
             "tradeInfo": [],
             "listingCount": 286
+        },
+        {
+            "id": 6937,
+            "name": "The Rite of Elements",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Rite of Elements",
+            "stackSize": 5,
+            "artFilename": "TheRiteofElements",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 300,
+                "data": [
+                    0,
+                    93.75,
+                    100,
+                    100,
+                    100,
+                    100,
+                    300
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 300,
+                "data": [
+                    0,
+                    93.75,
+                    100,
+                    100,
+                    100,
+                    100,
+                    300
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 21 Golem Gem}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:29>{A mind as quick as lightning, \nfists as hard as stone, \na heart that burns with fury, \nand eyes that chill to the bone.}",
+            "chaosValue": 6.4,
+            "exaltedValue": 0.72,
+            "divineValue": 0.04,
+            "count": 10,
+            "detailsId": "the-rite-of-elements",
+            "tradeInfo": [],
+            "listingCount": 285
         },
         {
             "id": 20845,
@@ -10021,55 +10070,6 @@
             "listingCount": 133
         },
         {
-            "id": 98234,
-            "name": "Something Dark",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Something Dark",
-            "stackSize": 5,
-            "artFilename": "SomethingDark",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -50.48,
-                "data": [
-                    0,
-                    -16.19,
-                    -46.67,
-                    -44.76,
-                    -50.48,
-                    -44.76,
-                    -50.48
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -50.48,
-                "data": [
-                    0,
-                    -16.19,
-                    -46.67,
-                    -44.76,
-                    -50.48,
-                    -44.76,
-                    -50.48
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{Blueprint}\n<default>{Area Level:} <normal>{83}\n<default>{Fully Revealed}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Even in darkness you may find a friend.",
-            "chaosValue": 5.2,
-            "exaltedValue": 0.58,
-            "divineValue": 0.03,
-            "count": 14,
-            "detailsId": "something-dark",
-            "tradeInfo": [],
-            "listingCount": 131
-        },
-        {
             "id": 1640,
             "name": "The Twins",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -10256,6 +10256,55 @@
             "detailsId": "diallas-subjugation",
             "tradeInfo": [],
             "listingCount": 284
+        },
+        {
+            "id": 644,
+            "name": "Hubris",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Hubris",
+            "stackSize": 5,
+            "artFilename": "Hubris",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 400,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    320,
+                    400
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 400,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    320,
+                    400
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Ring}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"This one? It is NOT for sale. You would sooner pry it from my lifeless hand.\"\n- Jonf\u00e9 Darontos, Ringmaker",
+            "chaosValue": 5.0,
+            "exaltedValue": 0.56,
+            "divineValue": 0.03,
+            "count": 10,
+            "detailsId": "hubris",
+            "tradeInfo": [],
+            "listingCount": 313
         },
         {
             "id": 771,
@@ -11241,7 +11290,7 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.56,
             "divineValue": 0.03,
-            "count": 6,
+            "count": 5,
             "detailsId": "a-stone-perfected",
             "tradeInfo": [],
             "listingCount": 113
@@ -11290,10 +11339,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.56,
             "divineValue": 0.03,
-            "count": 59,
+            "count": 60,
             "detailsId": "guardians-challenge",
             "tradeInfo": [],
-            "listingCount": 237
+            "listingCount": 238
         },
         {
             "id": 93199,
@@ -11776,55 +11825,6 @@
             "detailsId": "alone-in-the-darkness",
             "tradeInfo": [],
             "listingCount": 254
-        },
-        {
-            "id": 644,
-            "name": "Hubris",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Hubris",
-            "stackSize": 5,
-            "artFilename": "Hubris",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 360,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    320,
-                    360
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 360,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    320,
-                    360
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Ring}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"This one? It is NOT for sale. You would sooner pry it from my lifeless hand.\"\n- Jonf\u00e9 Darontos, Ringmaker",
-            "chaosValue": 4.6,
-            "exaltedValue": 0.52,
-            "divineValue": 0.03,
-            "count": 11,
-            "detailsId": "hubris",
-            "tradeInfo": [],
-            "listingCount": 313
         },
         {
             "id": 1508,
@@ -14301,6 +14301,104 @@
             "listingCount": 122
         },
         {
+            "id": 98234,
+            "name": "Something Dark",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Something Dark",
+            "stackSize": 5,
+            "artFilename": "SomethingDark",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -68.57,
+                "data": [
+                    0,
+                    -16.19,
+                    -46.67,
+                    -44.76,
+                    -50.48,
+                    -44.76,
+                    -68.57
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -68.57,
+                "data": [
+                    0,
+                    -16.19,
+                    -46.67,
+                    -44.76,
+                    -50.48,
+                    -44.76,
+                    -68.57
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Blueprint}\n<default>{Area Level:} <normal>{83}\n<default>{Fully Revealed}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Even in darkness you may find a friend.",
+            "chaosValue": 3.3,
+            "exaltedValue": 0.37,
+            "divineValue": 0.02,
+            "count": 15,
+            "detailsId": "something-dark",
+            "tradeInfo": [],
+            "listingCount": 132
+        },
+        {
+            "id": 1660,
+            "name": "The Warden",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Warden",
+            "stackSize": 4,
+            "artFilename": "TheWarden",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 6.67,
+                "data": [
+                    0,
+                    null,
+                    null,
+                    -53.33,
+                    -53.33,
+                    null,
+                    6.67
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 6.67,
+                "data": [
+                    0,
+                    66.67,
+                    -26.67,
+                    -53.33,
+                    -53.33,
+                    -3.33,
+                    6.67
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<rareitem>{Amulet}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:31>{Brutus' first innovation as Lord Incarcerator was a weighted chain around every neck so that his prisoners would forever bow to him.}",
+            "chaosValue": 3.2,
+            "exaltedValue": 0.36,
+            "divineValue": 0.02,
+            "count": 5,
+            "detailsId": "the-warden",
+            "tradeInfo": [],
+            "listingCount": 215
+        },
+        {
             "id": 21567,
             "name": "The Fool",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -14791,55 +14889,6 @@
             "listingCount": 651
         },
         {
-            "id": 6937,
-            "name": "The Rite of Elements",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Rite of Elements",
-            "stackSize": 5,
-            "artFilename": "TheRiteofElements",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 87.5,
-                "data": [
-                    0,
-                    93.75,
-                    100,
-                    100,
-                    100,
-                    100,
-                    87.5
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 87.5,
-                "data": [
-                    0,
-                    93.75,
-                    100,
-                    100,
-                    100,
-                    100,
-                    87.5
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Level 21 Golem Gem}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:29>{A mind as quick as lightning, \nfists as hard as stone, \na heart that burns with fury, \nand eyes that chill to the bone.}",
-            "chaosValue": 3.0,
-            "exaltedValue": 0.34,
-            "divineValue": 0.02,
-            "count": 11,
-            "detailsId": "the-rite-of-elements",
-            "tradeInfo": [],
-            "listingCount": 285
-        },
-        {
             "id": 21539,
             "name": "Imperial Legacy",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -15172,55 +15221,6 @@
             "detailsId": "the-offering",
             "tradeInfo": [],
             "listingCount": 147
-        },
-        {
-            "id": 1660,
-            "name": "The Warden",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Warden",
-            "stackSize": 4,
-            "artFilename": "TheWarden",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -53.33,
-                "data": [
-                    0,
-                    null,
-                    null,
-                    -53.33,
-                    -53.33,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -3.33,
-                "data": [
-                    0,
-                    66.67,
-                    -26.67,
-                    -53.33,
-                    -53.33,
-                    -3.33,
-                    -3.33
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<rareitem>{Amulet}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:31>{Brutus' first innovation as Lord Incarcerator was a weighted chain around every neck so that his prisoners would forever bow to him.}",
-            "chaosValue": 2.9,
-            "exaltedValue": 0.33,
-            "divineValue": 0.02,
-            "count": 4,
-            "detailsId": "the-warden",
-            "tradeInfo": [],
-            "listingCount": 215
         },
         {
             "id": 46251,
