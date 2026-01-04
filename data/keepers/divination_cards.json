@@ -50,7 +50,7 @@
             "artFilename": "HouseOfMirrors",
             "itemClass": 6,
             "sparkLine": {
-                "totalChange": -4.75,
+                "totalChange": -4.45,
                 "data": [
                     0,
                     1.61,
@@ -58,11 +58,11 @@
                     -20.94,
                     -71.52,
                     -0.18,
-                    -4.75
+                    -4.45
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -4.75,
+                "totalChange": -4.45,
                 "data": [
                     0,
                     1.61,
@@ -70,7 +70,7 @@
                     -20.94,
                     -71.52,
                     -0.18,
-                    -4.75
+                    -4.45
                 ]
             },
             "implicitModifiers": [],
@@ -82,13 +82,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "What do you see in the mirror?",
-            "chaosValue": 14364,
-            "exaltedValue": 1478,
-            "divineValue": 95.0,
-            "count": 33,
+            "chaosValue": 14409,
+            "exaltedValue": 1482,
+            "divineValue": 95.3,
+            "count": 31,
             "detailsId": "house-of-mirrors",
             "tradeInfo": [],
-            "listingCount": 64
+            "listingCount": 62
         },
         {
             "id": 125069,
@@ -2111,10 +2111,10 @@
             "chaosValue": 100.0,
             "exaltedValue": 10.29,
             "divineValue": 0.66,
-            "count": 38,
+            "count": 37,
             "detailsId": "the-sephirot",
             "tradeInfo": [],
-            "listingCount": 292
+            "listingCount": 291
         },
         {
             "id": 7393,
@@ -5015,10 +5015,10 @@
             "chaosValue": 20.0,
             "exaltedValue": 2.06,
             "divineValue": 0.13,
-            "count": 9,
+            "count": 10,
             "detailsId": "prometheus-armoury",
             "tradeInfo": [],
-            "listingCount": 38
+            "listingCount": 39
         },
         {
             "id": 54397,
@@ -12235,6 +12235,55 @@
             "listingCount": 116
         },
         {
+            "id": 11,
+            "name": "Abandoned Wealth",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Abandoned Wealth",
+            "stackSize": 5,
+            "artFilename": "AbandonedWealth",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -20,
+                "data": [
+                    0,
+                    -5.45,
+                    -14.55,
+                    -18.18,
+                    -18.18,
+                    null,
+                    -20
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -20,
+                "data": [
+                    0,
+                    -5.45,
+                    -14.55,
+                    -18.18,
+                    -18.18,
+                    -21.82,
+                    -20
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{3x Exalted Orb}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "When the world burned, the greedy burned with it, while the clever left as paupers.",
+            "chaosValue": 4.4,
+            "exaltedValue": 0.45,
+            "divineValue": 0.03,
+            "count": 5,
+            "detailsId": "abandoned-wealth",
+            "tradeInfo": [],
+            "listingCount": 177
+        },
+        {
             "id": 1457,
             "name": "The Celestial Justicar",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12380,55 +12429,6 @@
             "detailsId": "the-lich",
             "tradeInfo": [],
             "listingCount": 171
-        },
-        {
-            "id": 2037,
-            "name": "Call to the First Ones",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Call to the First Ones",
-            "stackSize": 5,
-            "artFilename": "CallToTheFirstOnes",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    -4.55,
-                    -4.55,
-                    0,
-                    22.73,
-                    22.73,
-                    0
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    -4.55,
-                    -4.55,
-                    0,
-                    22.73,
-                    22.73,
-                    0
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<rareitem>{Tier 1 Talisman}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The Ezomyte, desperate for aid, cried out to the gods.",
-            "chaosValue": 4.4,
-            "exaltedValue": 0.45,
-            "divineValue": 0.03,
-            "count": 8,
-            "detailsId": "call-to-the-first-ones",
-            "tradeInfo": [],
-            "listingCount": 93
         },
         {
             "id": 2041,
@@ -12578,55 +12578,6 @@
             "listingCount": 138
         },
         {
-            "id": 11,
-            "name": "Abandoned Wealth",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Abandoned Wealth",
-            "stackSize": 5,
-            "artFilename": "AbandonedWealth",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -18.18,
-                "data": [
-                    0,
-                    -5.45,
-                    -14.55,
-                    -18.18,
-                    -18.18,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -21.82,
-                "data": [
-                    0,
-                    -5.45,
-                    -14.55,
-                    -18.18,
-                    -18.18,
-                    -21.82,
-                    -21.82
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{3x Exalted Orb}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "When the world burned, the greedy burned with it, while the clever left as paupers.",
-            "chaosValue": 4.3,
-            "exaltedValue": 0.44,
-            "divineValue": 0.03,
-            "count": 4,
-            "detailsId": "abandoned-wealth",
-            "tradeInfo": [],
-            "listingCount": 177
-        },
-        {
             "id": 1509,
             "name": "The Gentleman",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12715,6 +12666,55 @@
             "detailsId": "the-web",
             "tradeInfo": [],
             "listingCount": 190
+        },
+        {
+            "id": 2037,
+            "name": "Call to the First Ones",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Call to the First Ones",
+            "stackSize": 5,
+            "artFilename": "CallToTheFirstOnes",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -4.55,
+                "data": [
+                    0,
+                    -4.55,
+                    -4.55,
+                    0,
+                    22.73,
+                    22.73,
+                    -4.55
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -4.55,
+                "data": [
+                    0,
+                    -4.55,
+                    -4.55,
+                    0,
+                    22.73,
+                    22.73,
+                    -4.55
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<rareitem>{Tier 1 Talisman}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "The Ezomyte, desperate for aid, cried out to the gods.",
+            "chaosValue": 4.2,
+            "exaltedValue": 0.43,
+            "divineValue": 0.03,
+            "count": 7,
+            "detailsId": "call-to-the-first-ones",
+            "tradeInfo": [],
+            "listingCount": 93
         },
         {
             "id": 7402,
