@@ -1275,6 +1275,47 @@
             "listingCount": 35
         },
         {
+            "id": 1633,
+            "name": "The Thaumaturgist",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Thaumaturgist",
+            "stackSize": 8,
+            "artFilename": "TheThaumaturgist",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 405.3,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    11.23,
+                    10.67,
+                    405.3
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Shavronne's Revelation}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:31>{\"Mastery of thaumaturgy is like any other pursuit; it requires dedication and sacrifice. Sometimes several sacrifices.\"\n- Shavronne of Umbra}",
+            "chaosValue": 151.6,
+            "exaltedValue": 18.03,
+            "divineValue": 1.0,
+            "count": 1,
+            "detailsId": "the-thaumaturgist",
+            "tradeInfo": [],
+            "listingCount": 63
+        },
+        {
             "id": 7437,
             "name": "Beauty Through Death",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -1840,47 +1881,6 @@
             "listingCount": 45
         },
         {
-            "id": 20804,
-            "name": "The Seeker",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Seeker",
-            "stackSize": 9,
-            "artFilename": "TheSeeker",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 179.5,
-                "data": [
-                    0,
-                    0,
-                    182.9,
-                    182.4,
-                    182.1,
-                    180,
-                    179.5
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{3x Orb of Annulment}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "All that is flawed is worthless. The slightest error, and this might as well be trash.",
-            "chaosValue": 111.8,
-            "exaltedValue": 13.29,
-            "divineValue": 0.74,
-            "count": 2,
-            "detailsId": "the-seeker",
-            "tradeInfo": [],
-            "listingCount": 114
-        },
-        {
             "id": 1603,
             "name": "The Sephirot",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -1924,7 +1924,7 @@
             "chaosValue": 100.0,
             "exaltedValue": 11.89,
             "divineValue": 0.66,
-            "count": 37,
+            "count": 35,
             "detailsId": "the-sephirot",
             "tradeInfo": [],
             "listingCount": 291
@@ -2786,6 +2786,47 @@
             "detailsId": "terrible-secret-of-space",
             "tradeInfo": [],
             "listingCount": 31
+        },
+        {
+            "id": 20804,
+            "name": "The Seeker",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Seeker",
+            "stackSize": 9,
+            "artFilename": "TheSeeker",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 30,
+                "data": [
+                    0,
+                    0,
+                    182.9,
+                    182.4,
+                    182.1,
+                    180,
+                    30
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{3x Orb of Annulment}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "All that is flawed is worthless. The slightest error, and this might as well be trash.",
+            "chaosValue": 52.0,
+            "exaltedValue": 6.18,
+            "divineValue": 0.34,
+            "count": 3,
+            "detailsId": "the-seeker",
+            "tradeInfo": [],
+            "listingCount": 114
         },
         {
             "id": 95872,
@@ -3770,47 +3811,6 @@
             "listingCount": 300
         },
         {
-            "id": 1633,
-            "name": "The Thaumaturgist",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Thaumaturgist",
-            "stackSize": 8,
-            "artFilename": "TheThaumaturgist",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 10.53,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    11.23,
-                    10.67,
-                    10.53
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Shavronne's Revelation}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:31>{\"Mastery of thaumaturgy is like any other pursuit; it requires dedication and sacrifice. Sometimes several sacrifices.\"\n- Shavronne of Umbra}",
-            "chaosValue": 33.16,
-            "exaltedValue": 3.94,
-            "divineValue": 0.22,
-            "count": 2,
-            "detailsId": "the-thaumaturgist",
-            "tradeInfo": [],
-            "listingCount": 63
-        },
-        {
             "id": 1542,
             "name": "The Last One Standing",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -3909,47 +3909,6 @@
             "listingCount": 108
         },
         {
-            "id": 42386,
-            "name": "The White Knight",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The White Knight",
-            "stackSize": 8,
-            "artFilename": "TheWhiteKnight",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -66.77,
-                "data": [
-                    0,
-                    -9.1,
-                    -9.28,
-                    -9.71,
-                    -9.92,
-                    -10.86,
-                    -66.77
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{Six-Link Astral Plate}\n<default>{Item Level:} <normal>{100}\n<default>{Crusader Item}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Where Decay festers, I shall expunge it, and leave in its place a shining monument.",
-            "chaosValue": 31.16,
-            "exaltedValue": 3.71,
-            "divineValue": 0.21,
-            "count": 3,
-            "detailsId": "the-white-knight",
-            "tradeInfo": [],
-            "listingCount": 47
-        },
-        {
             "id": 60059,
             "name": "The Shortcut",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -3988,6 +3947,55 @@
             "detailsId": "the-shortcut",
             "tradeInfo": [],
             "listingCount": 41
+        },
+        {
+            "id": 2292,
+            "name": "No Traces",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "No Traces",
+            "stackSize": 9,
+            "artFilename": "NoTraces",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 330,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    330
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 330,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    330
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{30x Orb of Scouring}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:31>{There is no mistake so great that it cannot be undone.}",
+            "chaosValue": 30.1,
+            "exaltedValue": 3.58,
+            "divineValue": 0.2,
+            "count": 9,
+            "detailsId": "no-traces",
+            "tradeInfo": [],
+            "listingCount": 342
         },
         {
             "id": 60230,
@@ -4227,6 +4235,55 @@
             "listingCount": 32
         },
         {
+            "id": 67873,
+            "name": "The Offspring",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Offspring",
+            "stackSize": 9,
+            "artFilename": "TheOffspring",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    null,
+                    0,
+                    0,
+                    0,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 409.1,
+                "data": [
+                    0,
+                    -49.09,
+                    -49.09,
+                    -49.09,
+                    -52.73,
+                    120,
+                    409.1
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Ryslatha's Coil}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "The swarm began with just a couple of children. Now, it is her entire existence.",
+            "chaosValue": 28.0,
+            "exaltedValue": 3.33,
+            "divineValue": 0.18,
+            "count": 3,
+            "detailsId": "the-offspring",
+            "tradeInfo": [],
+            "listingCount": 145
+        },
+        {
             "id": 23816,
             "name": "Squandered Prosperity",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -4325,53 +4382,45 @@
             "listingCount": 31
         },
         {
-            "id": 2292,
-            "name": "No Traces",
+            "id": 42386,
+            "name": "The White Knight",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "No Traces",
-            "stackSize": 9,
-            "artFilename": "NoTraces",
+            "baseType": "The White Knight",
+            "stackSize": 8,
+            "artFilename": "TheWhiteKnight",
             "itemClass": 6,
             "sparkLine": {
-                "totalChange": 282.9,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    282.9
-                ]
+                "totalChange": 0,
+                "data": []
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 282.9,
+                "totalChange": -71.04,
                 "data": [
                     0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    282.9
+                    -9.1,
+                    -9.28,
+                    -9.71,
+                    -9.92,
+                    -10.86,
+                    -71.04
                 ]
             },
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "<currencyitem>{30x Orb of Scouring}",
+                    "text": "<whiteitem>{Six-Link Astral Plate}\n<default>{Item Level:} <normal>{100}\n<default>{Crusader Item}",
                     "optional": false
                 }
             ],
             "mutatedModifiers": [],
-            "flavourText": "<size:31>{There is no mistake so great that it cannot be undone.}",
-            "chaosValue": 26.8,
-            "exaltedValue": 3.19,
+            "flavourText": "Where Decay festers, I shall expunge it, and leave in its place a shining monument.",
+            "chaosValue": 27.16,
+            "exaltedValue": 3.23,
             "divineValue": 0.18,
-            "count": 8,
-            "detailsId": "no-traces",
+            "count": 3,
+            "detailsId": "the-white-knight",
             "tradeInfo": [],
-            "listingCount": 342
+            "listingCount": 47
         },
         {
             "id": 60109,
@@ -5390,10 +5439,10 @@
             "chaosValue": 19.32,
             "exaltedValue": 2.3,
             "divineValue": 0.13,
-            "count": 22,
+            "count": 23,
             "detailsId": "the-apothecary",
             "tradeInfo": [],
-            "listingCount": 90
+            "listingCount": 91
         },
         {
             "id": 20787,
@@ -5664,55 +5713,6 @@
             "detailsId": "the-hook",
             "tradeInfo": [],
             "listingCount": 132
-        },
-        {
-            "id": 67873,
-            "name": "The Offspring",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Offspring",
-            "stackSize": 9,
-            "artFilename": "TheOffspring",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    null,
-                    0,
-                    0,
-                    0,
-                    null,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 245.4,
-                "data": [
-                    0,
-                    -49.09,
-                    -49.09,
-                    -49.09,
-                    -52.73,
-                    120,
-                    245.4
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Ryslatha's Coil}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The swarm began with just a couple of children. Now, it is her entire existence.",
-            "chaosValue": 19.0,
-            "exaltedValue": 2.26,
-            "divineValue": 0.13,
-            "count": 2,
-            "detailsId": "the-offspring",
-            "tradeInfo": [],
-            "listingCount": 144
         },
         {
             "id": 22463,
@@ -7504,6 +7504,55 @@
             "listingCount": 62
         },
         {
+            "id": 128526,
+            "name": "The Last Laugh",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Last Laugh",
+            "stackSize": 5,
+            "artFilename": "TheLastLaugh",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 73.58,
+                "data": [
+                    0,
+                    0,
+                    18.87,
+                    1.89,
+                    69.81,
+                    69.81,
+                    73.58
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 73.58,
+                "data": [
+                    0,
+                    0,
+                    18.87,
+                    1.89,
+                    69.81,
+                    69.81,
+                    73.58
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Replica Dragonfang's Flight}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:24>{Holding fast when shadows fall,\nOver ruins, jesters call.\nNothing breaks their twisted cheer,\nKings of chaos, friends sincere.}",
+            "chaosValue": 9.2,
+            "exaltedValue": 1.09,
+            "divineValue": 0.06,
+            "count": 13,
+            "detailsId": "the-last-laugh",
+            "tradeInfo": [],
+            "listingCount": 225
+        },
+        {
             "id": 1445,
             "name": "The Brittle Emperor",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -7543,55 +7592,6 @@
             "detailsId": "the-brittle-emperor",
             "tradeInfo": [],
             "listingCount": 54
-        },
-        {
-            "id": 128526,
-            "name": "The Last Laugh",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Last Laugh",
-            "stackSize": 5,
-            "artFilename": "TheLastLaugh",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 71.7,
-                "data": [
-                    0,
-                    0,
-                    18.87,
-                    1.89,
-                    69.81,
-                    69.81,
-                    71.7
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 71.7,
-                "data": [
-                    0,
-                    0,
-                    18.87,
-                    1.89,
-                    69.81,
-                    69.81,
-                    71.7
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Replica Dragonfang's Flight}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:24>{Holding fast when shadows fall,\nOver ruins, jesters call.\nNothing breaks their twisted cheer,\nKings of chaos, friends sincere.}",
-            "chaosValue": 9.1,
-            "exaltedValue": 1.08,
-            "divineValue": 0.06,
-            "count": 12,
-            "detailsId": "the-last-laugh",
-            "tradeInfo": [],
-            "listingCount": 224
         },
         {
             "id": 744,
@@ -9187,6 +9187,55 @@
             "listingCount": 93
         },
         {
+            "id": 1524,
+            "name": "The Hoarder",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Hoarder",
+            "stackSize": 12,
+            "artFilename": "TheHoarder",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 128.6,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    35.71,
+                    39.29,
+                    35.71,
+                    128.6
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 128.6,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    35.71,
+                    39.29,
+                    35.71,
+                    128.6
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{Exalted Orb}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"More! I want more!\" - Faendris, the Insatiable",
+            "chaosValue": 6.4,
+            "exaltedValue": 0.76,
+            "divineValue": 0.04,
+            "count": 9,
+            "detailsId": "the-hoarder",
+            "tradeInfo": [],
+            "listingCount": 368
+        },
+        {
             "id": 18957,
             "name": "A Dab of Ink",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -9332,55 +9381,6 @@
             "detailsId": "a-chilling-wind",
             "tradeInfo": [],
             "listingCount": 99
-        },
-        {
-            "id": 1524,
-            "name": "The Hoarder",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Hoarder",
-            "stackSize": 12,
-            "artFilename": "TheHoarder",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 117.9,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    35.71,
-                    39.29,
-                    35.71,
-                    117.9
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 117.9,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    35.71,
-                    39.29,
-                    35.71,
-                    117.9
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{Exalted Orb}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"More! I want more!\" - Faendris, the Insatiable",
-            "chaosValue": 6.1,
-            "exaltedValue": 0.73,
-            "divineValue": 0.04,
-            "count": 8,
-            "detailsId": "the-hoarder",
-            "tradeInfo": [],
-            "listingCount": 368
         },
         {
             "id": 462,
@@ -11973,6 +11973,55 @@
             "listingCount": 170
         },
         {
+            "id": 1457,
+            "name": "The Celestial Justicar",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Celestial Justicar",
+            "stackSize": 6,
+            "artFilename": "TheCelestialJusticar",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -4.35,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -8.7,
+                    -8.7,
+                    -4.35,
+                    -4.35
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -4.35,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -8.7,
+                    -8.7,
+                    -4.35,
+                    -4.35
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Six-Link Astral Plate}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Wrapped in the glory of the heavens, she comes to mete out justice for the fallen.",
+            "chaosValue": 4.4,
+            "exaltedValue": 0.52,
+            "divineValue": 0.03,
+            "count": 8,
+            "detailsId": "the-celestial-justicar",
+            "tradeInfo": [],
+            "listingCount": 272
+        },
+        {
             "id": 1488,
             "name": "The Ethereal",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12120,6 +12169,55 @@
             "listingCount": 340
         },
         {
+            "id": 23831,
+            "name": "The Escape",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Escape",
+            "stackSize": 5,
+            "artFilename": "TheEscape",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 46.67,
+                "data": [
+                    0,
+                    3.33,
+                    3.33,
+                    30,
+                    26.67,
+                    40,
+                    46.67
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 46.67,
+                "data": [
+                    0,
+                    3.33,
+                    3.33,
+                    30,
+                    26.67,
+                    40,
+                    46.67
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Seven-League Step}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "In fleeing reality, you step into the realm of madness.",
+            "chaosValue": 4.4,
+            "exaltedValue": 0.52,
+            "divineValue": 0.03,
+            "count": 9,
+            "detailsId": "the-escape",
+            "tradeInfo": [],
+            "listingCount": 203
+        },
+        {
             "id": 1509,
             "name": "The Gentleman",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12159,55 +12257,6 @@
             "detailsId": "the-gentleman",
             "tradeInfo": [],
             "listingCount": 143
-        },
-        {
-            "id": 1457,
-            "name": "The Celestial Justicar",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Celestial Justicar",
-            "stackSize": 6,
-            "artFilename": "TheCelestialJusticar",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -8.7,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -8.7,
-                    -8.7,
-                    -4.35,
-                    -8.7
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -8.7,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -8.7,
-                    -8.7,
-                    -4.35,
-                    -8.7
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{Six-Link Astral Plate}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Wrapped in the glory of the heavens, she comes to mete out justice for the fallen.",
-            "chaosValue": 4.2,
-            "exaltedValue": 0.5,
-            "divineValue": 0.03,
-            "count": 7,
-            "detailsId": "the-celestial-justicar",
-            "tradeInfo": [],
-            "listingCount": 271
         },
         {
             "id": 1544,
@@ -12504,55 +12553,6 @@
             "listingCount": 72
         },
         {
-            "id": 23831,
-            "name": "The Escape",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Escape",
-            "stackSize": 5,
-            "artFilename": "TheEscape",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 40,
-                "data": [
-                    0,
-                    3.33,
-                    3.33,
-                    30,
-                    26.67,
-                    40,
-                    40
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 40,
-                "data": [
-                    0,
-                    3.33,
-                    3.33,
-                    30,
-                    26.67,
-                    40,
-                    40
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Seven-League Step}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "In fleeing reality, you step into the realm of madness.",
-            "chaosValue": 4.2,
-            "exaltedValue": 0.5,
-            "divineValue": 0.03,
-            "count": 8,
-            "detailsId": "the-escape",
-            "tradeInfo": [],
-            "listingCount": 202
-        },
-        {
             "id": 54424,
             "name": "Haunting Shadows",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12796,6 +12796,55 @@
             "detailsId": "the-adventuring-spirit",
             "tradeInfo": [],
             "listingCount": 422
+        },
+        {
+            "id": 60097,
+            "name": "The Enthusiasts",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Enthusiasts",
+            "stackSize": 3,
+            "artFilename": "TheEnthusiasts",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -12.77,
+                "data": [
+                    0,
+                    0,
+                    -6.38,
+                    -6.38,
+                    -6.38,
+                    65.96,
+                    -12.77
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -12.77,
+                "data": [
+                    0,
+                    0,
+                    -6.38,
+                    -6.38,
+                    -6.38,
+                    65.96,
+                    -12.77
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Victario's Influence}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:25>{\"Glimmers of benevolence,\nShrouded a lacquered lust for power,\nYet still they followed his influence.\"}",
+            "chaosValue": 4.1,
+            "exaltedValue": 0.49,
+            "divineValue": 0.03,
+            "count": 8,
+            "detailsId": "the-enthusiasts",
+            "tradeInfo": [],
+            "listingCount": 139
         },
         {
             "id": 422,
@@ -13139,55 +13188,6 @@
             "detailsId": "the-blazing-fire",
             "tradeInfo": [],
             "listingCount": 272
-        },
-        {
-            "id": 60097,
-            "name": "The Enthusiasts",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Enthusiasts",
-            "stackSize": 3,
-            "artFilename": "TheEnthusiasts",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -19.15,
-                "data": [
-                    0,
-                    0,
-                    -6.38,
-                    -6.38,
-                    -6.38,
-                    65.96,
-                    -19.15
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -19.15,
-                "data": [
-                    0,
-                    0,
-                    -6.38,
-                    -6.38,
-                    -6.38,
-                    65.96,
-                    -19.15
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Victario's Influence}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:25>{\"Glimmers of benevolence,\nShrouded a lacquered lust for power,\nYet still they followed his influence.\"}",
-            "chaosValue": 3.8,
-            "exaltedValue": 0.45,
-            "divineValue": 0.03,
-            "count": 7,
-            "detailsId": "the-enthusiasts",
-            "tradeInfo": [],
-            "listingCount": 139
         },
         {
             "id": 6942,
@@ -14040,55 +14040,6 @@
             "listingCount": 301
         },
         {
-            "id": 982,
-            "name": "Prosperity",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Prosperity",
-            "stackSize": 10,
-            "artFilename": "Prosperity",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 60,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    70,
-                    60,
-                    60
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 60,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    70,
-                    60,
-                    60
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<magicitem>{Perandus' Gold Ring}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Accumulating wealth has its own costs.",
-            "chaosValue": 3.2,
-            "exaltedValue": 0.38,
-            "divineValue": 0.02,
-            "count": 7,
-            "detailsId": "prosperity",
-            "tradeInfo": [],
-            "listingCount": 217
-        },
-        {
             "id": 54402,
             "name": "The Patient",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -14283,6 +14234,55 @@
             "detailsId": "blind-venture",
             "tradeInfo": [],
             "listingCount": 253
+        },
+        {
+            "id": 982,
+            "name": "Prosperity",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Prosperity",
+            "stackSize": 10,
+            "artFilename": "Prosperity",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 50,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    70,
+                    60,
+                    50
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 50,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    70,
+                    60,
+                    50
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<magicitem>{Perandus' Gold Ring}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Accumulating wealth has its own costs.",
+            "chaosValue": 3.0,
+            "exaltedValue": 0.36,
+            "divineValue": 0.02,
+            "count": 6,
+            "detailsId": "prosperity",
+            "tradeInfo": [],
+            "listingCount": 217
         },
         {
             "id": 1552,
@@ -14622,10 +14622,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.36,
             "divineValue": 0.02,
-            "count": 11,
+            "count": 12,
             "detailsId": "a-sea-of-blue",
             "tradeInfo": [],
-            "listingCount": 532
+            "listingCount": 533
         },
         {
             "id": 100534,
@@ -14816,6 +14816,54 @@
             "listingCount": 217
         },
         {
+            "id": 1658,
+            "name": "The Void",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Void",
+            "artFilename": "TheVoid",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -12,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -1,
+                    -1,
+                    -1.67,
+                    -12
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -12,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -1,
+                    -1,
+                    -1.67,
+                    -12
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Reach into the Void and claim your prize.",
+            "chaosValue": 2.64,
+            "exaltedValue": 0.31,
+            "divineValue": 0.02,
+            "count": 17,
+            "detailsId": "the-void",
+            "tradeInfo": [],
+            "listingCount": 983
+        },
+        {
             "id": 229,
             "name": "Cartographer's Delight",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -14994,54 +15042,6 @@
             "detailsId": "the-trial",
             "tradeInfo": [],
             "listingCount": 279
-        },
-        {
-            "id": 1658,
-            "name": "The Void",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Void",
-            "artFilename": "TheVoid",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -13.33,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -1,
-                    -1,
-                    -1.67,
-                    -13.33
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -13.33,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -1,
-                    -1,
-                    -1.67,
-                    -13.33
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Reach into the Void and claim your prize.",
-            "chaosValue": 2.6,
-            "exaltedValue": 0.31,
-            "divineValue": 0.02,
-            "count": 16,
-            "detailsId": "the-void",
-            "tradeInfo": [],
-            "listingCount": 982
         },
         {
             "id": 1677,
