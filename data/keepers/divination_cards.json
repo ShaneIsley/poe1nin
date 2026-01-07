@@ -804,10 +804,10 @@
             "chaosValue": 432.6,
             "exaltedValue": 47.75,
             "divineValue": 3.0,
-            "count": 9,
+            "count": 8,
             "detailsId": "divine-justice",
             "tradeInfo": [],
-            "listingCount": 12
+            "listingCount": 11
         },
         {
             "id": 809,
@@ -1350,6 +1350,55 @@
             "listingCount": 34
         },
         {
+            "id": 44364,
+            "name": "Desecrated Virtue",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Desecrated Virtue",
+            "stackSize": 9,
+            "artFilename": "DesecratedVirtue",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -27.2,
+                "data": [
+                    0,
+                    -0.68,
+                    -15.98,
+                    -17.24,
+                    -24.86,
+                    -22.77,
+                    -27.2
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -27.2,
+                "data": [
+                    0,
+                    -0.68,
+                    -15.98,
+                    -17.24,
+                    -24.86,
+                    -22.77,
+                    -27.2
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<size:29>{<gemitem>{Level 6 Awakened Support Gem}}\n<default>{Quality:} <augmented>{+23%}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:25>{Awoken virtuous slivers of the void,\ndefiled by the avaricious, \nseized by the tyrannical.}",
+            "chaosValue": 147.1,
+            "exaltedValue": 16.23,
+            "divineValue": 1.02,
+            "count": 28,
+            "detailsId": "desecrated-virtue",
+            "tradeInfo": [],
+            "listingCount": 175
+        },
+        {
             "id": 67791,
             "name": "The Last Supper",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -1560,55 +1609,6 @@
             "detailsId": "the-hive-of-knowledge",
             "tradeInfo": [],
             "listingCount": 25
-        },
-        {
-            "id": 44364,
-            "name": "Desecrated Virtue",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Desecrated Virtue",
-            "stackSize": 9,
-            "artFilename": "DesecratedVirtue",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -28.62,
-                "data": [
-                    0,
-                    -0.68,
-                    -15.98,
-                    -17.24,
-                    -24.86,
-                    -22.77,
-                    -28.62
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -28.62,
-                "data": [
-                    0,
-                    -0.68,
-                    -15.98,
-                    -17.24,
-                    -24.86,
-                    -22.77,
-                    -28.62
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<size:29>{<gemitem>{Level 6 Awakened Support Gem}}\n<default>{Quality:} <augmented>{+23%}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:25>{Awoken virtuous slivers of the void,\ndefiled by the avaricious, \nseized by the tyrannical.}",
-            "chaosValue": 144.2,
-            "exaltedValue": 15.92,
-            "divineValue": 1.0,
-            "count": 29,
-            "detailsId": "desecrated-virtue",
-            "tradeInfo": [],
-            "listingCount": 176
         },
         {
             "id": 54432,
@@ -5560,6 +5560,55 @@
             "listingCount": 78
         },
         {
+            "id": 18978,
+            "name": "The Nurse",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Nurse",
+            "stackSize": 8,
+            "artFilename": "TheNurse",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 22.67,
+                "data": [
+                    0,
+                    0,
+                    -2,
+                    -10,
+                    4.67,
+                    4,
+                    22.67
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 22.67,
+                "data": [
+                    0,
+                    0,
+                    -2,
+                    -10,
+                    4.67,
+                    4,
+                    22.67
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<divination>{The Doctor}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "We tried to tell him to get his head checked.",
+            "chaosValue": 18.4,
+            "exaltedValue": 2.03,
+            "divineValue": 0.13,
+            "count": 27,
+            "detailsId": "the-nurse",
+            "tradeInfo": [],
+            "listingCount": 408
+        },
+        {
             "id": 1421,
             "name": "The Artist",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -5607,55 +5656,6 @@
             "detailsId": "the-artist",
             "tradeInfo": [],
             "listingCount": 136
-        },
-        {
-            "id": 18978,
-            "name": "The Nurse",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Nurse",
-            "stackSize": 8,
-            "artFilename": "TheNurse",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 20,
-                "data": [
-                    0,
-                    0,
-                    -2,
-                    -10,
-                    4.67,
-                    4,
-                    20
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 20,
-                "data": [
-                    0,
-                    0,
-                    -2,
-                    -10,
-                    4.67,
-                    4,
-                    20
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<divination>{The Doctor}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "We tried to tell him to get his head checked.",
-            "chaosValue": 18.0,
-            "exaltedValue": 1.99,
-            "divineValue": 0.12,
-            "count": 26,
-            "detailsId": "the-nurse",
-            "tradeInfo": [],
-            "listingCount": 407
         },
         {
             "id": 22463,
@@ -6603,6 +6603,55 @@
             "detailsId": "desperate-crusade",
             "tradeInfo": [],
             "listingCount": 80
+        },
+        {
+            "id": 103554,
+            "name": "A Chilling Wind",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "A Chilling Wind",
+            "stackSize": 4,
+            "artFilename": "AChillingWind",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 71.88,
+                "data": [
+                    0,
+                    3.12,
+                    -3.12,
+                    -3.12,
+                    -3.12,
+                    -3.12,
+                    71.88
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 71.88,
+                "data": [
+                    0,
+                    3.12,
+                    -3.12,
+                    -3.12,
+                    -3.12,
+                    -3.12,
+                    71.88
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 21 Vaal Cold Snap}\n<default>{Quality:} <augmented>{+20%}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:26>{All things slow under winter's \nonslaught - even life itself.}",
+            "chaosValue": 11.0,
+            "exaltedValue": 1.21,
+            "divineValue": 0.08,
+            "count": 6,
+            "detailsId": "a-chilling-wind",
+            "tradeInfo": [],
+            "listingCount": 98
         },
         {
             "id": 54410,
@@ -9047,55 +9096,6 @@
             "detailsId": "the-escape",
             "tradeInfo": [],
             "listingCount": 204
-        },
-        {
-            "id": 103554,
-            "name": "A Chilling Wind",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "A Chilling Wind",
-            "stackSize": 4,
-            "artFilename": "AChillingWind",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -3.12,
-                "data": [
-                    0,
-                    3.12,
-                    -3.12,
-                    -3.12,
-                    -3.12,
-                    -3.12,
-                    -3.12
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -3.12,
-                "data": [
-                    0,
-                    3.12,
-                    -3.12,
-                    -3.12,
-                    -3.12,
-                    -3.12,
-                    -3.12
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Level 21 Vaal Cold Snap}\n<default>{Quality:} <augmented>{+20%}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:26>{All things slow under winter's \nonslaught - even life itself.}",
-            "chaosValue": 6.2,
-            "exaltedValue": 0.68,
-            "divineValue": 0.04,
-            "count": 7,
-            "detailsId": "a-chilling-wind",
-            "tradeInfo": [],
-            "listingCount": 98
         },
         {
             "id": 462,
@@ -13984,6 +13984,55 @@
             "listingCount": 94
         },
         {
+            "id": 54402,
+            "name": "The Patient",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Patient",
+            "stackSize": 8,
+            "artFilename": "ThePatient",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -30,
+                "data": [
+                    0,
+                    0,
+                    -10,
+                    -12,
+                    -34,
+                    -34,
+                    -30
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -30,
+                "data": [
+                    0,
+                    0,
+                    -10,
+                    -12,
+                    -34,
+                    -34,
+                    -30
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<divination>{The Nurse}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "I have a headache, can anyone find me a nurse?",
+            "chaosValue": 3.5,
+            "exaltedValue": 0.39,
+            "divineValue": 0.02,
+            "count": 26,
+            "detailsId": "the-patient",
+            "tradeInfo": [],
+            "listingCount": 529
+        },
+        {
             "id": 1523,
             "name": "The Hermit",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -14227,55 +14276,6 @@
             "detailsId": "forbidden-power",
             "tradeInfo": [],
             "listingCount": 130
-        },
-        {
-            "id": 54402,
-            "name": "The Patient",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Patient",
-            "stackSize": 8,
-            "artFilename": "ThePatient",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -32,
-                "data": [
-                    0,
-                    0,
-                    -10,
-                    -12,
-                    -34,
-                    -34,
-                    -32
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -32,
-                "data": [
-                    0,
-                    0,
-                    -10,
-                    -12,
-                    -34,
-                    -34,
-                    -32
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<divination>{The Nurse}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "I have a headache, can anyone find me a nurse?",
-            "chaosValue": 3.4,
-            "exaltedValue": 0.38,
-            "divineValue": 0.02,
-            "count": 25,
-            "detailsId": "the-patient",
-            "tradeInfo": [],
-            "listingCount": 528
         },
         {
             "id": 100491,
@@ -17020,55 +17020,6 @@
             "listingCount": 314
         },
         {
-            "id": 92939,
-            "name": "The Tireless Extractor",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Tireless Extractor",
-            "stackSize": 8,
-            "artFilename": "TheTirelessExtractor",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 70,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    60,
-                    70
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 70,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    60,
-                    70
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{10x Oil}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:30>{\"I am not alone in this. I have God by my side! And... you help sometimes, I suppose.\"\n- Sister Cassia}",
-            "chaosValue": 1.7,
-            "exaltedValue": 0.19,
-            "divineValue": 0.01,
-            "count": 19,
-            "detailsId": "the-tireless-extractor",
-            "tradeInfo": [],
-            "listingCount": 886
-        },
-        {
             "id": 1560,
             "name": "The One With All",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -17165,6 +17116,55 @@
             "detailsId": "the-sigil",
             "tradeInfo": [],
             "listingCount": 154
+        },
+        {
+            "id": 92939,
+            "name": "The Tireless Extractor",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Tireless Extractor",
+            "stackSize": 8,
+            "artFilename": "TheTirelessExtractor",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 60,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    60,
+                    60
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 60,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    60,
+                    60
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{10x Oil}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:30>{\"I am not alone in this. I have God by my side! And... you help sometimes, I suppose.\"\n- Sister Cassia}",
+            "chaosValue": 1.6,
+            "exaltedValue": 0.18,
+            "divineValue": 0.01,
+            "count": 18,
+            "detailsId": "the-tireless-extractor",
+            "tradeInfo": [],
+            "listingCount": 885
         },
         {
             "id": 556,
