@@ -50,7 +50,7 @@
             "artFilename": "HouseOfMirrors",
             "itemClass": 6,
             "sparkLine": {
-                "totalChange": 205.2,
+                "totalChange": 171.5,
                 "data": [
                     0,
                     250.5,
@@ -58,11 +58,11 @@
                     -33.15,
                     -68.34,
                     172.8,
-                    205.2
+                    171.5
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 205.2,
+                "totalChange": 171.5,
                 "data": [
                     0,
                     250.5,
@@ -70,7 +70,7 @@
                     -33.15,
                     -68.34,
                     172.8,
-                    205.2
+                    171.5
                 ]
             },
             "implicitModifiers": [],
@@ -82,13 +82,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "What do you see in the mirror?",
-            "chaosValue": 13106,
-            "exaltedValue": 1553,
-            "divineValue": 90.07,
-            "count": 25,
+            "chaosValue": 11661,
+            "exaltedValue": 1382,
+            "divineValue": 80.14,
+            "count": 23,
             "detailsId": "house-of-mirrors",
             "tradeInfo": [],
-            "listingCount": 61
+            "listingCount": 59
         },
         {
             "id": 125069,
@@ -500,6 +500,55 @@
             "listingCount": 10
         },
         {
+            "id": 22522,
+            "name": "The Demon",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Demon",
+            "stackSize": 10,
+            "artFilename": "TheDemon",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 24.17,
+                "data": [
+                    0,
+                    -0.24,
+                    5.15,
+                    4.56,
+                    5.07,
+                    -7.7,
+                    24.17
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Headhunter}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "A man who hears voices may not necessarily be crazy.",
+            "chaosValue": 1018,
+            "exaltedValue": 120.7,
+            "divineValue": 7.0,
+            "count": 2,
+            "detailsId": "the-demon",
+            "tradeInfo": [],
+            "listingCount": 25
+        },
+        {
             "id": 129508,
             "name": "One Last Score",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -670,55 +719,6 @@
             "detailsId": "winters-embrace",
             "tradeInfo": [],
             "listingCount": 11
-        },
-        {
-            "id": 22522,
-            "name": "The Demon",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Demon",
-            "stackSize": 10,
-            "artFilename": "TheDemon",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -46.79,
-                "data": [
-                    0,
-                    -0.24,
-                    5.15,
-                    4.56,
-                    5.07,
-                    -7.7,
-                    -46.79
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Headhunter}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "A man who hears voices may not necessarily be crazy.",
-            "chaosValue": 436.5,
-            "exaltedValue": 51.72,
-            "divineValue": 3.0,
-            "count": 3,
-            "detailsId": "the-demon",
-            "tradeInfo": [],
-            "listingCount": 26
         },
         {
             "id": 23238,
@@ -1172,10 +1172,10 @@
             "chaosValue": 291.0,
             "exaltedValue": 34.48,
             "divineValue": 2.0,
-            "count": 12,
+            "count": 11,
             "detailsId": "the-lake",
             "tradeInfo": [],
-            "listingCount": 61
+            "listingCount": 60
         },
         {
             "id": 98357,
@@ -1728,10 +1728,10 @@
             "chaosValue": 145.5,
             "exaltedValue": 17.24,
             "divineValue": 1.0,
-            "count": 28,
+            "count": 27,
             "detailsId": "desecrated-virtue",
             "tradeInfo": [],
-            "listingCount": 176
+            "listingCount": 175
         },
         {
             "id": 54502,
@@ -2020,7 +2020,7 @@
             "artFilename": "TheFiend",
             "itemClass": 6,
             "sparkLine": {
-                "totalChange": 7.37,
+                "totalChange": 5.26,
                 "data": [
                     0,
                     8.42,
@@ -2028,11 +2028,11 @@
                     4.74,
                     4.74,
                     5.26,
-                    7.37
+                    5.26
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 7.37,
+                "totalChange": 5.26,
                 "data": [
                     0,
                     8.42,
@@ -2040,7 +2040,7 @@
                     4.74,
                     4.74,
                     5.26,
-                    7.37
+                    5.26
                 ]
             },
             "implicitModifiers": [],
@@ -2052,13 +2052,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "<size:31>{Your era is now,\nyour power unwavered, \nsoon we will see\nwho the gods truly favoured.}",
-            "chaosValue": 102.0,
-            "exaltedValue": 12.09,
-            "divineValue": 0.7,
-            "count": 12,
+            "chaosValue": 100.0,
+            "exaltedValue": 11.85,
+            "divineValue": 0.69,
+            "count": 11,
             "detailsId": "the-fiend",
             "tradeInfo": [],
-            "listingCount": 84
+            "listingCount": 83
         },
         {
             "id": 1603,
@@ -2108,6 +2108,55 @@
             "detailsId": "the-sephirot",
             "tradeInfo": [],
             "listingCount": 294
+        },
+        {
+            "id": 1850,
+            "name": "Wealth and Power",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Wealth and Power",
+            "stackSize": 11,
+            "artFilename": "WealthAndPower",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 19.05,
+                "data": [
+                    0,
+                    -2.38,
+                    11.9,
+                    4.76,
+                    -2.38,
+                    4.76,
+                    19.05
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 19.05,
+                "data": [
+                    0,
+                    -2.38,
+                    11.9,
+                    4.76,
+                    -2.38,
+                    4.76,
+                    19.05
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 4 Enlighten}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:31>{The greatness of a man is not in how much wealth or power he acquires, but in his integrity and his ability to positively affect those around him.}",
+            "chaosValue": 100.0,
+            "exaltedValue": 11.85,
+            "divineValue": 0.69,
+            "count": 21,
+            "detailsId": "wealth-and-power",
+            "tradeInfo": [],
+            "listingCount": 213
         },
         {
             "id": 22460,
@@ -2281,55 +2330,6 @@
             "listingCount": 42
         },
         {
-            "id": 1850,
-            "name": "Wealth and Power",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Wealth and Power",
-            "stackSize": 11,
-            "artFilename": "WealthAndPower",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 14.29,
-                "data": [
-                    0,
-                    -2.38,
-                    11.9,
-                    4.76,
-                    -2.38,
-                    4.76,
-                    14.29
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 14.29,
-                "data": [
-                    0,
-                    -2.38,
-                    11.9,
-                    4.76,
-                    -2.38,
-                    4.76,
-                    14.29
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Level 4 Enlighten}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:31>{The greatness of a man is not in how much wealth or power he acquires, but in his integrity and his ability to positively affect those around him.}",
-            "chaosValue": 96.0,
-            "exaltedValue": 11.37,
-            "divineValue": 0.66,
-            "count": 22,
-            "detailsId": "wealth-and-power",
-            "tradeInfo": [],
-            "listingCount": 214
-        },
-        {
             "id": 71079,
             "name": "The Prince of Darkness",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -2459,6 +2459,47 @@
             "detailsId": "the-endless-darkness",
             "tradeInfo": [],
             "listingCount": 128
+        },
+        {
+            "id": 6966,
+            "name": "The Celestial Stone",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Celestial Stone",
+            "stackSize": 10,
+            "artFilename": "TheCelestialStone",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 127.8,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    133.3,
+                    127.8,
+                    127.8
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Opal Ring}\n<default>{Item Level:} <normal>{100}\n<default>{Shaper Item}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Stare into its depths too long, and you may lose yourself entirely.",
+            "chaosValue": 82.0,
+            "exaltedValue": 9.72,
+            "divineValue": 0.56,
+            "count": 2,
+            "detailsId": "the-celestial-stone",
+            "tradeInfo": [],
+            "listingCount": 53
         },
         {
             "id": 67916,
@@ -2696,6 +2737,47 @@
             "detailsId": "temperance",
             "tradeInfo": [],
             "listingCount": 38
+        },
+        {
+            "id": 1653,
+            "name": "The Vast",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Vast",
+            "stackSize": 7,
+            "artFilename": "TheVast",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -37.69,
+                "data": [
+                    0,
+                    -0.11,
+                    -41.63,
+                    -41.63,
+                    -41.63,
+                    -41.63,
+                    -37.69
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Song of the Sirens}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:30>{Can you hear the siren's calls,\nJust beyond the sea?\nA voice which hearts\nof men enthralls,\nI too am hooked to thee.}",
+            "chaosValue": 64.05,
+            "exaltedValue": 7.59,
+            "divineValue": 0.44,
+            "count": 2,
+            "detailsId": "the-vast",
+            "tradeInfo": [],
+            "listingCount": 28
         },
         {
             "id": 23985,
@@ -3083,47 +3165,6 @@
             "listingCount": 31
         },
         {
-            "id": 1653,
-            "name": "The Vast",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Vast",
-            "stackSize": 7,
-            "artFilename": "TheVast",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -50.38,
-                "data": [
-                    0,
-                    -0.11,
-                    -41.63,
-                    -41.63,
-                    -41.63,
-                    -41.63,
-                    -50.38
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Song of the Sirens}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:30>{Can you hear the siren's calls,\nJust beyond the sea?\nA voice which hearts\nof men enthralls,\nI too am hooked to thee.}",
-            "chaosValue": 51.0,
-            "exaltedValue": 6.04,
-            "divineValue": 0.35,
-            "count": 3,
-            "detailsId": "the-vast",
-            "tradeInfo": [],
-            "listingCount": 29
-        },
-        {
             "id": 67923,
             "name": "Terrible Secret of Space",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -3296,6 +3337,55 @@
             "listingCount": 37
         },
         {
+            "id": 98375,
+            "name": "The Shieldbearer",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Shieldbearer",
+            "stackSize": 8,
+            "artFilename": "TheShieldbearer",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -16.07,
+                "data": [
+                    null,
+                    0,
+                    -7.14,
+                    -10.71,
+                    null,
+                    -16.07,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -14.68,
+                "data": [
+                    0,
+                    2.75,
+                    -4.59,
+                    -8.26,
+                    -8.26,
+                    -13.76,
+                    -14.68
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{The Squire}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "While you grow, I shall be your knight, and you my squire. One day, you shall be the one who stands and defends our home.",
+            "chaosValue": 46.5,
+            "exaltedValue": 5.51,
+            "divineValue": 0.32,
+            "count": 4,
+            "detailsId": "the-shieldbearer",
+            "tradeInfo": [],
+            "listingCount": 84
+        },
+        {
             "id": 95802,
             "name": "The Dungeon Master",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -3384,55 +3474,6 @@
             "detailsId": "the-mad-king",
             "tradeInfo": [],
             "listingCount": 43
-        },
-        {
-            "id": 98375,
-            "name": "The Shieldbearer",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Shieldbearer",
-            "stackSize": 8,
-            "artFilename": "TheShieldbearer",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -25,
-                "data": [
-                    null,
-                    0,
-                    -7.14,
-                    -10.71,
-                    null,
-                    -16.07,
-                    -25
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -22.94,
-                "data": [
-                    0,
-                    2.75,
-                    -4.59,
-                    -8.26,
-                    -8.26,
-                    -13.76,
-                    -22.94
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{The Squire}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "While you grow, I shall be your knight, and you my squire. One day, you shall be the one who stands and defends our home.",
-            "chaosValue": 42.0,
-            "exaltedValue": 4.98,
-            "divineValue": 0.29,
-            "count": 5,
-            "detailsId": "the-shieldbearer",
-            "tradeInfo": [],
-            "listingCount": 85
         },
         {
             "id": 93137,
@@ -3613,55 +3654,6 @@
             "detailsId": "nooks-crown",
             "tradeInfo": [],
             "listingCount": 21
-        },
-        {
-            "id": 44251,
-            "name": "The Bitter Blossom",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Bitter Blossom",
-            "stackSize": 3,
-            "artFilename": "TheBitterBlossom",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 149.4,
-                "data": [
-                    null,
-                    0,
-                    4.43,
-                    4.43,
-                    86.71,
-                    149.4,
-                    149.4
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 160.9,
-                "data": [
-                    0,
-                    4.64,
-                    9.27,
-                    9.27,
-                    95.36,
-                    160.9,
-                    160.9
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Level 21 Chaos Gem}\n<default>{Quality:} <augmented>{+23%}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The pain you feel is of no consequence, it is evolution, to be made whole within something greater.",
-            "chaosValue": 39.4,
-            "exaltedValue": 4.67,
-            "divineValue": 0.27,
-            "count": 5,
-            "detailsId": "the-bitter-blossom",
-            "tradeInfo": [],
-            "listingCount": 70
         },
         {
             "id": 6963,
@@ -4038,6 +4030,55 @@
             "detailsId": "no-traces",
             "tradeInfo": [],
             "listingCount": 340
+        },
+        {
+            "id": 44251,
+            "name": "The Bitter Blossom",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Bitter Blossom",
+            "stackSize": 3,
+            "artFilename": "TheBitterBlossom",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 86.71,
+                "data": [
+                    null,
+                    0,
+                    4.43,
+                    4.43,
+                    86.71,
+                    149.4,
+                    86.71
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 95.36,
+                "data": [
+                    0,
+                    4.64,
+                    9.27,
+                    9.27,
+                    95.36,
+                    160.9,
+                    95.36
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 21 Chaos Gem}\n<default>{Quality:} <augmented>{+23%}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "The pain you feel is of no consequence, it is evolution, to be made whole within something greater.",
+            "chaosValue": 29.5,
+            "exaltedValue": 3.5,
+            "divineValue": 0.2,
+            "count": 6,
+            "detailsId": "the-bitter-blossom",
+            "tradeInfo": [],
+            "listingCount": 71
         },
         {
             "id": 20787,
@@ -4716,47 +4757,6 @@
             "detailsId": "the-warlord",
             "tradeInfo": [],
             "listingCount": 101
-        },
-        {
-            "id": 6966,
-            "name": "The Celestial Stone",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Celestial Stone",
-            "stackSize": 10,
-            "artFilename": "TheCelestialStone",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -33.33,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    133.3,
-                    127.8,
-                    -33.33
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{Opal Ring}\n<default>{Item Level:} <normal>{100}\n<default>{Shaper Item}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Stare into its depths too long, and you may lose yourself entirely.",
-            "chaosValue": 24.0,
-            "exaltedValue": 2.84,
-            "divineValue": 0.16,
-            "count": 3,
-            "detailsId": "the-celestial-stone",
-            "tradeInfo": [],
-            "listingCount": 54
         },
         {
             "id": 6920,
@@ -6541,6 +6541,55 @@
             "listingCount": 54
         },
         {
+            "id": 799,
+            "name": "Mawr Blaidd",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Mawr Blaidd",
+            "stackSize": 16,
+            "artFilename": "RussiaDivinationCard",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 16,
+                "data": [
+                    0,
+                    10,
+                    18,
+                    16,
+                    16,
+                    16,
+                    16
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 16,
+                "data": [
+                    0,
+                    10,
+                    18,
+                    16,
+                    16,
+                    16,
+                    16
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Eyes of the Greatwolf}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Rigwald believed he'd seized great power, but it was the great power that had seized Rigwald",
+            "chaosValue": 11.6,
+            "exaltedValue": 1.37,
+            "divineValue": 0.08,
+            "count": 9,
+            "detailsId": "mawr-blaidd",
+            "tradeInfo": [],
+            "listingCount": 172
+        },
+        {
             "id": 2035,
             "name": "The Polymath",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -7119,55 +7168,6 @@
             "detailsId": "reckless-ambition",
             "tradeInfo": [],
             "listingCount": 58
-        },
-        {
-            "id": 799,
-            "name": "Mawr Blaidd",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Mawr Blaidd",
-            "stackSize": 16,
-            "artFilename": "RussiaDivinationCard",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -1,
-                "data": [
-                    0,
-                    10,
-                    18,
-                    16,
-                    16,
-                    16,
-                    -1
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -1,
-                "data": [
-                    0,
-                    10,
-                    18,
-                    16,
-                    16,
-                    16,
-                    -1
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Eyes of the Greatwolf}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Rigwald believed he'd seized great power, but it was the great power that had seized Rigwald",
-            "chaosValue": 9.9,
-            "exaltedValue": 1.17,
-            "divineValue": 0.07,
-            "count": 10,
-            "detailsId": "mawr-blaidd",
-            "tradeInfo": [],
-            "listingCount": 173
         },
         {
             "id": 257,
