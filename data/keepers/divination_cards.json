@@ -5496,55 +5496,6 @@
             "listingCount": 94
         },
         {
-            "id": 18978,
-            "name": "The Nurse",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Nurse",
-            "stackSize": 8,
-            "artFilename": "TheNurse",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    6.25,
-                    7.5,
-                    6.25,
-                    3.75,
-                    2.5,
-                    0
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    6.25,
-                    7.5,
-                    6.25,
-                    3.75,
-                    2.5,
-                    0
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<divination>{The Doctor}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "We tried to tell him to get his head checked.",
-            "chaosValue": 16.0,
-            "exaltedValue": 2.52,
-            "divineValue": 0.11,
-            "count": 21,
-            "detailsId": "the-nurse",
-            "tradeInfo": [],
-            "listingCount": 407
-        },
-        {
             "id": 93212,
             "name": "Bijoux",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -5813,6 +5764,55 @@
             "detailsId": "a-stone-perfected",
             "tradeInfo": [],
             "listingCount": 113
+        },
+        {
+            "id": 18978,
+            "name": "The Nurse",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Nurse",
+            "stackSize": 8,
+            "artFilename": "TheNurse",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -3.75,
+                "data": [
+                    0,
+                    6.25,
+                    7.5,
+                    6.25,
+                    3.75,
+                    2.5,
+                    -3.75
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -3.75,
+                "data": [
+                    0,
+                    6.25,
+                    7.5,
+                    6.25,
+                    3.75,
+                    2.5,
+                    -3.75
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<divination>{The Doctor}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "We tried to tell him to get his head checked.",
+            "chaosValue": 15.4,
+            "exaltedValue": 2.42,
+            "divineValue": 0.11,
+            "count": 20,
+            "detailsId": "the-nurse",
+            "tradeInfo": [],
+            "listingCount": 407
         },
         {
             "id": 18952,
@@ -7662,6 +7662,47 @@
             "listingCount": 45
         },
         {
+            "id": 1712,
+            "name": "Treasure Hunter",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Treasure Hunter",
+            "stackSize": 7,
+            "artFilename": "TreasureHunter",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 8.11,
+                "data": [
+                    0,
+                    0,
+                    -12.16,
+                    -12.16,
+                    -12.16,
+                    -12.16,
+                    8.11
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Vaults of Atziri}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Don't worry, I know what I'm doing.\"\n- Toggo's Last Words",
+            "chaosValue": 8.0,
+            "exaltedValue": 1.26,
+            "divineValue": 0.06,
+            "count": 3,
+            "detailsId": "treasure-hunter",
+            "tradeInfo": [],
+            "listingCount": 56
+        },
+        {
             "id": 6951,
             "name": "The Undaunted",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -8191,47 +8232,6 @@
             "detailsId": "last-hope",
             "tradeInfo": [],
             "listingCount": 300
-        },
-        {
-            "id": 1712,
-            "name": "Treasure Hunter",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Treasure Hunter",
-            "stackSize": 7,
-            "artFilename": "TreasureHunter",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -12.16,
-                "data": [
-                    0,
-                    0,
-                    -12.16,
-                    -12.16,
-                    -12.16,
-                    -12.16,
-                    -12.16
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Vaults of Atziri}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Don't worry, I know what I'm doing.\"\n- Toggo's Last Words",
-            "chaosValue": 6.5,
-            "exaltedValue": 1.02,
-            "divineValue": 0.04,
-            "count": 2,
-            "detailsId": "treasure-hunter",
-            "tradeInfo": [],
-            "listingCount": 55
         },
         {
             "id": 20793,
@@ -9305,6 +9305,55 @@
             "listingCount": 224
         },
         {
+            "id": 620,
+            "name": "Heterochromia",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Heterochromia",
+            "stackSize": 2,
+            "artFilename": "Heterochromia",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -30.42,
+                "data": [
+                    0,
+                    -11.03,
+                    -19.65,
+                    -18.25,
+                    -24.08,
+                    -59.44,
+                    -30.42
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -30.42,
+                "data": [
+                    0,
+                    -11.03,
+                    -19.65,
+                    -18.25,
+                    -24.08,
+                    -59.44,
+                    -30.42
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Two-Stone Ring}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:26>{Black and White, Silver and Gold\nLet us see the world Unfold\nRed and Blue, Yellow and Green\nLet us remake it in colours Unseen}",
+            "chaosValue": 5.49,
+            "exaltedValue": 0.86,
+            "divineValue": 0.04,
+            "count": 9,
+            "detailsId": "heterochromia",
+            "tradeInfo": [],
+            "listingCount": 204
+        },
+        {
             "id": 1545,
             "name": "The Lion",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -9499,55 +9548,6 @@
             "detailsId": "rebirth-divcard",
             "tradeInfo": [],
             "listingCount": 64
-        },
-        {
-            "id": 620,
-            "name": "Heterochromia",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Heterochromia",
-            "stackSize": 2,
-            "artFilename": "Heterochromia",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -35.99,
-                "data": [
-                    0,
-                    -11.03,
-                    -19.65,
-                    -18.25,
-                    -24.08,
-                    -59.44,
-                    -35.99
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -35.99,
-                "data": [
-                    0,
-                    -11.03,
-                    -19.65,
-                    -18.25,
-                    -24.08,
-                    -59.44,
-                    -35.99
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Two-Stone Ring}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:26>{Black and White, Silver and Gold\nLet us see the world Unfold\nRed and Blue, Yellow and Green\nLet us remake it in colours Unseen}",
-            "chaosValue": 5.05,
-            "exaltedValue": 0.79,
-            "divineValue": 0.03,
-            "count": 8,
-            "detailsId": "heterochromia",
-            "tradeInfo": [],
-            "listingCount": 203
         },
         {
             "id": 6,
