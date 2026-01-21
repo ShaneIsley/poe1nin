@@ -7,7 +7,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 219,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 11,
                 "value": 580.0,
                 "data_point_count": 1,
@@ -56,7 +56,7 @@
                 "league_id": 295,
                 "pay_currency_id": 260,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 1,
                 "value": 0.01111,
                 "data_point_count": 1,
@@ -68,7 +68,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 260,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 29,
                 "value": 261.0,
                 "data_point_count": 1,
@@ -125,7 +125,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 232,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 116,
                 "value": 174.0,
                 "data_point_count": 1,
@@ -168,87 +168,18 @@
             "detailsId": "voidborn-reliquary-key"
         },
         {
-            "currencyTypeName": "Echo of Reverence",
-            "pay": {
-                "id": 0,
-                "league_id": 295,
-                "pay_currency_id": 258,
-                "get_currency_id": 1,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
-                "count": 1,
-                "value": 0.01176,
-                "data_point_count": 1,
-                "includes_secondary": false,
-                "listing_count": 2
-            },
-            "receive": {
-                "id": 0,
-                "league_id": 295,
-                "pay_currency_id": 1,
-                "get_currency_id": 258,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
-                "count": 26,
-                "value": 117.5,
-                "data_point_count": 1,
-                "includes_secondary": true,
-                "listing_count": 388
-            },
-            "paySparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "receiveSparkLine": {
-                "totalChange": -17.54,
-                "data": [
-                    0,
-                    1.75,
-                    1.75,
-                    1.75,
-                    1.75,
-                    1.75,
-                    -17.54
-                ]
-            },
-            "chaosEquivalent": 117.5,
-            "lowConfidencePaySparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "lowConfidenceReceiveSparkLine": {
-                "totalChange": -17.54,
-                "data": [
-                    0,
-                    1.75,
-                    1.75,
-                    1.75,
-                    1.75,
-                    1.75,
-                    -17.54
-                ]
-            },
-            "detailsId": "echo-of-reverence"
-        },
-        {
             "currencyTypeName": "Valdo's Puzzle Box",
             "receive": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 236,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
-                "count": 183,
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
+                "count": 184,
                 "value": 110.0,
                 "data_point_count": 1,
                 "includes_secondary": true,
-                "listing_count": 1438
+                "listing_count": 1440
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -286,13 +217,82 @@
             "detailsId": "valdos-puzzle-box"
         },
         {
+            "currencyTypeName": "Echo of Reverence",
+            "pay": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 258,
+                "get_currency_id": 1,
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
+                "count": 1,
+                "value": 0.01176,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 2
+            },
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 258,
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
+                "count": 27,
+                "value": 99.6,
+                "data_point_count": 1,
+                "includes_secondary": true,
+                "listing_count": 388
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": -30.11,
+                "data": [
+                    0,
+                    1.75,
+                    1.75,
+                    1.75,
+                    1.75,
+                    1.75,
+                    -30.11
+                ]
+            },
+            "chaosEquivalent": 99.6,
+            "lowConfidencePaySparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": -30.11,
+                "data": [
+                    0,
+                    1.75,
+                    1.75,
+                    1.75,
+                    1.75,
+                    1.75,
+                    -30.11
+                ]
+            },
+            "detailsId": "echo-of-reverence"
+        },
+        {
             "currencyTypeName": "Devouring Fragment",
             "receive": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 243,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 11,
                 "value": 80.0,
                 "data_point_count": 1,
@@ -341,7 +341,7 @@
                 "league_id": 295,
                 "pay_currency_id": 143,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 1,
                 "value": 0.02171,
                 "data_point_count": 1,
@@ -353,19 +353,19 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 143,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
-                "count": 14,
-                "value": 60.6,
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
+                "count": 13,
+                "value": 60.4,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 362
+                "listing_count": 360
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 78.24,
+                "totalChange": 77.65,
                 "data": [
                     0,
                     -5.88,
@@ -373,10 +373,10 @@
                     78.82,
                     96.47,
                     89.41,
-                    78.24
+                    77.65
                 ]
             },
-            "chaosEquivalent": 60.6,
+            "chaosEquivalent": 60.4,
             "lowConfidencePaySparkLine": {
                 "totalChange": 1.58,
                 "data": [
@@ -390,7 +390,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 78.24,
+                "totalChange": 77.65,
                 "data": [
                     0,
                     -5.88,
@@ -398,7 +398,7 @@
                     78.82,
                     96.47,
                     89.41,
-                    78.24
+                    77.65
                 ]
             },
             "detailsId": "the-mavens-writ"
@@ -410,7 +410,7 @@
                 "league_id": 295,
                 "pay_currency_id": 128,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 1,
                 "value": 0.03333,
                 "data_point_count": 1,
@@ -422,7 +422,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 128,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 40,
                 "value": 52.0,
                 "data_point_count": 1,
@@ -479,7 +479,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 259,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 22,
                 "value": 50.8,
                 "data_point_count": 1,
@@ -528,9 +528,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 257,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
-                "count": 18,
-                "value": 43.5,
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
+                "count": 17,
+                "value": 43.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
                 "listing_count": 243
@@ -540,7 +540,7 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 40.32,
+                "totalChange": 38.71,
                 "data": [
                     0,
                     -1.61,
@@ -548,16 +548,16 @@
                     39.35,
                     40.32,
                     41.94,
-                    40.32
+                    38.71
                 ]
             },
-            "chaosEquivalent": 43.5,
+            "chaosEquivalent": 43.0,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 40.32,
+                "totalChange": 38.71,
                 "data": [
                     0,
                     -1.61,
@@ -565,7 +565,7 @@
                     39.35,
                     40.32,
                     41.94,
-                    40.32
+                    38.71
                 ]
             },
             "detailsId": "echo-of-trauma"
@@ -577,7 +577,7 @@
                 "league_id": 295,
                 "pay_currency_id": 229,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 1,
                 "value": 0.04167,
                 "data_point_count": 1,
@@ -589,7 +589,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 229,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 18,
                 "value": 38.2,
                 "data_point_count": 1,
@@ -646,7 +646,7 @@
                 "league_id": 295,
                 "pay_currency_id": 251,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 1,
                 "value": 0.05556,
                 "data_point_count": 1,
@@ -658,7 +658,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 251,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 14,
                 "value": 26.2,
                 "data_point_count": 1,
@@ -715,7 +715,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 109,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 12,
                 "value": 15.5,
                 "data_point_count": 1,
@@ -764,7 +764,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 240,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 12,
                 "value": 15.0,
                 "data_point_count": 1,
@@ -813,7 +813,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 272,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 12,
                 "value": 11.0,
                 "data_point_count": 1,
@@ -856,62 +856,13 @@
             "detailsId": "lonely-fragment"
         },
         {
-            "currencyTypeName": "Fragment of the Chimera",
-            "receive": {
-                "id": 0,
-                "league_id": 295,
-                "pay_currency_id": 1,
-                "get_currency_id": 43,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
-                "count": 12,
-                "value": 10.5,
-                "data_point_count": 1,
-                "includes_secondary": false,
-                "listing_count": 275
-            },
-            "paySparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "receiveSparkLine": {
-                "totalChange": 62.29,
-                "data": [
-                    0,
-                    0,
-                    -41.27,
-                    -47.45,
-                    43.74,
-                    54.56,
-                    62.29
-                ]
-            },
-            "chaosEquivalent": 10.5,
-            "lowConfidencePaySparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceReceiveSparkLine": {
-                "totalChange": 62.29,
-                "data": [
-                    0,
-                    0,
-                    -41.27,
-                    -47.45,
-                    43.74,
-                    54.56,
-                    62.29
-                ]
-            },
-            "detailsId": "fragment-of-the-chimera"
-        },
-        {
             "currencyTypeName": "Fragment of the Hydra",
             "receive": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 40,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 11,
                 "value": 10.0,
                 "data_point_count": 1,
@@ -954,62 +905,13 @@
             "detailsId": "fragment-of-the-hydra"
         },
         {
-            "currencyTypeName": "Timeless Templar Emblem",
-            "receive": {
-                "id": 0,
-                "league_id": 295,
-                "pay_currency_id": 1,
-                "get_currency_id": 101,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
-                "count": 14,
-                "value": 8.0,
-                "data_point_count": 1,
-                "includes_secondary": true,
-                "listing_count": 119
-            },
-            "paySparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "receiveSparkLine": {
-                "totalChange": -51.52,
-                "data": [
-                    0,
-                    -54.74,
-                    -67.52,
-                    -73.33,
-                    -74.55,
-                    -74.55,
-                    -51.52
-                ]
-            },
-            "chaosEquivalent": 8.0,
-            "lowConfidencePaySparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceReceiveSparkLine": {
-                "totalChange": -51.52,
-                "data": [
-                    0,
-                    -54.74,
-                    -67.52,
-                    -73.33,
-                    -74.55,
-                    -74.55,
-                    -51.52
-                ]
-            },
-            "detailsId": "timeless-templar-emblem"
-        },
-        {
             "currencyTypeName": "Crescent Splinter",
             "receive": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 142,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 20,
                 "value": 7.5,
                 "data_point_count": 1,
@@ -1052,13 +954,111 @@
             "detailsId": "crescent-splinter"
         },
         {
+            "currencyTypeName": "Timeless Templar Emblem",
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 101,
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
+                "count": 13,
+                "value": 7.0,
+                "data_point_count": 1,
+                "includes_secondary": true,
+                "listing_count": 119
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": -57.58,
+                "data": [
+                    0,
+                    -54.74,
+                    -67.52,
+                    -73.33,
+                    -74.55,
+                    -74.55,
+                    -57.58
+                ]
+            },
+            "chaosEquivalent": 7.0,
+            "lowConfidencePaySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": -57.58,
+                "data": [
+                    0,
+                    -54.74,
+                    -67.52,
+                    -73.33,
+                    -74.55,
+                    -74.55,
+                    -57.58
+                ]
+            },
+            "detailsId": "timeless-templar-emblem"
+        },
+        {
+            "currencyTypeName": "Fragment of the Chimera",
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 43,
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
+                "count": 13,
+                "value": 4.4,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 276
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": -31.99,
+                "data": [
+                    0,
+                    0,
+                    -41.27,
+                    -47.45,
+                    43.74,
+                    54.56,
+                    -31.99
+                ]
+            },
+            "chaosEquivalent": 4.4,
+            "lowConfidencePaySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": -31.99,
+                "data": [
+                    0,
+                    0,
+                    -41.27,
+                    -47.45,
+                    43.74,
+                    54.56,
+                    -31.99
+                ]
+            },
+            "detailsId": "fragment-of-the-chimera"
+        },
+        {
             "currencyTypeName": "Mortal Rage",
             "receive": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 33,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 11,
                 "value": 4.0,
                 "data_point_count": 1,
@@ -1107,7 +1107,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 42,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 11,
                 "value": 4.0,
                 "data_point_count": 1,
@@ -1156,7 +1156,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 103,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 23,
                 "value": 3.6,
                 "data_point_count": 1,
@@ -1205,7 +1205,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 98,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 12,
                 "value": 2.2,
                 "data_point_count": 1,
@@ -1254,7 +1254,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 102,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 13,
                 "value": 2.2,
                 "data_point_count": 1,
@@ -1303,7 +1303,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 29,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 17,
                 "value": 2.0,
                 "data_point_count": 1,
@@ -1352,12 +1352,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 269,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
-                "count": 254,
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
+                "count": 253,
                 "value": 2.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 86529
+                "listing_count": 86525
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -1401,7 +1401,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 104,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 13,
                 "value": 1.38,
                 "data_point_count": 1,
@@ -1450,7 +1450,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 105,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 12,
                 "value": 1.1,
                 "data_point_count": 1,
@@ -1499,7 +1499,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 107,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 12,
                 "value": 1.1,
                 "data_point_count": 1,
@@ -1548,7 +1548,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 31,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 19,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -1597,12 +1597,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 44,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 35,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 3103
+                "listing_count": 3107
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -1646,7 +1646,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 72,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 31,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -1695,7 +1695,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 100,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 11,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -1744,7 +1744,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 106,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 13,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -1793,7 +1793,7 @@
                 "league_id": 295,
                 "pay_currency_id": 129,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 1,
                 "value": 10.0,
                 "data_point_count": 1,
@@ -1805,12 +1805,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 129,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 47,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 5234
+                "listing_count": 5233
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -1862,7 +1862,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 30,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 25,
                 "value": 0.8846,
                 "data_point_count": 1,
@@ -1911,7 +1911,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 28,
-                "sample_time_utc": "2026-01-21T16:40:48.7166182Z",
+                "sample_time_utc": "2026-01-21T17:15:05.7247967Z",
                 "count": 24,
                 "value": 0.7803,
                 "data_point_count": 1,
