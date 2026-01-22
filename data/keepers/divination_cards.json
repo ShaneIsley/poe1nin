@@ -9,7 +9,7 @@
             "artFilename": "HouseOfMirrors",
             "itemClass": 6,
             "sparkLine": {
-                "totalChange": 1.95,
+                "totalChange": 1.21,
                 "data": [
                     0,
                     -0.48,
@@ -17,11 +17,11 @@
                     -5.5,
                     -4.74,
                     -1.72,
-                    1.95
+                    1.21
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 1.95,
+                "totalChange": 1.21,
                 "data": [
                     0,
                     -0.48,
@@ -29,7 +29,7 @@
                     -5.5,
                     -4.74,
                     -1.72,
-                    1.95
+                    1.21
                 ]
             },
             "implicitModifiers": [],
@@ -41,10 +41,10 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "What do you see in the mirror?",
-            "chaosValue": 13036,
-            "exaltedValue": 1881,
-            "divineValue": 82.4,
-            "count": 13,
+            "chaosValue": 12941,
+            "exaltedValue": 1867,
+            "divineValue": 81.8,
+            "count": 11,
             "detailsId": "house-of-mirrors",
             "tradeInfo": [],
             "listingCount": 57
@@ -632,10 +632,10 @@
             "chaosValue": 395.5,
             "exaltedValue": 57.07,
             "divineValue": 2.5,
-            "count": 42,
+            "count": 41,
             "detailsId": "seven-years-bad-luck",
             "tradeInfo": [],
-            "listingCount": 430
+            "listingCount": 429
         },
         {
             "id": 98357,
@@ -2547,7 +2547,7 @@
             "chaosValue": 50.0,
             "exaltedValue": 7.22,
             "divineValue": 0.32,
-            "count": 14,
+            "count": 13,
             "detailsId": "sambodhis-wisdom",
             "tradeInfo": [],
             "listingCount": 59
@@ -4598,55 +4598,6 @@
             "listingCount": 28
         },
         {
-            "id": 95800,
-            "name": "Home",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Home",
-            "stackSize": 3,
-            "artFilename": "Home",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -62.79,
-                "data": [
-                    0,
-                    -18.6,
-                    -20.93,
-                    -20.93,
-                    -56.28,
-                    -62.79,
-                    -62.79
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -62.79,
-                "data": [
-                    0,
-                    -18.6,
-                    -20.93,
-                    -20.93,
-                    -56.28,
-                    -62.79,
-                    -62.79
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Exceptional Gem}\n<default>{Quality:} <augmented>{+1-20%}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "There are countless people, countless stories, and countless eras, but there is one place that, for a time, each of us loved and was loved. It matters. We matter.",
-            "chaosValue": 16.0,
-            "exaltedValue": 2.31,
-            "divineValue": 0.1,
-            "count": 6,
-            "detailsId": "home",
-            "tradeInfo": [],
-            "listingCount": 124
-        },
-        {
             "id": 54415,
             "name": "The Long Watch",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -4942,6 +4893,55 @@
             "listingCount": 81
         },
         {
+            "id": 95800,
+            "name": "Home",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Home",
+            "stackSize": 3,
+            "artFilename": "Home",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -69.3,
+                "data": [
+                    0,
+                    -18.6,
+                    -20.93,
+                    -20.93,
+                    -56.28,
+                    -62.79,
+                    -69.3
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -69.3,
+                "data": [
+                    0,
+                    -18.6,
+                    -20.93,
+                    -20.93,
+                    -56.28,
+                    -62.79,
+                    -69.3
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Exceptional Gem}\n<default>{Quality:} <augmented>{+1-20%}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "There are countless people, countless stories, and countless eras, but there is one place that, for a time, each of us loved and was loved. It matters. We matter.",
+            "chaosValue": 13.2,
+            "exaltedValue": 1.9,
+            "divineValue": 0.08,
+            "count": 5,
+            "detailsId": "home",
+            "tradeInfo": [],
+            "listingCount": 124
+        },
+        {
             "id": 98234,
             "name": "Something Dark",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -5212,55 +5212,6 @@
             "listingCount": 105
         },
         {
-            "id": 54389,
-            "name": "The Whiteout",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Whiteout",
-            "stackSize": 8,
-            "artFilename": "TheWhiteout",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 21.95,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    21.95,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 40.24,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    21.95,
-                    40.24,
-                    40.24
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Cospri's Malice}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:25>{They thought winter had come early,\nthat snow blanketed the land,\nbut in truth, all their chickens\nhad come home to roost.}",
-            "chaosValue": 11.5,
-            "exaltedValue": 1.66,
-            "divineValue": 0.07,
-            "count": 4,
-            "detailsId": "the-whiteout",
-            "tradeInfo": [],
-            "listingCount": 111
-        },
-        {
             "id": 22480,
             "name": "The Side Quest",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -5308,6 +5259,55 @@
             "detailsId": "the-side-quest",
             "tradeInfo": [],
             "listingCount": 186
+        },
+        {
+            "id": 54389,
+            "name": "The Whiteout",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Whiteout",
+            "stackSize": 8,
+            "artFilename": "TheWhiteout",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 21.95,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    21.95,
+                    null,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 34.15,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    21.95,
+                    40.24,
+                    34.15
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Cospri's Malice}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:25>{They thought winter had come early,\nthat snow blanketed the land,\nbut in truth, all their chickens\nhad come home to roost.}",
+            "chaosValue": 11.0,
+            "exaltedValue": 1.59,
+            "divineValue": 0.07,
+            "count": 3,
+            "detailsId": "the-whiteout",
+            "tradeInfo": [],
+            "listingCount": 111
         },
         {
             "id": 71023,
@@ -5802,10 +5802,10 @@
             "chaosValue": 9.07,
             "exaltedValue": 1.31,
             "divineValue": 0.06,
-            "count": 22,
+            "count": 24,
             "detailsId": "chaotic-disposition",
             "tradeInfo": [],
-            "listingCount": 454
+            "listingCount": 456
         },
         {
             "id": 18978,
@@ -5900,10 +5900,59 @@
             "chaosValue": 9.0,
             "exaltedValue": 1.3,
             "divineValue": 0.06,
-            "count": 13,
+            "count": 12,
             "detailsId": "the-forward-gaze",
             "tradeInfo": [],
             "listingCount": 174
+        },
+        {
+            "id": 95852,
+            "name": "Rebirth and Renewal",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Rebirth and Renewal",
+            "stackSize": 4,
+            "artFilename": "RebirthAndRenewal",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -37.04,
+                "data": [
+                    0,
+                    -55.56,
+                    -55.56,
+                    -40.74,
+                    -37.04,
+                    -46.67,
+                    -37.04
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -37.04,
+                "data": [
+                    0,
+                    -55.56,
+                    -55.56,
+                    -40.74,
+                    -37.04,
+                    -46.67,
+                    -37.04
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Horned Scarab}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Life has an end, then life begins again.",
+            "chaosValue": 8.5,
+            "exaltedValue": 1.23,
+            "divineValue": 0.05,
+            "count": 6,
+            "detailsId": "rebirth-and-renewal",
+            "tradeInfo": [],
+            "listingCount": 139
         },
         {
             "id": 1524,
@@ -5953,55 +6002,6 @@
             "detailsId": "the-hoarder",
             "tradeInfo": [],
             "listingCount": 373
-        },
-        {
-            "id": 20668,
-            "name": "Arrogance of the Vaal",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Arrogance of the Vaal",
-            "stackSize": 8,
-            "artFilename": "ArroganceoftheVaal",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 12.33,
-                "data": [
-                    0,
-                    0,
-                    12.33,
-                    12.33,
-                    -86.3,
-                    12.33,
-                    12.33
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 12.33,
-                "data": [
-                    0,
-                    0,
-                    12.33,
-                    12.33,
-                    -86.3,
-                    12.33,
-                    12.33
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Item}\n <corrupted>{Two-Implicit}\n <corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Discovery can lead to beauty, or it can lead to ruin.",
-            "chaosValue": 8.2,
-            "exaltedValue": 1.18,
-            "divineValue": 0.05,
-            "count": 9,
-            "detailsId": "arrogance-of-the-vaal",
-            "tradeInfo": [],
-            "listingCount": 192
         },
         {
             "id": 1559,
@@ -6371,6 +6371,55 @@
             "listingCount": 63
         },
         {
+            "id": 20668,
+            "name": "Arrogance of the Vaal",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Arrogance of the Vaal",
+            "stackSize": 8,
+            "artFilename": "ArroganceoftheVaal",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    12.33,
+                    12.33,
+                    -86.3,
+                    12.33,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    12.33,
+                    12.33,
+                    -86.3,
+                    12.33,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Item}\n <corrupted>{Two-Implicit}\n <corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Discovery can lead to beauty, or it can lead to ruin.",
+            "chaosValue": 7.3,
+            "exaltedValue": 1.05,
+            "divineValue": 0.05,
+            "count": 8,
+            "detailsId": "arrogance-of-the-vaal",
+            "tradeInfo": [],
+            "listingCount": 192
+        },
+        {
             "id": 23900,
             "name": "Deathly Designs",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -6467,55 +6516,6 @@
             "detailsId": "the-patient",
             "tradeInfo": [],
             "listingCount": 530
-        },
-        {
-            "id": 95852,
-            "name": "Rebirth and Renewal",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Rebirth and Renewal",
-            "stackSize": 4,
-            "artFilename": "RebirthAndRenewal",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -46.67,
-                "data": [
-                    0,
-                    -55.56,
-                    -55.56,
-                    -40.74,
-                    -37.04,
-                    -46.67,
-                    -46.67
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -46.67,
-                "data": [
-                    0,
-                    -55.56,
-                    -55.56,
-                    -40.74,
-                    -37.04,
-                    -46.67,
-                    -46.67
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{Horned Scarab}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Life has an end, then life begins again.",
-            "chaosValue": 7.2,
-            "exaltedValue": 1.04,
-            "divineValue": 0.05,
-            "count": 5,
-            "detailsId": "rebirth-and-renewal",
-            "tradeInfo": [],
-            "listingCount": 138
         },
         {
             "id": 100661,
@@ -7000,6 +7000,54 @@
             "listingCount": 70
         },
         {
+            "id": 22411,
+            "name": "The Heroic Shot",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Heroic Shot",
+            "artFilename": "TheHeroicShot",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 43.48,
+                "data": [
+                    0,
+                    73.91,
+                    26.09,
+                    26.09,
+                    43.48,
+                    26.09,
+                    43.48
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 43.48,
+                "data": [
+                    0,
+                    73.91,
+                    26.09,
+                    26.09,
+                    43.48,
+                    26.09,
+                    43.48
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{17x Chromatic Orb}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Try a thousand times, and eventually you'll have to give up.",
+            "chaosValue": 6.6,
+            "exaltedValue": 0.95,
+            "divineValue": 0.04,
+            "count": 21,
+            "detailsId": "the-heroic-shot",
+            "tradeInfo": [],
+            "listingCount": 528
+        },
+        {
             "id": 100585,
             "name": "Ever-Changing",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -7092,10 +7140,10 @@
             "chaosValue": 6.5,
             "exaltedValue": 0.94,
             "divineValue": 0.04,
-            "count": 11,
+            "count": 13,
             "detailsId": "last-hope",
             "tradeInfo": [],
-            "listingCount": 307
+            "listingCount": 309
         },
         {
             "id": 1431,
@@ -7881,54 +7929,6 @@
             "detailsId": "the-professor",
             "tradeInfo": [],
             "listingCount": 86
-        },
-        {
-            "id": 22411,
-            "name": "The Heroic Shot",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Heroic Shot",
-            "artFilename": "TheHeroicShot",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 26.09,
-                "data": [
-                    0,
-                    73.91,
-                    26.09,
-                    26.09,
-                    43.48,
-                    26.09,
-                    26.09
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 26.09,
-                "data": [
-                    0,
-                    73.91,
-                    26.09,
-                    26.09,
-                    43.48,
-                    26.09,
-                    26.09
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{17x Chromatic Orb}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Try a thousand times, and eventually you'll have to give up.",
-            "chaosValue": 5.8,
-            "exaltedValue": 0.84,
-            "divineValue": 0.04,
-            "count": 19,
-            "detailsId": "the-heroic-shot",
-            "tradeInfo": [],
-            "listingCount": 526
         },
         {
             "id": 22463,
@@ -11531,7 +11531,7 @@
             "chaosValue": 2.78,
             "exaltedValue": 0.4,
             "divineValue": 0.02,
-            "count": 57,
+            "count": 56,
             "detailsId": "the-void",
             "tradeInfo": [],
             "listingCount": 1041
@@ -12109,55 +12109,6 @@
             "listingCount": 222
         },
         {
-            "id": 20762,
-            "name": "Dark Temptation",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Dark Temptation",
-            "stackSize": 5,
-            "artFilename": "DarkTemptation",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -7.69,
-                "data": [
-                    0,
-                    0,
-                    -23.08,
-                    -30.77,
-                    -30.77,
-                    -30.77,
-                    -7.69
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -7.69,
-                "data": [
-                    0,
-                    0,
-                    -23.08,
-                    -30.77,
-                    -30.77,
-                    -30.77,
-                    -7.69
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Obliteration}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Only a fool looks to the occult for power and expects to be spared from its wrath.\" \n- Voll, Emperor of Purity",
-            "chaosValue": 2.4,
-            "exaltedValue": 0.35,
-            "divineValue": 0.02,
-            "count": 18,
-            "detailsId": "dark-temptation",
-            "tradeInfo": [],
-            "listingCount": 299
-        },
-        {
             "id": 67881,
             "name": "Lachrymal Necrosis",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12704,6 +12655,55 @@
             "detailsId": "the-dreamland",
             "tradeInfo": [],
             "listingCount": 126
+        },
+        {
+            "id": 20762,
+            "name": "Dark Temptation",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Dark Temptation",
+            "stackSize": 5,
+            "artFilename": "DarkTemptation",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -15.38,
+                "data": [
+                    0,
+                    0,
+                    -23.08,
+                    -30.77,
+                    -30.77,
+                    -30.77,
+                    -15.38
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -15.38,
+                "data": [
+                    0,
+                    0,
+                    -23.08,
+                    -30.77,
+                    -30.77,
+                    -30.77,
+                    -15.38
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Obliteration}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Only a fool looks to the occult for power and expects to be spared from its wrath.\" \n- Voll, Emperor of Purity",
+            "chaosValue": 2.2,
+            "exaltedValue": 0.32,
+            "divineValue": 0.01,
+            "count": 17,
+            "detailsId": "dark-temptation",
+            "tradeInfo": [],
+            "listingCount": 299
         },
         {
             "id": 20786,
@@ -13743,55 +13743,6 @@
             "listingCount": 138
         },
         {
-            "id": 1677,
-            "name": "The Wolf's Shadow",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Wolf's Shadow",
-            "stackSize": 3,
-            "artFilename": "TheWolfsShadow",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -44.67,
-                "data": [
-                    0,
-                    0,
-                    -66.67,
-                    -66.67,
-                    -66.67,
-                    -66.67,
-                    -44.67
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -44.67,
-                "data": [
-                    0,
-                    0,
-                    -66.67,
-                    -66.67,
-                    -66.67,
-                    -66.67,
-                    -44.67
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Hyaon's Fury}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"If I fall, we will fall together with my fangs in your throat.\"",
-            "chaosValue": 1.66,
-            "exaltedValue": 0.24,
-            "divineValue": 0.01,
-            "count": 6,
-            "detailsId": "the-wolfs-shadow",
-            "tradeInfo": [],
-            "listingCount": 141
-        },
-        {
             "id": 568,
             "name": "Gift of the Gemling Queen",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -13931,6 +13882,55 @@
             "listingCount": 145
         },
         {
+            "id": 1677,
+            "name": "The Wolf's Shadow",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Wolf's Shadow",
+            "stackSize": 3,
+            "artFilename": "TheWolfsShadow",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -49,
+                "data": [
+                    0,
+                    0,
+                    -66.67,
+                    -66.67,
+                    -66.67,
+                    -66.67,
+                    -49
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -49,
+                "data": [
+                    0,
+                    0,
+                    -66.67,
+                    -66.67,
+                    -66.67,
+                    -66.67,
+                    -49
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Hyaon's Fury}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"If I fall, we will fall together with my fangs in your throat.\"",
+            "chaosValue": 1.53,
+            "exaltedValue": 0.22,
+            "divineValue": 0.01,
+            "count": 5,
+            "detailsId": "the-wolfs-shadow",
+            "tradeInfo": [],
+            "listingCount": 141
+        },
+        {
             "id": 468,
             "name": "Earth Drinker",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -13978,55 +13978,6 @@
             "detailsId": "earth-drinker",
             "tradeInfo": [],
             "listingCount": 200
-        },
-        {
-            "id": 1477,
-            "name": "The Doppelganger",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Doppelganger",
-            "stackSize": 2,
-            "artFilename": "TheDoppelganger",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 50,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    40,
-                    50
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 50,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    40,
-                    50
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Mirror Arrow}\n<default>{Quality:} <augmented>{+20%}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Upon seeing her face, I am terrified\u2014the moon shows me my own form!",
-            "chaosValue": 1.5,
-            "exaltedValue": 0.22,
-            "divineValue": 0.01,
-            "count": 9,
-            "detailsId": "the-doppelganger",
-            "tradeInfo": [],
-            "listingCount": 802
         },
         {
             "id": 2292,
@@ -14650,6 +14601,55 @@
             "listingCount": 87
         },
         {
+            "id": 2039,
+            "name": "Lingering Remnants",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Lingering Remnants",
+            "stackSize": 16,
+            "artFilename": "LingeringRemnants",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -52.17,
+                "data": [
+                    0,
+                    -13.04,
+                    -13.04,
+                    -17.39,
+                    -56.52,
+                    -56.52,
+                    -52.17
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -52.17,
+                "data": [
+                    0,
+                    -13.04,
+                    -13.04,
+                    -17.39,
+                    -56.52,
+                    -56.52,
+                    -52.17
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<rareitem>{Vaal Temple Map}\n<default>{Item Level:} <normal>{83}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Never dying, yet not living,\nEndlessly they wander\nbeneath the harvest moon.",
+            "chaosValue": 1.1,
+            "exaltedValue": 0.16,
+            "divineValue": 0.01,
+            "count": 12,
+            "detailsId": "lingering-remnants",
+            "tradeInfo": [],
+            "listingCount": 301
+        },
+        {
             "id": 618,
             "name": "Her Mask",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -14742,7 +14742,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 11,
+            "count": 10,
             "detailsId": "assassins-favour",
             "tradeInfo": [],
             "listingCount": 523
@@ -15085,10 +15085,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 48,
+            "count": 49,
             "detailsId": "emperors-luck",
             "tradeInfo": [],
-            "listingCount": 1199
+            "listingCount": 1200
         },
         {
             "id": 556,
@@ -15820,7 +15820,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 7,
+            "count": 6,
             "detailsId": "the-body",
             "tradeInfo": [],
             "listingCount": 328
@@ -16071,6 +16071,55 @@
             "listingCount": 206
         },
         {
+            "id": 1477,
+            "name": "The Doppelganger",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Doppelganger",
+            "stackSize": 2,
+            "artFilename": "TheDoppelganger",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    40,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    40,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Mirror Arrow}\n<default>{Quality:} <augmented>{+20%}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Upon seeing her face, I am terrified\u2014the moon shows me my own form!",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.14,
+            "divineValue": 0.01,
+            "count": 10,
+            "detailsId": "the-doppelganger",
+            "tradeInfo": [],
+            "listingCount": 803
+        },
+        {
             "id": 1486,
             "name": "The Endurance",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -16310,7 +16359,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 7,
+            "count": 6,
             "detailsId": "the-hermit",
             "tradeInfo": [],
             "listingCount": 304
@@ -16408,10 +16457,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 13,
+            "count": 14,
             "detailsId": "the-inventor",
             "tradeInfo": [],
-            "listingCount": 503
+            "listingCount": 504
         },
         {
             "id": 1538,
@@ -16996,7 +17045,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 9,
+            "count": 8,
             "detailsId": "the-sigil",
             "tradeInfo": [],
             "listingCount": 158
@@ -17331,10 +17380,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 16,
+            "count": 17,
             "detailsId": "the-wrath",
             "tradeInfo": [],
-            "listingCount": 600
+            "listingCount": 601
         },
         {
             "id": 1691,
@@ -17380,10 +17429,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 23,
+            "count": 24,
             "detailsId": "three-faces-in-the-dark",
             "tradeInfo": [],
-            "listingCount": 924
+            "listingCount": 925
         },
         {
             "id": 1694,
@@ -17527,10 +17576,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 9,
+            "count": 10,
             "detailsId": "vinias-token",
             "tradeInfo": [],
-            "listingCount": 354
+            "listingCount": 355
         },
         {
             "id": 1803,
@@ -17625,59 +17674,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 7,
+            "count": 5,
             "detailsId": "mitts",
             "tradeInfo": [],
             "listingCount": 351
-        },
-        {
-            "id": 2039,
-            "name": "Lingering Remnants",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Lingering Remnants",
-            "stackSize": 16,
-            "artFilename": "LingeringRemnants",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -56.52,
-                "data": [
-                    0,
-                    -13.04,
-                    -13.04,
-                    -17.39,
-                    -56.52,
-                    -56.52,
-                    -56.52
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -56.52,
-                "data": [
-                    0,
-                    -13.04,
-                    -13.04,
-                    -17.39,
-                    -56.52,
-                    -56.52,
-                    -56.52
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<rareitem>{Vaal Temple Map}\n<default>{Item Level:} <normal>{83}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Never dying, yet not living,\nEndlessly they wander\nbeneath the harvest moon.",
-            "chaosValue": 1.0,
-            "exaltedValue": 0.14,
-            "divineValue": 0.01,
-            "count": 11,
-            "detailsId": "lingering-remnants",
-            "tradeInfo": [],
-            "listingCount": 300
         },
         {
             "id": 2043,
@@ -18559,7 +18559,7 @@
             "count": 8,
             "detailsId": "the-journalist",
             "tradeInfo": [],
-            "listingCount": 539
+            "listingCount": 540
         },
         {
             "id": 44126,
@@ -19044,55 +19044,6 @@
             "listingCount": 95
         },
         {
-            "id": 735,
-            "name": "Lantador's Lost Love",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Lantador's Lost Love",
-            "stackSize": 7,
-            "artFilename": "LantadorsLostLove",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -18.85,
-                "data": [
-                    0,
-                    5.74,
-                    -18.85,
-                    -18.85,
-                    -18.85,
-                    -18.85,
-                    -18.85
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -18.85,
-                "data": [
-                    0,
-                    5.74,
-                    -18.85,
-                    -18.85,
-                    -18.85,
-                    -18.85,
-                    -18.85
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<rareitem>{Two-Stone Ring}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<smaller>{They fought the storm together as one, \nUntil the longest of days was done. \nTheir love grew stronger\nwith every breath, \nUntil it was broken apart in death.}",
-            "chaosValue": 0.99,
-            "exaltedValue": 0.14,
-            "divineValue": 0.01,
-            "count": 10,
-            "detailsId": "lantadors-lost-love",
-            "tradeInfo": [],
-            "listingCount": 339
-        },
-        {
             "id": 1550,
             "name": "The Lunaris Priestess",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -19140,6 +19091,55 @@
             "detailsId": "the-lunaris-priestess",
             "tradeInfo": [],
             "listingCount": 192
+        },
+        {
+            "id": 735,
+            "name": "Lantador's Lost Love",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Lantador's Lost Love",
+            "stackSize": 7,
+            "artFilename": "LantadorsLostLove",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -20.49,
+                "data": [
+                    0,
+                    5.74,
+                    -18.85,
+                    -18.85,
+                    -18.85,
+                    -18.85,
+                    -20.49
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -20.49,
+                "data": [
+                    0,
+                    5.74,
+                    -18.85,
+                    -18.85,
+                    -18.85,
+                    -18.85,
+                    -20.49
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<rareitem>{Two-Stone Ring}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<smaller>{They fought the storm together as one, \nUntil the longest of days was done. \nTheir love grew stronger\nwith every breath, \nUntil it was broken apart in death.}",
+            "chaosValue": 0.97,
+            "exaltedValue": 0.14,
+            "divineValue": 0.01,
+            "count": 9,
+            "detailsId": "lantadors-lost-love",
+            "tradeInfo": [],
+            "listingCount": 339
         },
         {
             "id": 1478,
