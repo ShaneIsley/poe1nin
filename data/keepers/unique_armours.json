@@ -139,10 +139,10 @@
             "chaosValue": 8252,
             "exaltedValue": 1344,
             "divineValue": 52.0,
-            "count": 124,
+            "count": 125,
             "detailsId": "svalinn-girded-tower-shield",
             "tradeInfo": [],
-            "listingCount": 282
+            "listingCount": 283
         },
         {
             "id": 42636,
@@ -994,7 +994,7 @@
             "baseType": "Elegant Round Shield",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 56.01,
+                "totalChange": 38.08,
                 "data": [
                     0,
                     19.18,
@@ -1002,11 +1002,11 @@
                     22.03,
                     18.49,
                     32.29,
-                    56.01
+                    38.08
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 56.01,
+                "totalChange": 38.08,
                 "data": [
                     0,
                     19.18,
@@ -1014,7 +1014,7 @@
                     22.03,
                     18.49,
                     32.29,
-                    56.01
+                    38.08
                 ]
             },
             "implicitModifiers": [
@@ -1052,87 +1052,88 @@
             "mutatedModifiers": [],
             "flavourText": "Judge not the weak, for\nthey empower the strong.",
             "itemType": "Shield",
-            "chaosValue": 920.5,
-            "exaltedValue": 149.9,
-            "divineValue": 5.8,
-            "count": 55,
+            "chaosValue": 814.7,
+            "exaltedValue": 132.7,
+            "divineValue": 5.13,
+            "count": 56,
             "detailsId": "the-squire-elegant-round-shield",
             "tradeInfo": [],
-            "listingCount": 135
+            "listingCount": 136
         },
         {
-            "id": 42680,
-            "name": "The Immortal Will",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9TaGllbGRzL0hhcmJpbmdlclNoaWVsZFVwZ3JhZGVkIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/a259d55fe1/HarbingerShieldUpgraded.png",
-            "levelRequired": 68,
-            "baseType": "Archon Kite Shield",
+            "id": 129351,
+            "name": "Foulborn Dialla's Malefaction",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9EaWFsbGFzTWFsZWZhY3Rpb24iLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/e64d0c69d5/DiallasMalefaction.png",
+            "levelRequired": 37,
+            "baseType": "Sage's Robe",
+            "links": 6,
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -94.54,
+                "totalChange": -2.01,
                 "data": [
-                    null,
-                    null,
-                    null,
                     0,
-                    -65.79,
-                    -80.63,
-                    -94.54
+                    -6.95,
+                    -16.32,
+                    -0.22,
+                    -1.64,
+                    -8.31,
+                    -2.01
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 79250,
+                "totalChange": -2.01,
                 "data": [
                     0,
-                    8894390,
-                    8532140,
-                    1453900,
-                    497320,
-                    281480,
-                    79250
+                    -6.95,
+                    -16.32,
+                    -0.22,
+                    -1.64,
+                    -8.31,
+                    -2.01
                 ]
             },
-            "implicitModifiers": [
-                {
-                    "text": "+12% to all Elemental Resistances",
-                    "optional": false
-                }
-            ],
+            "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "Grants Summon Greater Harbinger of Focus Skill",
+                    "text": "Gems can be Socketed in this Item ignoring Socket Colour",
+                    "optional": true
+                },
+                {
+                    "text": "Gems Socketed in Red Sockets have +2 to Level",
                     "optional": false
                 },
                 {
-                    "text": "+(60-80) to maximum Life",
+                    "text": "Gems Socketed in Green Sockets have +30% to Quality",
                     "optional": false
                 },
                 {
-                    "text": "+(10-15)% to all Elemental Resistances",
-                    "optional": false
+                    "text": "Gems Socketed in Blue Sockets gain 100% increased Experience",
+                    "optional": true
                 },
                 {
-                    "text": "(30-50) Mana gained when you Block",
-                    "optional": false
-                },
-                {
-                    "text": "+5% Chance to Block",
-                    "optional": false
-                },
-                {
-                    "text": "Channelling Skills deal (50-70)% increased Damage",
+                    "text": "Has no Attribute Requirements",
                     "optional": false
                 }
             ],
-            "mutatedModifiers": [],
-            "flavourText": "<<HBGAa>><<HBG00>><<HBGAt>>\n<<HBGAa>><<HBG04>><<HBGAp>>\n<<HBGAa>><<HBG01>><<HBGAn>><<HBG04>><<HBGC01>>\n<<HBGAf>><<HBG02>><<HBGC05>>",
-            "itemType": "Shield",
+            "mutatedModifiers": [
+                {
+                    "text": "+1 to Level of Socketed Gems",
+                    "optional": true
+                },
+                {
+                    "text": "Ignore Attribute Requirements of Gems Socketed in Blue Sockets",
+                    "optional": true
+                }
+            ],
+            "flavourText": "He took me by my hand, promised me power beyond compare.\nBut I did not do it for power.\nI did it for love.\nAnd I'd do it again in an instant.",
+            "itemType": "Body Armour",
             "chaosValue": 793.5,
             "exaltedValue": 129.2,
             "divineValue": 5.0,
-            "count": 17,
-            "detailsId": "the-immortal-will-archon-kite-shield",
+            "count": 7,
+            "detailsId": "foulborn-diallas-malefaction-sages-robe-6l",
             "tradeInfo": [],
-            "listingCount": 19
+            "listingCount": 17
         },
         {
             "id": 54932,
@@ -1266,81 +1267,6 @@
             "detailsId": "foulborn-the-covenant-spidersilk-robe-5l",
             "tradeInfo": [],
             "listingCount": 38
-        },
-        {
-            "id": 129351,
-            "name": "Foulborn Dialla's Malefaction",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9EaWFsbGFzTWFsZWZhY3Rpb24iLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/e64d0c69d5/DiallasMalefaction.png",
-            "levelRequired": 37,
-            "baseType": "Sage's Robe",
-            "links": 6,
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -17.69,
-                "data": [
-                    0,
-                    -6.95,
-                    -16.32,
-                    -0.22,
-                    -1.64,
-                    -8.31,
-                    -17.69
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -17.69,
-                "data": [
-                    0,
-                    -6.95,
-                    -16.32,
-                    -0.22,
-                    -1.64,
-                    -8.31,
-                    -17.69
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Gems can be Socketed in this Item ignoring Socket Colour",
-                    "optional": true
-                },
-                {
-                    "text": "Gems Socketed in Red Sockets have +2 to Level",
-                    "optional": false
-                },
-                {
-                    "text": "Gems Socketed in Green Sockets have +30% to Quality",
-                    "optional": false
-                },
-                {
-                    "text": "Gems Socketed in Blue Sockets gain 100% increased Experience",
-                    "optional": true
-                },
-                {
-                    "text": "Has no Attribute Requirements",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [
-                {
-                    "text": "+1 to Level of Socketed Gems",
-                    "optional": true
-                },
-                {
-                    "text": "Ignore Attribute Requirements of Gems Socketed in Blue Sockets",
-                    "optional": true
-                }
-            ],
-            "flavourText": "He took me by my hand, promised me power beyond compare.\nBut I did not do it for power.\nI did it for love.\nAnd I'd do it again in an instant.",
-            "itemType": "Body Armour",
-            "chaosValue": 666.5,
-            "exaltedValue": 108.6,
-            "divineValue": 4.2,
-            "count": 8,
-            "detailsId": "foulborn-diallas-malefaction-sages-robe-6l",
-            "tradeInfo": [],
-            "listingCount": 18
         },
         {
             "id": 6952,
@@ -1544,6 +1470,80 @@
             "detailsId": "saqawals-nest-blood-raiment-5l",
             "tradeInfo": [],
             "listingCount": 4
+        },
+        {
+            "id": 42680,
+            "name": "The Immortal Will",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9TaGllbGRzL0hhcmJpbmdlclNoaWVsZFVwZ3JhZGVkIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/a259d55fe1/HarbingerShieldUpgraded.png",
+            "levelRequired": 68,
+            "baseType": "Archon Kite Shield",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -95.63,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    0,
+                    -65.79,
+                    -80.63,
+                    -95.63
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 63380,
+                "data": [
+                    0,
+                    8894390,
+                    8532140,
+                    1453900,
+                    497320,
+                    281480,
+                    63380
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "+12% to all Elemental Resistances",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Grants Summon Greater Harbinger of Focus Skill",
+                    "optional": false
+                },
+                {
+                    "text": "+(60-80) to maximum Life",
+                    "optional": false
+                },
+                {
+                    "text": "+(10-15)% to all Elemental Resistances",
+                    "optional": false
+                },
+                {
+                    "text": "(30-50) Mana gained when you Block",
+                    "optional": false
+                },
+                {
+                    "text": "+5% Chance to Block",
+                    "optional": false
+                },
+                {
+                    "text": "Channelling Skills deal (50-70)% increased Damage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<<HBGAa>><<HBG00>><<HBGAt>>\n<<HBGAa>><<HBG04>><<HBGAp>>\n<<HBGAa>><<HBG01>><<HBGAn>><<HBG04>><<HBGC01>>\n<<HBGAf>><<HBG02>><<HBGC05>>",
+            "itemType": "Shield",
+            "chaosValue": 634.8,
+            "exaltedValue": 103.4,
+            "divineValue": 4.0,
+            "count": 17,
+            "detailsId": "the-immortal-will-archon-kite-shield",
+            "tradeInfo": [],
+            "listingCount": 19
         },
         {
             "id": 45251,
@@ -2564,6 +2564,72 @@
             "listingCount": 29
         },
         {
+            "id": 1465,
+            "name": "The Covenant",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9FbWJyYWNlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/d0110e7660/Embrace.png",
+            "levelRequired": 49,
+            "baseType": "Spidersilk Robe",
+            "links": 6,
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 24.32,
+                "data": [
+                    0,
+                    50.1,
+                    49.69,
+                    48.57,
+                    48.81,
+                    3.27,
+                    24.32
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 24.32,
+                "data": [
+                    0,
+                    50.1,
+                    49.69,
+                    48.57,
+                    48.81,
+                    3.27,
+                    24.32
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Socketed Gems are Supported by Level 29 Added Chaos Damage",
+                    "optional": false
+                },
+                {
+                    "text": "+(20-30) to Intelligence",
+                    "optional": false
+                },
+                {
+                    "text": "(210-250)% increased Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "10% increased maximum Life",
+                    "optional": false
+                },
+                {
+                    "text": "Skills gain a Base Life Cost equal to 100% of Base Mana Cost",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "My Soul is your Strength\nMy Price is your Blood",
+            "itemType": "Body Armour",
+            "chaosValue": 365.0,
+            "exaltedValue": 59.45,
+            "divineValue": 2.3,
+            "count": 25,
+            "detailsId": "the-covenant-spidersilk-robe-6l",
+            "tradeInfo": [],
+            "listingCount": 76
+        },
+        {
             "id": 128630,
             "name": "Foulborn The Covenant",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9FbWJyYWNlIiwidyI6MiwiaCI6Mywic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/edcf542067/Embrace.png",
@@ -2637,7 +2703,7 @@
             "baseType": "Carnal Mitts",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 10.04,
+                "totalChange": 10.13,
                 "data": [
                     0,
                     2.57,
@@ -2645,11 +2711,11 @@
                     15.29,
                     19.94,
                     13.57,
-                    10.04
+                    10.13
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 10.04,
+                "totalChange": 10.13,
                 "data": [
                     0,
                     2.57,
@@ -2657,7 +2723,7 @@
                     15.29,
                     19.94,
                     13.57,
-                    10.04
+                    10.13
                 ]
             },
             "implicitModifiers": [],
@@ -2682,13 +2748,13 @@
             "mutatedModifiers": [],
             "flavourText": "Fear can be instilled by the smallest entity.",
             "itemType": "Gloves",
-            "chaosValue": 319.7,
-            "exaltedValue": 52.07,
-            "divineValue": 2.01,
-            "count": 104,
+            "chaosValue": 320.0,
+            "exaltedValue": 52.12,
+            "divineValue": 2.02,
+            "count": 95,
             "detailsId": "soul-ascension-carnal-mitts",
             "tradeInfo": [],
-            "listingCount": 384
+            "listingCount": 375
         },
         {
             "id": 2250,
@@ -2821,72 +2887,6 @@
             "detailsId": "hyrris-ire-zodiac-leather-6l",
             "tradeInfo": [],
             "listingCount": 168
-        },
-        {
-            "id": 1465,
-            "name": "The Covenant",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9FbWJyYWNlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/d0110e7660/Embrace.png",
-            "levelRequired": 49,
-            "baseType": "Spidersilk Robe",
-            "links": 6,
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 8.11,
-                "data": [
-                    0,
-                    50.1,
-                    49.69,
-                    48.57,
-                    48.81,
-                    3.27,
-                    8.11
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 8.11,
-                "data": [
-                    0,
-                    50.1,
-                    49.69,
-                    48.57,
-                    48.81,
-                    3.27,
-                    8.11
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Socketed Gems are Supported by Level 29 Added Chaos Damage",
-                    "optional": false
-                },
-                {
-                    "text": "+(20-30) to Intelligence",
-                    "optional": false
-                },
-                {
-                    "text": "(210-250)% increased Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "10% increased maximum Life",
-                    "optional": false
-                },
-                {
-                    "text": "Skills gain a Base Life Cost equal to 100% of Base Mana Cost",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "My Soul is your Strength\nMy Price is your Blood",
-            "itemType": "Body Armour",
-            "chaosValue": 317.4,
-            "exaltedValue": 51.69,
-            "divineValue": 2.0,
-            "count": 26,
-            "detailsId": "the-covenant-spidersilk-robe-6l",
-            "tradeInfo": [],
-            "listingCount": 77
         },
         {
             "id": 1689,
@@ -3993,7 +3993,7 @@
             "links": 6,
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 25.34,
+                "totalChange": 24.73,
                 "data": [
                     0,
                     17.21,
@@ -4001,11 +4001,11 @@
                     13.01,
                     22.42,
                     37.99,
-                    25.34
+                    24.73
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 25.34,
+                "totalChange": 24.73,
                 "data": [
                     0,
                     17.21,
@@ -4013,7 +4013,7 @@
                     13.01,
                     22.42,
                     37.99,
-                    25.34
+                    24.73
                 ]
             },
             "implicitModifiers": [],
@@ -4047,13 +4047,13 @@
             ],
             "flavourText": "He who sows an ember shall reap an inferno.",
             "itemType": "Body Armour",
-            "chaosValue": 244.0,
-            "exaltedValue": 39.74,
-            "divineValue": 1.54,
-            "count": 26,
+            "chaosValue": 242.8,
+            "exaltedValue": 39.55,
+            "divineValue": 1.53,
+            "count": 25,
             "detailsId": "foulborn-cloak-of-flame-scholars-robe-6l",
             "tradeInfo": [],
-            "listingCount": 171
+            "listingCount": 170
         },
         {
             "id": 45705,
@@ -5313,7 +5313,7 @@
             "count": 91,
             "detailsId": "indigon-hubris-circlet",
             "tradeInfo": [],
-            "listingCount": 494
+            "listingCount": 493
         },
         {
             "id": 25621,
@@ -5381,10 +5381,10 @@
             "chaosValue": 158.7,
             "exaltedValue": 25.85,
             "divineValue": 1.0,
-            "count": 50,
+            "count": 51,
             "detailsId": "the-ivory-tower-saints-hauberk-6l",
             "tradeInfo": [],
-            "listingCount": 297
+            "listingCount": 298
         },
         {
             "id": 45015,
@@ -5575,10 +5575,10 @@
             "chaosValue": 158.7,
             "exaltedValue": 25.85,
             "divineValue": 1.0,
-            "count": 59,
+            "count": 58,
             "detailsId": "manastorm-lacewood-spirit-shield",
             "tradeInfo": [],
-            "listingCount": 475
+            "listingCount": 474
         },
         {
             "id": 98832,
@@ -7056,7 +7056,7 @@
             "links": 6,
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -17.82,
+                "totalChange": -14.36,
                 "data": [
                     0,
                     1.45,
@@ -7064,11 +7064,11 @@
                     1.45,
                     1.8,
                     -14.02,
-                    -17.82
+                    -14.36
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -17.82,
+                "totalChange": -14.36,
                 "data": [
                     0,
                     1.45,
@@ -7076,7 +7076,7 @@
                     1.45,
                     1.8,
                     -14.02,
-                    -17.82
+                    -14.36
                 ]
             },
             "implicitModifiers": [],
@@ -7109,13 +7109,78 @@
             "mutatedModifiers": [],
             "flavourText": "\"...The discomfort shown by the others is amusing, but none\ncan deny that my work has made quite the splash...\"\n- Maligaro's Journal",
             "itemType": "Body Armour",
-            "chaosValue": 119.0,
-            "exaltedValue": 19.38,
-            "divineValue": 0.75,
-            "count": 21,
+            "chaosValue": 124.0,
+            "exaltedValue": 20.2,
+            "divineValue": 0.78,
+            "count": 20,
             "detailsId": "carcass-jack-varnished-coat-6l",
             "tradeInfo": [],
-            "listingCount": 290
+            "listingCount": 289
+        },
+        {
+            "id": 109184,
+            "name": "Replica Covenant",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9FbWJyYWNlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/d0110e7660/Embrace.png",
+            "levelRequired": 49,
+            "baseType": "Spidersilk Robe",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 226.1,
+                "data": [
+                    0,
+                    21.74,
+                    73.91,
+                    75.07,
+                    101.7,
+                    131.9,
+                    226.1
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 226.1,
+                "data": [
+                    0,
+                    21.74,
+                    73.91,
+                    75.07,
+                    101.7,
+                    131.9,
+                    226.1
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Socketed Gems are Supported by Level 29 Added Cold Damage",
+                    "optional": false
+                },
+                {
+                    "text": "+(20-30) to Intelligence",
+                    "optional": false
+                },
+                {
+                    "text": "(210-250)% increased Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "10% increased maximum Life",
+                    "optional": false
+                },
+                {
+                    "text": "Skills gain a Base Energy Shield Cost equal to 200% of Base Mana Cost",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Researcher Graven's request to wear Prototype #2998 in\nplace of his standard lab attire is... granted.\"\n- Lead Researcher Ksaret",
+            "itemType": "Body Armour",
+            "chaosValue": 112.5,
+            "exaltedValue": 18.32,
+            "divineValue": 0.71,
+            "count": 16,
+            "detailsId": "replica-covenant-spidersilk-robe",
+            "tradeInfo": [],
+            "listingCount": 120
         },
         {
             "id": 750,
@@ -7833,7 +7898,7 @@
             "baseType": "Soldier Boots",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -20.83,
+                "totalChange": -20.58,
                 "data": [
                     0,
                     -9.08,
@@ -7841,11 +7906,11 @@
                     -20.92,
                     -8.33,
                     -9.92,
-                    -20.83
+                    -20.58
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -20.83,
+                "totalChange": -20.58,
                 "data": [
                     0,
                     -9.08,
@@ -7853,7 +7918,7 @@
                     -20.92,
                     -8.33,
                     -9.92,
-                    -20.83
+                    -20.58
                 ]
             },
             "implicitModifiers": [],
@@ -7886,13 +7951,13 @@
             "mutatedModifiers": [],
             "flavourText": "\"Starving test subject became completely incapable of exerting force.\nHowever, after being fed, he began to poison everything he touched...\"",
             "itemType": "Boots",
-            "chaosValue": 95.0,
-            "exaltedValue": 15.47,
+            "chaosValue": 95.3,
+            "exaltedValue": 15.52,
             "divineValue": 0.6,
-            "count": 99,
+            "count": 98,
             "detailsId": "replica-alberons-warpath-soldier-boots",
             "tradeInfo": [],
-            "listingCount": 565
+            "listingCount": 564
         },
         {
             "id": 44624,
@@ -8023,10 +8088,10 @@
             "chaosValue": 94.0,
             "exaltedValue": 15.31,
             "divineValue": 0.59,
-            "count": 114,
+            "count": 115,
             "detailsId": "malachais-mark-murder-mitts",
             "tradeInfo": [],
-            "listingCount": 655
+            "listingCount": 656
         },
         {
             "id": 128775,
@@ -8338,10 +8403,10 @@
             "chaosValue": 90.0,
             "exaltedValue": 14.66,
             "divineValue": 0.57,
-            "count": 139,
+            "count": 141,
             "detailsId": "entropic-devastation-assassins-mitts",
             "tradeInfo": [],
-            "listingCount": 875
+            "listingCount": 877
         },
         {
             "id": 114516,
@@ -8395,10 +8460,10 @@
             "chaosValue": 90.0,
             "exaltedValue": 14.66,
             "divineValue": 0.57,
-            "count": 94,
+            "count": 93,
             "detailsId": "the-apostate-cabalist-regalia",
             "tradeInfo": [],
-            "listingCount": 498
+            "listingCount": 497
         },
         {
             "id": 1268,
@@ -8479,7 +8544,7 @@
             "baseType": "Stealth Boots",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 1.06,
+                "totalChange": 1.18,
                 "data": [
                     0,
                     -6,
@@ -8487,11 +8552,11 @@
                     -2.94,
                     -4.71,
                     4.94,
-                    1.06
+                    1.18
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 1.06,
+                "totalChange": 1.18,
                 "data": [
                     0,
                     -6,
@@ -8499,7 +8564,7 @@
                     -2.94,
                     -4.71,
                     4.94,
-                    1.06
+                    1.18
                 ]
             },
             "implicitModifiers": [
@@ -8537,13 +8602,13 @@
             "mutatedModifiers": [],
             "flavourText": "The higher you soar, the further you must fall.",
             "itemType": "Boots",
-            "chaosValue": 85.9,
-            "exaltedValue": 13.99,
+            "chaosValue": 86.0,
+            "exaltedValue": 14.01,
             "divineValue": 0.54,
-            "count": 43,
+            "count": 45,
             "detailsId": "garukhans-flight-stealth-boots",
             "tradeInfo": [],
-            "listingCount": 446
+            "listingCount": 448
         },
         {
             "id": 130277,
@@ -8702,10 +8767,10 @@
             "chaosValue": 80.0,
             "exaltedValue": 13.03,
             "divineValue": 0.5,
-            "count": 272,
+            "count": 273,
             "detailsId": "ralakeshs-impatience-riveted-boots",
             "tradeInfo": [],
-            "listingCount": 1902
+            "listingCount": 1903
         },
         {
             "id": 45113,
@@ -9886,79 +9951,6 @@
             "listingCount": 200
         },
         {
-            "id": 6955,
-            "name": "Slavedriver's Hand",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9HbG92ZXMvU2xhdmVkcml2ZXJzSGFuZCIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/96ae934cf8/SlavedriversHand.png",
-            "levelRequired": 45,
-            "baseType": "Ambush Mitts",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -37.5,
-                "data": [
-                    0,
-                    -5.73,
-                    -25.52,
-                    -33.12,
-                    -40.62,
-                    -36.98,
-                    -37.5
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -37.5,
-                "data": [
-                    0,
-                    -5.73,
-                    -25.52,
-                    -33.12,
-                    -40.62,
-                    -36.98,
-                    -37.5
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "+(30-40) to Dexterity",
-                    "optional": false
-                },
-                {
-                    "text": "(200-250)% increased Evasion and Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "(20-30)% reduced Trap Throwing Speed",
-                    "optional": false
-                },
-                {
-                    "text": "Skills used by Traps have (10-20)% increased Area of Effect",
-                    "optional": false
-                },
-                {
-                    "text": "Increases and Reductions to Cast Speed also Apply to Trap Throwing Speed",
-                    "optional": false
-                },
-                {
-                    "text": "10% chance to gain an Endurance, Frenzy or Power Charge when any\nof your Traps are Triggered by an Enemy",
-                    "optional": false
-                },
-                {
-                    "text": "Skills which throw Traps Cost Life instead of Mana",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "A plan without a deadline stays a plan.",
-            "itemType": "Gloves",
-            "chaosValue": 60.0,
-            "exaltedValue": 9.77,
-            "divineValue": 0.38,
-            "count": 16,
-            "detailsId": "slavedrivers-hand-ambush-mitts",
-            "tradeInfo": [],
-            "listingCount": 60
-        },
-        {
             "id": 44609,
             "name": "Replica Restless Ward",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9UaGVSZXN0bGVzc1dhcmQiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/2508832517/TheRestlessWard.png",
@@ -10233,6 +10225,79 @@
             "listingCount": 24
         },
         {
+            "id": 6955,
+            "name": "Slavedriver's Hand",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9HbG92ZXMvU2xhdmVkcml2ZXJzSGFuZCIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/96ae934cf8/SlavedriversHand.png",
+            "levelRequired": 45,
+            "baseType": "Ambush Mitts",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -45.1,
+                "data": [
+                    0,
+                    -5.73,
+                    -25.52,
+                    -33.12,
+                    -40.62,
+                    -36.98,
+                    -45.1
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -45.1,
+                "data": [
+                    0,
+                    -5.73,
+                    -25.52,
+                    -33.12,
+                    -40.62,
+                    -36.98,
+                    -45.1
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "+(30-40) to Dexterity",
+                    "optional": false
+                },
+                {
+                    "text": "(200-250)% increased Evasion and Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "(20-30)% reduced Trap Throwing Speed",
+                    "optional": false
+                },
+                {
+                    "text": "Skills used by Traps have (10-20)% increased Area of Effect",
+                    "optional": false
+                },
+                {
+                    "text": "Increases and Reductions to Cast Speed also Apply to Trap Throwing Speed",
+                    "optional": false
+                },
+                {
+                    "text": "10% chance to gain an Endurance, Frenzy or Power Charge when any\nof your Traps are Triggered by an Enemy",
+                    "optional": false
+                },
+                {
+                    "text": "Skills which throw Traps Cost Life instead of Mana",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "A plan without a deadline stays a plan.",
+            "itemType": "Gloves",
+            "chaosValue": 52.7,
+            "exaltedValue": 8.58,
+            "divineValue": 0.33,
+            "count": 17,
+            "detailsId": "slavedrivers-hand-ambush-mitts",
+            "tradeInfo": [],
+            "listingCount": 61
+        },
+        {
             "id": 67823,
             "name": "Faithguard",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9IZWxtZXRzL1NwaXJpdEhlbG1ldFVuaXF1ZSIsInciOjIsImgiOjIsInNjYWxlIjoxLCJyZWxpYyI6MTJ9XQ/61a0d94dd3/SpiritHelmetUnique.png",
@@ -10362,10 +10427,10 @@
             "chaosValue": 50.0,
             "exaltedValue": 8.14,
             "divineValue": 0.32,
-            "count": 15,
+            "count": 16,
             "detailsId": "solaris-lorica-copper-plate-6l",
             "tradeInfo": [],
-            "listingCount": 193
+            "listingCount": 194
         },
         {
             "id": 19055,
@@ -10662,10 +10727,10 @@
             "chaosValue": 50.0,
             "exaltedValue": 8.14,
             "divineValue": 0.32,
-            "count": 95,
+            "count": 96,
             "detailsId": "hand-of-heresy-martyr-gloves",
             "tradeInfo": [],
-            "listingCount": 1090
+            "listingCount": 1091
         },
         {
             "id": 130292,
@@ -10855,67 +10920,6 @@
             "listingCount": 17
         },
         {
-            "id": 118584,
-            "name": "Kaom's Command",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9IZWxtZXRzL0thb21zTWFzayIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/db67a60875/KaomsMask.png",
-            "levelRequired": 48,
-            "baseType": "Siege Helmet",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -51,
-                "data": [
-                    0,
-                    -16,
-                    -3,
-                    -3,
-                    -3,
-                    36.5,
-                    -51
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -51,
-                "data": [
-                    0,
-                    -16,
-                    -3,
-                    -3,
-                    -3,
-                    36.5,
-                    -51
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "+(60-80) to maximum Life",
-                    "optional": false
-                },
-                {
-                    "text": "(25-35)% increased Warcry Speed",
-                    "optional": false
-                },
-                {
-                    "text": "Nearby corpses Explode when you Warcry, dealing (5-10)% of their Life as Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Warcry Skills have (25-35)% increased Area of Effect",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Kaom ordered the desecration of the Empire's dead.\nThere would be no rest or honours for the wicked.",
-            "itemType": "Helmet",
-            "chaosValue": 49.0,
-            "exaltedValue": 7.98,
-            "divineValue": 0.31,
-            "count": 12,
-            "detailsId": "kaoms-command-siege-helmet",
-            "tradeInfo": [],
-            "listingCount": 52
-        },
-        {
             "id": 23106,
             "name": "Garb of the Ephemeral",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9UaGVUZW1wbGFyc1JvYmVzIiwidyI6MiwiaCI6Mywic2NhbGUiOjEsInN5bnRoZXNpc2VkIjp0cnVlfV0/bd9f49e4b4/TheTemplarsRobes.png",
@@ -10923,7 +10927,7 @@
             "baseType": "Savant's Robe",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 21.25,
+                "totalChange": 22.5,
                 "data": [
                     0,
                     0,
@@ -10931,11 +10935,11 @@
                     12.5,
                     24.25,
                     25,
-                    21.25
+                    22.5
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 21.25,
+                "totalChange": 22.5,
                 "data": [
                     0,
                     0,
@@ -10943,7 +10947,7 @@
                     12.5,
                     24.25,
                     25,
-                    21.25
+                    22.5
                 ]
             },
             "implicitModifiers": [
@@ -11281,13 +11285,74 @@
             "mutatedModifiers": [],
             "flavourText": "Exceptional men and women of strong will can flicker a spark, \nbut something much greater is needed to unleash the wildfire of true divine flames.",
             "itemType": "Body Armour",
-            "chaosValue": 48.5,
-            "exaltedValue": 7.9,
+            "chaosValue": 49.0,
+            "exaltedValue": 7.98,
             "divineValue": 0.31,
-            "count": 292,
+            "count": 291,
             "detailsId": "garb-of-the-ephemeral-savants-robe",
             "tradeInfo": [],
-            "listingCount": 6060
+            "listingCount": 6059
+        },
+        {
+            "id": 118584,
+            "name": "Kaom's Command",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9IZWxtZXRzL0thb21zTWFzayIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/db67a60875/KaomsMask.png",
+            "levelRequired": 48,
+            "baseType": "Siege Helmet",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -51,
+                "data": [
+                    0,
+                    -16,
+                    -3,
+                    -3,
+                    -3,
+                    36.5,
+                    -51
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -51,
+                "data": [
+                    0,
+                    -16,
+                    -3,
+                    -3,
+                    -3,
+                    36.5,
+                    -51
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "+(60-80) to maximum Life",
+                    "optional": false
+                },
+                {
+                    "text": "(25-35)% increased Warcry Speed",
+                    "optional": false
+                },
+                {
+                    "text": "Nearby corpses Explode when you Warcry, dealing (5-10)% of their Life as Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Warcry Skills have (25-35)% increased Area of Effect",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Kaom ordered the desecration of the Empire's dead.\nThere would be no rest or honours for the wicked.",
+            "itemType": "Helmet",
+            "chaosValue": 49.0,
+            "exaltedValue": 7.98,
+            "divineValue": 0.31,
+            "count": 12,
+            "detailsId": "kaoms-command-siege-helmet",
+            "tradeInfo": [],
+            "listingCount": 52
         },
         {
             "id": 129303,
@@ -11557,71 +11622,6 @@
             "detailsId": "seven-teachings-waxed-garb-5l",
             "tradeInfo": [],
             "listingCount": 53
-        },
-        {
-            "id": 109184,
-            "name": "Replica Covenant",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9FbWJyYWNlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/d0110e7660/Embrace.png",
-            "levelRequired": 49,
-            "baseType": "Spidersilk Robe",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 30.43,
-                "data": [
-                    0,
-                    21.74,
-                    73.91,
-                    75.07,
-                    101.7,
-                    131.9,
-                    30.43
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 30.43,
-                "data": [
-                    0,
-                    21.74,
-                    73.91,
-                    75.07,
-                    101.7,
-                    131.9,
-                    30.43
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Socketed Gems are Supported by Level 29 Added Cold Damage",
-                    "optional": false
-                },
-                {
-                    "text": "+(20-30) to Intelligence",
-                    "optional": false
-                },
-                {
-                    "text": "(210-250)% increased Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "10% increased maximum Life",
-                    "optional": false
-                },
-                {
-                    "text": "Skills gain a Base Energy Shield Cost equal to 200% of Base Mana Cost",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Researcher Graven's request to wear Prototype #2998 in\nplace of his standard lab attire is... granted.\"\n- Lead Researcher Ksaret",
-            "itemType": "Body Armour",
-            "chaosValue": 45.0,
-            "exaltedValue": 7.33,
-            "divineValue": 0.28,
-            "count": 42,
-            "detailsId": "replica-covenant-spidersilk-robe",
-            "tradeInfo": [],
-            "listingCount": 146
         },
         {
             "id": 2239,
@@ -12029,10 +12029,10 @@
             "chaosValue": 40.0,
             "exaltedValue": 6.51,
             "divineValue": 0.25,
-            "count": 234,
+            "count": 236,
             "detailsId": "shapers-touch-crusader-gloves",
             "tradeInfo": [],
-            "listingCount": 2451
+            "listingCount": 2453
         },
         {
             "id": 1940,
@@ -12318,7 +12318,7 @@
             "baseType": "Astral Plate",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -2,
+                "totalChange": -1.5,
                 "data": [
                     0,
                     0,
@@ -12326,11 +12326,11 @@
                     0,
                     -0.25,
                     -1.5,
-                    -2
+                    -1.5
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -2,
+                "totalChange": -1.5,
                 "data": [
                     0,
                     0,
@@ -12338,7 +12338,7 @@
                     0,
                     -0.25,
                     -1.5,
-                    -2
+                    -1.5
                 ]
             },
             "implicitModifiers": [
@@ -12385,13 +12385,13 @@
             ],
             "flavourText": "Tears of blood, aching heart,\nMy dear Isildria must depart.",
             "itemType": "Body Armour",
-            "chaosValue": 39.2,
-            "exaltedValue": 6.38,
+            "chaosValue": 39.4,
+            "exaltedValue": 6.42,
             "divineValue": 0.25,
-            "count": 126,
+            "count": 128,
             "detailsId": "foulborn-deaths-oath-astral-plate",
             "tradeInfo": [],
-            "listingCount": 1208
+            "listingCount": 1210
         },
         {
             "id": 2079,
@@ -12936,6 +12936,72 @@
             "listingCount": 1379
         },
         {
+            "id": 128415,
+            "name": "Foulborn Doedre's Scorn",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9IZWxtZXRzL0RvZWRyZXNTY29ybiIsInciOjIsImgiOjIsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/18d77481e8/DoedresScorn.png",
+            "levelRequired": 39,
+            "baseType": "Lunaris Circlet",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 10.06,
+                "data": [
+                    0,
+                    -5.66,
+                    -5.66,
+                    -5.66,
+                    -5.66,
+                    0.31,
+                    10.06
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 10.06,
+                "data": [
+                    0,
+                    -5.66,
+                    -5.66,
+                    -5.66,
+                    -5.66,
+                    0.31,
+                    10.06
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "+(20-30) to Intelligence",
+                    "optional": false
+                },
+                {
+                    "text": "+(100-120) to maximum Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "Curse Skills have (30-50)% increased Skill Effect Duration",
+                    "optional": false
+                },
+                {
+                    "text": "Adds 37 to 71 Chaos Damage for each Curse on the Enemy",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [
+                {
+                    "text": "Socketed Gems are Supported by Level 30 Impending Doom",
+                    "optional": false
+                }
+            ],
+            "flavourText": "A scar of the flesh you'll never forget,\nA scar of the mind you'll never remember.",
+            "itemType": "Helmet",
+            "chaosValue": 35.0,
+            "exaltedValue": 5.7,
+            "divineValue": 0.22,
+            "count": 202,
+            "detailsId": "foulborn-doedres-scorn-lunaris-circlet",
+            "tradeInfo": [],
+            "listingCount": 2720
+        },
+        {
             "id": 130273,
             "name": "Foulborn The Iron Fortress",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9Jcm9uSGVhcnQgRmluYWwiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/eb33fc7c53/IronHeart%20Final.png",
@@ -13160,76 +13226,10 @@
             "chaosValue": 34.0,
             "exaltedValue": 5.54,
             "divineValue": 0.21,
-            "count": 76,
+            "count": 75,
             "detailsId": "wraithlord-bone-circlet",
             "tradeInfo": [],
-            "listingCount": 535
-        },
-        {
-            "id": 128415,
-            "name": "Foulborn Doedre's Scorn",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9IZWxtZXRzL0RvZWRyZXNTY29ybiIsInciOjIsImgiOjIsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/18d77481e8/DoedresScorn.png",
-            "levelRequired": 39,
-            "baseType": "Lunaris Circlet",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 6.92,
-                "data": [
-                    0,
-                    -5.66,
-                    -5.66,
-                    -5.66,
-                    -5.66,
-                    0.31,
-                    6.92
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 6.92,
-                "data": [
-                    0,
-                    -5.66,
-                    -5.66,
-                    -5.66,
-                    -5.66,
-                    0.31,
-                    6.92
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "+(20-30) to Intelligence",
-                    "optional": false
-                },
-                {
-                    "text": "+(100-120) to maximum Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "Curse Skills have (30-50)% increased Skill Effect Duration",
-                    "optional": false
-                },
-                {
-                    "text": "Adds 37 to 71 Chaos Damage for each Curse on the Enemy",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [
-                {
-                    "text": "Socketed Gems are Supported by Level 30 Impending Doom",
-                    "optional": false
-                }
-            ],
-            "flavourText": "A scar of the flesh you'll never forget,\nA scar of the mind you'll never remember.",
-            "itemType": "Helmet",
-            "chaosValue": 34.0,
-            "exaltedValue": 5.54,
-            "divineValue": 0.21,
-            "count": 204,
-            "detailsId": "foulborn-doedres-scorn-lunaris-circlet",
-            "tradeInfo": [],
-            "listingCount": 2722
+            "listingCount": 534
         },
         {
             "id": 128819,
@@ -13667,10 +13667,10 @@
             "chaosValue": 30.0,
             "exaltedValue": 4.89,
             "divineValue": 0.19,
-            "count": 242,
+            "count": 241,
             "detailsId": "aegis-aurora-champion-kite-shield",
             "tradeInfo": [],
-            "listingCount": 1970
+            "listingCount": 1969
         },
         {
             "id": 1319,
@@ -13801,10 +13801,10 @@
             "chaosValue": 30.0,
             "exaltedValue": 4.89,
             "divineValue": 0.19,
-            "count": 102,
+            "count": 101,
             "detailsId": "the-covenant-spidersilk-robe",
             "tradeInfo": [],
-            "listingCount": 629
+            "listingCount": 628
         },
         {
             "id": 2323,
@@ -14106,10 +14106,10 @@
             "chaosValue": 30.0,
             "exaltedValue": 4.89,
             "divineValue": 0.19,
-            "count": 169,
+            "count": 168,
             "detailsId": "doryanis-prototype-saints-hauberk",
             "tradeInfo": [],
-            "listingCount": 1206
+            "listingCount": 1205
         },
         {
             "id": 45050,
@@ -14819,6 +14819,68 @@
             "listingCount": 108
         },
         {
+            "id": 130245,
+            "name": "Foulborn Voll's Protector",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9TdHJJbnQzQVVuaXF1ZSIsInciOjIsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/5bd791c6c8/StrInt3AUnique.png",
+            "levelRequired": 35,
+            "baseType": "Holy Chainmail",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 28.57,
+                "data": [
+                    0,
+                    100,
+                    30.95,
+                    23.81,
+                    11.9,
+                    28.57,
+                    28.57
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 28.57,
+                "data": [
+                    0,
+                    100,
+                    30.95,
+                    23.81,
+                    11.9,
+                    28.57,
+                    28.57
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(100-150)% increased Armour and Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "Gain a Power Charge for each Enemy you hit with a Critical Strike",
+                    "optional": false
+                },
+                {
+                    "text": "Inner Conviction",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [
+                {
+                    "text": "-(17-13)% to Chaos Resistance",
+                    "optional": false
+                }
+            ],
+            "flavourText": "Although a great leader during the war,\nVoll proved disastrous in times of peace.",
+            "itemType": "Body Armour",
+            "chaosValue": 27.0,
+            "exaltedValue": 4.4,
+            "divineValue": 0.17,
+            "count": 35,
+            "detailsId": "foulborn-volls-protector-holy-chainmail",
+            "tradeInfo": [],
+            "listingCount": 222
+        },
+        {
             "id": 20693,
             "name": "The Eternity Shroud",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9NYW50bGVPZkRpc21hbnRsaW5nIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/166d15bbe2/MantleOfDismantling.png",
@@ -15209,81 +15271,6 @@
             "listingCount": 160
         },
         {
-            "id": 4767,
-            "name": "Shroud of the Lightless",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9BYnlzc0JvZHkiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/cd67f9b5d3/AbyssBody.png",
-            "levelRequired": 71,
-            "baseType": "Carnal Armour",
-            "variant": "2 Jewels",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 19,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -15,
-                    -25,
-                    0,
-                    19
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 19,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -15,
-                    -25,
-                    0,
-                    19
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "+(20-25) to maximum Mana",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "Has 2 Abyssal Sockets",
-                    "optional": false
-                },
-                {
-                    "text": "20% chance to Trigger Level 20 Shade Form when you Use a Socketed Skill",
-                    "optional": false
-                },
-                {
-                    "text": "(160-180)% increased Evasion and Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "3% increased Maximum Life per Abyss Jewel affecting you",
-                    "optional": false
-                },
-                {
-                    "text": "3% increased Maximum Mana per Abyss Jewel affecting you",
-                    "optional": false
-                },
-                {
-                    "text": "Penetrate 4% Elemental Resistances per Abyss Jewel affecting you",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Look to the darkness for nourishment and you will never go hungry.",
-            "itemType": "Body Armour",
-            "chaosValue": 23.8,
-            "exaltedValue": 3.88,
-            "divineValue": 0.15,
-            "count": 59,
-            "detailsId": "shroud-of-the-lightless-2-jewels-carnal-armour",
-            "tradeInfo": [],
-            "listingCount": 509
-        },
-        {
             "id": 44425,
             "name": "Shattershard",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9TaGllbGRzL0V2ZXJnbGFzc0JhcnJpZXIiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/179a505595/EverglassBarrier.png",
@@ -15472,68 +15459,6 @@
             "listingCount": 3608
         },
         {
-            "id": 130245,
-            "name": "Foulborn Voll's Protector",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9TdHJJbnQzQVVuaXF1ZSIsInciOjIsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/5bd791c6c8/StrInt3AUnique.png",
-            "levelRequired": 35,
-            "baseType": "Holy Chainmail",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 7.14,
-                "data": [
-                    0,
-                    100,
-                    30.95,
-                    23.81,
-                    11.9,
-                    28.57,
-                    7.14
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 7.14,
-                "data": [
-                    0,
-                    100,
-                    30.95,
-                    23.81,
-                    11.9,
-                    28.57,
-                    7.14
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(100-150)% increased Armour and Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "Gain a Power Charge for each Enemy you hit with a Critical Strike",
-                    "optional": false
-                },
-                {
-                    "text": "Inner Conviction",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [
-                {
-                    "text": "-(17-13)% to Chaos Resistance",
-                    "optional": false
-                }
-            ],
-            "flavourText": "Although a great leader during the war,\nVoll proved disastrous in times of peace.",
-            "itemType": "Body Armour",
-            "chaosValue": 22.5,
-            "exaltedValue": 3.66,
-            "divineValue": 0.14,
-            "count": 36,
-            "detailsId": "foulborn-volls-protector-holy-chainmail",
-            "tradeInfo": [],
-            "listingCount": 222
-        },
-        {
             "id": 2227,
             "name": "Tinkerskin",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9UcmFwcGVyQXJtb3VyIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/3e6bd8eefe/TrapperArmour.png",
@@ -15606,6 +15531,81 @@
             "detailsId": "tinkerskin-sadist-garb-6l",
             "tradeInfo": [],
             "listingCount": 70
+        },
+        {
+            "id": 4767,
+            "name": "Shroud of the Lightless",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9BYnlzc0JvZHkiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/cd67f9b5d3/AbyssBody.png",
+            "levelRequired": 71,
+            "baseType": "Carnal Armour",
+            "variant": "2 Jewels",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 11,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -15,
+                    -25,
+                    0,
+                    11
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 11,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -15,
+                    -25,
+                    0,
+                    11
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "+(20-25) to maximum Mana",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Has 2 Abyssal Sockets",
+                    "optional": false
+                },
+                {
+                    "text": "20% chance to Trigger Level 20 Shade Form when you Use a Socketed Skill",
+                    "optional": false
+                },
+                {
+                    "text": "(160-180)% increased Evasion and Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "3% increased Maximum Life per Abyss Jewel affecting you",
+                    "optional": false
+                },
+                {
+                    "text": "3% increased Maximum Mana per Abyss Jewel affecting you",
+                    "optional": false
+                },
+                {
+                    "text": "Penetrate 4% Elemental Resistances per Abyss Jewel affecting you",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Look to the darkness for nourishment and you will never go hungry.",
+            "itemType": "Body Armour",
+            "chaosValue": 22.2,
+            "exaltedValue": 3.62,
+            "divineValue": 0.14,
+            "count": 55,
+            "detailsId": "shroud-of-the-lightless-2-jewels-carnal-armour",
+            "tradeInfo": [],
+            "listingCount": 505
         },
         {
             "id": 130276,
@@ -16199,10 +16199,10 @@
             "chaosValue": 20.0,
             "exaltedValue": 3.26,
             "divineValue": 0.13,
-            "count": 138,
+            "count": 137,
             "detailsId": "seven-league-step-rawhide-boots",
             "tradeInfo": [],
-            "listingCount": 1485
+            "listingCount": 1484
         },
         {
             "id": 1931,
@@ -16534,7 +16534,7 @@
             "chaosValue": 20.0,
             "exaltedValue": 3.26,
             "divineValue": 0.13,
-            "count": 257,
+            "count": 256,
             "detailsId": "the-fledgling-lacquered-helmet",
             "tradeInfo": [],
             "listingCount": 955
@@ -16602,7 +16602,7 @@
             "count": 36,
             "detailsId": "replica-hyrris-ire-zodiac-leather",
             "tradeInfo": [],
-            "listingCount": 677
+            "listingCount": 676
         },
         {
             "id": 114015,
@@ -17024,10 +17024,10 @@
             "chaosValue": 20.0,
             "exaltedValue": 3.26,
             "divineValue": 0.13,
-            "count": 141,
+            "count": 143,
             "detailsId": "foulborn-the-surrender-ezomyte-tower-shield",
             "tradeInfo": [],
-            "listingCount": 2037
+            "listingCount": 2039
         },
         {
             "id": 128766,
@@ -18066,7 +18066,7 @@
             "count": 399,
             "detailsId": "the-dark-monarch-lichs-circlet",
             "tradeInfo": [],
-            "listingCount": 10137
+            "listingCount": 10138
         },
         {
             "id": 762,
@@ -18883,80 +18883,6 @@
             "listingCount": 223
         },
         {
-            "id": 130195,
-            "name": "Foulborn Doryani's Fist",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9HbG92ZXMvRG9yeWFuaXNGaXN0IiwidyI6MiwiaCI6Miwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/bcca522c7a/DoryanisFist.png",
-            "levelRequired": 63,
-            "baseType": "Vaal Gauntlets",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -17.4,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -17.4
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -17.4,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -17.4
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Grants Level 20 Doryani's Touch Skill",
-                    "optional": false
-                },
-                {
-                    "text": "+(80-100) to maximum Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "Adds (150-225) to (525-600) Lightning Damage to Unarmed Melee Hits",
-                    "optional": false
-                },
-                {
-                    "text": "Adds (90-135) to (315-360) Lightning Damage to Spells while Unarmed",
-                    "optional": false
-                },
-                {
-                    "text": "+(200-250) Energy Shield gained on Killing a Shocked Enemy",
-                    "optional": false
-                },
-                {
-                    "text": "30% increased Effect of Lightning Ailments",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [
-                {
-                    "text": "30% chance to Sap Enemies",
-                    "optional": false
-                }
-            ],
-            "flavourText": "Doryani's ingenuity raised the Vaal Empire\nto unprecedented heights. His curiosity\nreduced it to ruins and bones.",
-            "itemType": "Gloves",
-            "chaosValue": 16.52,
-            "exaltedValue": 2.69,
-            "divineValue": 0.1,
-            "count": 20,
-            "detailsId": "foulborn-doryanis-fist-vaal-gauntlets",
-            "tradeInfo": [],
-            "listingCount": 177
-        },
-        {
             "id": 4762,
             "name": "Yriel's Fostering",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9QYWxlQ291bmNpbEFybW91ciIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/f3c31cf6b4/PaleCouncilArmour.png",
@@ -19169,6 +19095,71 @@
             "listingCount": 145
         },
         {
+            "id": 2289,
+            "name": "Inpulsa's Broken Heart",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9PblNob2NrZWQiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/ce499f7b0b/OnShocked.png",
+            "levelRequired": 68,
+            "baseType": "Sadist Garb",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 9.33,
+                "data": [
+                    0,
+                    13.33,
+                    20,
+                    20,
+                    0,
+                    0,
+                    9.33
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 9.33,
+                "data": [
+                    0,
+                    13.33,
+                    20,
+                    20,
+                    0,
+                    0,
+                    9.33
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "+(60-80) to maximum Life",
+                    "optional": false
+                },
+                {
+                    "text": "(20-50)% increased Damage if you have Shocked an Enemy Recently",
+                    "optional": false
+                },
+                {
+                    "text": "(15-25)% increased Effect of Shock",
+                    "optional": false
+                },
+                {
+                    "text": "Shocked Enemies you Kill Explode, dealing 5% of\ntheir Life as Lightning Damage which cannot Shock",
+                    "optional": false
+                },
+                {
+                    "text": "Unaffected by Shock",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Don't hesitate; bring death to all, conclusively and swiftly,\nor they will give you the same treatment.",
+            "itemType": "Body Armour",
+            "chaosValue": 16.4,
+            "exaltedValue": 2.67,
+            "divineValue": 0.1,
+            "count": 121,
+            "detailsId": "inpulsas-broken-heart-sadist-garb",
+            "tradeInfo": [],
+            "listingCount": 1458
+        },
+        {
             "id": 280,
             "name": "Cloak of Defiance",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9DbG9ha09mRGVmaWFuY2UiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/87997e3b8a/CloakOfDefiance.png",
@@ -19229,71 +19220,6 @@
             "detailsId": "cloak-of-defiance-lacquered-garb-5l",
             "tradeInfo": [],
             "listingCount": 124
-        },
-        {
-            "id": 2289,
-            "name": "Inpulsa's Broken Heart",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9PblNob2NrZWQiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/ce499f7b0b/OnShocked.png",
-            "levelRequired": 68,
-            "baseType": "Sadist Garb",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 8,
-                "data": [
-                    0,
-                    13.33,
-                    20,
-                    20,
-                    0,
-                    0,
-                    8
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 8,
-                "data": [
-                    0,
-                    13.33,
-                    20,
-                    20,
-                    0,
-                    0,
-                    8
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "+(60-80) to maximum Life",
-                    "optional": false
-                },
-                {
-                    "text": "(20-50)% increased Damage if you have Shocked an Enemy Recently",
-                    "optional": false
-                },
-                {
-                    "text": "(15-25)% increased Effect of Shock",
-                    "optional": false
-                },
-                {
-                    "text": "Shocked Enemies you Kill Explode, dealing 5% of\ntheir Life as Lightning Damage which cannot Shock",
-                    "optional": false
-                },
-                {
-                    "text": "Unaffected by Shock",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Don't hesitate; bring death to all, conclusively and swiftly,\nor they will give you the same treatment.",
-            "itemType": "Body Armour",
-            "chaosValue": 16.2,
-            "exaltedValue": 2.64,
-            "divineValue": 0.1,
-            "count": 120,
-            "detailsId": "inpulsas-broken-heart-sadist-garb",
-            "tradeInfo": [],
-            "listingCount": 1457
         },
         {
             "id": 543,
@@ -19432,7 +19358,7 @@
             "count": 82,
             "detailsId": "doryanis-fist-vaal-gauntlets",
             "tradeInfo": [],
-            "listingCount": 1319
+            "listingCount": 1318
         },
         {
             "id": 619,
@@ -19494,10 +19420,10 @@
             "chaosValue": 15.0,
             "exaltedValue": 2.44,
             "divineValue": 0.09,
-            "count": 61,
+            "count": 59,
             "detailsId": "heretics-veil-deicide-mask",
             "tradeInfo": [],
-            "listingCount": 808
+            "listingCount": 806
         },
         {
             "id": 671,
@@ -19846,10 +19772,10 @@
             "chaosValue": 15.0,
             "exaltedValue": 2.44,
             "divineValue": 0.09,
-            "count": 24,
+            "count": 25,
             "detailsId": "thousand-ribbons-simple-robe-5l",
             "tradeInfo": [],
-            "listingCount": 322
+            "listingCount": 323
         },
         {
             "id": 1920,
@@ -20061,10 +19987,10 @@
             "chaosValue": 15.0,
             "exaltedValue": 2.44,
             "divineValue": 0.09,
-            "count": 38,
+            "count": 39,
             "detailsId": "abberaths-hooves-goathide-boots",
             "tradeInfo": [],
-            "listingCount": 386
+            "listingCount": 387
         },
         {
             "id": 4945,
@@ -20130,10 +20056,10 @@
             "chaosValue": 15.0,
             "exaltedValue": 2.44,
             "divineValue": 0.09,
-            "count": 77,
+            "count": 76,
             "detailsId": "farruls-chase-slink-boots",
             "tradeInfo": [],
-            "listingCount": 713
+            "listingCount": 712
         },
         {
             "id": 7545,
@@ -20211,10 +20137,10 @@
             "chaosValue": 15.0,
             "exaltedValue": 2.44,
             "divineValue": 0.09,
-            "count": 70,
+            "count": 71,
             "detailsId": "doryanis-delusion-titan-greaves",
             "tradeInfo": [],
-            "listingCount": 950
+            "listingCount": 951
         },
         {
             "id": 7585,
@@ -20377,6 +20303,71 @@
             "detailsId": "doryanis-delusion-sorcerer-boots",
             "tradeInfo": [],
             "listingCount": 1188
+        },
+        {
+            "id": 22492,
+            "name": "Machina Mitts",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9HbG92ZXMvODU0NzkiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/360a5df732/85479.png",
+            "levelRequired": 67,
+            "baseType": "Murder Mitts",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 50,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    27,
+                    20,
+                    30,
+                    50
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 50,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    27,
+                    20,
+                    30,
+                    50
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(200-250)% increased Evasion and Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "1% of Damage dealt by your Mines is Leeched to you as Life",
+                    "optional": false
+                },
+                {
+                    "text": "(20-30)% reduced Recovery rate of Life and Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "5% increased Recovery rate of Life and Energy Shield per Power Charge",
+                    "optional": false
+                },
+                {
+                    "text": "Lose a Power Charge each second if you have not Detonated Mines Recently",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Biology is but a machine, begetting effusion of energies;\ndeath is but a curse, that can be given... or reversed.",
+            "itemType": "Gloves",
+            "chaosValue": 15.0,
+            "exaltedValue": 2.44,
+            "divineValue": 0.09,
+            "count": 78,
+            "detailsId": "machina-mitts-murder-mitts",
+            "tradeInfo": [],
+            "listingCount": 1098
         },
         {
             "id": 44559,
@@ -21116,71 +21107,6 @@
             "listingCount": 266
         },
         {
-            "id": 652,
-            "name": "Hyrri's Ire",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9Cb2R5RGV4M0NVbmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/fb532d6c21/BodyDex3CUnique.png",
-            "levelRequired": 65,
-            "baseType": "Zodiac Leather",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -1.33,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -1.33
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -1.33,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -1.33
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "+30% chance to Suppress Spell Damage",
-                    "optional": false
-                },
-                {
-                    "text": "+(40-50) to Dexterity",
-                    "optional": false
-                },
-                {
-                    "text": "(140-220)% increased Evasion Rating",
-                    "optional": false
-                },
-                {
-                    "text": "25% increased Chill Duration on Enemies",
-                    "optional": false
-                },
-                {
-                    "text": "(105-145) to (160-200) Added Cold Damage with Bow Attacks",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Hyrri loosed a barrage of arrows,\ntipped with a poisoned hatred\nonly oppression can ferment.",
-            "itemType": "Body Armour",
-            "chaosValue": 14.8,
-            "exaltedValue": 2.41,
-            "divineValue": 0.09,
-            "count": 126,
-            "detailsId": "hyrris-ire-zodiac-leather",
-            "tradeInfo": [],
-            "listingCount": 1335
-        },
-        {
             "id": 1267,
             "name": "Shavronne's Wrappings",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9Cb2R5SW50MUNVbmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/4f3e22a163/BodyInt1CUnique.png",
@@ -21250,6 +21176,71 @@
             "detailsId": "shavronnes-wrappings-occultists-vestment-5l",
             "tradeInfo": [],
             "listingCount": 139
+        },
+        {
+            "id": 652,
+            "name": "Hyrri's Ire",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9Cb2R5RGV4M0NVbmlxdWUiLCJ3IjoyLCJoIjozLCJzY2FsZSI6MX1d/fb532d6c21/BodyDex3CUnique.png",
+            "levelRequired": 65,
+            "baseType": "Zodiac Leather",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -2,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -2
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -2,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -2
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "+30% chance to Suppress Spell Damage",
+                    "optional": false
+                },
+                {
+                    "text": "+(40-50) to Dexterity",
+                    "optional": false
+                },
+                {
+                    "text": "(140-220)% increased Evasion Rating",
+                    "optional": false
+                },
+                {
+                    "text": "25% increased Chill Duration on Enemies",
+                    "optional": false
+                },
+                {
+                    "text": "(105-145) to (160-200) Added Cold Damage with Bow Attacks",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Hyrri loosed a barrage of arrows,\ntipped with a poisoned hatred\nonly oppression can ferment.",
+            "itemType": "Body Armour",
+            "chaosValue": 14.7,
+            "exaltedValue": 2.39,
+            "divineValue": 0.09,
+            "count": 125,
+            "detailsId": "hyrris-ire-zodiac-leather",
+            "tradeInfo": [],
+            "listingCount": 1334
         },
         {
             "id": 128708,
@@ -21535,71 +21526,6 @@
             "detailsId": "foulborn-mind-of-the-council-harlequin-mask",
             "tradeInfo": [],
             "listingCount": 397
-        },
-        {
-            "id": 22492,
-            "name": "Machina Mitts",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9HbG92ZXMvODU0NzkiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/360a5df732/85479.png",
-            "levelRequired": 67,
-            "baseType": "Murder Mitts",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 40,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    27,
-                    20,
-                    30,
-                    40
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 40,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    27,
-                    20,
-                    30,
-                    40
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(200-250)% increased Evasion and Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "1% of Damage dealt by your Mines is Leeched to you as Life",
-                    "optional": false
-                },
-                {
-                    "text": "(20-30)% reduced Recovery rate of Life and Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "5% increased Recovery rate of Life and Energy Shield per Power Charge",
-                    "optional": false
-                },
-                {
-                    "text": "Lose a Power Charge each second if you have not Detonated Mines Recently",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Biology is but a machine, begetting effusion of energies;\ndeath is but a curse, that can be given... or reversed.",
-            "itemType": "Gloves",
-            "chaosValue": 14.0,
-            "exaltedValue": 2.28,
-            "divineValue": 0.09,
-            "count": 88,
-            "detailsId": "machina-mitts-murder-mitts",
-            "tradeInfo": [],
-            "listingCount": 1108
         },
         {
             "id": 21050,
@@ -21892,71 +21818,6 @@
             "listingCount": 113
         },
         {
-            "id": 44586,
-            "name": "Replica Perfect Form",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9UaGVQZXJmZWN0Rm9ybSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/b149b68ecb/ThePerfectForm.png",
-            "levelRequired": 65,
-            "baseType": "Zodiac Leather",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -14,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -3.33,
-                    -20,
-                    -20,
-                    -14
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -14,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -3.33,
-                    -20,
-                    -20,
-                    -14
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "20% Chance to Block Attack Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(150-200)% increased Evasion Rating",
-                    "optional": false
-                },
-                {
-                    "text": "-30% to Cold Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Evasion Rating is increased by Overcapped Cold Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Versatile Combatant",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"This is what I've been trying to tell you. This prototype\nwas different before. Now, it's always been this way!\"\n- Researcher Graven",
-            "itemType": "Body Armour",
-            "chaosValue": 12.9,
-            "exaltedValue": 2.1,
-            "divineValue": 0.08,
-            "count": 25,
-            "detailsId": "replica-perfect-form-zodiac-leather",
-            "tradeInfo": [],
-            "listingCount": 327
-        },
-        {
             "id": 130208,
             "name": "Foulborn Rigwald's Quills",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUXVpdmVycy9SaWd3YWxkc1F1aWxscyIsInciOjIsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/fa974a75fd/RigwaldsQuills.png",
@@ -22030,6 +21891,71 @@
             "detailsId": "foulborn-rigwalds-quills-two-point-arrow-quiver",
             "tradeInfo": [],
             "listingCount": 270
+        },
+        {
+            "id": 44586,
+            "name": "Replica Perfect Form",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9UaGVQZXJmZWN0Rm9ybSIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/b149b68ecb/ThePerfectForm.png",
+            "levelRequired": 65,
+            "baseType": "Zodiac Leather",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -16,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -3.33,
+                    -20,
+                    -20,
+                    -16
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -16,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -3.33,
+                    -20,
+                    -20,
+                    -16
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "20% Chance to Block Attack Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(150-200)% increased Evasion Rating",
+                    "optional": false
+                },
+                {
+                    "text": "-30% to Cold Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Evasion Rating is increased by Overcapped Cold Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Versatile Combatant",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"This is what I've been trying to tell you. This prototype\nwas different before. Now, it's always been this way!\"\n- Researcher Graven",
+            "itemType": "Body Armour",
+            "chaosValue": 12.6,
+            "exaltedValue": 2.05,
+            "divineValue": 0.08,
+            "count": 24,
+            "detailsId": "replica-perfect-form-zodiac-leather",
+            "tradeInfo": [],
+            "listingCount": 327
         },
         {
             "id": 130290,
@@ -23303,10 +23229,10 @@
             "chaosValue": 10.0,
             "exaltedValue": 1.63,
             "divineValue": 0.06,
-            "count": 182,
+            "count": 183,
             "detailsId": "the-gull-raven-mask",
             "tradeInfo": [],
-            "listingCount": 1423
+            "listingCount": 1424
         },
         {
             "id": 4910,
@@ -23457,10 +23383,10 @@
             "chaosValue": 10.0,
             "exaltedValue": 1.63,
             "divineValue": 0.06,
-            "count": 127,
+            "count": 128,
             "detailsId": "loreweave-elegant-ringmail",
             "tradeInfo": [],
-            "listingCount": 1040
+            "listingCount": 1041
         },
         {
             "id": 7576,
@@ -23526,7 +23452,7 @@
             "chaosValue": 10.0,
             "exaltedValue": 1.63,
             "divineValue": 0.06,
-            "count": 43,
+            "count": 42,
             "detailsId": "command-of-the-pit-riveted-gloves",
             "tradeInfo": [],
             "listingCount": 476
@@ -24120,7 +24046,7 @@
             "count": 399,
             "detailsId": "offering-to-the-serpent-legion-gloves",
             "tradeInfo": [],
-            "listingCount": 11656
+            "listingCount": 11653
         },
         {
             "id": 42681,
@@ -24841,7 +24767,7 @@
             "count": 399,
             "detailsId": "forbidden-shako-great-crown",
             "tradeInfo": [],
-            "listingCount": 18169
+            "listingCount": 18170
         },
         {
             "id": 44350,
@@ -25596,6 +25522,80 @@
             "listingCount": 318
         },
         {
+            "id": 130195,
+            "name": "Foulborn Doryani's Fist",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9HbG92ZXMvRG9yeWFuaXNGaXN0IiwidyI6MiwiaCI6Miwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/bcca522c7a/DoryanisFist.png",
+            "levelRequired": 63,
+            "baseType": "Vaal Gauntlets",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -50,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -50
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -50,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -50
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Grants Level 20 Doryani's Touch Skill",
+                    "optional": false
+                },
+                {
+                    "text": "+(80-100) to maximum Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "Adds (150-225) to (525-600) Lightning Damage to Unarmed Melee Hits",
+                    "optional": false
+                },
+                {
+                    "text": "Adds (90-135) to (315-360) Lightning Damage to Spells while Unarmed",
+                    "optional": false
+                },
+                {
+                    "text": "+(200-250) Energy Shield gained on Killing a Shocked Enemy",
+                    "optional": false
+                },
+                {
+                    "text": "30% increased Effect of Lightning Ailments",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [
+                {
+                    "text": "30% chance to Sap Enemies",
+                    "optional": false
+                }
+            ],
+            "flavourText": "Doryani's ingenuity raised the Vaal Empire\nto unprecedented heights. His curiosity\nreduced it to ruins and bones.",
+            "itemType": "Gloves",
+            "chaosValue": 10.0,
+            "exaltedValue": 1.63,
+            "divineValue": 0.06,
+            "count": 21,
+            "detailsId": "foulborn-doryanis-fist-vaal-gauntlets",
+            "tradeInfo": [],
+            "listingCount": 178
+        },
+        {
             "id": 130255,
             "name": "Foulborn Zahndethus' Cassock",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9aYWhuZGV0aHVzY2Fzc29jayIsInciOjIsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/e927e48422/Zahndethuscassock.png",
@@ -26138,7 +26138,7 @@
             "baseType": "Harlequin Mask",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -8,
+                "totalChange": -7,
                 "data": [
                     0,
                     6,
@@ -26146,11 +26146,11 @@
                     0,
                     0,
                     0,
-                    -8
+                    -7
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -8,
+                "totalChange": -7,
                 "data": [
                     0,
                     6,
@@ -26158,7 +26158,7 @@
                     0,
                     0,
                     0,
-                    -8
+                    -7
                 ]
             },
             "implicitModifiers": [],
@@ -26191,10 +26191,10 @@
             "mutatedModifiers": [],
             "flavourText": "It is a fool who strikes the turtle's shell.\nThe First of the Plains teaches us to exploit weaknesses,\nand where no weakness can be found, to create one.",
             "itemType": "Helmet",
-            "chaosValue": 9.2,
-            "exaltedValue": 1.5,
+            "chaosValue": 9.3,
+            "exaltedValue": 1.51,
             "divineValue": 0.06,
-            "count": 77,
+            "count": 78,
             "detailsId": "farruls-bite-harlequin-mask",
             "tradeInfo": [],
             "listingCount": 888
@@ -27279,10 +27279,10 @@
             "chaosValue": 8.0,
             "exaltedValue": 1.3,
             "divineValue": 0.05,
-            "count": 66,
+            "count": 65,
             "detailsId": "ravenous-passion-zealot-helmet",
             "tradeInfo": [],
-            "listingCount": 1411
+            "listingCount": 1410
         },
         {
             "id": 128406,
@@ -27349,10 +27349,10 @@
             "chaosValue": 8.0,
             "exaltedValue": 1.3,
             "divineValue": 0.05,
-            "count": 64,
+            "count": 63,
             "detailsId": "foulborn-cloak-of-flame-scholars-robe",
             "tradeInfo": [],
-            "listingCount": 1128
+            "listingCount": 1127
         },
         {
             "id": 129006,
@@ -27908,7 +27908,7 @@
             "chaosValue": 7.0,
             "exaltedValue": 1.14,
             "divineValue": 0.04,
-            "count": 62,
+            "count": 61,
             "detailsId": "tombfist-2-jewels-steelscale-gauntlets",
             "tradeInfo": [],
             "listingCount": 724
@@ -28042,7 +28042,7 @@
             "count": 65,
             "detailsId": "emperors-vigilance-steel-kite-shield",
             "tradeInfo": [],
-            "listingCount": 1212
+            "listingCount": 1211
         },
         {
             "id": 42675,
@@ -28708,10 +28708,10 @@
             "chaosValue": 6.0,
             "exaltedValue": 0.98,
             "divineValue": 0.04,
-            "count": 273,
+            "count": 274,
             "detailsId": "foulborn-skin-of-the-loyal-simple-robe-6l",
             "tradeInfo": [],
-            "listingCount": 3830
+            "listingCount": 3831
         },
         {
             "id": 130268,
@@ -28987,10 +28987,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.81,
             "divineValue": 0.03,
-            "count": 267,
+            "count": 269,
             "detailsId": "abyssus-ezomyte-burgonet",
             "tradeInfo": [],
-            "listingCount": 3706
+            "listingCount": 3708
         },
         {
             "id": 99,
@@ -29056,10 +29056,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.81,
             "divineValue": 0.03,
-            "count": 162,
+            "count": 161,
             "detailsId": "asenaths-gentle-touch-silk-gloves",
             "tradeInfo": [],
-            "listingCount": 6379
+            "listingCount": 6378
         },
         {
             "id": 329,
@@ -29417,10 +29417,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.81,
             "divineValue": 0.03,
-            "count": 147,
+            "count": 148,
             "detailsId": "voidwalker-murder-boots",
             "tradeInfo": [],
-            "listingCount": 3358
+            "listingCount": 3359
         },
         {
             "id": 1886,
@@ -29487,10 +29487,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.81,
             "divineValue": 0.03,
-            "count": 102,
+            "count": 103,
             "detailsId": "windscream-reinforced-greaves",
             "tradeInfo": [],
-            "listingCount": 2687
+            "listingCount": 2688
         },
         {
             "id": 1988,
@@ -30980,10 +30980,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.81,
             "divineValue": 0.03,
-            "count": 91,
+            "count": 90,
             "detailsId": "bitter-instinct-spiny-round-shield",
             "tradeInfo": [],
-            "listingCount": 2708
+            "listingCount": 2707
         },
         {
             "id": 128686,
@@ -32287,10 +32287,10 @@
             "chaosValue": 4.0,
             "exaltedValue": 0.65,
             "divineValue": 0.03,
-            "count": 352,
+            "count": 348,
             "detailsId": "tabula-rasa-simple-robe-6l",
             "tradeInfo": [],
-            "listingCount": 6836
+            "listingCount": 6832
         },
         {
             "id": 1687,
@@ -32591,10 +32591,10 @@
             "chaosValue": 4.0,
             "exaltedValue": 0.65,
             "divineValue": 0.03,
-            "count": 211,
+            "count": 210,
             "detailsId": "chains-of-command-saintly-chainmail",
             "tradeInfo": [],
-            "listingCount": 2855
+            "listingCount": 2854
         },
         {
             "id": 6954,
@@ -33273,6 +33273,75 @@
             "listingCount": 970
         },
         {
+            "id": 68765,
+            "name": "Usurper's Penance",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9IZWxtZXRzL1VuYnJpZGxlZFJhZ2UiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/3d6a6901bb/UnbridledRage.png",
+            "levelRequired": 69,
+            "baseType": "Eternal Burgonet",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 72.73,
+                "data": [
+                    0,
+                    36.36,
+                    36.36,
+                    -9.09,
+                    4.55,
+                    -9.09,
+                    72.73
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 72.73,
+                "data": [
+                    0,
+                    36.36,
+                    36.36,
+                    -9.09,
+                    4.55,
+                    -9.09,
+                    72.73
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(50-80)% increased Armour",
+                    "optional": false
+                },
+                {
+                    "text": "Attacks have 15% chance to cause Bleeding",
+                    "optional": false
+                },
+                {
+                    "text": "50% reduced Light Radius",
+                    "optional": false
+                },
+                {
+                    "text": "+4% to Damage over Time Multiplier for Bleeding per Frenzy Charge",
+                    "optional": false
+                },
+                {
+                    "text": "Bleeding you inflict deals Damage 4% faster per Frenzy Charge",
+                    "optional": false
+                },
+                {
+                    "text": "(20-30)% chance to gain a Frenzy Charge on Critical Strike at Close Range",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Bloodlust begets suffering.",
+            "itemType": "Helmet",
+            "chaosValue": 3.8,
+            "exaltedValue": 0.62,
+            "divineValue": 0.02,
+            "count": 81,
+            "detailsId": "usurpers-penance-eternal-burgonet",
+            "tradeInfo": [],
+            "listingCount": 1868
+        },
+        {
             "id": 2222,
             "name": "Third Piece of Focus",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9TaGllbGRzL1NoYXJkcy9DaGFubmVsaW5nU2hpZWxkU2hhcmQzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c50183e0b2/ChannelingShieldShard3.png",
@@ -33673,7 +33742,7 @@
             "baseType": "Sinner Tricorne",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -50,
+                "totalChange": -48.39,
                 "data": [
                     0,
                     -3.23,
@@ -33681,11 +33750,11 @@
                     -26.13,
                     -28.71,
                     -45.16,
-                    -50
+                    -48.39
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -50,
+                "totalChange": -48.39,
                 "data": [
                     0,
                     -3.23,
@@ -33693,7 +33762,7 @@
                     -26.13,
                     -28.71,
                     -45.16,
-                    -50
+                    -48.39
                 ]
             },
             "implicitModifiers": [],
@@ -33735,13 +33804,13 @@
             ],
             "flavourText": "Nature respects the strong\nAnd paints the snow red\nWith the blood of the weak",
             "itemType": "Helmet",
-            "chaosValue": 3.1,
-            "exaltedValue": 0.5,
+            "chaosValue": 3.2,
+            "exaltedValue": 0.52,
             "divineValue": 0.02,
-            "count": 93,
+            "count": 94,
             "detailsId": "foulborn-alphas-howl-sinner-tricorne",
             "tradeInfo": [],
-            "listingCount": 1332
+            "listingCount": 1333
         },
         {
             "id": 100,
@@ -34017,10 +34086,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.49,
             "divineValue": 0.02,
-            "count": 78,
+            "count": 72,
             "detailsId": "maligaros-virtuosity-deerskin-gloves",
             "tradeInfo": [],
-            "listingCount": 1448
+            "listingCount": 1439
         },
         {
             "id": 1428,
@@ -34153,7 +34222,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.49,
             "divineValue": 0.02,
-            "count": 143,
+            "count": 142,
             "detailsId": "lycosidae-rawhide-tower-shield",
             "tradeInfo": [],
             "listingCount": 2672
@@ -35085,7 +35154,7 @@
             "count": 399,
             "detailsId": "perepiteia-ezomyte-spiked-shield",
             "tradeInfo": [],
-            "listingCount": 18182
+            "listingCount": 18180
         },
         {
             "id": 24813,
@@ -35226,10 +35295,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.49,
             "divineValue": 0.02,
-            "count": 136,
+            "count": 134,
             "detailsId": "mistwall-lacquered-buckler",
             "tradeInfo": [],
-            "listingCount": 2199
+            "listingCount": 2197
         },
         {
             "id": 40114,
@@ -35547,10 +35616,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.49,
             "divineValue": 0.02,
-            "count": 346,
+            "count": 345,
             "detailsId": "ancient-skull-bone-helmet",
             "tradeInfo": [],
-            "listingCount": 7337
+            "listingCount": 7336
         },
         {
             "id": 54420,
@@ -35683,73 +35752,82 @@
             "listingCount": 278
         },
         {
-            "id": 68765,
-            "name": "Usurper's Penance",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9IZWxtZXRzL1VuYnJpZGxlZFJhZ2UiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/3d6a6901bb/UnbridledRage.png",
-            "levelRequired": 69,
-            "baseType": "Eternal Burgonet",
+            "id": 93030,
+            "name": "Dawnbreaker",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9TaGllbGRzL1N1cGVyaGVhdGVkU2hpZWxkIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/59e3552a9b/SuperheatedShield.png",
+            "levelRequired": 67,
+            "baseType": "Colossal Tower Shield",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 36.36,
+                "totalChange": 0,
                 "data": [
                     0,
-                    36.36,
-                    36.36,
-                    -9.09,
-                    4.55,
-                    -9.09,
-                    36.36
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 36.36,
+                "totalChange": 0,
                 "data": [
                     0,
-                    36.36,
-                    36.36,
-                    -9.09,
-                    4.55,
-                    -9.09,
-                    36.36
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
                 ]
             },
-            "implicitModifiers": [],
+            "implicitModifiers": [
+                {
+                    "text": "+(10-20) to maximum Life",
+                    "optional": false
+                }
+            ],
             "explicitModifiers": [
                 {
-                    "text": "(50-80)% increased Armour",
+                    "text": "(150-250)% increased Armour",
                     "optional": false
                 },
                 {
-                    "text": "Attacks have 15% chance to cause Bleeding",
+                    "text": "+(20-25)% Chance to Block",
                     "optional": false
                 },
                 {
-                    "text": "50% reduced Light Radius",
+                    "text": "-1% Chance to Block Attack Damage for every 200 Fire Damage taken from Hits Recently",
                     "optional": false
                 },
                 {
-                    "text": "+4% to Damage over Time Multiplier for Bleeding per Frenzy Charge",
+                    "text": "(10-20)% of Cold Damage taken as Fire Damage",
                     "optional": false
                 },
                 {
-                    "text": "Bleeding you inflict deals Damage 4% faster per Frenzy Charge",
+                    "text": "(10-20)% of Lightning Damage taken as Fire Damage",
                     "optional": false
                 },
                 {
-                    "text": "(20-30)% chance to gain a Frenzy Charge on Critical Strike at Close Range",
+                    "text": "(10-20)% of Physical Damage taken as Fire Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Scorch Enemies in Close Range when you Block",
                     "optional": false
                 }
             ],
             "mutatedModifiers": [],
-            "flavourText": "Bloodlust begets suffering.",
-            "itemType": "Helmet",
+            "flavourText": "\"The newcomers warn of doom and death beyond mortal ken.\nI ask, why should we fear the fire when we serve the Lord of Light?\"\n- Maxarius, the first High Templar",
+            "itemType": "Shield",
             "chaosValue": 3.0,
             "exaltedValue": 0.49,
             "divineValue": 0.02,
-            "count": 81,
-            "detailsId": "usurpers-penance-eternal-burgonet",
+            "count": 399,
+            "detailsId": "dawnbreaker-colossal-tower-shield",
             "tradeInfo": [],
-            "listingCount": 1868
+            "listingCount": 16432
         },
         {
             "id": 109036,
@@ -35959,10 +36037,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.49,
             "divineValue": 0.02,
-            "count": 63,
+            "count": 64,
             "detailsId": "foulborn-volls-vision-praetor-crown",
             "tradeInfo": [],
-            "listingCount": 1374
+            "listingCount": 1375
         },
         {
             "id": 130184,
@@ -36095,7 +36173,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.49,
             "divineValue": 0.02,
-            "count": 51,
+            "count": 50,
             "detailsId": "foulborn-ylfebans-trickery-hubris-circlet",
             "tradeInfo": [],
             "listingCount": 851
@@ -37994,10 +38072,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.33,
             "divineValue": 0.01,
-            "count": 304,
+            "count": 302,
             "detailsId": "leer-cast-festival-mask",
             "tradeInfo": [],
-            "listingCount": 5770
+            "listingCount": 5768
         },
         {
             "id": 992,
@@ -38071,10 +38149,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.33,
             "divineValue": 0.01,
-            "count": 136,
+            "count": 135,
             "detailsId": "queen-of-the-forest-destiny-leather",
             "tradeInfo": [],
-            "listingCount": 3665
+            "listingCount": 3664
         },
         {
             "id": 1047,
@@ -38494,10 +38572,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.33,
             "divineValue": 0.01,
-            "count": 80,
+            "count": 79,
             "detailsId": "haemophilia-serpentscale-gauntlets",
             "tradeInfo": [],
-            "listingCount": 2786
+            "listingCount": 2785
         },
         {
             "id": 2186,
@@ -39022,10 +39100,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.33,
             "divineValue": 0.01,
-            "count": 161,
+            "count": 162,
             "detailsId": "blunderbore-astral-plate",
             "tradeInfo": [],
-            "listingCount": 3015
+            "listingCount": 3016
         },
         {
             "id": 44333,
@@ -39359,84 +39437,6 @@
             "detailsId": "temptation-step-shagreen-boots",
             "tradeInfo": [],
             "listingCount": 558
-        },
-        {
-            "id": 93030,
-            "name": "Dawnbreaker",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9TaGllbGRzL1N1cGVyaGVhdGVkU2hpZWxkIiwidyI6MiwiaCI6NCwic2NhbGUiOjF9XQ/59e3552a9b/SuperheatedShield.png",
-            "levelRequired": 67,
-            "baseType": "Colossal Tower Shield",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -33.33,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -33.33
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -33.33,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -33.33
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "+(10-20) to maximum Life",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "(150-250)% increased Armour",
-                    "optional": false
-                },
-                {
-                    "text": "+(20-25)% Chance to Block",
-                    "optional": false
-                },
-                {
-                    "text": "-1% Chance to Block Attack Damage for every 200 Fire Damage taken from Hits Recently",
-                    "optional": false
-                },
-                {
-                    "text": "(10-20)% of Cold Damage taken as Fire Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(10-20)% of Lightning Damage taken as Fire Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(10-20)% of Physical Damage taken as Fire Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Scorch Enemies in Close Range when you Block",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"The newcomers warn of doom and death beyond mortal ken.\nI ask, why should we fear the fire when we serve the Lord of Light?\"\n- Maxarius, the first High Templar",
-            "itemType": "Shield",
-            "chaosValue": 2.0,
-            "exaltedValue": 0.33,
-            "divineValue": 0.01,
-            "count": 399,
-            "detailsId": "dawnbreaker-colossal-tower-shield",
-            "tradeInfo": [],
-            "listingCount": 16441
         },
         {
             "id": 93042,
@@ -40825,72 +40825,6 @@
             "listingCount": 712
         },
         {
-            "id": 1332,
-            "name": "Soul Mantle",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9Tb3VsTWFudGxlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/19bb017ce4/SoulMantle.png",
-            "levelRequired": 49,
-            "baseType": "Spidersilk Robe",
-            "links": 5,
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 90,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    90
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 90,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    90
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Socketed Gems are Supported by Level 20 Spell Totem",
-                    "optional": false
-                },
-                {
-                    "text": "(20-25)% increased Spell Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(100-120)% increased Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "(20-30)% increased Totem Life",
-                    "optional": false
-                },
-                {
-                    "text": "Inflicts a random Hex on you when your Totems die",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The greatest mistakes cause suffering \nlong after they have been made",
-            "itemType": "Body Armour",
-            "chaosValue": 1.9,
-            "exaltedValue": 0.31,
-            "divineValue": 0.01,
-            "count": 20,
-            "detailsId": "soul-mantle-spidersilk-robe-5l",
-            "tradeInfo": [],
-            "listingCount": 596
-        },
-        {
             "id": 4935,
             "name": "Craiceann's Tracks",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb290cy9DcmFiVW5pcXVlQm9vdHMiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/65740a31fd/CrabUniqueBoots.png",
@@ -41033,6 +40967,81 @@
             "listingCount": 211
         },
         {
+            "id": 128531,
+            "name": "Foulborn The Perfect Form",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9UaGVQZXJmZWN0Rm9ybSIsInciOjIsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/d8154a968d/ThePerfectForm.png",
+            "levelRequired": 65,
+            "baseType": "Zodiac Leather",
+            "links": 5,
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 35.71,
+                "data": [
+                    0,
+                    -7.14,
+                    14.29,
+                    9.29,
+                    9.29,
+                    15.71,
+                    35.71
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 35.71,
+                "data": [
+                    0,
+                    -7.14,
+                    14.29,
+                    9.29,
+                    9.29,
+                    15.71,
+                    35.71
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "+50% chance to Suppress Spell Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(150-200)% increased Evasion Rating",
+                    "optional": true
+                },
+                {
+                    "text": "-30% to Cold Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Evasion Rating is increased by Overcapped Cold Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Acrobatics",
+                    "optional": true
+                }
+            ],
+            "mutatedModifiers": [
+                {
+                    "text": "+8 to Evasion Rating per 10 Player Maximum Life",
+                    "optional": true
+                },
+                {
+                    "text": "Ghost Dance",
+                    "optional": true
+                }
+            ],
+            "flavourText": "We share one space,\nspeak one voice,\nact through one body.\nA flawless crystal.\nBrittle.",
+            "itemType": "Body Armour",
+            "chaosValue": 1.9,
+            "exaltedValue": 0.31,
+            "divineValue": 0.01,
+            "count": 34,
+            "detailsId": "foulborn-the-perfect-form-zodiac-leather-5l",
+            "tradeInfo": [],
+            "listingCount": 558
+        },
+        {
             "id": 130261,
             "name": "Foulborn Vaal Caress",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9HbG92ZXMvVmFhbENhcmVzcyIsInciOjIsImgiOjIsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/944f0f2c07/VaalCaress.png",
@@ -41103,79 +41112,148 @@
             "listingCount": 569
         },
         {
-            "id": 128531,
-            "name": "Foulborn The Perfect Form",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9UaGVQZXJmZWN0Rm9ybSIsInciOjIsImgiOjMsInNjYWxlIjoxLCJtdXRhdGVkIjp0cnVlfV0/d8154a968d/ThePerfectForm.png",
-            "levelRequired": 65,
-            "baseType": "Zodiac Leather",
+            "id": 1332,
+            "name": "Soul Mantle",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9Tb3VsTWFudGxlIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/19bb017ce4/SoulMantle.png",
+            "levelRequired": 49,
+            "baseType": "Spidersilk Robe",
             "links": 5,
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 35,
+                "totalChange": 80,
                 "data": [
                     0,
-                    -7.14,
-                    14.29,
-                    9.29,
-                    9.29,
-                    15.71,
-                    35
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    80
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 35,
+                "totalChange": 80,
                 "data": [
                     0,
-                    -7.14,
-                    14.29,
-                    9.29,
-                    9.29,
-                    15.71,
-                    35
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    80
                 ]
             },
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "+50% chance to Suppress Spell Damage",
+                    "text": "Socketed Gems are Supported by Level 20 Spell Totem",
                     "optional": false
                 },
                 {
-                    "text": "(150-200)% increased Evasion Rating",
-                    "optional": true
-                },
-                {
-                    "text": "-30% to Cold Resistance",
+                    "text": "(20-25)% increased Spell Damage",
                     "optional": false
                 },
                 {
-                    "text": "Evasion Rating is increased by Overcapped Cold Resistance",
+                    "text": "(100-120)% increased Energy Shield",
                     "optional": false
                 },
                 {
-                    "text": "Acrobatics",
-                    "optional": true
+                    "text": "(20-30)% increased Totem Life",
+                    "optional": false
+                },
+                {
+                    "text": "Inflicts a random Hex on you when your Totems die",
+                    "optional": false
                 }
             ],
-            "mutatedModifiers": [
-                {
-                    "text": "+8 to Evasion Rating per 10 Player Maximum Life",
-                    "optional": true
-                },
-                {
-                    "text": "Ghost Dance",
-                    "optional": true
-                }
-            ],
-            "flavourText": "We share one space,\nspeak one voice,\nact through one body.\nA flawless crystal.\nBrittle.",
+            "mutatedModifiers": [],
+            "flavourText": "The greatest mistakes cause suffering \nlong after they have been made",
             "itemType": "Body Armour",
-            "chaosValue": 1.89,
-            "exaltedValue": 0.31,
+            "chaosValue": 1.8,
+            "exaltedValue": 0.29,
             "divineValue": 0.01,
-            "count": 33,
-            "detailsId": "foulborn-the-perfect-form-zodiac-leather-5l",
+            "count": 19,
+            "detailsId": "soul-mantle-spidersilk-robe-5l",
             "tradeInfo": [],
-            "listingCount": 557
+            "listingCount": 596
+        },
+        {
+            "id": 2195,
+            "name": "Tinkerskin",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9UcmFwcGVyQXJtb3VyIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/3e6bd8eefe/TrapperArmour.png",
+            "levelRequired": 68,
+            "baseType": "Sadist Garb",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -10,
+                "data": [
+                    0,
+                    0,
+                    -32.0,
+                    0,
+                    0,
+                    -14.5,
+                    -10
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -10,
+                "data": [
+                    0,
+                    0,
+                    -32.0,
+                    0,
+                    0,
+                    -14.5,
+                    -10
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "Item sells for much more to vendors",
+                    "optional": true
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "(140-170)% increased Evasion and Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "+(60-90) to maximum Life",
+                    "optional": false
+                },
+                {
+                    "text": "(10-15)% increased Cooldown Recovery Rate for throwing Traps",
+                    "optional": false
+                },
+                {
+                    "text": "15% chance to gain a Frenzy Charge when your Trap is triggered by an Enemy",
+                    "optional": false
+                },
+                {
+                    "text": "30% chance to gain Phasing for 4 seconds when your Trap is triggered by an Enemy",
+                    "optional": false
+                },
+                {
+                    "text": "Recover 100 Life when your Trap is triggered by an Enemy",
+                    "optional": false
+                },
+                {
+                    "text": "Recover 50 Energy Shield when your Trap is triggered by an Enemy",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Thin is the line between mechanical genius and magic.",
+            "itemType": "Body Armour",
+            "chaosValue": 1.8,
+            "exaltedValue": 0.29,
+            "divineValue": 0.01,
+            "count": 86,
+            "detailsId": "tinkerskin-sadist-garb",
+            "tradeInfo": [],
+            "listingCount": 2434
         },
         {
             "id": 1586,
@@ -42004,10 +42082,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 193,
+            "count": 194,
             "detailsId": "alberons-warpath-soldier-boots",
             "tradeInfo": [],
-            "listingCount": 6289
+            "listingCount": 6290
         },
         {
             "id": 48,
@@ -42069,7 +42147,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 137,
+            "count": 136,
             "detailsId": "ambus-charge-crusader-chainmail",
             "tradeInfo": [],
             "listingCount": 4560
@@ -42334,7 +42412,7 @@
             "count": 398,
             "detailsId": "black-sun-crest-lacquered-helmet",
             "tradeInfo": [],
-            "listingCount": 11859
+            "listingCount": 11857
         },
         {
             "id": 185,
@@ -42732,10 +42810,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 156,
+            "count": 155,
             "detailsId": "chalice-of-horrors-war-buckler",
             "tradeInfo": [],
-            "listingCount": 4501
+            "listingCount": 4500
         },
         {
             "id": 262,
@@ -42867,10 +42945,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 224,
+            "count": 223,
             "detailsId": "cherrubims-maleficence-triumphant-lamellar",
             "tradeInfo": [],
-            "listingCount": 5559
+            "listingCount": 5558
         },
         {
             "id": 264,
@@ -43068,7 +43146,7 @@
             "count": 153,
             "detailsId": "crest-of-perandus-pine-buckler",
             "tradeInfo": [],
-            "listingCount": 3729
+            "listingCount": 3728
         },
         {
             "id": 330,
@@ -43130,10 +43208,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 101,
+            "count": 100,
             "detailsId": "crown-of-the-pale-king-regicide-mask",
             "tradeInfo": [],
-            "listingCount": 4701
+            "listingCount": 4700
         },
         {
             "id": 345,
@@ -43285,10 +43363,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 357,
+            "count": 359,
             "detailsId": "darkray-vectors-dragonscale-boots",
             "tradeInfo": [],
-            "listingCount": 8874
+            "listingCount": 8876
         },
         {
             "id": 397,
@@ -43374,7 +43452,7 @@
             "count": 142,
             "detailsId": "deaths-oath-astral-plate",
             "tradeInfo": [],
-            "listingCount": 3787
+            "listingCount": 3788
         },
         {
             "id": 405,
@@ -43835,10 +43913,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 160,
+            "count": 161,
             "detailsId": "flesh-and-spirit-ironscale-gauntlets",
             "tradeInfo": [],
-            "listingCount": 5383
+            "listingCount": 5384
         },
         {
             "id": 542,
@@ -43900,10 +43978,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 199,
+            "count": 198,
             "detailsId": "foxshade-wild-leather",
             "tradeInfo": [],
-            "listingCount": 3942
+            "listingCount": 3941
         },
         {
             "id": 559,
@@ -44311,10 +44389,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 238,
+            "count": 239,
             "detailsId": "honourhome-soldier-helmet",
             "tradeInfo": [],
-            "listingCount": 5595
+            "listingCount": 5596
         },
         {
             "id": 643,
@@ -44454,10 +44532,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 224,
+            "count": 227,
             "detailsId": "hyrris-bite-sharktooth-arrow-quiver",
             "tradeInfo": [],
-            "listingCount": 5008
+            "listingCount": 5011
         },
         {
             "id": 657,
@@ -44589,10 +44667,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 52,
+            "count": 51,
             "detailsId": "infernal-mantle-widowsilk-robe",
             "tradeInfo": [],
-            "listingCount": 1119
+            "listingCount": 1118
         },
         {
             "id": 688,
@@ -44860,10 +44938,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 290,
+            "count": 291,
             "detailsId": "kitavas-thirst-zealot-helmet",
             "tradeInfo": [],
-            "listingCount": 7012
+            "listingCount": 7013
         },
         {
             "id": 746,
@@ -45208,10 +45286,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 266,
+            "count": 267,
             "detailsId": "lochtonial-caress-iron-gauntlets",
             "tradeInfo": [],
-            "listingCount": 6014
+            "listingCount": 6015
         },
         {
             "id": 775,
@@ -45480,7 +45558,7 @@
             "count": 217,
             "detailsId": "mindspiral-aventail-helmet",
             "tradeInfo": [],
-            "listingCount": 7018
+            "listingCount": 7016
         },
         {
             "id": 844,
@@ -45693,10 +45771,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 209,
+            "count": 208,
             "detailsId": "null-and-void-legion-gloves",
             "tradeInfo": [],
-            "listingCount": 5669
+            "listingCount": 5668
         },
         {
             "id": 881,
@@ -45876,10 +45954,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 68,
+            "count": 67,
             "detailsId": "rainbowstride-conjurer-boots",
             "tradeInfo": [],
-            "listingCount": 1752
+            "listingCount": 1751
         },
         {
             "id": 1016,
@@ -46364,10 +46442,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 178,
+            "count": 177,
             "detailsId": "shadows-and-dust-clasped-mitts",
             "tradeInfo": [],
-            "listingCount": 5489
+            "listingCount": 5488
         },
         {
             "id": 1312,
@@ -46506,10 +46584,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 204,
+            "count": 203,
             "detailsId": "snakebite-assassins-mitts",
             "tradeInfo": [],
-            "listingCount": 8239
+            "listingCount": 8238
         },
         {
             "id": 1328,
@@ -46575,10 +46653,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 115,
+            "count": 116,
             "detailsId": "solaris-lorica-copper-plate",
             "tradeInfo": [],
-            "listingCount": 4198
+            "listingCount": 4199
         },
         {
             "id": 1329,
@@ -46715,10 +46793,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 297,
+            "count": 298,
             "detailsId": "soul-mantle-spidersilk-robe",
             "tradeInfo": [],
-            "listingCount": 10429
+            "listingCount": 10430
         },
         {
             "id": 1337,
@@ -46780,10 +46858,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 384,
+            "count": 383,
             "detailsId": "southbound-soldier-gloves",
             "tradeInfo": [],
-            "listingCount": 9831
+            "listingCount": 9832
         },
         {
             "id": 1352,
@@ -46846,10 +46924,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 167,
+            "count": 168,
             "detailsId": "springleaf-plank-kite-shield",
             "tradeInfo": [],
-            "listingCount": 4601
+            "listingCount": 4602
         },
         {
             "id": 1363,
@@ -46919,10 +46997,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 249,
+            "count": 250,
             "detailsId": "starkonjas-head-silken-hood",
             "tradeInfo": [],
-            "listingCount": 9415
+            "listingCount": 9416
         },
         {
             "id": 1426,
@@ -47200,10 +47278,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 304,
+            "count": 305,
             "detailsId": "the-broken-crown-prophet-crown",
             "tradeInfo": [],
-            "listingCount": 11179
+            "listingCount": 11180
         },
         {
             "id": 1582,
@@ -47994,10 +48072,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 220,
+            "count": 219,
             "detailsId": "wake-of-destruction-mesh-boots",
             "tradeInfo": [],
-            "listingCount": 6129
+            "listingCount": 6128
         },
         {
             "id": 1837,
@@ -48058,10 +48136,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 228,
+            "count": 225,
             "detailsId": "wanderlust-wool-shoes",
             "tradeInfo": [],
-            "listingCount": 6481
+            "listingCount": 6479
         },
         {
             "id": 1872,
@@ -48270,7 +48348,7 @@
             "count": 293,
             "detailsId": "zahndethus-cassock-sages-robe",
             "tradeInfo": [],
-            "listingCount": 9984
+            "listingCount": 9983
         },
         {
             "id": 1903,
@@ -48682,84 +48760,6 @@
             "listingCount": 11920
         },
         {
-            "id": 2195,
-            "name": "Tinkerskin",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9UcmFwcGVyQXJtb3VyIiwidyI6MiwiaCI6Mywic2NhbGUiOjF9XQ/3e6bd8eefe/TrapperArmour.png",
-            "levelRequired": 68,
-            "baseType": "Sadist Garb",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -50,
-                "data": [
-                    0,
-                    0,
-                    -32.0,
-                    0,
-                    0,
-                    -14.5,
-                    -50
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -50,
-                "data": [
-                    0,
-                    0,
-                    -32.0,
-                    0,
-                    0,
-                    -14.5,
-                    -50
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "Item sells for much more to vendors",
-                    "optional": true
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "(140-170)% increased Evasion and Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "+(60-90) to maximum Life",
-                    "optional": false
-                },
-                {
-                    "text": "(10-15)% increased Cooldown Recovery Rate for throwing Traps",
-                    "optional": false
-                },
-                {
-                    "text": "15% chance to gain a Frenzy Charge when your Trap is triggered by an Enemy",
-                    "optional": false
-                },
-                {
-                    "text": "30% chance to gain Phasing for 4 seconds when your Trap is triggered by an Enemy",
-                    "optional": false
-                },
-                {
-                    "text": "Recover 100 Life when your Trap is triggered by an Enemy",
-                    "optional": false
-                },
-                {
-                    "text": "Recover 50 Energy Shield when your Trap is triggered by an Enemy",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Thin is the line between mechanical genius and magic.",
-            "itemType": "Body Armour",
-            "chaosValue": 1.0,
-            "exaltedValue": 0.16,
-            "divineValue": 0.01,
-            "count": 87,
-            "detailsId": "tinkerskin-sadist-garb",
-            "tradeInfo": [],
-            "listingCount": 2435
-        },
-        {
             "id": 2196,
             "name": "Dendrobate",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9EZW5kcm9iYXRpcyIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/7c2d6dd5ce/Dendrobatis.png",
@@ -48826,7 +48826,7 @@
             "count": 202,
             "detailsId": "dendrobate-sentinel-jacket",
             "tradeInfo": [],
-            "listingCount": 9072
+            "listingCount": 9071
         },
         {
             "id": 2208,
@@ -49154,10 +49154,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 34,
+            "count": 35,
             "detailsId": "volkuurs-guidance-lightning-zealot-gloves",
             "tradeInfo": [],
-            "listingCount": 729
+            "listingCount": 730
         },
         {
             "id": 2282,
@@ -49226,7 +49226,7 @@
             "count": 214,
             "detailsId": "ahns-contempt-praetor-crown",
             "tradeInfo": [],
-            "listingCount": 7530
+            "listingCount": 7529
         },
         {
             "id": 2299,
@@ -49293,10 +49293,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 274,
+            "count": 275,
             "detailsId": "lepers-alms-mirrored-spiked-shield",
             "tradeInfo": [],
-            "listingCount": 8922
+            "listingCount": 8923
         },
         {
             "id": 2476,
@@ -50632,10 +50632,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 214,
+            "count": 213,
             "detailsId": "eye-of-malice-callous-mask",
             "tradeInfo": [],
-            "listingCount": 4616
+            "listingCount": 4615
         },
         {
             "id": 40122,
@@ -50758,7 +50758,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 141,
+            "count": 140,
             "detailsId": "great-old-ones-tentacles-eelskin-gloves",
             "tradeInfo": [],
             "listingCount": 4813
@@ -50888,10 +50888,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 241,
+            "count": 242,
             "detailsId": "willclash-golden-mask",
             "tradeInfo": [],
-            "listingCount": 5525
+            "listingCount": 5526
         },
         {
             "id": 44128,
@@ -50960,7 +50960,7 @@
             "count": 52,
             "detailsId": "mercenarys-lot-slink-gloves",
             "tradeInfo": [],
-            "listingCount": 1667
+            "listingCount": 1666
         },
         {
             "id": 44133,
@@ -51639,10 +51639,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 186,
+            "count": 185,
             "detailsId": "thrillsteel-barbute-helmet",
             "tradeInfo": [],
-            "listingCount": 6326
+            "listingCount": 6325
         },
         {
             "id": 98141,
@@ -51700,10 +51700,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 229,
+            "count": 230,
             "detailsId": "ghostwrithe-silken-vest",
             "tradeInfo": [],
-            "listingCount": 7175
+            "listingCount": 7176
         },
         {
             "id": 98143,
@@ -51765,10 +51765,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 89,
+            "count": 90,
             "detailsId": "kaoms-spirit-titan-gauntlets",
             "tradeInfo": [],
-            "listingCount": 1910
+            "listingCount": 1911
         },
         {
             "id": 98210,
@@ -51969,7 +51969,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 54,
+            "count": 53,
             "detailsId": "allelopathy-satin-gloves",
             "tradeInfo": [],
             "listingCount": 1903
@@ -52096,10 +52096,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 177,
+            "count": 178,
             "detailsId": "tanu-ahi-wyrmscale-gauntlets",
             "tradeInfo": [],
-            "listingCount": 6831
+            "listingCount": 6832
         },
         {
             "id": 103490,
@@ -52827,7 +52827,7 @@
             "count": 399,
             "detailsId": "azadi-crest-lacquered-buckler",
             "tradeInfo": [],
-            "listingCount": 10049
+            "listingCount": 10050
         },
         {
             "id": 128286,
@@ -53021,7 +53021,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 89,
+            "count": 88,
             "detailsId": "foulborn-victarios-flight-goathide-boots",
             "tradeInfo": [],
             "listingCount": 3778
@@ -53649,7 +53649,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 77,
+            "count": 76,
             "detailsId": "foulborn-the-three-dragons-golden-mask",
             "tradeInfo": [],
             "listingCount": 2393
@@ -54275,7 +54275,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 308,
+            "count": 307,
             "detailsId": "foulborn-the-infinite-pursuit-titan-greaves",
             "tradeInfo": [],
             "listingCount": 14434
@@ -55211,10 +55211,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 76,
+            "count": 75,
             "detailsId": "foulborn-starkonjas-head-silken-hood",
             "tradeInfo": [],
-            "listingCount": 4146
+            "listingCount": 4145
         },
         {
             "id": 128521,
@@ -55286,10 +55286,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 97,
+            "count": 99,
             "detailsId": "foulborn-kongmings-stratagem-ancient-spirit-shield",
             "tradeInfo": [],
-            "listingCount": 3565
+            "listingCount": 3567
         },
         {
             "id": 128530,
@@ -56140,10 +56140,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 34,
+            "count": 35,
             "detailsId": "foulborn-vis-mortis-necromancer-silks-5l",
             "tradeInfo": [],
-            "listingCount": 1093
+            "listingCount": 1094
         },
         {
             "id": 128631,
@@ -56628,10 +56628,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 135,
+            "count": 136,
             "detailsId": "foulborn-the-baron-close-helmet",
             "tradeInfo": [],
-            "listingCount": 2396
+            "listingCount": 2397
         },
         {
             "id": 130211,
@@ -57117,6 +57117,75 @@
             "listingCount": 3934
         },
         {
+            "id": 1778,
+            "name": "Victario's Flight",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb290cy9Cb290c0RleEludFVuaXF1ZTIiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/11ab397d3d/BootsDexIntUnique2.png",
+            "levelRequired": 12,
+            "baseType": "Goathide Boots",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 2667,
+                "data": [
+                    0,
+                    0,
+                    16.67,
+                    0,
+                    33.33,
+                    233.3,
+                    2667
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 2667,
+                "data": [
+                    0,
+                    0,
+                    16.67,
+                    0,
+                    33.33,
+                    233.3,
+                    2667
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "+15 to Dexterity",
+                    "optional": false
+                },
+                {
+                    "text": "+15 to Intelligence",
+                    "optional": false
+                },
+                {
+                    "text": "(100-150)% increased Evasion Rating",
+                    "optional": false
+                },
+                {
+                    "text": "(10-20)% increased Movement Speed",
+                    "optional": false
+                },
+                {
+                    "text": "(10-20)% increased Movement Speed when on Low Life",
+                    "optional": false
+                },
+                {
+                    "text": "Quicksilver Flasks you Use also apply to nearby Allies",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Alive but not unscathed, Victario fled\nas slaughter blossomed at the gates.",
+            "itemType": "Boots",
+            "chaosValue": 0.83,
+            "exaltedValue": 0.13,
+            "divineValue": 0.01,
+            "count": 207,
+            "detailsId": "victarios-flight-goathide-boots",
+            "tradeInfo": [],
+            "listingCount": 6906
+        },
+        {
             "id": 60051,
             "name": "Steelworm",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUXVpdmVycy9TaGFyZFF1aXZlciIsInciOjIsImgiOjMsInNjYWxlIjoxfV0/f531e46359/ShardQuiver.png",
@@ -57255,75 +57324,6 @@
             "detailsId": "geofris-sanctuary-elegant-ringmail-5l",
             "tradeInfo": [],
             "listingCount": 882
-        },
-        {
-            "id": 1778,
-            "name": "Victario's Flight",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQXJtb3Vycy9Cb290cy9Cb290c0RleEludFVuaXF1ZTIiLCJ3IjoyLCJoIjoyLCJzY2FsZSI6MX1d/11ab397d3d/BootsDexIntUnique2.png",
-            "levelRequired": 12,
-            "baseType": "Goathide Boots",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 2467,
-                "data": [
-                    0,
-                    0,
-                    16.67,
-                    0,
-                    33.33,
-                    233.3,
-                    2467
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 2467,
-                "data": [
-                    0,
-                    0,
-                    16.67,
-                    0,
-                    33.33,
-                    233.3,
-                    2467
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "+15 to Dexterity",
-                    "optional": false
-                },
-                {
-                    "text": "+15 to Intelligence",
-                    "optional": false
-                },
-                {
-                    "text": "(100-150)% increased Evasion Rating",
-                    "optional": false
-                },
-                {
-                    "text": "(10-20)% increased Movement Speed",
-                    "optional": false
-                },
-                {
-                    "text": "(10-20)% increased Movement Speed when on Low Life",
-                    "optional": false
-                },
-                {
-                    "text": "Quicksilver Flasks you Use also apply to nearby Allies",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Alive but not unscathed, Victario fled\nas slaughter blossomed at the gates.",
-            "itemType": "Boots",
-            "chaosValue": 0.77,
-            "exaltedValue": 0.13,
-            "divineValue": 0.0,
-            "count": 206,
-            "detailsId": "victarios-flight-goathide-boots",
-            "tradeInfo": [],
-            "listingCount": 6905
         },
         {
             "id": 103607,
@@ -57787,10 +57787,10 @@
             "chaosValue": 0.25,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 276,
+            "count": 277,
             "detailsId": "stormcharger-plated-greaves",
             "tradeInfo": [],
-            "listingCount": 8906
+            "listingCount": 8907
         },
         {
             "id": 103402,
@@ -58441,10 +58441,10 @@
             "chaosValue": 0.13,
             "exaltedValue": 0.02,
             "divineValue": 0.0,
-            "count": 104,
+            "count": 105,
             "detailsId": "bramblejack-plate-vest",
             "tradeInfo": [],
-            "listingCount": 3393
+            "listingCount": 3394
         },
         {
             "id": 1690,
@@ -58576,7 +58576,7 @@
             "chaosValue": 0.11,
             "exaltedValue": 0.02,
             "divineValue": 0.0,
-            "count": 227,
+            "count": 226,
             "detailsId": "gangs-momentum-legion-boots",
             "tradeInfo": [],
             "listingCount": 9784
@@ -58644,7 +58644,7 @@
             "count": 173,
             "detailsId": "torchoak-step-antique-greaves",
             "tradeInfo": [],
-            "listingCount": 6636
+            "listingCount": 6635
         },
         {
             "id": 716,
@@ -58849,7 +58849,7 @@
             "chaosValue": 0.09,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 132,
+            "count": 131,
             "detailsId": "titucius-span-reinforced-tower-shield",
             "tradeInfo": [],
             "listingCount": 4220
@@ -58993,10 +58993,10 @@
             "chaosValue": 0.08,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 227,
+            "count": 228,
             "detailsId": "skirmish-two-point-arrow-quiver",
             "tradeInfo": [],
-            "listingCount": 7304
+            "listingCount": 7305
         },
         {
             "id": 2199,
@@ -59651,7 +59651,7 @@
             "count": 155,
             "detailsId": "deerstalker-deerskin-boots",
             "tradeInfo": [],
-            "listingCount": 5604
+            "listingCount": 5602
         },
         {
             "id": 447,
@@ -60053,7 +60053,7 @@
             "chaosValue": 0.03,
             "exaltedValue": 0.0,
             "divineValue": 0.0,
-            "count": 122,
+            "count": 121,
             "detailsId": "lightbane-raiment-ornate-ringmail",
             "tradeInfo": [],
             "listingCount": 3737
@@ -60197,10 +60197,10 @@
             "chaosValue": 0.03,
             "exaltedValue": 0.0,
             "divineValue": 0.0,
-            "count": 147,
+            "count": 146,
             "detailsId": "matua-tupuna-tarnished-spirit-shield",
             "tradeInfo": [],
-            "listingCount": 6697
+            "listingCount": 6696
         },
         {
             "id": 1110,
@@ -60266,7 +60266,7 @@
             "chaosValue": 0.03,
             "exaltedValue": 0.0,
             "divineValue": 0.0,
-            "count": 127,
+            "count": 126,
             "detailsId": "sentaris-answer-brass-spirit-shield",
             "tradeInfo": [],
             "listingCount": 5253
@@ -60469,10 +60469,10 @@
             "chaosValue": 0.03,
             "exaltedValue": 0.0,
             "divineValue": 0.0,
-            "count": 138,
+            "count": 137,
             "detailsId": "sundance-clasped-boots",
             "tradeInfo": [],
-            "listingCount": 6326
+            "listingCount": 6325
         },
         {
             "id": 1474,
@@ -60600,10 +60600,10 @@
             "chaosValue": 0.03,
             "exaltedValue": 0.0,
             "divineValue": 0.0,
-            "count": 146,
+            "count": 145,
             "detailsId": "the-three-dragons-golden-mask",
             "tradeInfo": [],
-            "listingCount": 6359
+            "listingCount": 6357
         },
         {
             "id": 1716,
@@ -60999,7 +60999,7 @@
             "chaosValue": 0.03,
             "exaltedValue": 0.0,
             "divineValue": 0.0,
-            "count": 119,
+            "count": 118,
             "detailsId": "curtain-call-plague-mask",
             "tradeInfo": [],
             "listingCount": 5037
@@ -61219,9 +61219,9 @@
             "flavourText": "Mist of breath\nIcing to lips and throat\nAs the warm ones choke and fall\nUpon the frozen wasteland.",
             "itemType": "Quiver",
             "chaosValue": 0.03,
-            "exaltedValue": 0.0,
+            "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 149,
+            "count": 148,
             "detailsId": "asphyxias-wrath-feathered-arrow-quiver",
             "tradeInfo": [],
             "listingCount": 5247
@@ -61295,10 +61295,10 @@
             "chaosValue": 0.03,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 133,
+            "count": 134,
             "detailsId": "scorpions-call-heavy-arrow-quiver",
             "tradeInfo": [],
-            "listingCount": 4786
+            "listingCount": 4787
         },
         {
             "id": 93178,
