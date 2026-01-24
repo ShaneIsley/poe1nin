@@ -58,7 +58,7 @@
             "count": 111,
             "detailsId": "progenesis",
             "tradeInfo": [],
-            "listingCount": 183
+            "listingCount": 184
         },
         {
             "id": 124913,
@@ -111,10 +111,10 @@
             "chaosValue": 4016,
             "exaltedValue": 555.4,
             "divineValue": 23.0,
-            "count": 77,
+            "count": 75,
             "detailsId": "wine-of-the-prophet",
             "tradeInfo": [],
-            "listingCount": 248
+            "listingCount": 246
         },
         {
             "id": 467,
@@ -171,10 +171,10 @@
             "chaosValue": 698.4,
             "exaltedValue": 96.6,
             "divineValue": 4.0,
-            "count": 233,
+            "count": 236,
             "detailsId": "dying-sun",
             "tradeInfo": [],
-            "listingCount": 1417
+            "listingCount": 1420
         },
         {
             "id": 68384,
@@ -245,7 +245,7 @@
             "baseType": "Sulphur Flask",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 10.58,
+                "totalChange": 10.67,
                 "data": [
                     0,
                     -3.17,
@@ -253,11 +253,11 @@
                     -3.31,
                     3.06,
                     -0.4,
-                    10.58
+                    10.67
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 10.58,
+                "totalChange": 10.67,
                 "data": [
                     0,
                     -3.17,
@@ -265,7 +265,7 @@
                     -3.31,
                     3.06,
                     -0.4,
-                    10.58
+                    10.67
                 ]
             },
             "implicitModifiers": [
@@ -294,13 +294,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "A tourniquet for the soul, squeezing ethereal into physical.",
-            "chaosValue": 399.7,
-            "exaltedValue": 55.28,
+            "chaosValue": 400.0,
+            "exaltedValue": 55.33,
             "divineValue": 2.29,
-            "count": 231,
+            "count": 232,
             "detailsId": "bottled-faith",
             "tradeInfo": [],
-            "listingCount": 1370
+            "listingCount": 1372
         },
         {
             "id": 7020,
@@ -578,7 +578,7 @@
             "chaosValue": 25.0,
             "exaltedValue": 3.46,
             "divineValue": 0.14,
-            "count": 321,
+            "count": 320,
             "detailsId": "oriaths-end",
             "tradeInfo": [],
             "listingCount": 2220
@@ -894,7 +894,7 @@
             "chaosValue": 9.0,
             "exaltedValue": 1.24,
             "divineValue": 0.05,
-            "count": 62,
+            "count": 61,
             "detailsId": "replica-rumis-concoction",
             "tradeInfo": [],
             "listingCount": 648
@@ -907,7 +907,7 @@
             "baseType": "Stibnite Flask",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -3.75,
+                "totalChange": -6.25,
                 "data": [
                     0,
                     6.25,
@@ -915,11 +915,11 @@
                     12.5,
                     12.5,
                     12.5,
-                    -3.75
+                    -6.25
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -3.75,
+                "totalChange": -6.25,
                 "data": [
                     0,
                     6.25,
@@ -927,7 +927,7 @@
                     12.5,
                     12.5,
                     12.5,
-                    -3.75
+                    -6.25
                 ]
             },
             "implicitModifiers": [
@@ -948,13 +948,69 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "And from the ashes he rose, like a black cloud.\nThe Sin of one became the Sin of many.",
-            "chaosValue": 7.7,
-            "exaltedValue": 1.07,
+            "chaosValue": 7.5,
+            "exaltedValue": 1.04,
             "divineValue": 0.04,
-            "count": 41,
+            "count": 39,
             "detailsId": "sins-rebirth",
             "tradeInfo": [],
-            "listingCount": 515
+            "listingCount": 513
+        },
+        {
+            "id": 125,
+            "name": "Atziri's Promise",
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvQXR6aXJpc1Byb21pc2UiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/8a5f4f13b4/AtzirisPromise.png",
+            "levelRequired": 68,
+            "baseType": "Amethyst Flask",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 82.5,
+                "data": [
+                    0,
+                    -25,
+                    -10,
+                    25,
+                    25,
+                    25,
+                    82.5
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 82.5,
+                "data": [
+                    0,
+                    -25,
+                    -10,
+                    25,
+                    25,
+                    25,
+                    82.5
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Gain (5-8)% of Elemental Damage as Extra Chaos Damage during effect",
+                    "optional": false
+                },
+                {
+                    "text": "2% of Chaos Damage Leeched as Life during Effect",
+                    "optional": false
+                },
+                {
+                    "text": "Gain (5-8)% of Physical Damage as Extra Chaos Damage during effect",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Death needs not your understanding. It needs only your loyalty.\" \n- Atziri, Queen of the Vaal",
+            "chaosValue": 7.3,
+            "exaltedValue": 1.01,
+            "divineValue": 0.04,
+            "count": 205,
+            "detailsId": "atziris-promise",
+            "tradeInfo": [],
+            "listingCount": 1890
         },
         {
             "id": 1394,
@@ -1011,66 +1067,10 @@
             "chaosValue": 7.0,
             "exaltedValue": 0.97,
             "divineValue": 0.04,
-            "count": 234,
+            "count": 235,
             "detailsId": "taste-of-hate",
             "tradeInfo": [],
-            "listingCount": 2745
-        },
-        {
-            "id": 125,
-            "name": "Atziri's Promise",
-            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvQXR6aXJpc1Byb21pc2UiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/8a5f4f13b4/AtzirisPromise.png",
-            "levelRequired": 68,
-            "baseType": "Amethyst Flask",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 57.5,
-                "data": [
-                    0,
-                    -25,
-                    -10,
-                    25,
-                    25,
-                    25,
-                    57.5
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 57.5,
-                "data": [
-                    0,
-                    -25,
-                    -10,
-                    25,
-                    25,
-                    25,
-                    57.5
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Gain (5-8)% of Elemental Damage as Extra Chaos Damage during effect",
-                    "optional": false
-                },
-                {
-                    "text": "2% of Chaos Damage Leeched as Life during Effect",
-                    "optional": false
-                },
-                {
-                    "text": "Gain (5-8)% of Physical Damage as Extra Chaos Damage during effect",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Death needs not your understanding. It needs only your loyalty.\" \n- Atziri, Queen of the Vaal",
-            "chaosValue": 6.3,
-            "exaltedValue": 0.87,
-            "divineValue": 0.04,
-            "count": 204,
-            "detailsId": "atziris-promise",
-            "tradeInfo": [],
-            "listingCount": 1895
+            "listingCount": 2746
         },
         {
             "id": 306,
@@ -1123,10 +1123,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.69,
             "divineValue": 0.03,
-            "count": 106,
+            "count": 101,
             "detailsId": "coruscating-elixir",
             "tradeInfo": [],
-            "listingCount": 2162
+            "listingCount": 2141
         },
         {
             "id": 1073,
@@ -1175,10 +1175,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.69,
             "divineValue": 0.03,
-            "count": 341,
+            "count": 337,
             "detailsId": "rumis-concoction",
             "tradeInfo": [],
-            "listingCount": 5258
+            "listingCount": 5254
         },
         {
             "id": 128499,
@@ -1308,7 +1308,7 @@
             "baseType": "Granite Flask",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 7,
+                "totalChange": 5,
                 "data": [
                     0,
                     0,
@@ -1316,11 +1316,11 @@
                     83,
                     0,
                     3,
-                    7
+                    5
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 7,
+                "totalChange": 5,
                 "data": [
                     0,
                     0,
@@ -1328,7 +1328,7 @@
                     83,
                     0,
                     3,
-                    7
+                    5
                 ]
             },
             "implicitModifiers": [],
@@ -1352,10 +1352,10 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "A sprinkle of hunger, a spoonful of menace\nand three generous cups of Might.",
-            "chaosValue": 1.07,
+            "chaosValue": 1.05,
             "exaltedValue": 0.15,
             "divineValue": 0.01,
-            "count": 176,
+            "count": 175,
             "detailsId": "lions-roar",
             "tradeInfo": [],
             "listingCount": 4556
@@ -1467,10 +1467,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 154,
+            "count": 155,
             "detailsId": "divination-distillate",
             "tradeInfo": [],
-            "listingCount": 4232
+            "listingCount": 4234
         },
         {
             "id": 537,
@@ -1635,7 +1635,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 285,
+            "count": 283,
             "detailsId": "rotgut",
             "tradeInfo": [],
             "listingCount": 7533
@@ -1757,10 +1757,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 397,
+            "count": 396,
             "detailsId": "the-sorrow-of-the-divine",
             "tradeInfo": [],
-            "listingCount": 14411
+            "listingCount": 14410
         },
         {
             "id": 1679,
@@ -1817,7 +1817,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 304,
+            "count": 303,
             "detailsId": "the-writhing-jar",
             "tradeInfo": [],
             "listingCount": 7739
@@ -1878,10 +1878,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 110,
+            "count": 109,
             "detailsId": "witchfire-brew",
             "tradeInfo": [],
-            "listingCount": 3190
+            "listingCount": 3189
         },
         {
             "id": 2075,
@@ -1930,10 +1930,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 182,
+            "count": 180,
             "detailsId": "the-wise-oak",
             "tradeInfo": [],
-            "listingCount": 4490
+            "listingCount": 4489
         },
         {
             "id": 6896,
@@ -1990,10 +1990,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 80,
+            "count": 81,
             "detailsId": "soul-catcher",
             "tradeInfo": [],
-            "listingCount": 1474
+            "listingCount": 1475
         },
         {
             "id": 44448,
@@ -2221,7 +2221,7 @@
             "count": 218,
             "detailsId": "doedres-elixir",
             "tradeInfo": [],
-            "listingCount": 7258
+            "listingCount": 7255
         },
         {
             "id": 712,
@@ -2270,7 +2270,7 @@
             "chaosValue": 0.07,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 355,
+            "count": 354,
             "detailsId": "kiaras-determination",
             "tradeInfo": [],
             "listingCount": 12910
@@ -2330,10 +2330,10 @@
             "chaosValue": 0.07,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 211,
+            "count": 210,
             "detailsId": "coralitos-signature",
             "tradeInfo": [],
-            "listingCount": 7595
+            "listingCount": 7594
         }
     ]
 }
