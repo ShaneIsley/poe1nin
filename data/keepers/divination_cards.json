@@ -281,7 +281,7 @@
             "chaosValue": 3960,
             "exaltedValue": 555.4,
             "divineValue": 22.0,
-            "count": 12,
+            "count": 11,
             "detailsId": "the-apothecary",
             "tradeInfo": [],
             "listingCount": 93
@@ -631,6 +631,47 @@
             "listingCount": 35
         },
         {
+            "id": 109595,
+            "name": "Assassin's Gift",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Assassin's Gift",
+            "stackSize": 9,
+            "artFilename": "AssassinsGift",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Divinarius}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:32>{What matters are\nthe Marks of your life,\nnot its Longevity.}",
+            "chaosValue": 720.0,
+            "exaltedValue": 101.0,
+            "divineValue": 4.0,
+            "count": 1,
+            "detailsId": "assassins-gift",
+            "tradeInfo": [],
+            "listingCount": 15
+        },
+        {
             "id": 1639,
             "name": "The Trial",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -805,10 +846,10 @@
             "chaosValue": 450.0,
             "exaltedValue": 63.11,
             "divineValue": 2.5,
-            "count": 41,
+            "count": 39,
             "detailsId": "seven-years-bad-luck",
             "tradeInfo": [],
-            "listingCount": 421
+            "listingCount": 420
         },
         {
             "id": 6908,
@@ -1409,55 +1450,6 @@
             "listingCount": 30
         },
         {
-            "id": 44364,
-            "name": "Desecrated Virtue",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Desecrated Virtue",
-            "stackSize": 9,
-            "artFilename": "DesecratedVirtue",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 17.84,
-                "data": [
-                    0,
-                    3.96,
-                    6.78,
-                    13.52,
-                    14.96,
-                    21.64,
-                    17.84
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 17.84,
-                "data": [
-                    0,
-                    3.96,
-                    6.78,
-                    13.52,
-                    14.96,
-                    21.64,
-                    17.84
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<size:29>{<gemitem>{Level 6 Awakened Support Gem}}\n<default>{Quality:} <augmented>{+23%}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:25>{Awoken virtuous slivers of the void,\ndefiled by the avaricious, \nseized by the tyrannical.}",
-            "chaosValue": 180.0,
-            "exaltedValue": 25.25,
-            "divineValue": 1.0,
-            "count": 22,
-            "detailsId": "desecrated-virtue",
-            "tradeInfo": [],
-            "listingCount": 192
-        },
-        {
             "id": 67916,
             "name": "Ambitious Obsession",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -1669,6 +1661,55 @@
             "detailsId": "temperance",
             "tradeInfo": [],
             "listingCount": 41
+        },
+        {
+            "id": 44364,
+            "name": "Desecrated Virtue",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Desecrated Virtue",
+            "stackSize": 9,
+            "artFilename": "DesecratedVirtue",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 15.88,
+                "data": [
+                    0,
+                    3.96,
+                    6.78,
+                    13.52,
+                    14.96,
+                    21.64,
+                    15.88
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 15.88,
+                "data": [
+                    0,
+                    3.96,
+                    6.78,
+                    13.52,
+                    14.96,
+                    21.64,
+                    15.88
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<size:29>{<gemitem>{Level 6 Awakened Support Gem}}\n<default>{Quality:} <augmented>{+23%}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:25>{Awoken virtuous slivers of the void,\ndefiled by the avaricious, \nseized by the tyrannical.}",
+            "chaosValue": 177.0,
+            "exaltedValue": 24.82,
+            "divineValue": 0.98,
+            "count": 20,
+            "detailsId": "desecrated-virtue",
+            "tradeInfo": [],
+            "listingCount": 192
         },
         {
             "id": 60072,
@@ -2688,10 +2729,10 @@
             "chaosValue": 50.0,
             "exaltedValue": 7.01,
             "divineValue": 0.28,
-            "count": 11,
+            "count": 12,
             "detailsId": "sambodhis-wisdom",
             "tradeInfo": [],
-            "listingCount": 61
+            "listingCount": 62
         },
         {
             "id": 71295,
@@ -4395,55 +4436,6 @@
             "listingCount": 582
         },
         {
-            "id": 100585,
-            "name": "Ever-Changing",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Ever-Changing",
-            "stackSize": 3,
-            "artFilename": "EverChanging",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -43.24,
-                "data": [
-                    0,
-                    -10.81,
-                    -86.49,
-                    -86.49,
-                    -86.49,
-                    -43.24,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 155.4,
-                "data": [
-                    0,
-                    -10.81,
-                    -86.49,
-                    -86.49,
-                    -86.49,
-                    -43.24,
-                    155.4
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{10x Orb of Unmaking}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The Atlas is our prison, and our only defence. She is our only hope, and our certain doom.",
-            "chaosValue": 18.9,
-            "exaltedValue": 2.65,
-            "divineValue": 0.1,
-            "count": 2,
-            "detailsId": "ever-changing",
-            "tradeInfo": [],
-            "listingCount": 539
-        },
-        {
             "id": 1615,
             "name": "The Soul",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -5820,7 +5812,7 @@
             "chaosValue": 8.0,
             "exaltedValue": 1.12,
             "divineValue": 0.04,
-            "count": 9,
+            "count": 8,
             "detailsId": "prejudice",
             "tradeInfo": [],
             "listingCount": 176
@@ -6912,47 +6904,6 @@
             "listingCount": 123
         },
         {
-            "id": 100603,
-            "name": "The Wedding Gift",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Wedding Gift",
-            "stackSize": 2,
-            "artFilename": "TheWeddingGift",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -34.09,
-                "data": [
-                    0,
-                    -34.09,
-                    -12.5,
-                    -34.09,
-                    -34.09,
-                    -34.09,
-                    -34.09
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Arakaali's Fang}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The acolytes congratulated the lucky groom for becoming one with the goddess.",
-            "chaosValue": 5.8,
-            "exaltedValue": 0.81,
-            "divineValue": 0.03,
-            "count": 3,
-            "detailsId": "the-wedding-gift",
-            "tradeInfo": [],
-            "listingCount": 93
-        },
-        {
             "id": 6915,
             "name": "The Hale Heart",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -7125,6 +7076,55 @@
             "listingCount": 84
         },
         {
+            "id": 18978,
+            "name": "The Nurse",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Nurse",
+            "stackSize": 8,
+            "artFilename": "TheNurse",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -41.49,
+                "data": [
+                    0,
+                    -4.26,
+                    -11.7,
+                    -11.7,
+                    -34.04,
+                    -34.04,
+                    -41.49
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -41.49,
+                "data": [
+                    0,
+                    -4.26,
+                    -11.7,
+                    -11.7,
+                    -34.04,
+                    -34.04,
+                    -41.49
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<divination>{The Doctor}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "We tried to tell him to get his head checked.",
+            "chaosValue": 5.5,
+            "exaltedValue": 0.77,
+            "divineValue": 0.03,
+            "count": 6,
+            "detailsId": "the-nurse",
+            "tradeInfo": [],
+            "listingCount": 408
+        },
+        {
             "id": 67873,
             "name": "The Offspring",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -7213,6 +7213,55 @@
             "detailsId": "checkmate",
             "tradeInfo": [],
             "listingCount": 123
+        },
+        {
+            "id": 98298,
+            "name": "The Shepherd's Sandals",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Shepherd's Sandals",
+            "stackSize": 3,
+            "artFilename": "TheShepherdsSandals",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 420,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    420
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 420,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    420
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Boots}\n<default>{Item Level:} <normal>{100}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:30>{He who watches the flock is himself watched by those with loyalty beyond measure.}",
+            "chaosValue": 5.2,
+            "exaltedValue": 0.73,
+            "divineValue": 0.03,
+            "count": 7,
+            "detailsId": "the-shepherds-sandals",
+            "tradeInfo": [],
+            "listingCount": 95
         },
         {
             "id": 480,
@@ -7712,55 +7761,6 @@
             "detailsId": "a-dusty-memory",
             "tradeInfo": [],
             "listingCount": 121
-        },
-        {
-            "id": 18978,
-            "name": "The Nurse",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Nurse",
-            "stackSize": 8,
-            "artFilename": "TheNurse",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -48.94,
-                "data": [
-                    0,
-                    -4.26,
-                    -11.7,
-                    -11.7,
-                    -34.04,
-                    -34.04,
-                    -48.94
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -48.94,
-                "data": [
-                    0,
-                    -4.26,
-                    -11.7,
-                    -11.7,
-                    -34.04,
-                    -34.04,
-                    -48.94
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<divination>{The Doctor}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "We tried to tell him to get his head checked.",
-            "chaosValue": 4.8,
-            "exaltedValue": 0.67,
-            "divineValue": 0.03,
-            "count": 5,
-            "detailsId": "the-nurse",
-            "tradeInfo": [],
-            "listingCount": 407
         },
         {
             "id": 20804,
@@ -8595,6 +8595,47 @@
             "detailsId": "man-with-bear",
             "tradeInfo": [],
             "listingCount": 142
+        },
+        {
+            "id": 100603,
+            "name": "The Wedding Gift",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Wedding Gift",
+            "stackSize": 2,
+            "artFilename": "TheWeddingGift",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -55.68,
+                "data": [
+                    0,
+                    -34.09,
+                    -12.5,
+                    -34.09,
+                    -34.09,
+                    -34.09,
+                    -55.68
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Arakaali's Fang}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "The acolytes congratulated the lucky groom for becoming one with the goddess.",
+            "chaosValue": 3.9,
+            "exaltedValue": 0.55,
+            "divineValue": 0.02,
+            "count": 2,
+            "detailsId": "the-wedding-gift",
+            "tradeInfo": [],
+            "listingCount": 93
         },
         {
             "id": 71074,
@@ -12102,6 +12143,55 @@
             "listingCount": 200
         },
         {
+            "id": 24681,
+            "name": "The Fishmonger",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Fishmonger",
+            "stackSize": 4,
+            "artFilename": "TheFishmonger",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -71.15,
+                "data": [
+                    null,
+                    null,
+                    0,
+                    null,
+                    null,
+                    null,
+                    -71.15
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -65.91,
+                "data": [
+                    0,
+                    0,
+                    18.18,
+                    0,
+                    0,
+                    0,
+                    -65.91
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Albino Rhoa Feather}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "However vicious Rhoas might be, a dedicated angler may in time tame them.",
+            "chaosValue": 1.5,
+            "exaltedValue": 0.21,
+            "divineValue": 0.01,
+            "count": 6,
+            "detailsId": "the-fishmonger",
+            "tradeInfo": [],
+            "listingCount": 60
+        },
+        {
             "id": 1482,
             "name": "The Drunken Aristocrat",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12288,55 +12378,6 @@
             "detailsId": "the-wolfs-legacy",
             "tradeInfo": [],
             "listingCount": 102
-        },
-        {
-            "id": 24681,
-            "name": "The Fishmonger",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Fishmonger",
-            "stackSize": 4,
-            "artFilename": "TheFishmonger",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -73.08,
-                "data": [
-                    null,
-                    null,
-                    0,
-                    null,
-                    null,
-                    null,
-                    -73.08
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -68.18,
-                "data": [
-                    0,
-                    0,
-                    18.18,
-                    0,
-                    0,
-                    0,
-                    -68.18
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{Albino Rhoa Feather}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "However vicious Rhoas might be, a dedicated angler may in time tame them.",
-            "chaosValue": 1.4,
-            "exaltedValue": 0.2,
-            "divineValue": 0.01,
-            "count": 5,
-            "detailsId": "the-fishmonger",
-            "tradeInfo": [],
-            "listingCount": 59
         },
         {
             "id": 54417,
@@ -12658,55 +12699,6 @@
             "listingCount": 126
         },
         {
-            "id": 22510,
-            "name": "More is Never Enough",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "More is Never Enough",
-            "stackSize": 7,
-            "artFilename": "MoreIsNeverEnough",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -40.91,
-                "data": [
-                    0,
-                    63.64,
-                    63.64,
-                    63.64,
-                    -9.09,
-                    -40.91,
-                    -40.91
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -40.91,
-                "data": [
-                    0,
-                    63.64,
-                    63.64,
-                    63.64,
-                    -9.09,
-                    -40.91,
-                    -40.91
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{4x Scarab}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Greed is a hunger that only grows as you feed it",
-            "chaosValue": 1.3,
-            "exaltedValue": 0.18,
-            "divineValue": 0.01,
-            "count": 21,
-            "detailsId": "more-is-never-enough",
-            "tradeInfo": [],
-            "listingCount": 772
-        },
-        {
             "id": 95852,
             "name": "Rebirth and Renewal",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12844,6 +12836,55 @@
             "detailsId": "the-surgeon",
             "tradeInfo": [],
             "listingCount": 152
+        },
+        {
+            "id": 22510,
+            "name": "More is Never Enough",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "More is Never Enough",
+            "stackSize": 7,
+            "artFilename": "MoreIsNeverEnough",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -45.45,
+                "data": [
+                    0,
+                    63.64,
+                    63.64,
+                    63.64,
+                    -9.09,
+                    -40.91,
+                    -45.45
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -45.45,
+                "data": [
+                    0,
+                    63.64,
+                    63.64,
+                    63.64,
+                    -9.09,
+                    -40.91,
+                    -45.45
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{4x Scarab}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Greed is a hunger that only grows as you feed it",
+            "chaosValue": 1.2,
+            "exaltedValue": 0.17,
+            "divineValue": 0.01,
+            "count": 20,
+            "detailsId": "more-is-never-enough",
+            "tradeInfo": [],
+            "listingCount": 772
         },
         {
             "id": 2040,
@@ -18367,53 +18408,53 @@
             "listingCount": 222
         },
         {
-            "id": 98298,
-            "name": "The Shepherd's Sandals",
+            "id": 100585,
+            "name": "Ever-Changing",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Shepherd's Sandals",
+            "baseType": "Ever-Changing",
             "stackSize": 3,
-            "artFilename": "TheShepherdsSandals",
+            "artFilename": "EverChanging",
             "itemClass": 6,
             "sparkLine": {
-                "totalChange": 0,
+                "totalChange": -43.24,
                 "data": [
                     0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    -10.81,
+                    -86.49,
+                    -86.49,
+                    -86.49,
+                    -43.24,
+                    null
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 0,
+                "totalChange": -86.49,
                 "data": [
                     0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
+                    -10.81,
+                    -86.49,
+                    -86.49,
+                    -86.49,
+                    -43.24,
+                    -86.49
                 ]
             },
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "<uniqueitem>{Boots}\n<default>{Item Level:} <normal>{100}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
+                    "text": "<currencyitem>{10x Orb of Unmaking}",
                     "optional": false
                 }
             ],
             "mutatedModifiers": [],
-            "flavourText": "<size:30>{He who watches the flock is himself watched by those with loyalty beyond measure.}",
+            "flavourText": "The Atlas is our prison, and our only defence. She is our only hope, and our certain doom.",
             "chaosValue": 1.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 8,
-            "detailsId": "the-shepherds-sandals",
+            "count": 1,
+            "detailsId": "ever-changing",
             "tradeInfo": [],
-            "listingCount": 95
+            "listingCount": 539
         },
         {
             "id": 634,
