@@ -5654,10 +5654,10 @@
             "chaosValue": 2904,
             "exaltedValue": 371.4,
             "divineValue": 16.0,
-            "count": 11,
+            "count": 10,
             "detailsId": "awakened-cast-on-critical-strike-support-6-20c",
             "tradeInfo": [],
-            "listingCount": 14
+            "listingCount": 13
         },
         {
             "id": 114755,
@@ -13306,6 +13306,66 @@
             "listingCount": 16
         },
         {
+            "id": 43139,
+            "name": "Awakened Lightning Penetration Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1N1cHBvcnRQbHVzL0xpZ2h0bmluZ1BlbmV0cmF0aW9uUGx1cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/163f40e5e5/LightningPenetrationPlus.png",
+            "levelRequired": 82,
+            "baseType": "Awakened Lightning Penetration Support",
+            "variant": "6/20c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -35.67,
+                "data": [
+                    0,
+                    -2.06,
+                    -0.58,
+                    -5.68,
+                    6.3,
+                    0.95,
+                    -35.67
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -35.67,
+                "data": [
+                    0,
+                    -2.06,
+                    -0.58,
+                    -5.68,
+                    6.3,
+                    0.95,
+                    -35.67
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Supported Skills Penetrate 40% Lightning Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills have 10% chance to inflict Lightning Exposure on Hit",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills deal (9-11)% increased Lightning Damage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 6,
+            "gemQuality": 20,
+            "chaosValue": 1089,
+            "exaltedValue": 139.3,
+            "divineValue": 6.0,
+            "count": 15,
+            "detailsId": "awakened-lightning-penetration-support-6-20c",
+            "tradeInfo": [],
+            "listingCount": 31
+        },
+        {
             "id": 43310,
             "name": "Awakened Unleash Support",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1N1cHBvcnRQbHVzL1VubGVhc2hQbHVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/107949fc2b/UnleashPlus.png",
@@ -13537,6 +13597,93 @@
             "listingCount": 2
         },
         {
+            "id": 125856,
+            "name": "Wave of Conviction of Trarthus",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QdXJnZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJndCI6dHJ1ZX1d/f52c324a26/Purge.png",
+            "levelRequired": 72,
+            "baseType": "Wave of Conviction of Trarthus",
+            "variant": "21/20c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -31.44,
+                "data": [
+                    0,
+                    1.7,
+                    -1.87,
+                    -2.49,
+                    -16.89,
+                    -31.22,
+                    -31.44
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -31.44,
+                "data": [
+                    0,
+                    1.7,
+                    -1.87,
+                    -2.49,
+                    -16.89,
+                    -31.22,
+                    -31.44
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Deals 1334 to 2001 Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Damage Penetrates (14-16)% of Enemy Elemental Resistances",
+                    "optional": false
+                },
+                {
+                    "text": "Base duration is 0.5 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "50% of Physical Damage Converted to Fire Damage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 21,
+            "gemQuality": 20,
+            "chaosValue": 1089,
+            "exaltedValue": 139.3,
+            "divineValue": 6.0,
+            "count": 22,
+            "detailsId": "wave-of-conviction-of-trarthus-21-20c",
+            "tradeInfo": [],
+            "tradeFilter": {
+                "query": {
+                    "type": {
+                        "option": "Wave of Conviction",
+                        "discriminator": "alt_y"
+                    },
+                    "filters": {
+                        "misc_filters": {
+                            "filters": {
+                                "gem_level": {
+                                    "min": 21
+                                },
+                                "quality": {
+                                    "min": 20
+                                },
+                                "corrupted": {
+                                    "option": true
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "listingCount": 31
+        },
+        {
             "id": 127444,
             "name": "Awakened Spell Cascade Support",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1N1cHBvcnRQbHVzL1NwZWxsQ2FzY2FkZVBsdXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7a316ceb5c/SpellCascadePlus.png",
@@ -13678,66 +13825,6 @@
                 }
             },
             "listingCount": 12
-        },
-        {
-            "id": 43139,
-            "name": "Awakened Lightning Penetration Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1N1cHBvcnRQbHVzL0xpZ2h0bmluZ1BlbmV0cmF0aW9uUGx1cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/163f40e5e5/LightningPenetrationPlus.png",
-            "levelRequired": 82,
-            "baseType": "Awakened Lightning Penetration Support",
-            "variant": "6/20c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -41.03,
-                "data": [
-                    0,
-                    -2.06,
-                    -0.58,
-                    -5.68,
-                    6.3,
-                    0.95,
-                    -41.03
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -41.03,
-                "data": [
-                    0,
-                    -2.06,
-                    -0.58,
-                    -5.68,
-                    6.3,
-                    0.95,
-                    -41.03
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Supported Skills Penetrate 40% Lightning Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills have 10% chance to inflict Lightning Exposure on Hit",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills deal (9-11)% increased Lightning Damage",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 6,
-            "gemQuality": 20,
-            "chaosValue": 998.2,
-            "exaltedValue": 127.6,
-            "divineValue": 5.5,
-            "count": 16,
-            "detailsId": "awakened-lightning-penetration-support-6-20c",
-            "tradeInfo": [],
-            "listingCount": 32
         },
         {
             "id": 40063,
@@ -14168,93 +14255,6 @@
             "detailsId": "cast-on-melee-kill-support-21-20c",
             "tradeInfo": [],
             "listingCount": 137
-        },
-        {
-            "id": 125856,
-            "name": "Wave of Conviction of Trarthus",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9QdXJnZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJndCI6dHJ1ZX1d/f52c324a26/Purge.png",
-            "levelRequired": 72,
-            "baseType": "Wave of Conviction of Trarthus",
-            "variant": "21/20c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -41.73,
-                "data": [
-                    0,
-                    1.7,
-                    -1.87,
-                    -2.49,
-                    -16.89,
-                    -31.22,
-                    -41.73
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -41.73,
-                "data": [
-                    0,
-                    1.7,
-                    -1.87,
-                    -2.49,
-                    -16.89,
-                    -31.22,
-                    -41.73
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Deals 1334 to 2001 Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Damage Penetrates (14-16)% of Enemy Elemental Resistances",
-                    "optional": false
-                },
-                {
-                    "text": "Base duration is 0.5 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "50% of Physical Damage Converted to Fire Damage",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 21,
-            "gemQuality": 20,
-            "chaosValue": 925.6,
-            "exaltedValue": 118.4,
-            "divineValue": 5.1,
-            "count": 23,
-            "detailsId": "wave-of-conviction-of-trarthus-21-20c",
-            "tradeInfo": [],
-            "tradeFilter": {
-                "query": {
-                    "type": {
-                        "option": "Wave of Conviction",
-                        "discriminator": "alt_y"
-                    },
-                    "filters": {
-                        "misc_filters": {
-                            "filters": {
-                                "gem_level": {
-                                    "min": 21
-                                },
-                                "quality": {
-                                    "min": 20
-                                },
-                                "corrupted": {
-                                    "option": true
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "listingCount": 32
         },
         {
             "id": 5965,
@@ -22280,93 +22280,6 @@
             "listingCount": 29
         },
         {
-            "id": 111077,
-            "name": "Viper Strike of the Mamba",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WaXBlclN0cmlrZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6OX1d/8b37a8f02e/ViperStrike.png",
-            "levelRequired": 72,
-            "baseType": "Viper Strike of the Mamba",
-            "variant": "21c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 58.9,
-                "data": [
-                    0,
-                    36.44,
-                    38.49,
-                    40.55,
-                    47.08,
-                    44.04,
-                    58.9
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Base duration is 2 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "60% of Physical Damage Converted to Chaos Damage",
-                    "optional": false
-                },
-                {
-                    "text": "60% chance to Poison on Hit",
-                    "optional": false
-                },
-                {
-                    "text": "(200-236)% more Damage with Poison",
-                    "optional": false
-                },
-                {
-                    "text": "Cannot inflict Poison on Poisoned Enemies",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 21,
-            "chaosValue": 405.4,
-            "exaltedValue": 51.85,
-            "divineValue": 2.23,
-            "count": 2,
-            "detailsId": "viper-strike-of-the-mamba-21c",
-            "tradeInfo": [],
-            "tradeFilter": {
-                "query": {
-                    "type": {
-                        "option": "Viper Strike",
-                        "discriminator": "alt_x"
-                    },
-                    "filters": {
-                        "misc_filters": {
-                            "filters": {
-                                "gem_level": {
-                                    "min": 21
-                                },
-                                "corrupted": {
-                                    "option": true
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "listingCount": 4
-        },
-        {
             "id": 82204,
             "name": "Awakened Chain Support",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1N1cHBvcnRQbHVzL0NoYWluUGx1cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/b328b4615c/ChainPlus.png",
@@ -22739,6 +22652,93 @@
             "detailsId": "discipline-21-23c",
             "tradeInfo": [],
             "listingCount": 7
+        },
+        {
+            "id": 111077,
+            "name": "Viper Strike of the Mamba",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WaXBlclN0cmlrZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6OX1d/8b37a8f02e/ViperStrike.png",
+            "levelRequired": 72,
+            "baseType": "Viper Strike of the Mamba",
+            "variant": "21c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 52.85,
+                "data": [
+                    0,
+                    36.44,
+                    38.49,
+                    40.55,
+                    47.08,
+                    44.04,
+                    52.85
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Base duration is 2 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "60% of Physical Damage Converted to Chaos Damage",
+                    "optional": false
+                },
+                {
+                    "text": "60% chance to Poison on Hit",
+                    "optional": false
+                },
+                {
+                    "text": "(200-236)% more Damage with Poison",
+                    "optional": false
+                },
+                {
+                    "text": "Cannot inflict Poison on Poisoned Enemies",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 21,
+            "chaosValue": 390.0,
+            "exaltedValue": 49.87,
+            "divineValue": 2.15,
+            "count": 1,
+            "detailsId": "viper-strike-of-the-mamba-21c",
+            "tradeInfo": [],
+            "tradeFilter": {
+                "query": {
+                    "type": {
+                        "option": "Viper Strike",
+                        "discriminator": "alt_x"
+                    },
+                    "filters": {
+                        "misc_filters": {
+                            "filters": {
+                                "gem_level": {
+                                    "min": 21
+                                },
+                                "corrupted": {
+                                    "option": true
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "listingCount": 4
         },
         {
             "id": 43185,
@@ -32337,6 +32337,66 @@
             "listingCount": 42
         },
         {
+            "id": 43122,
+            "name": "Awakened Elemental Damage with Attacks Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1N1cHBvcnRQbHVzL1dlYXBvbkVsZW1lbnRhbERhbWFnZVBsdXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2d6aa43759/WeaponElementalDamagePlus.png",
+            "levelRequired": 80,
+            "baseType": "Awakened Elemental Damage with Attacks Support",
+            "variant": "5/20c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 29.31,
+                "data": [
+                    0,
+                    -7.69,
+                    -2.56,
+                    2.56,
+                    12.82,
+                    22.91,
+                    29.31
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 29.31,
+                "data": [
+                    0,
+                    -7.69,
+                    -2.56,
+                    2.56,
+                    12.82,
+                    22.91,
+                    29.31
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(9-11)% increased Elemental Damage with Attack Skills",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Attack Skills deal 39% more Elemental Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Elemental Damage from Supported Skills cannot be Reflected",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 5,
+            "gemQuality": 20,
+            "chaosValue": 252.2,
+            "exaltedValue": 32.25,
+            "divineValue": 1.39,
+            "count": 21,
+            "detailsId": "awakened-elemental-damage-with-attacks-support-5-20c",
+            "tradeInfo": [],
+            "listingCount": 90
+        },
+        {
             "id": 43154,
             "name": "Awakened Chain Support",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1N1cHBvcnRQbHVzL0NoYWluUGx1cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/b328b4615c/ChainPlus.png",
@@ -32981,66 +33041,6 @@
             "detailsId": "awakened-cold-penetration-support-5-23c",
             "tradeInfo": [],
             "listingCount": 16
-        },
-        {
-            "id": 43122,
-            "name": "Awakened Elemental Damage with Attacks Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1N1cHBvcnRQbHVzL1dlYXBvbkVsZW1lbnRhbERhbWFnZVBsdXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2d6aa43759/WeaponElementalDamagePlus.png",
-            "levelRequired": 80,
-            "baseType": "Awakened Elemental Damage with Attacks Support",
-            "variant": "5/20c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 26.54,
-                "data": [
-                    0,
-                    -7.69,
-                    -2.56,
-                    2.56,
-                    12.82,
-                    22.91,
-                    26.54
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 26.54,
-                "data": [
-                    0,
-                    -7.69,
-                    -2.56,
-                    2.56,
-                    12.82,
-                    22.91,
-                    26.54
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(9-11)% increased Elemental Damage with Attack Skills",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Attack Skills deal 39% more Elemental Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Elemental Damage from Supported Skills cannot be Reflected",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 5,
-            "gemQuality": 20,
-            "chaosValue": 246.8,
-            "exaltedValue": 31.55,
-            "divineValue": 1.36,
-            "count": 20,
-            "detailsId": "awakened-elemental-damage-with-attacks-support-5-20c",
-            "tradeInfo": [],
-            "listingCount": 89
         },
         {
             "id": 43156,
@@ -34962,10 +34962,10 @@
             "chaosValue": 220.0,
             "exaltedValue": 28.13,
             "divineValue": 1.21,
-            "count": 27,
+            "count": 26,
             "detailsId": "snipers-mark-21-20c",
             "tradeInfo": [],
-            "listingCount": 81
+            "listingCount": 80
         },
         {
             "id": 127372,
@@ -36028,7 +36028,7 @@
             "chaosValue": 210.0,
             "exaltedValue": 26.85,
             "divineValue": 1.16,
-            "count": 32,
+            "count": 31,
             "detailsId": "mark-on-hit-support-21-20c",
             "tradeInfo": [],
             "listingCount": 114
@@ -36921,6 +36921,97 @@
             "listingCount": 40
         },
         {
+            "id": 112555,
+            "name": "Reave of Refraction",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SZWF2ZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6OX1d/f6e2b07d1c/Reave.png",
+            "levelRequired": 72,
+            "baseType": "Reave of Refraction",
+            "variant": "21/23c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -27.8,
+                "data": [
+                    0,
+                    1.08,
+                    1.26,
+                    -0.43,
+                    -1.88,
+                    -5.81,
+                    -27.8
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -27.8,
+                "data": [
+                    0,
+                    1.08,
+                    1.26,
+                    -0.43,
+                    -1.88,
+                    -5.81,
+                    -27.8
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "4 Maximum Stages",
+                    "optional": false
+                },
+                {
+                    "text": "+0.2 metres to radius",
+                    "optional": false
+                },
+                {
+                    "text": "50% more Area of Effect for each stage",
+                    "optional": false
+                },
+                {
+                    "text": "+2 to maximum Stages",
+                    "optional": false
+                },
+                {
+                    "text": "Converts 100% of Physical Damage to a random Element",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 21,
+            "gemQuality": 23,
+            "chaosValue": 200.0,
+            "exaltedValue": 25.58,
+            "divineValue": 1.1,
+            "count": 21,
+            "detailsId": "reave-of-refraction-21-23c",
+            "tradeInfo": [],
+            "tradeFilter": {
+                "query": {
+                    "type": {
+                        "option": "Reave",
+                        "discriminator": "alt_x"
+                    },
+                    "filters": {
+                        "misc_filters": {
+                            "filters": {
+                                "gem_level": {
+                                    "min": 21
+                                },
+                                "quality": {
+                                    "min": 23
+                                },
+                                "corrupted": {
+                                    "option": true
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "listingCount": 39
+        },
+        {
             "id": 43145,
             "name": "Awakened Lightning Penetration Support",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1N1cHBvcnRQbHVzL0xpZ2h0bmluZ1BlbmV0cmF0aW9uUGx1cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/163f40e5e5/LightningPenetrationPlus.png",
@@ -37437,7 +37528,7 @@
             "variant": "1",
             "itemClass": 4,
             "sparkLine": {
-                "totalChange": 18.41,
+                "totalChange": 17.82,
                 "data": [
                     0,
                     10.4,
@@ -37445,11 +37536,11 @@
                     13.53,
                     16.93,
                     16.18,
-                    18.41
+                    17.82
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 18.41,
+                "totalChange": 17.82,
                 "data": [
                     0,
                     10.4,
@@ -37457,7 +37548,7 @@
                     13.53,
                     16.93,
                     16.18,
-                    18.41
+                    17.82
                 ]
             },
             "implicitModifiers": [],
@@ -37506,10 +37597,10 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "gemLevel": 1,
-            "chaosValue": 199.0,
-            "exaltedValue": 25.45,
-            "divineValue": 1.1,
-            "count": 27,
+            "chaosValue": 198.0,
+            "exaltedValue": 25.32,
+            "divineValue": 1.09,
+            "count": 26,
             "detailsId": "penance-brand-of-dissipation-1",
             "tradeInfo": [],
             "tradeFilter": {
@@ -37720,7 +37811,7 @@
             "count": 12,
             "detailsId": "awakened-brutality-support-5-20c",
             "tradeInfo": [],
-            "listingCount": 70
+            "listingCount": 69
         },
         {
             "id": 110962,
@@ -37820,97 +37911,6 @@
                 }
             },
             "listingCount": 18
-        },
-        {
-            "id": 112555,
-            "name": "Reave of Refraction",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9SZWF2ZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6OX1d/f6e2b07d1c/Reave.png",
-            "levelRequired": 72,
-            "baseType": "Reave of Refraction",
-            "variant": "21/23c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -29.96,
-                "data": [
-                    0,
-                    1.08,
-                    1.26,
-                    -0.43,
-                    -1.88,
-                    -5.81,
-                    -29.96
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -29.96,
-                "data": [
-                    0,
-                    1.08,
-                    1.26,
-                    -0.43,
-                    -1.88,
-                    -5.81,
-                    -29.96
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "4 Maximum Stages",
-                    "optional": false
-                },
-                {
-                    "text": "+0.2 metres to radius",
-                    "optional": false
-                },
-                {
-                    "text": "50% more Area of Effect for each stage",
-                    "optional": false
-                },
-                {
-                    "text": "+2 to maximum Stages",
-                    "optional": false
-                },
-                {
-                    "text": "Converts 100% of Physical Damage to a random Element",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 21,
-            "gemQuality": 23,
-            "chaosValue": 194.0,
-            "exaltedValue": 24.81,
-            "divineValue": 1.07,
-            "count": 22,
-            "detailsId": "reave-of-refraction-21-23c",
-            "tradeInfo": [],
-            "tradeFilter": {
-                "query": {
-                    "type": {
-                        "option": "Reave",
-                        "discriminator": "alt_x"
-                    },
-                    "filters": {
-                        "misc_filters": {
-                            "filters": {
-                                "gem_level": {
-                                    "min": 21
-                                },
-                                "quality": {
-                                    "min": 23
-                                },
-                                "corrupted": {
-                                    "option": true
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "listingCount": 40
         },
         {
             "id": 76092,
@@ -50707,7 +50707,7 @@
             "variant": "1",
             "itemClass": 4,
             "sparkLine": {
-                "totalChange": 19.2,
+                "totalChange": 18.64,
                 "data": [
                     0,
                     18.6,
@@ -50715,11 +50715,11 @@
                     -8,
                     -8,
                     -8,
-                    19.2
+                    18.64
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 19.2,
+                "totalChange": 18.64,
                 "data": [
                     0,
                     18.6,
@@ -50727,7 +50727,7 @@
                     -8,
                     -8,
                     -8,
-                    19.2
+                    18.64
                 ]
             },
             "implicitModifiers": [],
@@ -50748,8 +50748,8 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "gemLevel": 1,
-            "chaosValue": 149.0,
-            "exaltedValue": 19.05,
+            "chaosValue": 148.3,
+            "exaltedValue": 18.96,
             "divineValue": 0.82,
             "count": 74,
             "detailsId": "awakened-elemental-damage-with-attacks-support-1",
@@ -51768,10 +51768,10 @@
             "chaosValue": 139.0,
             "exaltedValue": 17.77,
             "divineValue": 0.77,
-            "count": 29,
+            "count": 28,
             "detailsId": "awakened-melee-physical-damage-support-5-20c",
             "tradeInfo": [],
-            "listingCount": 52
+            "listingCount": 51
         },
         {
             "id": 111268,
@@ -52092,97 +52092,6 @@
                 }
             },
             "listingCount": 32
-        },
-        {
-            "id": 111867,
-            "name": "Flame Surge of Combusting",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGFtZXdoaXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjEzfV0/2d4a7d80c5/Flamewhip.png",
-            "levelRequired": 70,
-            "baseType": "Flame Surge of Combusting",
-            "variant": "20/23c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 9.24,
-                "data": [
-                    0,
-                    9.24,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -12.52,
-                "data": [
-                    0,
-                    9.24,
-                    8.34,
-                    13.84,
-                    -4.03,
-                    -26.51,
-                    -12.52
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Base duration is 4 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "Deals 1374 to 2062 Fire Damage",
-                    "optional": false
-                },
-                {
-                    "text": "25% chance to Ignite enemies",
-                    "optional": false
-                },
-                {
-                    "text": "+9 to Area of Effect length",
-                    "optional": false
-                },
-                {
-                    "text": "Igniting Enemies creates Burning Ground, no more than once per second\nBurning Ground deals 67% of Fire Damage per second of inflicted Ignite",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 20,
-            "gemQuality": 23,
-            "chaosValue": 136.3,
-            "exaltedValue": 17.43,
-            "divineValue": 0.75,
-            "count": 3,
-            "detailsId": "flame-surge-of-combusting-20-23c",
-            "tradeInfo": [],
-            "tradeFilter": {
-                "query": {
-                    "type": {
-                        "option": "Flame Surge",
-                        "discriminator": "alt_x"
-                    },
-                    "filters": {
-                        "misc_filters": {
-                            "filters": {
-                                "gem_level": {
-                                    "min": 20
-                                },
-                                "quality": {
-                                    "min": 23
-                                },
-                                "corrupted": {
-                                    "option": true
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "listingCount": 6
         },
         {
             "id": 109953,
@@ -53175,6 +53084,97 @@
             "listingCount": 18
         },
         {
+            "id": 111867,
+            "name": "Flame Surge of Combusting",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9GbGFtZXdoaXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjEzfV0/2d4a7d80c5/Flamewhip.png",
+            "levelRequired": 70,
+            "baseType": "Flame Surge of Combusting",
+            "variant": "20/23c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 9.24,
+                "data": [
+                    0,
+                    9.24,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -16.14,
+                "data": [
+                    0,
+                    9.24,
+                    8.34,
+                    13.84,
+                    -4.03,
+                    -26.51,
+                    -16.14
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Base duration is 4 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "Deals 1374 to 2062 Fire Damage",
+                    "optional": false
+                },
+                {
+                    "text": "25% chance to Ignite enemies",
+                    "optional": false
+                },
+                {
+                    "text": "+9 to Area of Effect length",
+                    "optional": false
+                },
+                {
+                    "text": "Igniting Enemies creates Burning Ground, no more than once per second\nBurning Ground deals 67% of Fire Damage per second of inflicted Ignite",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 20,
+            "gemQuality": 23,
+            "chaosValue": 130.6,
+            "exaltedValue": 16.71,
+            "divineValue": 0.72,
+            "count": 2,
+            "detailsId": "flame-surge-of-combusting-20-23c",
+            "tradeInfo": [],
+            "tradeFilter": {
+                "query": {
+                    "type": {
+                        "option": "Flame Surge",
+                        "discriminator": "alt_x"
+                    },
+                    "filters": {
+                        "misc_filters": {
+                            "filters": {
+                                "gem_level": {
+                                    "min": 20
+                                },
+                                "quality": {
+                                    "min": 23
+                                },
+                                "corrupted": {
+                                    "option": true
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "listingCount": 6
+        },
+        {
             "id": 20958,
             "name": "Unleash Support",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1VubGVhc2hTdXBwb3J0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9c92c88f3e/UnleashSupport.png",
@@ -53688,89 +53688,6 @@
             "listingCount": 19
         },
         {
-            "id": 111267,
-            "name": "Cremation of the Volcano",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db3Jwc2VFcnVwdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6MTB9XQ/3032c6861b/CorpseEruption.png",
-            "levelRequired": 70,
-            "baseType": "Cremation of the Volcano",
-            "variant": "20c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 35.65,
-                "data": [
-                    0,
-                    0,
-                    7.53,
-                    7.53,
-                    7.53,
-                    11.83,
-                    35.65
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Fires Projectiles every 1 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "Base duration is 2.5 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "Deals 303 to 454 Fire Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Fires 4 Projectiles",
-                    "optional": false
-                },
-                {
-                    "text": "Maximum of 6 Geysers at a time",
-                    "optional": false
-                },
-                {
-                    "text": "Fires Projectiles (1-9)% faster",
-                    "optional": true
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 20,
-            "chaosValue": 126.2,
-            "exaltedValue": 16.13,
-            "divineValue": 0.7,
-            "count": 2,
-            "detailsId": "cremation-of-the-volcano-20c",
-            "tradeInfo": [],
-            "tradeFilter": {
-                "query": {
-                    "type": {
-                        "option": "Cremation",
-                        "discriminator": "alt_y"
-                    },
-                    "filters": {
-                        "misc_filters": {
-                            "filters": {
-                                "gem_level": {
-                                    "min": 20
-                                },
-                                "corrupted": {
-                                    "option": true
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "listingCount": 9
-        },
-        {
             "id": 111272,
             "name": "Lightning Trap of Sparking",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdUcmFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjoxM31d/a07a38d411/LightningTrap.png",
@@ -53971,58 +53888,6 @@
                 }
             },
             "listingCount": 35
-        },
-        {
-            "id": 118393,
-            "name": "More Duration Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0luY3JlYXNlZER1cmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a5db7ae0bd/IncreasedDuration.png",
-            "levelRequired": 72,
-            "baseType": "More Duration Support",
-            "variant": "21/20c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -20.73,
-                "data": [
-                    0,
-                    -20.29,
-                    -7.4,
-                    -17.83,
-                    -19.09,
-                    -13.15,
-                    -20.73
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -20.73,
-                "data": [
-                    0,
-                    -20.29,
-                    -7.4,
-                    -17.83,
-                    -19.09,
-                    -13.15,
-                    -20.73
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Supported Skills have (49-50)% more Skill Effect Duration",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 21,
-            "gemQuality": 20,
-            "chaosValue": 125.4,
-            "exaltedValue": 16.04,
-            "divineValue": 0.69,
-            "count": 19,
-            "detailsId": "more-duration-support-21-20c",
-            "tradeInfo": [],
-            "listingCount": 86
         },
         {
             "id": 111450,
@@ -54630,6 +54495,89 @@
                 }
             },
             "listingCount": 4
+        },
+        {
+            "id": 111267,
+            "name": "Cremation of the Volcano",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db3Jwc2VFcnVwdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6MTB9XQ/3032c6861b/CorpseEruption.png",
+            "levelRequired": 70,
+            "baseType": "Cremation of the Volcano",
+            "variant": "20c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 29.03,
+                "data": [
+                    0,
+                    0,
+                    7.53,
+                    7.53,
+                    7.53,
+                    11.83,
+                    29.03
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Fires Projectiles every 1 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "Base duration is 2.5 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "Deals 303 to 454 Fire Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Fires 4 Projectiles",
+                    "optional": false
+                },
+                {
+                    "text": "Maximum of 6 Geysers at a time",
+                    "optional": false
+                },
+                {
+                    "text": "Fires Projectiles (1-9)% faster",
+                    "optional": true
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 20,
+            "chaosValue": 120.0,
+            "exaltedValue": 15.35,
+            "divineValue": 0.66,
+            "count": 1,
+            "detailsId": "cremation-of-the-volcano-20c",
+            "tradeInfo": [],
+            "tradeFilter": {
+                "query": {
+                    "type": {
+                        "option": "Cremation",
+                        "discriminator": "alt_y"
+                    },
+                    "filters": {
+                        "misc_filters": {
+                            "filters": {
+                                "gem_level": {
+                                    "min": 20
+                                },
+                                "corrupted": {
+                                    "option": true
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "listingCount": 9
         },
         {
             "id": 111462,
@@ -55415,6 +55363,58 @@
             "listingCount": 149
         },
         {
+            "id": 118393,
+            "name": "More Duration Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0luY3JlYXNlZER1cmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a5db7ae0bd/IncreasedDuration.png",
+            "levelRequired": 72,
+            "baseType": "More Duration Support",
+            "variant": "21/20c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -24.46,
+                "data": [
+                    0,
+                    -20.29,
+                    -7.4,
+                    -17.83,
+                    -19.09,
+                    -13.15,
+                    -24.46
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -24.46,
+                "data": [
+                    0,
+                    -20.29,
+                    -7.4,
+                    -17.83,
+                    -19.09,
+                    -13.15,
+                    -24.46
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Supported Skills have (49-50)% more Skill Effect Duration",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 21,
+            "gemQuality": 20,
+            "chaosValue": 119.5,
+            "exaltedValue": 15.28,
+            "divineValue": 0.66,
+            "count": 18,
+            "detailsId": "more-duration-support-21-20c",
+            "tradeInfo": [],
+            "listingCount": 86
+        },
+        {
             "id": 110005,
             "name": "Scourge Arrow of Menace",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WaXJ1bGVudEFycm93IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo5fV0/564fcac0e9/VirulentArrow.png",
@@ -55886,70 +55886,6 @@
             "listingCount": 10
         },
         {
-            "id": 7262,
-            "name": "Trap and Mine Damage Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1RyYXBBbmRNaW5lRGFtYWdlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/83b5eac9be/TrapAndMineDamage.png",
-            "levelRequired": 72,
-            "baseType": "Trap and Mine Damage Support",
-            "variant": "21/23c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 18.37,
-                "data": [
-                    0,
-                    44.76,
-                    48.98,
-                    null,
-                    null,
-                    47.96,
-                    18.37
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 18.37,
-                "data": [
-                    0,
-                    44.76,
-                    48.98,
-                    78.67,
-                    89.59,
-                    47.96,
-                    18.37
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Supported Skills deal 50% more Trap and Mine Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills deal 11% increased Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills have 10% less Mine Throwing Speed",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills have 10% less Trap Throwing Speed",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 21,
-            "gemQuality": 23,
-            "chaosValue": 116.0,
-            "exaltedValue": 14.83,
-            "divineValue": 0.64,
-            "count": 7,
-            "detailsId": "trap-and-mine-damage-support-21-23c",
-            "tradeInfo": [],
-            "listingCount": 27
-        },
-        {
             "id": 110422,
             "name": "Ground Slam of Earthshaking",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Hcm91bmRzbGFtIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo1fV0/eb48a25784/Groundslam.png",
@@ -56176,6 +56112,70 @@
             "detailsId": "flamethrower-trap-20",
             "tradeInfo": [],
             "listingCount": 114
+        },
+        {
+            "id": 7262,
+            "name": "Trap and Mine Damage Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1RyYXBBbmRNaW5lRGFtYWdlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/83b5eac9be/TrapAndMineDamage.png",
+            "levelRequired": 72,
+            "baseType": "Trap and Mine Damage Support",
+            "variant": "21/23c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 17.35,
+                "data": [
+                    0,
+                    44.76,
+                    48.98,
+                    null,
+                    null,
+                    47.96,
+                    17.35
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 17.35,
+                "data": [
+                    0,
+                    44.76,
+                    48.98,
+                    78.67,
+                    89.59,
+                    47.96,
+                    17.35
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Supported Skills deal 50% more Trap and Mine Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills deal 11% increased Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills have 10% less Mine Throwing Speed",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills have 10% less Trap Throwing Speed",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 21,
+            "gemQuality": 23,
+            "chaosValue": 115.0,
+            "exaltedValue": 14.71,
+            "divineValue": 0.63,
+            "count": 6,
+            "detailsId": "trap-and-mine-damage-support-21-23c",
+            "tradeInfo": [],
+            "listingCount": 27
         },
         {
             "id": 21719,
@@ -56800,117 +56800,6 @@
             "listingCount": 16
         },
         {
-            "id": 111962,
-            "name": "Vortex of Projection",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdFZvcnRleCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6MTN9XQ/f9d53f3fbb/FrostVortex.png",
-            "levelRequired": 72,
-            "baseType": "Vortex of Projection",
-            "variant": "21/23c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -7.17,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    -0.42,
-                    -3.08,
-                    -7.17
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -7.17,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    -0.42,
-                    -3.08,
-                    -7.17
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Deals 1063 to 1594 Cold Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Base duration is 1.5 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "Deals 1593.8 Base Cold Damage per second",
-                    "optional": false
-                },
-                {
-                    "text": "Modifiers to Spell Damage apply to this Skill's Damage Over Time effect",
-                    "optional": false
-                },
-                {
-                    "text": "+0.2 metres to radius",
-                    "optional": false
-                },
-                {
-                    "text": "50% more Area of Effect when Cast on Frostbolt",
-                    "optional": false
-                },
-                {
-                    "text": "Base radius is 2 metres",
-                    "optional": false
-                },
-                {
-                    "text": "50% more Damage when Cast on Frostbolt",
-                    "optional": false
-                },
-                {
-                    "text": "Base secondary radius is 2 metres",
-                    "optional": false
-                },
-                {
-                    "text": "Can explode from up to 5 Frostbolt Projectiles",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 21,
-            "gemQuality": 23,
-            "chaosValue": 111.4,
-            "exaltedValue": 14.25,
-            "divineValue": 0.61,
-            "count": 7,
-            "detailsId": "vortex-of-projection-21-23c",
-            "tradeInfo": [],
-            "tradeFilter": {
-                "query": {
-                    "type": {
-                        "option": "Vortex",
-                        "discriminator": "alt_x"
-                    },
-                    "filters": {
-                        "misc_filters": {
-                            "filters": {
-                                "gem_level": {
-                                    "min": 21
-                                },
-                                "quality": {
-                                    "min": 23
-                                },
-                                "corrupted": {
-                                    "option": true
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "listingCount": 21
-        },
-        {
             "id": 111021,
             "name": "Eye of Winter of Transience",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm96ZW5TcGhlcmVTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6MTR9XQ/0da0a5b41b/FrozenSphereSkillGem.png",
@@ -57283,6 +57172,117 @@
                 }
             },
             "listingCount": 6
+        },
+        {
+            "id": 111962,
+            "name": "Vortex of Projection",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdFZvcnRleCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6MTN9XQ/f9d53f3fbb/FrostVortex.png",
+            "levelRequired": 72,
+            "baseType": "Vortex of Projection",
+            "variant": "21/23c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -8.75,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    -0.42,
+                    -3.08,
+                    -8.75
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -8.75,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    -0.42,
+                    -3.08,
+                    -8.75
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Deals 1063 to 1594 Cold Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Base duration is 1.5 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "Deals 1593.8 Base Cold Damage per second",
+                    "optional": false
+                },
+                {
+                    "text": "Modifiers to Spell Damage apply to this Skill's Damage Over Time effect",
+                    "optional": false
+                },
+                {
+                    "text": "+0.2 metres to radius",
+                    "optional": false
+                },
+                {
+                    "text": "50% more Area of Effect when Cast on Frostbolt",
+                    "optional": false
+                },
+                {
+                    "text": "Base radius is 2 metres",
+                    "optional": false
+                },
+                {
+                    "text": "50% more Damage when Cast on Frostbolt",
+                    "optional": false
+                },
+                {
+                    "text": "Base secondary radius is 2 metres",
+                    "optional": false
+                },
+                {
+                    "text": "Can explode from up to 5 Frostbolt Projectiles",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 21,
+            "gemQuality": 23,
+            "chaosValue": 109.5,
+            "exaltedValue": 14.0,
+            "divineValue": 0.6,
+            "count": 6,
+            "detailsId": "vortex-of-projection-21-23c",
+            "tradeInfo": [],
+            "tradeFilter": {
+                "query": {
+                    "type": {
+                        "option": "Vortex",
+                        "discriminator": "alt_x"
+                    },
+                    "filters": {
+                        "misc_filters": {
+                            "filters": {
+                                "gem_level": {
+                                    "min": 21
+                                },
+                                "quality": {
+                                    "min": 23
+                                },
+                                "corrupted": {
+                                    "option": true
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "listingCount": 21
         },
         {
             "id": 110161,
@@ -57900,7 +57900,7 @@
             "count": 2,
             "detailsId": "elemental-hit-20-23c",
             "tradeInfo": [],
-            "listingCount": 89
+            "listingCount": 88
         },
         {
             "id": 110829,
@@ -64436,18 +64436,10 @@
             "itemClass": 4,
             "sparkLine": {
                 "totalChange": 0,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    0
-                ]
+                "data": []
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -30.69,
+                "totalChange": -30.78,
                 "data": [
                     0,
                     6.09,
@@ -64455,7 +64447,7 @@
                     6.09,
                     -12.96,
                     -19.53,
-                    -30.69
+                    -30.78
                 ]
             },
             "implicitModifiers": [],
@@ -64486,10 +64478,10 @@
             "corrupted": true,
             "gemLevel": 21,
             "gemQuality": 23,
-            "chaosValue": 84.4,
-            "exaltedValue": 10.79,
-            "divineValue": 0.47,
-            "count": 6,
+            "chaosValue": 84.3,
+            "exaltedValue": 10.78,
+            "divineValue": 0.46,
+            "count": 4,
             "detailsId": "contagion-of-subsiding-21-23c",
             "tradeInfo": [],
             "tradeFilter": {
@@ -76455,7 +76447,7 @@
             "count": 3,
             "detailsId": "chance-to-poison-support-20-23c",
             "tradeInfo": [],
-            "listingCount": 55
+            "listingCount": 54
         },
         {
             "id": 110891,
@@ -80907,7 +80899,7 @@
                     }
                 }
             },
-            "listingCount": 183
+            "listingCount": 182
         },
         {
             "id": 7546,
@@ -85705,10 +85697,10 @@
             "chaosValue": 40.0,
             "exaltedValue": 5.12,
             "divineValue": 0.22,
-            "count": 87,
+            "count": 88,
             "detailsId": "reave-20-20",
             "tradeInfo": [],
-            "listingCount": 195
+            "listingCount": 196
         },
         {
             "id": 4172,
@@ -94516,74 +94508,6 @@
             "listingCount": 79
         },
         {
-            "id": 3522,
-            "name": "Frostbite",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdEJpdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/4cc71d2d31/FrostBite.png",
-            "levelRequired": 72,
-            "baseType": "Frostbite",
-            "variant": "21/20c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 30.77,
-                "data": [
-                    0,
-                    -13.46,
-                    -3.85,
-                    7.69,
-                    26.92,
-                    26.92,
-                    30.77
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 30.77,
-                "data": [
-                    0,
-                    -13.46,
-                    -3.85,
-                    7.69,
-                    26.92,
-                    26.92,
-                    30.77
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Base duration is 12 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "+1 metre to radius",
-                    "optional": false
-                },
-                {
-                    "text": "Cursed enemies have -37% to Cold Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Hits against Cursed Enemies have +25% chance to Freeze",
-                    "optional": false
-                },
-                {
-                    "text": "Freezes on Cursed enemies have (19-20)% increased Duration",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 21,
-            "gemQuality": 20,
-            "chaosValue": 34.0,
-            "exaltedValue": 4.35,
-            "divineValue": 0.19,
-            "count": 11,
-            "detailsId": "frostbite-21-20c",
-            "tradeInfo": [],
-            "listingCount": 135
-        },
-        {
             "id": 3714,
             "name": "Vaal Flameblast",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsQ2hhcmdlZEJsYXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/30f8fb7bf0/VaalChargedBlast.png",
@@ -95702,6 +95626,74 @@
             "detailsId": "flame-dash-21-20c",
             "tradeInfo": [],
             "listingCount": 116
+        },
+        {
+            "id": 3522,
+            "name": "Frostbite",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm9zdEJpdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/4cc71d2d31/FrostBite.png",
+            "levelRequired": 72,
+            "baseType": "Frostbite",
+            "variant": "21/20c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 25,
+                "data": [
+                    0,
+                    -13.46,
+                    -3.85,
+                    7.69,
+                    26.92,
+                    26.92,
+                    25
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 25,
+                "data": [
+                    0,
+                    -13.46,
+                    -3.85,
+                    7.69,
+                    26.92,
+                    26.92,
+                    25
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Base duration is 12 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "+1 metre to radius",
+                    "optional": false
+                },
+                {
+                    "text": "Cursed enemies have -37% to Cold Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Hits against Cursed Enemies have +25% chance to Freeze",
+                    "optional": false
+                },
+                {
+                    "text": "Freezes on Cursed enemies have (19-20)% increased Duration",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 21,
+            "gemQuality": 20,
+            "chaosValue": 32.5,
+            "exaltedValue": 4.16,
+            "divineValue": 0.18,
+            "count": 10,
+            "detailsId": "frostbite-21-20c",
+            "tradeInfo": [],
+            "listingCount": 134
         },
         {
             "id": 110597,
@@ -98568,10 +98560,10 @@
             "chaosValue": 30.0,
             "exaltedValue": 3.84,
             "divineValue": 0.17,
-            "count": 207,
+            "count": 206,
             "detailsId": "enlighten-support-3c",
             "tradeInfo": [],
-            "listingCount": 1798
+            "listingCount": 1797
         },
         {
             "id": 2763,
@@ -100014,10 +100006,10 @@
             "chaosValue": 30.0,
             "exaltedValue": 3.84,
             "divineValue": 0.17,
-            "count": 2,
+            "count": 1,
             "detailsId": "barrage-support-20-23c",
             "tradeInfo": [],
-            "listingCount": 46
+            "listingCount": 45
         },
         {
             "id": 43091,
@@ -103616,58 +103608,6 @@
             "listingCount": 69
         },
         {
-            "id": 42788,
-            "name": "Urgent Orders Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1VyZ2VudE9yZGVyc1N1cHBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/dfa6ae426c/UrgentOrdersSupport.png",
-            "levelRequired": 72,
-            "baseType": "Urgent Orders Support",
-            "variant": "21/20c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -3.33,
-                "data": [
-                    0,
-                    -16.67,
-                    -64.5,
-                    -33.33,
-                    -33.33,
-                    -5.83,
-                    -3.33
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -3.33,
-                "data": [
-                    0,
-                    -16.67,
-                    -64.5,
-                    -33.33,
-                    -33.33,
-                    -5.83,
-                    -3.33
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Supported Skills have (79-80)% increased Warcry Speed",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 21,
-            "gemQuality": 20,
-            "chaosValue": 29.0,
-            "exaltedValue": 3.71,
-            "divineValue": 0.16,
-            "count": 9,
-            "detailsId": "urgent-orders-support-21-20c",
-            "tradeInfo": [],
-            "listingCount": 73
-        },
-        {
             "id": 111615,
             "name": "Summon Skeletons of Archers",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdW1tb25Ta2VsZXRvbnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjEzfV0/395d22f13f/SummonSkeletons.png",
@@ -103948,6 +103888,58 @@
             "detailsId": "flame-dash-20-23c",
             "tradeInfo": [],
             "listingCount": 79
+        },
+        {
+            "id": 42788,
+            "name": "Urgent Orders Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1VyZ2VudE9yZGVyc1N1cHBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/dfa6ae426c/UrgentOrdersSupport.png",
+            "levelRequired": 72,
+            "baseType": "Urgent Orders Support",
+            "variant": "21/20c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -4.67,
+                "data": [
+                    0,
+                    -16.67,
+                    -64.5,
+                    -33.33,
+                    -33.33,
+                    -5.83,
+                    -4.67
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -4.67,
+                "data": [
+                    0,
+                    -16.67,
+                    -64.5,
+                    -33.33,
+                    -33.33,
+                    -5.83,
+                    -4.67
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Supported Skills have (79-80)% increased Warcry Speed",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 21,
+            "gemQuality": 20,
+            "chaosValue": 28.6,
+            "exaltedValue": 3.66,
+            "divineValue": 0.16,
+            "count": 10,
+            "detailsId": "urgent-orders-support-21-20c",
+            "tradeInfo": [],
+            "listingCount": 74
         },
         {
             "id": 106950,
@@ -113346,62 +113338,6 @@
             "listingCount": 72
         },
         {
-            "id": 4389,
-            "name": "Power Charge On Critical Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1Bvd2VyQ2hhcmdlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/d65c84e89f/PowerCharges.png",
-            "levelRequired": 70,
-            "baseType": "Power Charge On Critical Support",
-            "variant": "20/23c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 14.29,
-                "data": [
-                    0,
-                    null,
-                    -36.19,
-                    21.43,
-                    21.43,
-                    17.86,
-                    14.29
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 14.29,
-                "data": [
-                    0,
-                    -41.9,
-                    -36.19,
-                    21.43,
-                    21.43,
-                    17.86,
-                    14.29
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Supported Skills have 65% chance to gain a Power Charge on Critical Strike",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills deal 4% more Damage per Power Charge",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 20,
-            "gemQuality": 23,
-            "chaosValue": 24.0,
-            "exaltedValue": 3.07,
-            "divineValue": 0.13,
-            "count": 7,
-            "detailsId": "power-charge-on-critical-support-20-23c",
-            "tradeInfo": [],
-            "listingCount": 55
-        },
-        {
             "id": 71729,
             "name": "Tornado",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Ub3JuYWRvR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/17ebe5873b/TornadoGem.png",
@@ -115826,6 +115762,62 @@
             "listingCount": 125
         },
         {
+            "id": 4389,
+            "name": "Power Charge On Critical Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1Bvd2VyQ2hhcmdlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/d65c84e89f/PowerCharges.png",
+            "levelRequired": 70,
+            "baseType": "Power Charge On Critical Support",
+            "variant": "20/23c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 7.14,
+                "data": [
+                    0,
+                    null,
+                    -36.19,
+                    21.43,
+                    21.43,
+                    17.86,
+                    7.14
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 7.14,
+                "data": [
+                    0,
+                    -41.9,
+                    -36.19,
+                    21.43,
+                    21.43,
+                    17.86,
+                    7.14
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Supported Skills have 65% chance to gain a Power Charge on Critical Strike",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills deal 4% more Damage per Power Charge",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 20,
+            "gemQuality": 23,
+            "chaosValue": 22.5,
+            "exaltedValue": 2.88,
+            "divineValue": 0.12,
+            "count": 6,
+            "detailsId": "power-charge-on-critical-support-20-23c",
+            "tradeInfo": [],
+            "listingCount": 54
+        },
+        {
             "id": 125723,
             "name": "Sunder of Trarthus",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaG9ja3dhdmVTbGFtIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImd0Ijp0cnVlfV0/eb6d5aa07f/ShockwaveSlam.png",
@@ -116601,6 +116593,70 @@
                 }
             },
             "listingCount": 110
+        },
+        {
+            "id": 2669,
+            "name": "Fortify Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0ZvcnRpZnlHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0f54034785/FortifyGem.png",
+            "levelRequired": 70,
+            "baseType": "Fortify Support",
+            "variant": "20/20c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 4.76,
+                "data": [
+                    0,
+                    -11.9,
+                    -13.1,
+                    11.9,
+                    14.29,
+                    -4.76,
+                    4.76
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 4.76,
+                "data": [
+                    0,
+                    -11.9,
+                    -13.1,
+                    11.9,
+                    14.29,
+                    -4.76,
+                    4.76
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Melee Hits from Supported Skills Fortify",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills have (19-22)% increased Fortification Duration",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills deal 19% more Damage with Ailments caused by Melee Hits",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills deal 19% more Melee Damage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 20,
+            "gemQuality": 20,
+            "chaosValue": 22.0,
+            "exaltedValue": 2.81,
+            "divineValue": 0.12,
+            "count": 19,
+            "detailsId": "fortify-support-20-20c",
+            "tradeInfo": [],
+            "listingCount": 88
         },
         {
             "id": 4103,
@@ -117587,70 +117643,6 @@
                 }
             },
             "listingCount": 73
-        },
-        {
-            "id": 2669,
-            "name": "Fortify Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0ZvcnRpZnlHZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0f54034785/FortifyGem.png",
-            "levelRequired": 70,
-            "baseType": "Fortify Support",
-            "variant": "20/20c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 2.38,
-                "data": [
-                    0,
-                    -11.9,
-                    -13.1,
-                    11.9,
-                    14.29,
-                    -4.76,
-                    2.38
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 2.38,
-                "data": [
-                    0,
-                    -11.9,
-                    -13.1,
-                    11.9,
-                    14.29,
-                    -4.76,
-                    2.38
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Melee Hits from Supported Skills Fortify",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills have (19-22)% increased Fortification Duration",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills deal 19% more Damage with Ailments caused by Melee Hits",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills deal 19% more Melee Damage",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 20,
-            "gemQuality": 20,
-            "chaosValue": 21.5,
-            "exaltedValue": 2.75,
-            "divineValue": 0.12,
-            "count": 18,
-            "detailsId": "fortify-support-20-20c",
-            "tradeInfo": [],
-            "listingCount": 87
         },
         {
             "id": 4490,
@@ -119957,6 +119949,74 @@
             "listingCount": 112
         },
         {
+            "id": 21756,
+            "name": "Steelskin",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9RdWlja0d1YXJkR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/098be34a5b/QuickGuardGem.png",
+            "levelRequired": 70,
+            "baseType": "Steelskin",
+            "variant": "20/20c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 10.22,
+                "data": [
+                    0,
+                    2.15,
+                    2.15,
+                    3.23,
+                    3.76,
+                    4.84,
+                    10.22
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 10.22,
+                "data": [
+                    0,
+                    2.15,
+                    2.15,
+                    3.23,
+                    3.76,
+                    4.84,
+                    10.22
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Base duration is 1.5 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "(9-11)% increased Cooldown Recovery Rate",
+                    "optional": false
+                },
+                {
+                    "text": "This Skill's Cooldown does not recover during its effect",
+                    "optional": false
+                },
+                {
+                    "text": "70% of Damage from Hits is taken from the Buff before Life or Energy Shield\nBuff can take 2209 Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Buff grants Immunity to Bleeding",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 20,
+            "gemQuality": 20,
+            "chaosValue": 20.5,
+            "exaltedValue": 2.62,
+            "divineValue": 0.11,
+            "count": 18,
+            "detailsId": "steelskin-20-20c",
+            "tradeInfo": [],
+            "listingCount": 72
+        },
+        {
             "id": 103549,
             "name": "Momentum Support",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L01vbWVudHVtU3VwcG9ydEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ccdd57e05a/MomentumSupportGem.png",
@@ -122236,6 +122296,57 @@
             "listingCount": 142
         },
         {
+            "id": 3446,
+            "name": "Item Rarity Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0luY3JlYXNlZFF1YWxpdHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3419db9edf/IncreasedQuality.png",
+            "levelRequired": 70,
+            "baseType": "Item Rarity Support",
+            "variant": "20/20",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -11,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -11,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(68-69)% increased Rarity of Items Dropped by Enemies Slain from Supported Skills",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "gemLevel": 20,
+            "gemQuality": 20,
+            "chaosValue": 20.0,
+            "exaltedValue": 2.56,
+            "divineValue": 0.11,
+            "count": 14,
+            "detailsId": "item-rarity-support-20-20",
+            "tradeInfo": [],
+            "listingCount": 126
+        },
+        {
             "id": 3461,
             "name": "Added Fire Damage Support",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0FkZGVkRmlyZURhbWFnZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/021b8c80d0/AddedFireDamage.png",
@@ -123783,74 +123894,6 @@
             "detailsId": "malevolence-20-23c",
             "tradeInfo": [],
             "listingCount": 65
-        },
-        {
-            "id": 21756,
-            "name": "Steelskin",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9RdWlja0d1YXJkR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/098be34a5b/QuickGuardGem.png",
-            "levelRequired": 70,
-            "baseType": "Steelskin",
-            "variant": "20/20c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 7.53,
-                "data": [
-                    0,
-                    2.15,
-                    2.15,
-                    3.23,
-                    3.76,
-                    4.84,
-                    7.53
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 7.53,
-                "data": [
-                    0,
-                    2.15,
-                    2.15,
-                    3.23,
-                    3.76,
-                    4.84,
-                    7.53
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Base duration is 1.5 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "(9-11)% increased Cooldown Recovery Rate",
-                    "optional": false
-                },
-                {
-                    "text": "This Skill's Cooldown does not recover during its effect",
-                    "optional": false
-                },
-                {
-                    "text": "70% of Damage from Hits is taken from the Buff before Life or Energy Shield\nBuff can take 2209 Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Buff grants Immunity to Bleeding",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 20,
-            "gemQuality": 20,
-            "chaosValue": 20.0,
-            "exaltedValue": 2.56,
-            "divineValue": 0.11,
-            "count": 19,
-            "detailsId": "steelskin-20-20c",
-            "tradeInfo": [],
-            "listingCount": 73
         },
         {
             "id": 21771,
@@ -129229,57 +129272,6 @@
             "listingCount": 85
         },
         {
-            "id": 3446,
-            "name": "Item Rarity Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0luY3JlYXNlZFF1YWxpdHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3419db9edf/IncreasedQuality.png",
-            "levelRequired": 70,
-            "baseType": "Item Rarity Support",
-            "variant": "20/20",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -2.5,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -11,
-                    -2.5
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -2.5,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -11,
-                    -2.5
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(68-69)% increased Rarity of Items Dropped by Enemies Slain from Supported Skills",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "gemLevel": 20,
-            "gemQuality": 20,
-            "chaosValue": 19.5,
-            "exaltedValue": 2.49,
-            "divineValue": 0.11,
-            "count": 16,
-            "detailsId": "item-rarity-support-20-20",
-            "tradeInfo": [],
-            "listingCount": 128
-        },
-        {
             "id": 4341,
             "name": "Cyclone",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DeWNsb25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6969ed6a0d/Cyclone.png",
@@ -129402,10 +129394,10 @@
             "chaosValue": 19.5,
             "exaltedValue": 2.49,
             "divineValue": 0.11,
-            "count": 19,
+            "count": 18,
             "detailsId": "multistrike-support-20-23c",
             "tradeInfo": [],
-            "listingCount": 80
+            "listingCount": 79
         },
         {
             "id": 4450,
@@ -129542,62 +129534,6 @@
             "detailsId": "trap-and-mine-damage-support-20-23c",
             "tradeInfo": [],
             "listingCount": 80
-        },
-        {
-            "id": 59999,
-            "name": "Arrogance Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0Jsb29kTWFnaWMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f90e23f319/BloodMagic.png",
-            "levelRequired": 70,
-            "baseType": "Arrogance Support",
-            "variant": "20/20c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -11.76,
-                "data": [
-                    0,
-                    -4.98,
-                    -7.24,
-                    -9.5,
-                    -23.08,
-                    -14.03,
-                    -11.76
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -11.76,
-                "data": [
-                    0,
-                    -4.98,
-                    -7.24,
-                    -9.5,
-                    -23.08,
-                    -14.03,
-                    -11.76
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Supported Skills have (23-24)% increased Aura effect",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills Reserve Life instead of Mana",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 20,
-            "gemQuality": 20,
-            "chaosValue": 19.5,
-            "exaltedValue": 2.49,
-            "divineValue": 0.11,
-            "count": 10,
-            "detailsId": "arrogance-support-20-20c",
-            "tradeInfo": [],
-            "listingCount": 115
         },
         {
             "id": 60329,
@@ -132723,6 +132659,62 @@
             "detailsId": "venom-gyre-20-20",
             "tradeInfo": [],
             "listingCount": 154
+        },
+        {
+            "id": 59999,
+            "name": "Arrogance Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0Jsb29kTWFnaWMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f90e23f319/BloodMagic.png",
+            "levelRequired": 70,
+            "baseType": "Arrogance Support",
+            "variant": "20/20c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -14.03,
+                "data": [
+                    0,
+                    -4.98,
+                    -7.24,
+                    -9.5,
+                    -23.08,
+                    -14.03,
+                    -14.03
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -14.03,
+                "data": [
+                    0,
+                    -4.98,
+                    -7.24,
+                    -9.5,
+                    -23.08,
+                    -14.03,
+                    -14.03
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Supported Skills have (23-24)% increased Aura effect",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills Reserve Life instead of Mana",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 20,
+            "gemQuality": 20,
+            "chaosValue": 19.0,
+            "exaltedValue": 2.43,
+            "divineValue": 0.1,
+            "count": 9,
+            "detailsId": "arrogance-support-20-20c",
+            "tradeInfo": [],
+            "listingCount": 114
         },
         {
             "id": 110154,
@@ -143268,10 +143260,10 @@
             "chaosValue": 15.0,
             "exaltedValue": 1.92,
             "divineValue": 0.08,
-            "count": 124,
+            "count": 123,
             "detailsId": "enhance-support-3c",
             "tradeInfo": [],
-            "listingCount": 832
+            "listingCount": 831
         },
         {
             "id": 2694,
@@ -164119,7 +164111,7 @@
             "count": 5,
             "detailsId": "added-chaos-damage-support-20-23c",
             "tradeInfo": [],
-            "listingCount": 77
+            "listingCount": 76
         },
         {
             "id": 4622,
@@ -173666,10 +173658,10 @@
             "chaosValue": 10.0,
             "exaltedValue": 1.28,
             "divineValue": 0.06,
-            "count": 16,
+            "count": 15,
             "detailsId": "generals-cry-20-20",
             "tradeInfo": [],
-            "listingCount": 188
+            "listingCount": 187
         },
         {
             "id": 42672,
@@ -187104,7 +187096,7 @@
                     }
                 }
             },
-            "listingCount": 406
+            "listingCount": 405
         },
         {
             "id": 110357,
@@ -197161,6 +197153,70 @@
             "listingCount": 194
         },
         {
+            "id": 4333,
+            "name": "Summon Raging Spirit",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdW1tb25FbGVtZW50YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/862a0d0d1b/SummonElemental.png",
+            "levelRequired": 70,
+            "baseType": "Summon Raging Spirit",
+            "variant": "20/23c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 7.04,
+                "data": [
+                    0,
+                    0,
+                    -12.68,
+                    -14.08,
+                    -54.93,
+                    -15.49,
+                    7.04
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 7.04,
+                "data": [
+                    0,
+                    0,
+                    -12.68,
+                    -14.08,
+                    -54.93,
+                    -15.49,
+                    7.04
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Base duration is 5 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "Maximum 20 Summoned Raging Spirits",
+                    "optional": false
+                },
+                {
+                    "text": "34% chance to summon an extra Minion",
+                    "optional": false
+                },
+                {
+                    "text": "Minions cannot Taunt Enemies",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 20,
+            "gemQuality": 23,
+            "chaosValue": 7.6,
+            "exaltedValue": 0.97,
+            "divineValue": 0.04,
+            "count": 7,
+            "detailsId": "summon-raging-spirit-20-23c",
+            "tradeInfo": [],
+            "listingCount": 95
+        },
+        {
             "id": 20791,
             "name": "Malevolence",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZWxpcml1bUdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/86eaac1d34/DeliriumGem.png",
@@ -198413,85 +198469,6 @@
             "detailsId": "swift-assembly-support-21-23c",
             "tradeInfo": [],
             "listingCount": 46
-        },
-        {
-            "id": 109892,
-            "name": "Smite of Divine Judgement",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TbWl0ZUdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6NX1d/6921be17d6/SmiteGem.png",
-            "levelRequired": 28,
-            "baseType": "Smite of Divine Judgement",
-            "variant": "1",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -41.41,
-                "data": [
-                    0,
-                    0,
-                    31.25,
-                    -10.16,
-                    -10.16,
-                    -41.41,
-                    -41.41
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -41.41,
-                "data": [
-                    0,
-                    0,
-                    31.25,
-                    -10.16,
-                    -10.16,
-                    -41.41,
-                    -41.41
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "50% of Physical Damage Converted to Lightning Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(2-36)% more Area Damage",
-                    "optional": true
-                },
-                {
-                    "text": "Base radius is (1.5-2.1) metres",
-                    "optional": false
-                },
-                {
-                    "text": "Lightning strikes 3 targets within (5-6.8) metres",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "gemLevel": 1,
-            "chaosValue": 7.5,
-            "exaltedValue": 0.96,
-            "divineValue": 0.04,
-            "count": 12,
-            "detailsId": "smite-of-divine-judgement-1",
-            "tradeInfo": [],
-            "tradeFilter": {
-                "query": {
-                    "type": {
-                        "option": "Smite",
-                        "discriminator": "alt_x"
-                    },
-                    "filters": {
-                        "misc_filters": {
-                            "filters": {
-                                "gem_level": {
-                                    "min": 1
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "listingCount": 310
         },
         {
             "id": 126947,
@@ -203516,6 +203493,85 @@
             "listingCount": 24
         },
         {
+            "id": 109892,
+            "name": "Smite of Divine Judgement",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TbWl0ZUdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6NX1d/6921be17d6/SmiteGem.png",
+            "levelRequired": 28,
+            "baseType": "Smite of Divine Judgement",
+            "variant": "1",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -45.31,
+                "data": [
+                    0,
+                    0,
+                    31.25,
+                    -10.16,
+                    -10.16,
+                    -41.41,
+                    -45.31
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -45.31,
+                "data": [
+                    0,
+                    0,
+                    31.25,
+                    -10.16,
+                    -10.16,
+                    -41.41,
+                    -45.31
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "50% of Physical Damage Converted to Lightning Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(2-36)% more Area Damage",
+                    "optional": true
+                },
+                {
+                    "text": "Base radius is (1.5-2.1) metres",
+                    "optional": false
+                },
+                {
+                    "text": "Lightning strikes 3 targets within (5-6.8) metres",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "gemLevel": 1,
+            "chaosValue": 7.0,
+            "exaltedValue": 0.9,
+            "divineValue": 0.04,
+            "count": 11,
+            "detailsId": "smite-of-divine-judgement-1",
+            "tradeInfo": [],
+            "tradeFilter": {
+                "query": {
+                    "type": {
+                        "option": "Smite",
+                        "discriminator": "alt_x"
+                    },
+                    "filters": {
+                        "misc_filters": {
+                            "filters": {
+                                "gem_level": {
+                                    "min": 1
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "listingCount": 309
+        },
+        {
             "id": 110081,
             "name": "Blink Arrow of Prismatic Clones",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbGlua0Fycm93IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjoxMH1d/716b9cebef/BlinkArrow.png",
@@ -205805,97 +205861,6 @@
             "listingCount": 61
         },
         {
-            "id": 113898,
-            "name": "Tornado of Elemental Turbulence",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Ub3JuYWRvR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjoxMH1d/dc3b2e243b/TornadoGem.png",
-            "levelRequired": 34,
-            "baseType": "Tornado of Elemental Turbulence",
-            "variant": "1",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -32,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -21,
-                    -32
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -32,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -21,
-                    -32
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Deals (22-271) to (32-406) Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Deals Damage every 0.25 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "Base duration is 4 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "100% of Physical Damage Converted to Fire, Cold or Lightning Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Enemies in range are Hindered",
-                    "optional": false
-                },
-                {
-                    "text": "Maximum 3 Tornadoes",
-                    "optional": false
-                },
-                {
-                    "text": "Tornado has (2-90)% increased Movement Speed",
-                    "optional": true
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "gemLevel": 1,
-            "chaosValue": 6.8,
-            "exaltedValue": 0.87,
-            "divineValue": 0.04,
-            "count": 10,
-            "detailsId": "tornado-of-elemental-turbulence-1",
-            "tradeInfo": [],
-            "tradeFilter": {
-                "query": {
-                    "type": {
-                        "option": "Tornado",
-                        "discriminator": "alt_y"
-                    },
-                    "filters": {
-                        "misc_filters": {
-                            "filters": {
-                                "gem_level": {
-                                    "min": 1
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "listingCount": 195
-        },
-        {
             "id": 125841,
             "name": "Spectral Helix of Trarthus",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TcGVjdHJhbFNwaXJhbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJndCI6dHJ1ZX1d/42fb1ea51d/SpectralSpiralGem.png",
@@ -206040,70 +206005,6 @@
             "detailsId": "void-manipulation-support-1-20",
             "tradeInfo": [],
             "listingCount": 309
-        },
-        {
-            "id": 4333,
-            "name": "Summon Raging Spirit",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdW1tb25FbGVtZW50YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/862a0d0d1b/SummonElemental.png",
-            "levelRequired": 70,
-            "baseType": "Summon Raging Spirit",
-            "variant": "20/23c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -5.63,
-                "data": [
-                    0,
-                    0,
-                    -12.68,
-                    -14.08,
-                    -54.93,
-                    -15.49,
-                    -5.63
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -5.63,
-                "data": [
-                    0,
-                    0,
-                    -12.68,
-                    -14.08,
-                    -54.93,
-                    -15.49,
-                    -5.63
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Base duration is 5 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "Maximum 20 Summoned Raging Spirits",
-                    "optional": false
-                },
-                {
-                    "text": "34% chance to summon an extra Minion",
-                    "optional": false
-                },
-                {
-                    "text": "Minions cannot Taunt Enemies",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 20,
-            "gemQuality": 23,
-            "chaosValue": 6.7,
-            "exaltedValue": 0.86,
-            "divineValue": 0.04,
-            "count": 8,
-            "detailsId": "summon-raging-spirit-20-23c",
-            "tradeInfo": [],
-            "listingCount": 96
         },
         {
             "id": 4401,
@@ -206871,6 +206772,97 @@
                 }
             },
             "listingCount": 205
+        },
+        {
+            "id": 113898,
+            "name": "Tornado of Elemental Turbulence",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Ub3JuYWRvR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjoxMH1d/dc3b2e243b/TornadoGem.png",
+            "levelRequired": 34,
+            "baseType": "Tornado of Elemental Turbulence",
+            "variant": "1",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -34,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -21,
+                    -34
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -34,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -21,
+                    -34
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Deals (22-271) to (32-406) Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Deals Damage every 0.25 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "Base duration is 4 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "100% of Physical Damage Converted to Fire, Cold or Lightning Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Enemies in range are Hindered",
+                    "optional": false
+                },
+                {
+                    "text": "Maximum 3 Tornadoes",
+                    "optional": false
+                },
+                {
+                    "text": "Tornado has (2-90)% increased Movement Speed",
+                    "optional": true
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "gemLevel": 1,
+            "chaosValue": 6.6,
+            "exaltedValue": 0.84,
+            "divineValue": 0.04,
+            "count": 9,
+            "detailsId": "tornado-of-elemental-turbulence-1",
+            "tradeInfo": [],
+            "tradeFilter": {
+                "query": {
+                    "type": {
+                        "option": "Tornado",
+                        "discriminator": "alt_y"
+                    },
+                    "filters": {
+                        "misc_filters": {
+                            "filters": {
+                                "gem_level": {
+                                    "min": 1
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "listingCount": 194
         },
         {
             "id": 127313,
@@ -208092,85 +208084,6 @@
                 }
             },
             "listingCount": 214
-        },
-        {
-            "id": 110498,
-            "name": "Animate Weapon of Self Reflection",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BbmltYXRlV2VhcG9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo5fV0/c8cafa8e6f/AnimateWeapon.png",
-            "levelRequired": 67,
-            "baseType": "Animate Weapon of Self Reflection",
-            "variant": "1/20",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -35,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -35
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Base duration is 15 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "Maximum (6-7) Animated Weapons",
-                    "optional": false
-                },
-                {
-                    "text": "Can use Items requiring up to Level (9-82)",
-                    "optional": false
-                },
-                {
-                    "text": "Minions deal (2-36)% more Damage",
-                    "optional": true
-                },
-                {
-                    "text": "Minions have (2-36)% more Attack Speed",
-                    "optional": true
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "gemLevel": 1,
-            "gemQuality": 20,
-            "chaosValue": 6.5,
-            "exaltedValue": 0.83,
-            "divineValue": 0.04,
-            "count": 4,
-            "detailsId": "animate-weapon-of-self-reflection-1-20",
-            "tradeInfo": [],
-            "tradeFilter": {
-                "query": {
-                    "type": {
-                        "option": "Animate Weapon",
-                        "discriminator": "alt_x"
-                    },
-                    "filters": {
-                        "misc_filters": {
-                            "filters": {
-                                "gem_level": {
-                                    "min": 1
-                                },
-                                "quality": {
-                                    "min": 20
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "listingCount": 95
         },
         {
             "id": 120468,
@@ -213236,6 +213149,85 @@
                 }
             },
             "listingCount": 36
+        },
+        {
+            "id": 110498,
+            "name": "Animate Weapon of Self Reflection",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9BbmltYXRlV2VhcG9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo5fV0/c8cafa8e6f/AnimateWeapon.png",
+            "levelRequired": 67,
+            "baseType": "Animate Weapon of Self Reflection",
+            "variant": "1/20",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -40,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -40
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Base duration is 15 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "Maximum (6-7) Animated Weapons",
+                    "optional": false
+                },
+                {
+                    "text": "Can use Items requiring up to Level (9-82)",
+                    "optional": false
+                },
+                {
+                    "text": "Minions deal (2-36)% more Damage",
+                    "optional": true
+                },
+                {
+                    "text": "Minions have (2-36)% more Attack Speed",
+                    "optional": true
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "gemLevel": 1,
+            "gemQuality": 20,
+            "chaosValue": 6.0,
+            "exaltedValue": 0.77,
+            "divineValue": 0.03,
+            "count": 3,
+            "detailsId": "animate-weapon-of-self-reflection-1-20",
+            "tradeInfo": [],
+            "tradeFilter": {
+                "query": {
+                    "type": {
+                        "option": "Animate Weapon",
+                        "discriminator": "alt_x"
+                    },
+                    "filters": {
+                        "misc_filters": {
+                            "filters": {
+                                "gem_level": {
+                                    "min": 1
+                                },
+                                "quality": {
+                                    "min": 20
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "listingCount": 95
         },
         {
             "id": 110528,
@@ -228902,7 +228894,7 @@
             "count": 1,
             "detailsId": "unleash-support-20-23c",
             "tradeInfo": [],
-            "listingCount": 61
+            "listingCount": 60
         },
         {
             "id": 21646,
@@ -228958,7 +228950,7 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.64,
             "divineValue": 0.03,
-            "count": 27,
+            "count": 26,
             "detailsId": "pulverise-support-1-20",
             "tradeInfo": [],
             "listingCount": 187
@@ -229269,7 +229261,7 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.64,
             "divineValue": 0.03,
-            "count": 17,
+            "count": 16,
             "detailsId": "summon-carrion-golem-21-20c",
             "tradeInfo": [],
             "listingCount": 234
@@ -240952,6 +240944,66 @@
             "listingCount": 99
         },
         {
+            "id": 4455,
+            "name": "Minion Damage Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L01pbmlvbkRhbWFnZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9bf4329029/MinionDamage.png",
+            "levelRequired": 70,
+            "baseType": "Minion Damage Support",
+            "variant": "20/23c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -12,
+                "data": [
+                    0,
+                    0,
+                    -9,
+                    -20,
+                    -20,
+                    -20,
+                    -12
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -12,
+                "data": [
+                    0,
+                    0,
+                    -9,
+                    -20,
+                    -20,
+                    -20,
+                    -12
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Minions from Supported Skills deal 11% increased Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Minions from Supported Skills deal 39% more Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Minions from Supported Skills have 25% less Maximum Life",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 20,
+            "gemQuality": 23,
+            "chaosValue": 4.4,
+            "exaltedValue": 0.56,
+            "divineValue": 0.02,
+            "count": 5,
+            "detailsId": "minion-damage-support-20-23c",
+            "tradeInfo": [],
+            "listingCount": 113
+        },
+        {
             "id": 4678,
             "name": "Ice Trap",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9JY2VUcmFwUnVuZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/907319c43a/IceTrapRune.png",
@@ -247855,66 +247907,6 @@
             "listingCount": 64
         },
         {
-            "id": 4455,
-            "name": "Minion Damage Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L01pbmlvbkRhbWFnZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9bf4329029/MinionDamage.png",
-            "levelRequired": 70,
-            "baseType": "Minion Damage Support",
-            "variant": "20/23c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -20,
-                "data": [
-                    0,
-                    0,
-                    -9,
-                    -20,
-                    -20,
-                    -20,
-                    -20
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -20,
-                "data": [
-                    0,
-                    0,
-                    -9,
-                    -20,
-                    -20,
-                    -20,
-                    -20
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Minions from Supported Skills deal 11% increased Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Minions from Supported Skills deal 39% more Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Minions from Supported Skills have 25% less Maximum Life",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 20,
-            "gemQuality": 23,
-            "chaosValue": 4.0,
-            "exaltedValue": 0.51,
-            "divineValue": 0.02,
-            "count": 6,
-            "detailsId": "minion-damage-support-20-23c",
-            "tradeInfo": [],
-            "listingCount": 114
-        },
-        {
             "id": 4517,
             "name": "Storm Burst",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdG9ybUJ1cnN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/242bf124f5/StormBurst.png",
@@ -251171,7 +251163,7 @@
             "chaosValue": 4.0,
             "exaltedValue": 0.51,
             "divineValue": 0.02,
-            "count": 21,
+            "count": 20,
             "detailsId": "crackling-lance-of-branching-1",
             "tradeInfo": [],
             "tradeFilter": {
@@ -268964,6 +268956,61 @@
             "listingCount": 91
         },
         {
+            "id": 3200,
+            "name": "Fire Penetration Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0ZpcmVQZW5ldHJhdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/191dcc704c/FirePenetration.png",
+            "levelRequired": 31,
+            "baseType": "Fire Penetration Support",
+            "variant": "1/20",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 50,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    40,
+                    45,
+                    10,
+                    50
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 50,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    40,
+                    45,
+                    10,
+                    50
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Supported Skills Penetrate (20-33)% Fire Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills deal (9-10)% increased Fire Damage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "gemLevel": 1,
+            "gemQuality": 20,
+            "chaosValue": 3.0,
+            "exaltedValue": 0.38,
+            "divineValue": 0.02,
+            "count": 11,
+            "detailsId": "fire-penetration-support-1-20",
+            "tradeInfo": [],
+            "listingCount": 234
+        },
+        {
             "id": 3209,
             "name": "Enduring Cry",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9FbmR1cmluZ0NyeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/289ef19ddf/EnduringCry.png",
@@ -274646,7 +274693,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.38,
             "divineValue": 0.02,
-            "count": 16,
+            "count": 15,
             "detailsId": "summon-holy-relic-20-20",
             "tradeInfo": [],
             "listingCount": 200
@@ -281702,7 +281749,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.38,
             "divineValue": 0.02,
-            "count": 7,
+            "count": 6,
             "detailsId": "divine-retribution-20-20",
             "tradeInfo": [],
             "listingCount": 191
@@ -292816,7 +292863,7 @@
                     }
                 }
             },
-            "listingCount": 201
+            "listingCount": 200
         },
         {
             "id": 110070,
@@ -294814,85 +294861,6 @@
             "detailsId": "manaforged-arrows-support-1",
             "tradeInfo": [],
             "listingCount": 1481
-        },
-        {
-            "id": 109879,
-            "name": "Mirror Arrow of Prismatic Clones",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9NaXJyb3JBcnJvdyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6MTB9XQ/cb537f28a3/MirrorArrow.png",
-            "levelRequired": 29,
-            "baseType": "Mirror Arrow of Prismatic Clones",
-            "variant": "1",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -44.44,
-                "data": [
-                    0,
-                    -6.67,
-                    -4.44,
-                    -4.44,
-                    -22.22,
-                    -26.67,
-                    -44.44
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -44.44,
-                "data": [
-                    0,
-                    -6.67,
-                    -4.44,
-                    -4.44,
-                    -22.22,
-                    -26.67,
-                    -44.44
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Base duration is 5 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "Maximum of 3 Clones that fire Elemental Arrows",
-                    "optional": false
-                },
-                {
-                    "text": "(2-36)% increased Cooldown Recovery Rate",
-                    "optional": true
-                },
-                {
-                    "text": "Minions deal (3-54)% more Damage",
-                    "optional": true
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "gemLevel": 1,
-            "chaosValue": 2.5,
-            "exaltedValue": 0.32,
-            "divineValue": 0.01,
-            "count": 16,
-            "detailsId": "mirror-arrow-of-prismatic-clones-1",
-            "tradeInfo": [],
-            "tradeFilter": {
-                "query": {
-                    "type": {
-                        "option": "Mirror Arrow",
-                        "discriminator": "alt_y"
-                    },
-                    "filters": {
-                        "misc_filters": {
-                            "filters": {
-                                "gem_level": {
-                                    "min": 1
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "listingCount": 332
         },
         {
             "id": 110302,
@@ -297314,6 +297282,85 @@
             "detailsId": "fresh-meat-support-20",
             "tradeInfo": [],
             "listingCount": 83
+        },
+        {
+            "id": 109879,
+            "name": "Mirror Arrow of Prismatic Clones",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9NaXJyb3JBcnJvdyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6MTB9XQ/cb537f28a3/MirrorArrow.png",
+            "levelRequired": 29,
+            "baseType": "Mirror Arrow of Prismatic Clones",
+            "variant": "1",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -46.67,
+                "data": [
+                    0,
+                    -6.67,
+                    -4.44,
+                    -4.44,
+                    -22.22,
+                    -26.67,
+                    -46.67
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -46.67,
+                "data": [
+                    0,
+                    -6.67,
+                    -4.44,
+                    -4.44,
+                    -22.22,
+                    -26.67,
+                    -46.67
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Base duration is 5 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "Maximum of 3 Clones that fire Elemental Arrows",
+                    "optional": false
+                },
+                {
+                    "text": "(2-36)% increased Cooldown Recovery Rate",
+                    "optional": true
+                },
+                {
+                    "text": "Minions deal (3-54)% more Damage",
+                    "optional": true
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "gemLevel": 1,
+            "chaosValue": 2.4,
+            "exaltedValue": 0.31,
+            "divineValue": 0.01,
+            "count": 15,
+            "detailsId": "mirror-arrow-of-prismatic-clones-1",
+            "tradeInfo": [],
+            "tradeFilter": {
+                "query": {
+                    "type": {
+                        "option": "Mirror Arrow",
+                        "discriminator": "alt_y"
+                    },
+                    "filters": {
+                        "misc_filters": {
+                            "filters": {
+                                "gem_level": {
+                                    "min": 1
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "listingCount": 332
         },
         {
             "id": 109907,
@@ -303206,61 +303253,6 @@
             "listingCount": 380
         },
         {
-            "id": 3200,
-            "name": "Fire Penetration Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0ZpcmVQZW5ldHJhdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/191dcc704c/FirePenetration.png",
-            "levelRequired": 31,
-            "baseType": "Fire Penetration Support",
-            "variant": "1/20",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 5,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    40,
-                    45,
-                    10,
-                    5
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 5,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    40,
-                    45,
-                    10,
-                    5
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Supported Skills Penetrate (20-33)% Fire Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills deal (9-10)% increased Fire Damage",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "gemLevel": 1,
-            "gemQuality": 20,
-            "chaosValue": 2.1,
-            "exaltedValue": 0.27,
-            "divineValue": 0.01,
-            "count": 12,
-            "detailsId": "fire-penetration-support-1-20",
-            "tradeInfo": [],
-            "listingCount": 234
-        },
-        {
             "id": 4120,
             "name": "Vile Toxins Support",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1ZpbGVUb3hpbnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f63c48d4b1/VileToxins.png",
@@ -304249,10 +304241,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.26,
             "divineValue": 0.01,
-            "count": 9,
+            "count": 10,
             "detailsId": "arc-21c",
             "tradeInfo": [],
-            "listingCount": 358
+            "listingCount": 359
         },
         {
             "id": 2646,
@@ -307501,7 +307493,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.26,
             "divineValue": 0.01,
-            "count": 18,
+            "count": 17,
             "detailsId": "earthquake-20-20",
             "tradeInfo": [],
             "listingCount": 212
@@ -319428,93 +319420,6 @@
             "listingCount": 40
         },
         {
-            "id": 110084,
-            "name": "Bladestorm of Uncertainty",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbGFkZXN0b3JtR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo1fV0/3305a19567/BladestormGem.png",
-            "levelRequired": 28,
-            "baseType": "Bladestorm of Uncertainty",
-            "variant": "1",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -58.33,
-                "data": [
-                    0,
-                    0,
-                    -2.08,
-                    -20.83,
-                    -35.42,
-                    -50,
-                    -58.33
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -58.33,
-                "data": [
-                    0,
-                    0,
-                    -2.08,
-                    -20.83,
-                    -35.42,
-                    -50,
-                    -58.33
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Base duration is 3 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "(50-86)% more Damage with Bleeding",
-                    "optional": false
-                },
-                {
-                    "text": "(10-12)% more Attack Speed while you're in a Blood Bladestorm",
-                    "optional": false
-                },
-                {
-                    "text": "Maximum of 3 Bladestorms at a time",
-                    "optional": false
-                },
-                {
-                    "text": "Sand Bladestorms grant (30-37)% increased Movement Speed to you",
-                    "optional": false
-                },
-                {
-                    "text": "Bladestorm deals 50% less Damage with Hits and Ailments",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "gemLevel": 1,
-            "chaosValue": 2.0,
-            "exaltedValue": 0.26,
-            "divineValue": 0.01,
-            "count": 26,
-            "detailsId": "bladestorm-of-uncertainty-1",
-            "tradeInfo": [],
-            "tradeFilter": {
-                "query": {
-                    "type": {
-                        "option": "Bladestorm",
-                        "discriminator": "alt_x"
-                    },
-                    "filters": {
-                        "misc_filters": {
-                            "filters": {
-                                "gem_level": {
-                                    "min": 1
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "listingCount": 219
-        },
-        {
             "id": 110281,
             "name": "Contagion of Transference",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Db250YWdpb25HZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ2QiOjE0fV0/2681eccd19/ContagionGem.png",
@@ -325507,93 +325412,6 @@
             "listingCount": 200
         },
         {
-            "id": 125059,
-            "name": "Spectral Shield Throw of Trarthus",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9UaHJvd25TaGllbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ3QiOnRydWV9XQ/18316db2ac/ThrownShield.png",
-            "levelRequired": 28,
-            "baseType": "Spectral Shield Throw of Trarthus",
-            "variant": "1",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -5,
-                "data": [
-                    0,
-                    -40.0,
-                    0,
-                    -5.0,
-                    -5.0,
-                    0,
-                    -5
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -5,
-                "data": [
-                    0,
-                    -40.0,
-                    0,
-                    -5.0,
-                    -5.0,
-                    0,
-                    -5
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Shard Projectiles Deal 50% less Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(56-228) to (84-343) Base Off Hand Physical Damage",
-                    "optional": false
-                },
-                {
-                    "text": "(2-3) to (3-5) Added Physical Damage per 15 Armour or Evasion Rating on Shield",
-                    "optional": false
-                },
-                {
-                    "text": "Fires (17-22) additional Projectiles",
-                    "optional": false
-                },
-                {
-                    "text": "(5-18)% more Projectile Speed",
-                    "optional": true
-                },
-                {
-                    "text": "Fires 6 Shards at a time until all fired",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "gemLevel": 1,
-            "chaosValue": 1.9,
-            "exaltedValue": 0.24,
-            "divineValue": 0.01,
-            "count": 15,
-            "detailsId": "spectral-shield-throw-of-trarthus-1",
-            "tradeInfo": [],
-            "tradeFilter": {
-                "query": {
-                    "type": {
-                        "option": "Spectral Shield Throw",
-                        "discriminator": "alt_y"
-                    },
-                    "filters": {
-                        "misc_filters": {
-                            "filters": {
-                                "gem_level": {
-                                    "min": 1
-                                }
-                            }
-                        }
-                    }
-                }
-            },
-            "listingCount": 752
-        },
-        {
             "id": 126908,
             "name": "Temporal Chains",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9UZW1wb3JhbENoYWlucyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5d0aef0dab/TemporalChains.png",
@@ -327944,6 +327762,93 @@
             "listingCount": 191
         },
         {
+            "id": 110084,
+            "name": "Bladestorm of Uncertainty",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9CbGFkZXN0b3JtR2VtIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsImdkIjo1fV0/3305a19567/BladestormGem.png",
+            "levelRequired": 28,
+            "baseType": "Bladestorm of Uncertainty",
+            "variant": "1",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -62.5,
+                "data": [
+                    0,
+                    0,
+                    -2.08,
+                    -20.83,
+                    -35.42,
+                    -50,
+                    -62.5
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -62.5,
+                "data": [
+                    0,
+                    0,
+                    -2.08,
+                    -20.83,
+                    -35.42,
+                    -50,
+                    -62.5
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Base duration is 3 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "(50-86)% more Damage with Bleeding",
+                    "optional": false
+                },
+                {
+                    "text": "(10-12)% more Attack Speed while you're in a Blood Bladestorm",
+                    "optional": false
+                },
+                {
+                    "text": "Maximum of 3 Bladestorms at a time",
+                    "optional": false
+                },
+                {
+                    "text": "Sand Bladestorms grant (30-37)% increased Movement Speed to you",
+                    "optional": false
+                },
+                {
+                    "text": "Bladestorm deals 50% less Damage with Hits and Ailments",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "gemLevel": 1,
+            "chaosValue": 1.8,
+            "exaltedValue": 0.23,
+            "divineValue": 0.01,
+            "count": 25,
+            "detailsId": "bladestorm-of-uncertainty-1",
+            "tradeInfo": [],
+            "tradeFilter": {
+                "query": {
+                    "type": {
+                        "option": "Bladestorm",
+                        "discriminator": "alt_x"
+                    },
+                    "filters": {
+                        "misc_filters": {
+                            "filters": {
+                                "gem_level": {
+                                    "min": 1
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "listingCount": 219
+        },
+        {
             "id": 110311,
             "name": "Spark of Unpredictability",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TcGFyayIsInciOjEsImgiOjEsInNjYWxlIjoxLCJnZCI6MTR9XQ/c9038eb883/Spark.png",
@@ -328021,6 +327926,93 @@
                 }
             },
             "listingCount": 102
+        },
+        {
+            "id": 125059,
+            "name": "Spectral Shield Throw of Trarthus",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9UaHJvd25TaGllbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwiZ3QiOnRydWV9XQ/18316db2ac/ThrownShield.png",
+            "levelRequired": 28,
+            "baseType": "Spectral Shield Throw of Trarthus",
+            "variant": "1",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -10,
+                "data": [
+                    0,
+                    -40.0,
+                    0,
+                    -5.0,
+                    -5.0,
+                    0,
+                    -10
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -10,
+                "data": [
+                    0,
+                    -40.0,
+                    0,
+                    -5.0,
+                    -5.0,
+                    0,
+                    -10
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Shard Projectiles Deal 50% less Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(56-228) to (84-343) Base Off Hand Physical Damage",
+                    "optional": false
+                },
+                {
+                    "text": "(2-3) to (3-5) Added Physical Damage per 15 Armour or Evasion Rating on Shield",
+                    "optional": false
+                },
+                {
+                    "text": "Fires (17-22) additional Projectiles",
+                    "optional": false
+                },
+                {
+                    "text": "(5-18)% more Projectile Speed",
+                    "optional": true
+                },
+                {
+                    "text": "Fires 6 Shards at a time until all fired",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "gemLevel": 1,
+            "chaosValue": 1.8,
+            "exaltedValue": 0.23,
+            "divineValue": 0.01,
+            "count": 14,
+            "detailsId": "spectral-shield-throw-of-trarthus-1",
+            "tradeInfo": [],
+            "tradeFilter": {
+                "query": {
+                    "type": {
+                        "option": "Spectral Shield Throw",
+                        "discriminator": "alt_y"
+                    },
+                    "filters": {
+                        "misc_filters": {
+                            "filters": {
+                                "gem_level": {
+                                    "min": 1
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "listingCount": 752
         },
         {
             "id": 127031,
@@ -329372,68 +329364,6 @@
             "detailsId": "impending-doom-support-1-20",
             "tradeInfo": [],
             "listingCount": 243
-        },
-        {
-            "id": 61220,
-            "name": "Cast when Damage Taken Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0Nhc3RPbkRtZ1Rha2VuIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2f075f5964/CastOnDmgTaken.png",
-            "levelRequired": 38,
-            "baseType": "Cast when Damage Taken Support",
-            "variant": "1",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -10.53,
-                "data": [
-                    0,
-                    -42.11,
-                    -10.53,
-                    5.26,
-                    5.26,
-                    5.26,
-                    -10.53
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -10.53,
-                "data": [
-                    0,
-                    -42.11,
-                    -10.53,
-                    5.26,
-                    5.26,
-                    5.26,
-                    -10.53
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "This Gem can only Support Skill Gems requiring Level (38-69) or lower",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills deal (29-65)% less Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Trigger Supported Spells when you take (528-3142) total Damage from Hits",
-                    "optional": false
-                },
-                {
-                    "text": "Supported Skills require (1-9)% reduced amount of Damage taken to Trigger",
-                    "optional": true
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "gemLevel": 1,
-            "chaosValue": 1.7,
-            "exaltedValue": 0.22,
-            "divineValue": 0.01,
-            "count": 65,
-            "detailsId": "cast-when-damage-taken-support-1",
-            "tradeInfo": [],
-            "listingCount": 2217
         },
         {
             "id": 100655,
@@ -331519,6 +331449,68 @@
             "listingCount": 1448
         },
         {
+            "id": 61220,
+            "name": "Cast when Damage Taken Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L0Nhc3RPbkRtZ1Rha2VuIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2f075f5964/CastOnDmgTaken.png",
+            "levelRequired": 38,
+            "baseType": "Cast when Damage Taken Support",
+            "variant": "1",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -15.79,
+                "data": [
+                    0,
+                    -42.11,
+                    -10.53,
+                    5.26,
+                    5.26,
+                    5.26,
+                    -15.79
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -15.79,
+                "data": [
+                    0,
+                    -42.11,
+                    -10.53,
+                    5.26,
+                    5.26,
+                    5.26,
+                    -15.79
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "This Gem can only Support Skill Gems requiring Level (38-69) or lower",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills deal (29-65)% less Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Trigger Supported Spells when you take (528-3142) total Damage from Hits",
+                    "optional": false
+                },
+                {
+                    "text": "Supported Skills require (1-9)% reduced amount of Damage taken to Trigger",
+                    "optional": true
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "gemLevel": 1,
+            "chaosValue": 1.6,
+            "exaltedValue": 0.2,
+            "divineValue": 0.01,
+            "count": 64,
+            "detailsId": "cast-when-damage-taken-support-1",
+            "tradeInfo": [],
+            "listingCount": 2217
+        },
+        {
             "id": 67197,
             "name": "Eye of Winter",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9Gcm96ZW5TcGhlcmVTa2lsbEdlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/944702b2ee/FrozenSphereSkillGem.png",
@@ -331648,61 +331640,6 @@
             "detailsId": "boneshatter-21-20c",
             "tradeInfo": [],
             "listingCount": 293
-        },
-        {
-            "id": 100979,
-            "name": "Hex Bloom Support",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IZXhTcHJlYWRpbmdTdXBwb3J0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/873fa8ef65/HexSpreadingSupport.png",
-            "levelRequired": 72,
-            "baseType": "Hex Bloom Support",
-            "variant": "21c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -42.86,
-                "data": [
-                    0,
-                    -28.57,
-                    -28.57,
-                    -42.86,
-                    -42.86,
-                    -42.86,
-                    -42.86
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -42.86,
-                "data": [
-                    0,
-                    -28.57,
-                    -28.57,
-                    -42.86,
-                    -42.86,
-                    -42.86,
-                    -42.86
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Supported Skills have (30-33)% increased Hex Transfer range",
-                    "optional": false
-                },
-                {
-                    "text": "Hexes from Supported Skills Transfer to all Enemies within 3 metres when Hexed Enemy dies",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 21,
-            "chaosValue": 1.6,
-            "exaltedValue": 0.2,
-            "divineValue": 0.01,
-            "count": 7,
-            "detailsId": "hex-bloom-support-21c",
-            "tradeInfo": [],
-            "listingCount": 174
         },
         {
             "id": 109930,
@@ -334014,6 +333951,61 @@
             "detailsId": "cursed-ground-support-1-20",
             "tradeInfo": [],
             "listingCount": 205
+        },
+        {
+            "id": 100979,
+            "name": "Hex Bloom Support",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9IZXhTcHJlYWRpbmdTdXBwb3J0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/873fa8ef65/HexSpreadingSupport.png",
+            "levelRequired": 72,
+            "baseType": "Hex Bloom Support",
+            "variant": "21c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -46.43,
+                "data": [
+                    0,
+                    -28.57,
+                    -28.57,
+                    -42.86,
+                    -42.86,
+                    -42.86,
+                    -46.43
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -46.43,
+                "data": [
+                    0,
+                    -28.57,
+                    -28.57,
+                    -42.86,
+                    -42.86,
+                    -42.86,
+                    -46.43
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Supported Skills have (30-33)% increased Hex Transfer range",
+                    "optional": false
+                },
+                {
+                    "text": "Hexes from Supported Skills Transfer to all Enemies within 3 metres when Hexed Enemy dies",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 21,
+            "chaosValue": 1.5,
+            "exaltedValue": 0.19,
+            "divineValue": 0.01,
+            "count": 6,
+            "detailsId": "hex-bloom-support-21c",
+            "tradeInfo": [],
+            "listingCount": 174
         },
         {
             "id": 109952,
@@ -348711,7 +348703,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 4,
+            "count": 3,
             "detailsId": "vaal-power-siphon-20c",
             "tradeInfo": [],
             "listingCount": 33
@@ -362451,7 +362443,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 16,
+            "count": 15,
             "detailsId": "divine-ire-1-20",
             "tradeInfo": [],
             "listingCount": 483
@@ -369525,7 +369517,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 87,
+            "count": 86,
             "detailsId": "flame-dash-1",
             "tradeInfo": [],
             "listingCount": 3073
@@ -375651,7 +375643,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 145,
+            "count": 144,
             "detailsId": "frostblink-1",
             "tradeInfo": [],
             "listingCount": 5001
@@ -377381,7 +377373,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 51,
+            "count": 50,
             "detailsId": "bear-trap-1",
             "tradeInfo": [],
             "listingCount": 1562
@@ -378957,7 +378949,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 65,
+            "count": 64,
             "detailsId": "molten-shell-1",
             "tradeInfo": [],
             "listingCount": 2031
@@ -393807,7 +393799,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 11,
+            "count": 12,
             "detailsId": "earthquake-of-amplification-1",
             "tradeInfo": [],
             "tradeFilter": {
@@ -393827,7 +393819,7 @@
                     }
                 }
             },
-            "listingCount": 345
+            "listingCount": 346
         },
         {
             "id": 109971,
@@ -394222,7 +394214,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 14,
+            "count": 13,
             "detailsId": "summon-flame-golem-of-the-meteor-1",
             "tradeInfo": [],
             "tradeFilter": {
@@ -410832,84 +410824,6 @@
             "listingCount": 380
         },
         {
-            "id": 60927,
-            "name": "Lightning Trap",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdUcmFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2cf1863851/LightningTrap.png",
-            "levelRequired": 12,
-            "baseType": "Lightning Trap",
-            "variant": "1",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 1186,
-                "data": [
-                    0,
-                    14.29,
-                    1057,
-                    1286,
-                    1329,
-                    1200,
-                    1186
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 1186,
-                "data": [
-                    0,
-                    14.29,
-                    1057,
-                    1286,
-                    1329,
-                    1200,
-                    1186
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Deals (15-591) to (46-1772) Lightning Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Trap lasts 4 seconds",
-                    "optional": false
-                },
-                {
-                    "text": "Fires 9 Projectiles",
-                    "optional": false
-                },
-                {
-                    "text": "Fires Projectiles in a circle",
-                    "optional": false
-                },
-                {
-                    "text": "20% chance to Shock enemies",
-                    "optional": false
-                },
-                {
-                    "text": "(1-13)% Chance for Trap to Trigger an additional time",
-                    "optional": true
-                },
-                {
-                    "text": "(80-116)% increased Critical Strike Chance against Shocked Enemies",
-                    "optional": false
-                },
-                {
-                    "text": "(1-18)% increased Effect of Shock",
-                    "optional": true
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "gemLevel": 1,
-            "chaosValue": 0.9,
-            "exaltedValue": 0.12,
-            "divineValue": 0.0,
-            "count": 35,
-            "detailsId": "lightning-trap-1",
-            "tradeInfo": [],
-            "listingCount": 1518
-        },
-        {
             "id": 61104,
             "name": "Shockwave Support",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TdXBwb3J0L1Nob2Nrd2F2ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/891f9888bb/Shockwave.png",
@@ -411163,6 +411077,84 @@
             "detailsId": "somatic-shell-21c",
             "tradeInfo": [],
             "listingCount": 472
+        },
+        {
+            "id": 60927,
+            "name": "Lightning Trap",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdUcmFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2cf1863851/LightningTrap.png",
+            "levelRequired": 12,
+            "baseType": "Lightning Trap",
+            "variant": "1",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 1171,
+                "data": [
+                    0,
+                    14.29,
+                    1057,
+                    1286,
+                    1329,
+                    1200,
+                    1171
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 1171,
+                "data": [
+                    0,
+                    14.29,
+                    1057,
+                    1286,
+                    1329,
+                    1200,
+                    1171
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Deals (15-591) to (46-1772) Lightning Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Trap lasts 4 seconds",
+                    "optional": false
+                },
+                {
+                    "text": "Fires 9 Projectiles",
+                    "optional": false
+                },
+                {
+                    "text": "Fires Projectiles in a circle",
+                    "optional": false
+                },
+                {
+                    "text": "20% chance to Shock enemies",
+                    "optional": false
+                },
+                {
+                    "text": "(1-13)% Chance for Trap to Trigger an additional time",
+                    "optional": true
+                },
+                {
+                    "text": "(80-116)% increased Critical Strike Chance against Shocked Enemies",
+                    "optional": false
+                },
+                {
+                    "text": "(1-18)% increased Effect of Shock",
+                    "optional": true
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "gemLevel": 1,
+            "chaosValue": 0.89,
+            "exaltedValue": 0.11,
+            "divineValue": 0.0,
+            "count": 34,
+            "detailsId": "lightning-trap-1",
+            "tradeInfo": [],
+            "listingCount": 1518
         },
         {
             "id": 61090,
@@ -412871,64 +412863,6 @@
             "listingCount": 458
         },
         {
-            "id": 60953,
-            "name": "Lightning Arrow",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdBcnJvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/008dff6253/LightningArrow.png",
-            "levelRequired": 12,
-            "baseType": "Lightning Arrow",
-            "variant": "1",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -13.97,
-                "data": [
-                    0,
-                    -31.84,
-                    1.68,
-                    2.79,
-                    -0.56,
-                    -55.31,
-                    -13.97
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -13.97,
-                "data": [
-                    0,
-                    -31.84,
-                    1.68,
-                    2.79,
-                    -0.56,
-                    -55.31,
-                    -13.97
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "50% of Physical Damage Converted to Lightning Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Hits up to (3-4) additional enemies near the target",
-                    "optional": false
-                },
-                {
-                    "text": "Shocks Enemies as though dealing (100-280)% more Damage",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "gemLevel": 1,
-            "chaosValue": 0.77,
-            "exaltedValue": 0.1,
-            "divineValue": 0.0,
-            "count": 49,
-            "detailsId": "lightning-arrow-1",
-            "tradeInfo": [],
-            "listingCount": 1924
-        },
-        {
             "id": 67323,
             "name": "Shield Crush",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9TaGllbGRDcnVzaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6f73431f58/ShieldCrush.png",
@@ -413501,6 +413435,64 @@
             "detailsId": "divine-retribution-1",
             "tradeInfo": [],
             "listingCount": 1612
+        },
+        {
+            "id": 60953,
+            "name": "Lightning Arrow",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9MaWdodG5pbmdBcnJvdyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/008dff6253/LightningArrow.png",
+            "levelRequired": 12,
+            "baseType": "Lightning Arrow",
+            "variant": "1",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -16.2,
+                "data": [
+                    0,
+                    -31.84,
+                    1.68,
+                    2.79,
+                    -0.56,
+                    -55.31,
+                    -16.2
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -16.2,
+                "data": [
+                    0,
+                    -31.84,
+                    1.68,
+                    2.79,
+                    -0.56,
+                    -55.31,
+                    -16.2
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "50% of Physical Damage Converted to Lightning Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Hits up to (3-4) additional enemies near the target",
+                    "optional": false
+                },
+                {
+                    "text": "Shocks Enemies as though dealing (100-280)% more Damage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "gemLevel": 1,
+            "chaosValue": 0.75,
+            "exaltedValue": 0.1,
+            "divineValue": 0.0,
+            "count": 48,
+            "detailsId": "lightning-arrow-1",
+            "tradeInfo": [],
+            "listingCount": 1924
         },
         {
             "id": 20903,
@@ -417924,7 +417916,7 @@
             "variant": "1c",
             "itemClass": 4,
             "sparkLine": {
-                "totalChange": -72,
+                "totalChange": -73,
                 "data": [
                     0,
                     -20,
@@ -417932,11 +417924,11 @@
                     0,
                     0,
                     0,
-                    -72
+                    -73
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -72,
+                "totalChange": -73,
                 "data": [
                     0,
                     -20,
@@ -417944,7 +417936,7 @@
                     0,
                     0,
                     0,
-                    -72
+                    -73
                 ]
             },
             "implicitModifiers": [],
@@ -417978,10 +417970,10 @@
             "flavourText": "",
             "corrupted": true,
             "gemLevel": 1,
-            "chaosValue": 0.28,
-            "exaltedValue": 0.04,
+            "chaosValue": 0.27,
+            "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 70,
+            "count": 69,
             "detailsId": "vaal-ice-shot-1c",
             "tradeInfo": [],
             "listingCount": 1962
@@ -419417,64 +419409,6 @@
             "listingCount": 163
         },
         {
-            "id": 60973,
-            "name": "Cleave",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DbGVhdmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bde92a3edc/Cleave.png",
-            "levelRequired": 1,
-            "baseType": "Cleave",
-            "variant": "1",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": -79.03,
-                "data": [
-                    0,
-                    -39.52,
-                    -61.29,
-                    -69.35,
-                    -70.97,
-                    -80.65,
-                    -79.03
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -79.03,
-                "data": [
-                    0,
-                    -39.52,
-                    -61.29,
-                    -69.35,
-                    -70.97,
-                    -80.65,
-                    -79.03
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "When Dual Wielding, Deals 60% Damage from each Weapon combined",
-                    "optional": false
-                },
-                {
-                    "text": "+(0.1-0.9) metres to radius",
-                    "optional": true
-                },
-                {
-                    "text": "+0.1 metres to radius per Nearby Enemy, up to a maximum of +1 metre",
-                    "optional": true
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "gemLevel": 1,
-            "chaosValue": 0.13,
-            "exaltedValue": 0.02,
-            "divineValue": 0.0,
-            "count": 45,
-            "detailsId": "cleave-1",
-            "tradeInfo": [],
-            "listingCount": 1692
-        },
-        {
             "id": 61211,
             "name": "Devouring Totem",
             "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9EZXZvdXJpbmdUb3RlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c51be24ef9/DevouringTotem.png",
@@ -419543,6 +419477,64 @@
             "detailsId": "devouring-totem-1",
             "tradeInfo": [],
             "listingCount": 1472
+        },
+        {
+            "id": 60973,
+            "name": "Cleave",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9DbGVhdmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bde92a3edc/Cleave.png",
+            "levelRequired": 1,
+            "baseType": "Cleave",
+            "variant": "1",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": -80.65,
+                "data": [
+                    0,
+                    -39.52,
+                    -61.29,
+                    -69.35,
+                    -70.97,
+                    -80.65,
+                    -80.65
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -80.65,
+                "data": [
+                    0,
+                    -39.52,
+                    -61.29,
+                    -69.35,
+                    -70.97,
+                    -80.65,
+                    -80.65
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "When Dual Wielding, Deals 60% Damage from each Weapon combined",
+                    "optional": false
+                },
+                {
+                    "text": "+(0.1-0.9) metres to radius",
+                    "optional": true
+                },
+                {
+                    "text": "+0.1 metres to radius per Nearby Enemy, up to a maximum of +1 metre",
+                    "optional": true
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "gemLevel": 1,
+            "chaosValue": 0.12,
+            "exaltedValue": 0.01,
+            "divineValue": 0.0,
+            "count": 44,
+            "detailsId": "cleave-1",
+            "tradeInfo": [],
+            "listingCount": 1692
         },
         {
             "id": 61139,
@@ -419932,6 +419924,65 @@
             "detailsId": "split-arrow-1",
             "tradeInfo": [],
             "listingCount": 1797
+        },
+        {
+            "id": 108673,
+            "name": "Vaal Blade Flurry",
+            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsQmxhZGVGbHVycnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a06a3de124/VaalBladeFlurry.png",
+            "levelRequired": 28,
+            "baseType": "Vaal Blade Flurry",
+            "variant": "1c",
+            "itemClass": 4,
+            "sparkLine": {
+                "totalChange": 80,
+                "data": [
+                    0,
+                    0,
+                    20,
+                    20,
+                    0,
+                    0,
+                    80
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 80,
+                "data": [
+                    0,
+                    0,
+                    20,
+                    20,
+                    0,
+                    0,
+                    80
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(5-18)% more Damage while at maximum Stages",
+                    "optional": true
+                },
+                {
+                    "text": "25% more Damage with Hits and Ailments for each stage",
+                    "optional": false
+                },
+                {
+                    "text": "Maximum 6 Stages",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "corrupted": true,
+            "gemLevel": 1,
+            "chaosValue": 0.09,
+            "exaltedValue": 0.01,
+            "divineValue": 0.0,
+            "count": 57,
+            "detailsId": "vaal-blade-flurry-1c",
+            "tradeInfo": [],
+            "listingCount": 1850
         },
         {
             "id": 61278,
@@ -421190,65 +421241,6 @@
             "detailsId": "vaal-cleave-1c",
             "tradeInfo": [],
             "listingCount": 2240
-        },
-        {
-            "id": 108673,
-            "name": "Vaal Blade Flurry",
-            "icon": "https://web.poecdn.com/gen/image/WzMwLDE0LHsiZiI6IjJESXRlbXMvR2Vtcy9WYWFsR2Vtcy9WYWFsQmxhZGVGbHVycnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a06a3de124/VaalBladeFlurry.png",
-            "levelRequired": 28,
-            "baseType": "Vaal Blade Flurry",
-            "variant": "1c",
-            "itemClass": 4,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    20,
-                    20,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    20,
-                    20,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(5-18)% more Damage while at maximum Stages",
-                    "optional": true
-                },
-                {
-                    "text": "25% more Damage with Hits and Ailments for each stage",
-                    "optional": false
-                },
-                {
-                    "text": "Maximum 6 Stages",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "corrupted": true,
-            "gemLevel": 1,
-            "chaosValue": 0.05,
-            "exaltedValue": 0.01,
-            "divineValue": 0.0,
-            "count": 58,
-            "detailsId": "vaal-blade-flurry-1c",
-            "tradeInfo": [],
-            "listingCount": 1850
         },
         {
             "id": 108684,
