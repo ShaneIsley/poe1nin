@@ -34,12 +34,16 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "15% reduced Charges per use",
+                    "text": "(12-19)% reduced Charges per use",
                     "optional": false
                 },
                 {
-                    "text": "34% increased Duration",
-                    "optional": false
+                    "text": "(17-34)% increased Duration",
+                    "optional": true
+                },
+                {
+                    "text": "27% reduced Duration",
+                    "optional": true
                 },
                 {
                     "text": "When Hit during effect, 25% of Life loss from Damage taken occurs over 4 seconds instead",
@@ -64,7 +68,7 @@
             "baseType": "Gold Flask",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 12.79,
+                "totalChange": 8.36,
                 "data": [
                     0,
                     3.06,
@@ -72,11 +76,11 @@
                     10.43,
                     11.39,
                     9.9,
-                    12.79
+                    8.36
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 12.79,
+                "totalChange": 8.36,
                 "data": [
                     0,
                     3.06,
@@ -84,7 +88,7 @@
                     10.43,
                     11.39,
                     9.9,
-                    12.79
+                    8.36
                 ]
             },
             "implicitModifiers": [],
@@ -104,13 +108,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "\"To proclaim a vision of the future is to make it so,\nfor those that have the will, and the way!\"\n- High Templar Andronicus",
-            "chaosValue": 4365,
-            "exaltedValue": 505.8,
-            "divineValue": 22.9,
-            "count": 75,
+            "chaosValue": 4193,
+            "exaltedValue": 485.9,
+            "divineValue": 22.0,
+            "count": 76,
             "detailsId": "wine-of-the-prophet",
             "tradeInfo": [],
-            "listingCount": 244
+            "listingCount": 245
         },
         {
             "id": 7020,
@@ -236,11 +240,11 @@
                     "optional": false
                 },
                 {
-                    "text": "(41-52)% less Duration",
+                    "text": "(41-58)% less Duration",
                     "optional": false
                 },
                 {
-                    "text": "(15-20)% increased Area of Effect during Effect",
+                    "text": "(12-20)% increased Area of Effect during Effect",
                     "optional": false
                 },
                 {
@@ -253,10 +257,10 @@
             "chaosValue": 762.4,
             "exaltedValue": 88.34,
             "divineValue": 4.0,
-            "count": 177,
+            "count": 179,
             "detailsId": "dying-sun",
             "tradeInfo": [],
-            "listingCount": 1383
+            "listingCount": 1385
         },
         {
             "id": 20932,
@@ -297,7 +301,7 @@
             ],
             "explicitModifiers": [
                 {
-                    "text": "28% reduced Duration",
+                    "text": "(15-28)% reduced Duration",
                     "optional": false
                 },
                 {
@@ -305,11 +309,11 @@
                     "optional": false
                 },
                 {
-                    "text": "Consecrated Ground created during Effect applies 8% increased Damage taken to Enemies",
+                    "text": "Consecrated Ground created during Effect applies (7-10)% increased Damage taken to Enemies",
                     "optional": false
                 },
                 {
-                    "text": "148% increased Critical Strike Chance against Enemies on Consecrated Ground during Effect",
+                    "text": "(101-148)% increased Critical Strike Chance against Enemies on Consecrated Ground during Effect",
                     "optional": false
                 }
             ],
@@ -318,10 +322,10 @@
             "chaosValue": 381.2,
             "exaltedValue": 44.17,
             "divineValue": 2.0,
-            "count": 198,
+            "count": 197,
             "detailsId": "bottled-faith",
             "tradeInfo": [],
-            "listingCount": 1344
+            "listingCount": 1343
         },
         {
             "id": 68588,
@@ -408,7 +412,7 @@
                     "optional": false
                 },
                 {
-                    "text": "(20-26)% increased Rarity of Items found during Effect",
+                    "text": "(20-30)% increased Rarity of Items found during Effect",
                     "optional": true
                 },
                 {
@@ -417,10 +421,34 @@
                 },
                 {
                     "text": "Leech 1.5% of Expected Ignite Damage as Life when you Ignite an Enemy during Effect",
-                    "optional": false
+                    "optional": true
                 },
                 {
                     "text": "Regenerate 3% of Life per second during Effect",
+                    "optional": true
+                },
+                {
+                    "text": "Ignites you inflict during Effect spread to other Enemies within 1.5 metres",
+                    "optional": true
+                },
+                {
+                    "text": "You can apply an additional Curse during Effect",
+                    "optional": true
+                },
+                {
+                    "text": "Enemies Ignited by you during Effect have Malediction",
+                    "optional": true
+                },
+                {
+                    "text": "79% reduced Reflected Damage taken during Effect",
+                    "optional": true
+                },
+                {
+                    "text": "50% Chance to Avoid being Stunned during Effect",
+                    "optional": true
+                },
+                {
+                    "text": "15% of Damage Taken from Hits is Leeched as Life during Effect",
                     "optional": true
                 },
                 {
@@ -428,11 +456,11 @@
                     "optional": false
                 },
                 {
-                    "text": "Recover 1% of Mana when you Kill an Enemy during Effect",
+                    "text": "Recover (1-3)% of Life when you Kill an Enemy during Effect",
                     "optional": true
                 },
                 {
-                    "text": "Recover 3% of Life when you Kill an Enemy during Effect",
+                    "text": "Recover (1-3)% of Mana when you Kill an Enemy during Effect",
                     "optional": true
                 },
                 {
@@ -484,7 +512,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "(30-38)% increased Charge Recovery",
+                    "text": "(23-40)% increased Charge Recovery",
                     "optional": false
                 },
                 {
@@ -620,7 +648,28 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "90% reduced Duration",
+                    "optional": false
+                },
+                {
+                    "text": "Gain 1 Endurance Charge on use",
+                    "optional": false
+                },
+                {
+                    "text": "Petrified during Effect",
+                    "optional": false
+                },
+                {
+                    "text": "+(48-50)% Chance to Block Attack Damage during Effect",
+                    "optional": false
+                },
+                {
+                    "text": "+(23-29)% Chance to Block Spell Damage during Effect",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "\"The most terrifying split second of my life.\" \n- Researcher Graven",
             "chaosValue": 10.0,
@@ -662,8 +711,30 @@
                     0
                 ]
             },
-            "implicitModifiers": [],
-            "explicitModifiers": [],
+            "implicitModifiers": [
+                {
+                    "text": "Restores Ward on use",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "(5-8)% reduced Charges per use",
+                    "optional": false
+                },
+                {
+                    "text": "Debilitate nearby Enemies for 2 Seconds when Effect ends",
+                    "optional": false
+                },
+                {
+                    "text": "Effect is removed when Ward Breaks",
+                    "optional": false
+                },
+                {
+                    "text": "Culling Strike during Effect",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "Vorana trained her mercenaries\nthus: strike true and survive.",
             "chaosValue": 10.0,
@@ -708,11 +779,11 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "(27-30)% of Fire and Lightning Damage from Hits taken as Cold Damage during Effect",
+                    "text": "(21-30)% of Fire and Lightning Damage from Hits taken as Cold Damage during Effect",
                     "optional": false
                 },
                 {
-                    "text": "Gain 14% of Physical Damage as Extra Cold Damage during effect",
+                    "text": "Gain (10-14)% of Physical Damage as Extra Cold Damage during effect",
                     "optional": false
                 },
                 {
@@ -811,7 +882,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "Gain (7-8)% of Elemental Damage as Extra Chaos Damage during effect",
+                    "text": "Gain (5-8)% of Elemental Damage as Extra Chaos Damage during effect",
                     "optional": false
                 },
                 {
@@ -819,7 +890,7 @@
                     "optional": false
                 },
                 {
-                    "text": "Gain 8% of Physical Damage as Extra Chaos Damage during effect",
+                    "text": "Gain (5-8)% of Physical Damage as Extra Chaos Damage during effect",
                     "optional": false
                 }
             ],
@@ -865,16 +936,29 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "25% increased Duration",
+                    "optional": false
+                },
+                {
+                    "text": "Chaos Damage taken does not bypass Energy Shield during effect",
+                    "optional": false
+                },
+                {
+                    "text": "Removes all but one Life on use\nRemoved life is Regenerated as Energy Shield over 2 seconds",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "Let blood sear in your veins, \nLet the pain push outwards and turn away your enemy's blows.",
             "chaosValue": 5.0,
             "exaltedValue": 0.58,
             "divineValue": 0.03,
-            "count": 80,
+            "count": 81,
             "detailsId": "coruscating-elixir",
             "tradeInfo": [],
-            "listingCount": 2136
+            "listingCount": 2137
         },
         {
             "id": 1073,
@@ -910,11 +994,11 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "+(9-12)% Chance to Block Attack Damage during Effect",
+                    "text": "+(8-12)% Chance to Block Attack Damage during Effect",
                     "optional": false
                 },
                 {
-                    "text": "+(4-5)% Chance to Block Spell Damage during Effect",
+                    "text": "+(4-6)% Chance to Block Spell Damage during Effect",
                     "optional": false
                 }
             ],
@@ -923,10 +1007,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.58,
             "divineValue": 0.03,
-            "count": 313,
+            "count": 314,
             "detailsId": "rumis-concoction",
             "tradeInfo": [],
-            "listingCount": 5243
+            "listingCount": 5244
         },
         {
             "id": 128499,
@@ -960,7 +1044,32 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(201-274)% increased Charges per use",
+                    "optional": false
+                },
+                {
+                    "text": "(194-196)% increased Amount Recovered",
+                    "optional": false
+                },
+                {
+                    "text": "(51-59)% less Duration",
+                    "optional": false
+                },
+                {
+                    "text": "Removes (12-13)% of Life when Used",
+                    "optional": false
+                },
+                {
+                    "text": "Starts Energy Shield Recharge when Used",
+                    "optional": false
+                },
+                {
+                    "text": "Energy Shield Recharge is not delayed by Damage during Effect",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "\"Let us share our thirsts. Yours, for power,\nand mine, for death. A stable alliance,\nso long as you never speak my name...\"",
             "chaosValue": 4.7,
@@ -1003,7 +1112,16 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "50% increased Charges per use",
+                    "optional": false
+                },
+                {
+                    "text": "Grants Last Breath when you Use a Skill during Effect, for (505-546)% of Mana Cost",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "\"Proof that if you devote yourself to a god of death,\nyou may be spared from its wrath.\"\n- Icius Perandus, Antiquities Collection, Item 408",
             "chaosValue": 3.1,
@@ -1045,14 +1163,32 @@
                     -70
                 ]
             },
-            "implicitModifiers": [],
-            "explicitModifiers": [],
+            "implicitModifiers": [
+                {
+                    "text": "Creates Consecrated Ground on Use",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Life Recovery from Flasks also applies to Energy Shield during Effect",
+                    "optional": false
+                },
+                {
+                    "text": "50% increased Duration",
+                    "optional": false
+                },
+                {
+                    "text": "Eldritch Battery during Effect",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "\"Success! Prototype #54 has tapped into that sliver of divinity that exists within.\nFaith fuels the flesh, and the flesh fuels the fire...\"",
             "chaosValue": 3.0,
             "exaltedValue": 0.35,
             "divineValue": 0.02,
-            "count": 58,
+            "count": 57,
             "detailsId": "replica-sorrow-of-the-divine",
             "tradeInfo": [],
             "listingCount": 911
@@ -1095,7 +1231,7 @@
                     "optional": false
                 },
                 {
-                    "text": "47% reduced Recovery rate",
+                    "text": "(35-50)% reduced Recovery rate",
                     "optional": false
                 },
                 {
@@ -1147,7 +1283,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "(35-50)% increased Rarity of Items found during Effect",
+                    "text": "(33-50)% increased Rarity of Items found during Effect",
                     "optional": false
                 },
                 {
@@ -1203,7 +1339,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "(272-282)% increased Charges per use",
+                    "text": "(250-297)% increased Charges per use",
                     "optional": false
                 },
                 {
@@ -1215,16 +1351,20 @@
                     "optional": false
                 },
                 {
-                    "text": "Gain 2 Endurance Charges on use",
-                    "optional": false
+                    "text": "Gain (2-3) Endurance Charges on use",
+                    "optional": true
                 },
                 {
-                    "text": "Gain 2 Frenzy Charges on use",
+                    "text": "Gain 1 Endurance Charge on use",
+                    "optional": true
+                },
+                {
+                    "text": "Gain (2-3) Frenzy Charges on use",
                     "optional": true
                 },
                 {
                     "text": "Gain 1 Frenzy Charge on use",
-                    "optional": false
+                    "optional": true
                 },
                 {
                     "text": "Gain (2-3) Power Charges on use",
@@ -1240,10 +1380,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 208,
+            "count": 210,
             "detailsId": "doedres-elixir",
             "tradeInfo": [],
-            "listingCount": 7263
+            "listingCount": 7265
         },
         {
             "id": 537,
@@ -1279,7 +1419,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "Recover (83-96)% of Life on use",
+                    "text": "Recover (77-100)% of Life on use",
                     "optional": false
                 },
                 {
@@ -1331,7 +1471,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "(35-48)% increased Amount Recovered",
+                    "text": "(30-49)% increased Amount Recovered",
                     "optional": false
                 },
                 {
@@ -1385,7 +1525,24 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Knocks Back Enemies in an Area when you use a Flask",
+                    "optional": false
+                },
+                {
+                    "text": "75% chance to cause Enemies to Flee on use",
+                    "optional": false
+                },
+                {
+                    "text": "Adds Knockback to Melee Attacks during Effect",
+                    "optional": false
+                },
+                {
+                    "text": "(7-10)% more Melee Physical Damage during effect",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "A sprinkle of hunger, a spoonful of menace\nand three generous cups of Might.",
             "chaosValue": 1.0,
@@ -1394,7 +1551,7 @@
             "count": 158,
             "detailsId": "lions-roar",
             "tradeInfo": [],
-            "listingCount": 4546
+            "listingCount": 4545
         },
         {
             "id": 1068,
@@ -1434,7 +1591,7 @@
                     "optional": false
                 },
                 {
-                    "text": "(42-45)% increased Duration",
+                    "text": "(30-49)% increased Duration",
                     "optional": false
                 },
                 {
@@ -1454,7 +1611,7 @@
             "count": 262,
             "detailsId": "rotgut",
             "tradeInfo": [],
-            "listingCount": 7539
+            "listingCount": 7540
         },
         {
             "id": 1561,
@@ -1495,11 +1652,11 @@
             ],
             "explicitModifiers": [
                 {
-                    "text": "(40-55)% increased Charge Recovery",
+                    "text": "(40-60)% increased Charge Recovery",
                     "optional": false
                 },
                 {
-                    "text": "(80-95)% increased Charges gained by Other Flasks during Effect",
+                    "text": "(52-100)% increased Charges gained by Other Flasks during Effect",
                     "optional": false
                 },
                 {
@@ -1512,7 +1669,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 268,
+            "count": 267,
             "detailsId": "the-overflowing-chalice",
             "tradeInfo": [],
             "listingCount": 11463
@@ -1560,7 +1717,7 @@
                     "optional": false
                 },
                 {
-                    "text": "(33-46)% increased Duration",
+                    "text": "(29-50)% increased Duration",
                     "optional": false
                 },
                 {
@@ -1573,10 +1730,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 370,
+            "count": 371,
             "detailsId": "the-sorrow-of-the-divine",
             "tradeInfo": [],
-            "listingCount": 14431
+            "listingCount": 14432
         },
         {
             "id": 1679,
@@ -1612,11 +1769,11 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "16% reduced Charges per use",
+                    "text": "(11-20)% reduced Charges per use",
                     "optional": false
                 },
                 {
-                    "text": "67% reduced Amount Recovered",
+                    "text": "(65-75)% reduced Amount Recovered",
                     "optional": false
                 },
                 {
@@ -1636,7 +1793,7 @@
             "count": 258,
             "detailsId": "the-writhing-jar",
             "tradeInfo": [],
-            "listingCount": 7705
+            "listingCount": 7704
         },
         {
             "id": 1893,
@@ -1678,6 +1835,10 @@
             "explicitModifiers": [
                 {
                     "text": "3% increased Charges per use",
+                    "optional": true
+                },
+                {
+                    "text": "(1-10)% reduced Charges per use",
                     "optional": false
                 },
                 {
@@ -1727,7 +1888,16 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "During Effect, 6% reduced Damage taken of each Element for which your Uncapped Elemental Resistance is lowest",
+                    "optional": false
+                },
+                {
+                    "text": "During Effect, Damage Penetrates (5-8)% Resistance of each Element for which your Uncapped Elemental Resistance is highest",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "The summer sun dries the soil and burns the leaves.\nThe autumn rain extinguishes the flames.\nThe spring bloom shades the wet earth.\nNature is an eternal tug of war.",
             "chaosValue": 1.0,
@@ -1776,11 +1946,11 @@
                     "optional": false
                 },
                 {
-                    "text": "79% increased Critical Strike Chance with Vaal Skills during effect",
+                    "text": "(61-80)% increased Critical Strike Chance with Vaal Skills during effect",
                     "optional": false
                 },
                 {
-                    "text": "78% increased Damage with Vaal Skills during effect",
+                    "text": "(62-79)% increased Damage with Vaal Skills during effect",
                     "optional": false
                 },
                 {
@@ -1896,7 +2066,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "135% increased Charges per use",
+                    "text": "(131-150)% increased Charges per use",
                     "optional": false
                 },
                 {
@@ -1908,8 +2078,24 @@
                     "optional": false
                 },
                 {
-                    "text": "Adds 11 to 59 Lightning Damage to Spells during Effect",
-                    "optional": false
+                    "text": "Adds (11-14) to (59-64) Lightning Damage to Spells during Effect",
+                    "optional": true
+                },
+                {
+                    "text": "Damage Penetrates 6% Lightning Resistance during Effect",
+                    "optional": true
+                },
+                {
+                    "text": "Adds 15 to 60 Lightning Damage to Attacks during Effect",
+                    "optional": true
+                },
+                {
+                    "text": "38% increased Effect of Shocks you inflict during Effect",
+                    "optional": true
+                },
+                {
+                    "text": "Shocks you inflict during Effect spread to other Enemies within 2 metres",
+                    "optional": true
                 },
                 {
                     "text": "20% of Lightning Damage Leeched as Life during Effect",
@@ -1960,7 +2146,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "(65-79)% reduced Duration",
+                    "text": "(60-79)% reduced Duration",
                     "optional": false
                 },
                 {
@@ -2020,7 +2206,7 @@
                     "optional": false
                 },
                 {
-                    "text": "+(22-26)% to Damage over Time Multiplier for Poison from Critical Strikes during Effect",
+                    "text": "+(20-30)% to Damage over Time Multiplier for Poison from Critical Strikes during Effect",
                     "optional": false
                 },
                 {
