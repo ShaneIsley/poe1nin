@@ -8,7 +8,7 @@
             "baseType": "Amethyst Flask",
             "itemClass": 10,
             "sparkLine": {
-                "totalChange": 8.89,
+                "totalChange": 9.89,
                 "data": [
                     0,
                     4.08,
@@ -16,11 +16,11 @@
                     4.36,
                     2.26,
                     -0.6,
-                    8.89
+                    9.89
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 8.89,
+                "totalChange": 9.89,
                 "data": [
                     0,
                     4.08,
@@ -28,7 +28,7 @@
                     4.36,
                     2.26,
                     -0.6,
-                    8.89
+                    9.89
                 ]
             },
             "implicitModifiers": [],
@@ -38,11 +38,11 @@
                     "optional": false
                 },
                 {
-                    "text": "(3-34)% increased Duration",
+                    "text": "(20-27)% reduced Duration",
                     "optional": true
                 },
                 {
-                    "text": "27% reduced Duration",
+                    "text": "(3-34)% increased Duration",
                     "optional": true
                 },
                 {
@@ -52,13 +52,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "They were bred in a cosmic ocean of raw creation.\nFeasting and drinking of the milk of the mother,\nthey fought to the death for every last drop.",
-            "chaosValue": 14615,
-            "exaltedValue": 1695,
-            "divineValue": 76.0,
-            "count": 104,
+            "chaosValue": 14749,
+            "exaltedValue": 1711,
+            "divineValue": 76.7,
+            "count": 101,
             "detailsId": "progenesis",
             "tradeInfo": [],
-            "listingCount": 188
+            "listingCount": 186
         },
         {
             "id": 124913,
@@ -148,7 +148,24 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "-5 to Maximum Charges",
+                    "optional": false
+                },
+                {
+                    "text": "Loses all Charges when you enter a new area",
+                    "optional": false
+                },
+                {
+                    "text": "Consumes Maximum Charges to use",
+                    "optional": false
+                },
+                {
+                    "text": "Gain Vaal Souls equal to Charges Consumed when used",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "\"What care have I for their pain? They're already dead.\"\n- Atalui, Vaal Priestess",
             "chaosValue": 1923,
@@ -275,7 +292,7 @@
             "chaosValue": 769.2,
             "exaltedValue": 89.23,
             "divineValue": 4.0,
-            "count": 176,
+            "count": 175,
             "detailsId": "dying-sun",
             "tradeInfo": [],
             "listingCount": 1384
@@ -376,8 +393,26 @@
                     -3.45
                 ]
             },
-            "implicitModifiers": [],
-            "explicitModifiers": [],
+            "implicitModifiers": [
+                {
+                    "text": "Restores Ward on use",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "41% increased Charges per use",
+                    "optional": false
+                },
+                {
+                    "text": "Ward does not Break during Effect",
+                    "optional": false
+                },
+                {
+                    "text": "85% less Ward during Effect",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "Olroth the Gallant,\ntireless and true,\nhe fights for me,\nhe fights for you!",
             "chaosValue": 112.0,
@@ -430,6 +465,10 @@
                     "optional": false
                 },
                 {
+                    "text": "(75-79)% reduced Reflected Damage taken during Effect",
+                    "optional": true
+                },
+                {
                     "text": "(20-30)% increased Rarity of Items found during Effect",
                     "optional": true
                 },
@@ -455,10 +494,6 @@
                 },
                 {
                     "text": "Enemies Ignited by you during Effect have Malediction",
-                    "optional": true
-                },
-                {
-                    "text": "79% reduced Reflected Damage taken during Effect",
                     "optional": true
                 },
                 {
@@ -494,7 +529,7 @@
             "count": 399,
             "detailsId": "cinderswallow-urn",
             "tradeInfo": [],
-            "listingCount": 5275
+            "listingCount": 5274
         },
         {
             "id": 100474,
@@ -530,7 +565,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "(21-40)% increased Charge Recovery",
+                    "text": "(20-40)% increased Charge Recovery",
                     "optional": false
                 },
                 {
@@ -543,10 +578,10 @@
             "chaosValue": 25.0,
             "exaltedValue": 2.9,
             "divineValue": 0.13,
-            "count": 282,
+            "count": 283,
             "detailsId": "oriaths-end",
             "tradeInfo": [],
-            "listingCount": 2222
+            "listingCount": 2223
         },
         {
             "id": 68258,
@@ -587,7 +622,7 @@
             ],
             "explicitModifiers": [
                 {
-                    "text": "65% increased Duration",
+                    "text": "(55-65)% increased Duration",
                     "optional": false
                 },
                 {
@@ -640,8 +675,26 @@
                     -19.75
                 ]
             },
-            "implicitModifiers": [],
-            "explicitModifiers": [],
+            "implicitModifiers": [
+                {
+                    "text": "Creates a Smoke Cloud on Use",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "(1-7)% reduced Charges per use",
+                    "optional": true
+                },
+                {
+                    "text": "(5-8)% increased Charges per use",
+                    "optional": true
+                },
+                {
+                    "text": "Grants Level 21 Vulnerability Curse Aura during Effect",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "\"Nobody will listen to me, because I'm the only one that sees it.\nNothing left to do now but drink until this world makes sense.\"\n- Researcher Graven",
             "chaosValue": 13.0,
@@ -776,10 +829,10 @@
             "chaosValue": 10.0,
             "exaltedValue": 1.16,
             "divineValue": 0.05,
-            "count": 35,
+            "count": 33,
             "detailsId": "voranas-preparation",
             "tradeInfo": [],
-            "listingCount": 324
+            "listingCount": 323
         },
         {
             "id": 1394,
@@ -815,7 +868,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "(21-30)% of Fire and Lightning Damage from Hits taken as Cold Damage during Effect",
+                    "text": "(20-30)% of Fire and Lightning Damage from Hits taken as Cold Damage during Effect",
                     "optional": false
                 },
                 {
@@ -836,7 +889,7 @@
             "chaosValue": 8.0,
             "exaltedValue": 0.93,
             "divineValue": 0.04,
-            "count": 163,
+            "count": 162,
             "detailsId": "taste-of-hate",
             "tradeInfo": [],
             "listingCount": 2745
@@ -872,8 +925,22 @@
                     -40
                 ]
             },
-            "implicitModifiers": [],
-            "explicitModifiers": [],
+            "implicitModifiers": [
+                {
+                    "text": "Creates a Smoke Cloud on Use",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Grants Immunity to Ignite for 4 seconds if used while Ignited\nRemoves all Burning when used",
+                    "optional": false
+                },
+                {
+                    "text": "Unholy Might during Effect",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "And from the ashes he rose, like a black cloud.\nThe Sin of one became the Sin of many.",
             "chaosValue": 5.4,
@@ -1043,10 +1110,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.58,
             "divineValue": 0.03,
-            "count": 313,
+            "count": 314,
             "detailsId": "rumis-concoction",
             "tradeInfo": [],
-            "listingCount": 5243
+            "listingCount": 5244
         },
         {
             "id": 128499,
@@ -1280,7 +1347,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 193,
+            "count": 192,
             "detailsId": "blood-of-the-karui",
             "tradeInfo": [],
             "listingCount": 8126
@@ -1375,7 +1442,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "(250-297)% increased Charges per use",
+                    "text": "(250-300)% increased Charges per use",
                     "optional": false
                 },
                 {
@@ -1524,10 +1591,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 245,
+            "count": 246,
             "detailsId": "laviangas-spirit",
             "tradeInfo": [],
-            "listingCount": 8662
+            "listingCount": 8663
         },
         {
             "id": 763,
@@ -1587,7 +1654,7 @@
             "count": 158,
             "detailsId": "lions-roar",
             "tradeInfo": [],
-            "listingCount": 4545
+            "listingCount": 4544
         },
         {
             "id": 1068,
@@ -1644,10 +1711,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 265,
+            "count": 262,
             "detailsId": "rotgut",
             "tradeInfo": [],
-            "listingCount": 7541
+            "listingCount": 7537
         },
         {
             "id": 1561,
@@ -1705,10 +1772,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 269,
+            "count": 270,
             "detailsId": "the-overflowing-chalice",
             "tradeInfo": [],
-            "listingCount": 11465
+            "listingCount": 11466
         },
         {
             "id": 1614,
@@ -1887,10 +1954,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 96,
+            "count": 97,
             "detailsId": "witchfire-brew",
             "tradeInfo": [],
-            "listingCount": 3174
+            "listingCount": 3175
         },
         {
             "id": 2075,
@@ -1999,10 +2066,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 78,
+            "count": 79,
             "detailsId": "soul-catcher",
             "tradeInfo": [],
-            "listingCount": 1476
+            "listingCount": 1477
         },
         {
             "id": 44448,
@@ -2038,7 +2105,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "(39-50)% increased Amount Recovered",
+                    "text": "(30-50)% increased Amount Recovered",
                     "optional": false
                 },
                 {
@@ -2046,7 +2113,7 @@
                     "optional": false
                 },
                 {
-                    "text": "(11-15)% increased Attack Speed during Effect",
+                    "text": "(6-15)% increased Attack Speed during Effect",
                     "optional": false
                 },
                 {
@@ -2066,7 +2133,7 @@
             "count": 19,
             "detailsId": "replica-laviangas-spirit",
             "tradeInfo": [],
-            "listingCount": 525
+            "listingCount": 524
         },
         {
             "id": 60420,
@@ -2114,15 +2181,15 @@
                     "optional": false
                 },
                 {
+                    "text": "Adds (10-15) to (55-64) Lightning Damage to Attacks during Effect",
+                    "optional": true
+                },
+                {
                     "text": "Adds (10-15) to (55-65) Lightning Damage to Spells during Effect",
                     "optional": true
                 },
                 {
                     "text": "Damage Penetrates 6% Lightning Resistance during Effect",
-                    "optional": true
-                },
-                {
-                    "text": "Adds (10-15) to (60-64) Lightning Damage to Attacks during Effect",
                     "optional": true
                 },
                 {

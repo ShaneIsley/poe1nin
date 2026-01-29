@@ -2932,7 +2932,12 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{1,500x Vivid Crystallised Lifeforce}",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "Blazing through the night\nLonging for infinite flight\nAwaiting dawn's first light",
             "chaosValue": 33.63,
@@ -4937,7 +4942,12 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{10x Incubator}\n<default>{Item Level:} <normal>{84}",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "Feeding on death, they grew stronger and stronger, until they were ready to hatch...",
             "chaosValue": 10.0,
@@ -6286,7 +6296,12 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 21 Trap Gem}\n<default>{Quality:} <augmented>{+23%}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "\"The Karui was correct; there is virtue in honouring my ancestors.\"",
             "chaosValue": 5.5,
@@ -7925,6 +7940,55 @@
             "listingCount": 46
         },
         {
+            "id": 21571,
+            "name": "The Primordial",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Primordial",
+            "stackSize": 5,
+            "artFilename": "ThePrimordial",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -7.89,
+                "data": [
+                    0,
+                    -7.89,
+                    -15.79,
+                    -15.79,
+                    -15.79,
+                    -15.79,
+                    -7.89
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -7.89,
+                "data": [
+                    0,
+                    -7.89,
+                    -15.79,
+                    -15.79,
+                    -15.79,
+                    -15.79,
+                    -7.89
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Jewel}\n<magicitem>{Primordial}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "We play at God with our necromancy, \nbut forces far more potent \nsleep within these stones.",
+            "chaosValue": 3.5,
+            "exaltedValue": 0.41,
+            "divineValue": 0.02,
+            "count": 6,
+            "detailsId": "the-primordial",
+            "tradeInfo": [],
+            "listingCount": 194
+        },
+        {
             "id": 6916,
             "name": "The Professor",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -8044,55 +8108,6 @@
             "detailsId": "echoes-of-love",
             "tradeInfo": [],
             "listingCount": 69
-        },
-        {
-            "id": 21571,
-            "name": "The Primordial",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Primordial",
-            "stackSize": 5,
-            "artFilename": "ThePrimordial",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -15.79,
-                "data": [
-                    0,
-                    -7.89,
-                    -15.79,
-                    -15.79,
-                    -15.79,
-                    -15.79,
-                    -15.79
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -15.79,
-                "data": [
-                    0,
-                    -7.89,
-                    -15.79,
-                    -15.79,
-                    -15.79,
-                    -15.79,
-                    -15.79
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Jewel}\n<magicitem>{Primordial}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "We play at God with our necromancy, \nbut forces far more potent \nsleep within these stones.",
-            "chaosValue": 3.2,
-            "exaltedValue": 0.37,
-            "divineValue": 0.02,
-            "count": 5,
-            "detailsId": "the-primordial",
-            "tradeInfo": [],
-            "listingCount": 193
         },
         {
             "id": 109207,
@@ -8826,7 +8841,12 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Fishing Item}",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "The line between having not enough to do and too much to do is unusually fine.",
             "chaosValue": 2.5,
@@ -11607,7 +11627,12 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{7x Exalted Orb}",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "The first to travel are often rewarded for their journey, but all the treasure in the world cannot bring back those that are lost.",
             "chaosValue": 1.2,
@@ -12166,7 +12191,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 10,
+            "count": 9,
             "detailsId": "doedres-madness",
             "tradeInfo": [],
             "listingCount": 589
@@ -12700,7 +12725,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 10,
+            "count": 9,
             "detailsId": "lost-worlds",
             "tradeInfo": [],
             "listingCount": 242
@@ -12932,7 +12957,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 26,
+            "count": 25,
             "detailsId": "rain-of-chaos",
             "tradeInfo": [],
             "listingCount": 2104
@@ -13373,7 +13398,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 8,
+            "count": 7,
             "detailsId": "the-catalyst",
             "tradeInfo": [],
             "listingCount": 519
@@ -13411,7 +13436,12 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Six-Link Astral Plate}",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "Wrapped in the glory of the heavens, she comes to mete out justice for the fallen.",
             "chaosValue": 1.0,
@@ -15352,7 +15382,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.12,
             "divineValue": 0.01,
-            "count": 15,
+            "count": 14,
             "detailsId": "volatile-power",
             "tradeInfo": [],
             "listingCount": 538
@@ -16474,7 +16504,12 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Scarab}",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "\"There are two ways to pay, Gold and Blood. I'll take my share in both.\"\n\n-Cameria the Coldblooded",
             "chaosValue": 1.0,
@@ -16518,7 +16553,12 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Skin of the Lords}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "They whose lives were given to clothe the Dark Dreamer... They were the lucky ones.",
             "chaosValue": 1.0,
@@ -17037,7 +17077,12 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{Delirium Orb}",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "<size:28>{No man sees all, but you'll see more than some see in a lifetime.}",
             "chaosValue": 1.0,
