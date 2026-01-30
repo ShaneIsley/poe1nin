@@ -347,7 +347,7 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "(4-5)% increased Dexterity",
+                    "text": "(4-6)% increased Dexterity",
                     "optional": false
                 },
                 {
@@ -568,7 +568,7 @@
             "chaosValue": 390.0,
             "exaltedValue": 27.5,
             "divineValue": 2.08,
-            "count": 265,
+            "count": 264,
             "detailsId": "stormshroud-viridian-jewel",
             "tradeInfo": [],
             "listingCount": 820
@@ -604,6 +604,10 @@
                 ]
             },
             "implicitModifiers": [
+                {
+                    "text": "4% increased Spell Damage while holding a Shield",
+                    "optional": true
+                },
                 {
                     "text": "(2-5)% increased Spell Damage",
                     "optional": true
@@ -641,7 +645,15 @@
                     "optional": true
                 },
                 {
-                    "text": "4% increased Physical Damage with Bows",
+                    "text": "1% increased Attack Speed with Daggers",
+                    "optional": true
+                },
+                {
+                    "text": "(4-5)% increased Physical Damage with Bows",
+                    "optional": true
+                },
+                {
+                    "text": "0.1% of Physical Attack Damage Leeched as Mana",
                     "optional": true
                 },
                 {
@@ -685,10 +697,6 @@
                     "optional": true
                 },
                 {
-                    "text": "(1-2)% increased Cast Speed while Dual Wielding",
-                    "optional": true
-                },
-                {
                     "text": "(3-6)% increased Physical Damage with Axes",
                     "optional": true
                 },
@@ -718,6 +726,26 @@
                 },
                 {
                     "text": "4% increased Global Critical Strike Chance",
+                    "optional": true
+                },
+                {
+                    "text": "(1-2)% increased Cast Speed while Dual Wielding",
+                    "optional": true
+                },
+                {
+                    "text": "-6 Physical Damage taken from Attack Hits",
+                    "optional": true
+                },
+                {
+                    "text": "+(2-5)% to Lightning Resistance",
+                    "optional": true
+                },
+                {
+                    "text": "(1-3)% chance to Poison on Hit",
+                    "optional": true
+                },
+                {
+                    "text": "18% chance to Ignore Stuns while Casting",
                     "optional": true
                 },
                 {
@@ -797,14 +825,6 @@
                     "optional": true
                 },
                 {
-                    "text": "1% chance to Poison on Hit",
-                    "optional": true
-                },
-                {
-                    "text": "+2% to Lightning Resistance",
-                    "optional": true
-                },
-                {
                     "text": "+(2-3) to maximum Mana",
                     "optional": true
                 },
@@ -881,7 +901,7 @@
             "chaosValue": 375.4,
             "exaltedValue": 26.47,
             "divineValue": 2.0,
-            "count": 177,
+            "count": 176,
             "detailsId": "rational-doctrine-cobalt-jewel",
             "tradeInfo": [],
             "listingCount": 1076
@@ -933,10 +953,10 @@
             "chaosValue": 187.7,
             "exaltedValue": 13.24,
             "divineValue": 1.0,
-            "count": 383,
+            "count": 382,
             "detailsId": "unnatural-instinct-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 2145
+            "listingCount": 2144
         },
         {
             "id": 128414,
@@ -1079,12 +1099,12 @@
             "implicitModifiers": [],
             "explicitModifiers": [
                 {
-                    "text": "+1 to Minimum Power Charges per Grand Spectrum",
+                    "text": "25% increased Critical Strike Chance per Grand Spectrum",
                     "optional": true
                 },
                 {
-                    "text": "25% increased Critical Strike Chance per Grand Spectrum",
-                    "optional": false
+                    "text": "+1 to Minimum Power Charges per Grand Spectrum",
+                    "optional": true
                 },
                 {
                     "text": "Minions have +10% to Critical Strike Multiplier per Grand Spectrum",
@@ -1457,7 +1477,7 @@
             "chaosValue": 100.0,
             "exaltedValue": 7.05,
             "divineValue": 0.53,
-            "count": 46,
+            "count": 44,
             "detailsId": "transcendent-spirit-viridian-jewel",
             "tradeInfo": [],
             "listingCount": 130
@@ -1706,10 +1726,10 @@
             "chaosValue": 50.0,
             "exaltedValue": 3.53,
             "divineValue": 0.27,
-            "count": 54,
+            "count": 55,
             "detailsId": "fortress-covenant-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 925
+            "listingCount": 926
         },
         {
             "id": 586,
@@ -1818,10 +1838,10 @@
             "chaosValue": 40.0,
             "exaltedValue": 2.82,
             "divineValue": 0.21,
-            "count": 358,
+            "count": 360,
             "detailsId": "melding-of-the-flesh-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 1798
+            "listingCount": 1800
         },
         {
             "id": 128896,
@@ -1889,13 +1909,69 @@
             "listingCount": 1117
         },
         {
+            "id": 6893,
+            "name": "Combat Focus",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0VsZW1lbnRhbEhpdENvbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2d08fbc4ec/ElementalHitCold.png",
+            "baseType": "Crimson Jewel",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -29.38,
+                "data": [
+                    0,
+                    -1.13,
+                    -15.25,
+                    -15.25,
+                    -15.25,
+                    -15.25,
+                    -29.38
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -29.38,
+                "data": [
+                    0,
+                    -1.13,
+                    -15.25,
+                    -15.25,
+                    -15.25,
+                    -15.25,
+                    -29.38
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(10-15)% increased Elemental Damage",
+                    "optional": false
+                },
+                {
+                    "text": "With 40 total Strength and Intelligence in Radius, Prismatic Skills deal 50% less Cold Damage",
+                    "optional": false
+                },
+                {
+                    "text": "With 40 total Strength and Intelligence in Radius, Prismatic Skills cannot choose Cold",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Kaom watched the torches patrol the top of the Watch. \nHe observed the lay of the beach, its barricades and rocks, \nand his men in their canoes, ready to lay their lives down for him.\nBut when his foot hit the sand, he thought only of the fight.",
+            "itemType": "Jewel",
+            "chaosValue": 25.0,
+            "exaltedValue": 1.76,
+            "divineValue": 0.13,
+            "count": 127,
+            "detailsId": "combat-focus-crimson-jewel",
+            "tradeInfo": [],
+            "listingCount": 156
+        },
+        {
             "id": 101151,
             "name": "The Balance of Terror",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTE5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/72dbd8bd3d/unique19.png",
             "baseType": "Cobalt Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 30,
+                "totalChange": 25,
                 "data": [
                     0,
                     0,
@@ -1903,11 +1979,11 @@
                     0,
                     40,
                     50,
-                    30
+                    25
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 30,
+                "totalChange": 25,
                 "data": [
                     0,
                     0,
@@ -1915,7 +1991,7 @@
                     0,
                     40,
                     50,
-                    30
+                    25
                 ]
             },
             "implicitModifiers": [],
@@ -2000,69 +2076,13 @@
             "mutatedModifiers": [],
             "flavourText": "Fellshrine stood as a holy bastion opposite the\nChamber of Sins, and all that it represented.\nFor one to rise, the other must fall.",
             "itemType": "Jewel",
-            "chaosValue": 26.0,
-            "exaltedValue": 1.83,
-            "divineValue": 0.14,
-            "count": 380,
-            "detailsId": "the-balance-of-terror-cobalt-jewel",
-            "tradeInfo": [],
-            "listingCount": 10134
-        },
-        {
-            "id": 6893,
-            "name": "Combat Focus",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0VsZW1lbnRhbEhpdENvbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2d08fbc4ec/ElementalHitCold.png",
-            "baseType": "Crimson Jewel",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -29.38,
-                "data": [
-                    0,
-                    -1.13,
-                    -15.25,
-                    -15.25,
-                    -15.25,
-                    -15.25,
-                    -29.38
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -29.38,
-                "data": [
-                    0,
-                    -1.13,
-                    -15.25,
-                    -15.25,
-                    -15.25,
-                    -15.25,
-                    -29.38
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(10-15)% increased Elemental Damage",
-                    "optional": false
-                },
-                {
-                    "text": "With 40 total Strength and Intelligence in Radius, Prismatic Skills deal 50% less Cold Damage",
-                    "optional": false
-                },
-                {
-                    "text": "With 40 total Strength and Intelligence in Radius, Prismatic Skills cannot choose Cold",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Kaom watched the torches patrol the top of the Watch. \nHe observed the lay of the beach, its barricades and rocks, \nand his men in their canoes, ready to lay their lives down for him.\nBut when his foot hit the sand, he thought only of the fight.",
-            "itemType": "Jewel",
             "chaosValue": 25.0,
             "exaltedValue": 1.76,
             "divineValue": 0.13,
-            "count": 127,
-            "detailsId": "combat-focus-crimson-jewel",
+            "count": 378,
+            "detailsId": "the-balance-of-terror-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 156
+            "listingCount": 10133
         },
         {
             "id": 103486,
@@ -2111,10 +2131,10 @@
             "chaosValue": 25.0,
             "exaltedValue": 1.76,
             "divineValue": 0.13,
-            "count": 180,
+            "count": 178,
             "detailsId": "ancestral-vision-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 2469
+            "listingCount": 2468
         },
         {
             "id": 1953,
@@ -2174,7 +2194,103 @@
             "count": 399,
             "detailsId": "primordial-eminence-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 7337
+            "listingCount": 7336
+        },
+        {
+            "id": 118579,
+            "name": "The Light of Meaning",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0FmZmxpY3Rpb25KZXdlbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0794886e1c/AfflictionJewel.png",
+            "baseType": "Prismatic Jewel",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 51.72,
+                "data": [
+                    0,
+                    -31.03,
+                    -31.03,
+                    -31.03,
+                    3.45,
+                    62.76,
+                    51.72
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 51.72,
+                "data": [
+                    0,
+                    -31.03,
+                    -31.03,
+                    -31.03,
+                    3.45,
+                    62.76,
+                    51.72
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Passive Skills in Radius also grant 6% increased Lightning Damage",
+                    "optional": true
+                },
+                {
+                    "text": "Passive Skills in Radius also grant +2 to all Attributes",
+                    "optional": true
+                },
+                {
+                    "text": "Passive Skills in Radius also grant +5 to maximum Mana",
+                    "optional": true
+                },
+                {
+                    "text": "Passive Skills in Radius also grant 5% increased Global Critical Strike Chance",
+                    "optional": true
+                },
+                {
+                    "text": "Passive Skills in Radius also grant 6% increased Chaos Damage",
+                    "optional": true
+                },
+                {
+                    "text": "Passive Skills in Radius also grant 6% increased Fire Damage",
+                    "optional": true
+                },
+                {
+                    "text": "Passive Skills in Radius also grant +5 to maximum Life",
+                    "optional": true
+                },
+                {
+                    "text": "Passive Skills in Radius also grant 6% increased Physical Damage",
+                    "optional": true
+                },
+                {
+                    "text": "Passive Skills in Radius also grant 6% increased Cold Damage",
+                    "optional": true
+                },
+                {
+                    "text": "Passive Skills in Radius also grant 7% increased Evasion Rating",
+                    "optional": true
+                },
+                {
+                    "text": "Passive Skills in Radius also grant +4% to Chaos Resistance",
+                    "optional": true
+                },
+                {
+                    "text": "Passive Skills in Radius also grant 7% increased Armour",
+                    "optional": true
+                },
+                {
+                    "text": "Passive Skills in Radius also grant 3% increased Energy Shield",
+                    "optional": true
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "To name a thing is to give it power.",
+            "itemType": "Jewel",
+            "chaosValue": 22.0,
+            "exaltedValue": 1.55,
+            "divineValue": 0.12,
+            "count": 399,
+            "detailsId": "the-light-of-meaning-prismatic-jewel",
+            "tradeInfo": [],
+            "listingCount": 7916
         },
         {
             "id": 128938,
@@ -2240,102 +2356,6 @@
             "detailsId": "foulborn-the-blue-nightmare-cobalt-jewel",
             "tradeInfo": [],
             "listingCount": 1329
-        },
-        {
-            "id": 118579,
-            "name": "The Light of Meaning",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0FmZmxpY3Rpb25KZXdlbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0794886e1c/AfflictionJewel.png",
-            "baseType": "Prismatic Jewel",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 48.97,
-                "data": [
-                    0,
-                    -31.03,
-                    -31.03,
-                    -31.03,
-                    3.45,
-                    62.76,
-                    48.97
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 48.97,
-                "data": [
-                    0,
-                    -31.03,
-                    -31.03,
-                    -31.03,
-                    3.45,
-                    62.76,
-                    48.97
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Passive Skills in Radius also grant 6% increased Lightning Damage",
-                    "optional": true
-                },
-                {
-                    "text": "Passive Skills in Radius also grant +2 to all Attributes",
-                    "optional": true
-                },
-                {
-                    "text": "Passive Skills in Radius also grant +5 to maximum Mana",
-                    "optional": true
-                },
-                {
-                    "text": "Passive Skills in Radius also grant 5% increased Global Critical Strike Chance",
-                    "optional": true
-                },
-                {
-                    "text": "Passive Skills in Radius also grant 6% increased Chaos Damage",
-                    "optional": true
-                },
-                {
-                    "text": "Passive Skills in Radius also grant 6% increased Fire Damage",
-                    "optional": true
-                },
-                {
-                    "text": "Passive Skills in Radius also grant +5 to maximum Life",
-                    "optional": true
-                },
-                {
-                    "text": "Passive Skills in Radius also grant 6% increased Physical Damage",
-                    "optional": true
-                },
-                {
-                    "text": "Passive Skills in Radius also grant 6% increased Cold Damage",
-                    "optional": true
-                },
-                {
-                    "text": "Passive Skills in Radius also grant 7% increased Evasion Rating",
-                    "optional": true
-                },
-                {
-                    "text": "Passive Skills in Radius also grant +4% to Chaos Resistance",
-                    "optional": true
-                },
-                {
-                    "text": "Passive Skills in Radius also grant 7% increased Armour",
-                    "optional": true
-                },
-                {
-                    "text": "Passive Skills in Radius also grant 3% increased Energy Shield",
-                    "optional": true
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "To name a thing is to give it power.",
-            "itemType": "Jewel",
-            "chaosValue": 21.6,
-            "exaltedValue": 1.52,
-            "divineValue": 0.12,
-            "count": 399,
-            "detailsId": "the-light-of-meaning-prismatic-jewel",
-            "tradeInfo": [],
-            "listingCount": 7915
         },
         {
             "id": 2030,
@@ -2843,7 +2863,7 @@
             "count": 399,
             "detailsId": "watchers-eye-prismatic-jewel",
             "tradeInfo": [],
-            "listingCount": 218461
+            "listingCount": 218459
         },
         {
             "id": 21663,
@@ -2903,7 +2923,7 @@
             "count": 399,
             "detailsId": "lethal-pride-timeless-jewel",
             "tradeInfo": [],
-            "listingCount": 225318
+            "listingCount": 225322
         },
         {
             "id": 93024,
@@ -3053,7 +3073,7 @@
             "baseType": "Viridian Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -11.66,
+                "totalChange": -12.11,
                 "data": [
                     0,
                     6.73,
@@ -3061,11 +3081,11 @@
                     -10.31,
                     -14.35,
                     -10.31,
-                    -11.66
+                    -12.11
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -11.66,
+                "totalChange": -12.11,
                 "data": [
                     0,
                     6.73,
@@ -3073,7 +3093,7 @@
                     -10.31,
                     -14.35,
                     -10.31,
-                    -11.66
+                    -12.11
                 ]
             },
             "implicitModifiers": [],
@@ -3103,10 +3123,10 @@
             ],
             "flavourText": "The spirits of our ancestors guided us from the Archipelago to the continent.\nInextricably, the purity of our souls is linked to the ones who came before us.",
             "itemType": "Jewel",
-            "chaosValue": 19.7,
-            "exaltedValue": 1.39,
+            "chaosValue": 19.6,
+            "exaltedValue": 1.38,
             "divineValue": 0.1,
-            "count": 86,
+            "count": 85,
             "detailsId": "foulborn-ancestral-vision-viridian-jewel",
             "tradeInfo": [],
             "listingCount": 736
@@ -3221,6 +3241,71 @@
             "listingCount": 1152
         },
         {
+            "id": 129071,
+            "name": "Foulborn The Green Nightmare",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RoZUdyZWVuRHJlYW1VcGdyYWRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/ba2782b3eb/TheGreenDreamUpgrade.png",
+            "baseType": "Viridian Jewel",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -12.5,
+                "data": [
+                    0,
+                    -10,
+                    -25,
+                    -25,
+                    -25,
+                    -25,
+                    -12.5
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -12.5,
+                "data": [
+                    0,
+                    -10,
+                    -25,
+                    -25,
+                    -25,
+                    -25,
+                    -12.5
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Gain (6-10)% of Cold Damage as Extra Chaos Damage",
+                    "optional": true
+                },
+                {
+                    "text": "Passives granting Cold Resistance or all Elemental Resistances in Radius\nalso grant Chance to Suppress Spell Damage at 70% of its value",
+                    "optional": true
+                }
+            ],
+            "mutatedModifiers": [
+                {
+                    "text": "Cold Damage with Hits is Lucky if you've Suppressed Spell Damage Recently",
+                    "optional": true
+                },
+                {
+                    "text": "1% increased Movement Speed per Frenzy Charge",
+                    "optional": true
+                },
+                {
+                    "text": "Passives granting Cold Resistance or all Elemental Resistances in Radius\nalso grant Cold Damage Converted to Chaos Damage at 100% of its value",
+                    "optional": true
+                }
+            ],
+            "flavourText": "We take root in the dirt\nand strangle those who tread upon it.",
+            "itemType": "Jewel",
+            "chaosValue": 17.5,
+            "exaltedValue": 1.23,
+            "divineValue": 0.09,
+            "count": 70,
+            "detailsId": "foulborn-the-green-nightmare-viridian-jewel",
+            "tradeInfo": [],
+            "listingCount": 1273
+        },
+        {
             "id": 587,
             "name": "Grand Spectrum",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyYW5kU3BlY3RydW0yX0dyZWVuIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e45dcaecc4/GrandSpectrum2_Green.png",
@@ -3277,78 +3362,13 @@
             "listingCount": 1147
         },
         {
-            "id": 129071,
-            "name": "Foulborn The Green Nightmare",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RoZUdyZWVuRHJlYW1VcGdyYWRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/ba2782b3eb/TheGreenDreamUpgrade.png",
-            "baseType": "Viridian Jewel",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -15,
-                "data": [
-                    0,
-                    -10,
-                    -25,
-                    -25,
-                    -25,
-                    -25,
-                    -15
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -15,
-                "data": [
-                    0,
-                    -10,
-                    -25,
-                    -25,
-                    -25,
-                    -25,
-                    -15
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Gain (6-10)% of Cold Damage as Extra Chaos Damage",
-                    "optional": true
-                },
-                {
-                    "text": "Passives granting Cold Resistance or all Elemental Resistances in Radius\nalso grant Chance to Suppress Spell Damage at 70% of its value",
-                    "optional": true
-                }
-            ],
-            "mutatedModifiers": [
-                {
-                    "text": "Cold Damage with Hits is Lucky if you've Suppressed Spell Damage Recently",
-                    "optional": true
-                },
-                {
-                    "text": "1% increased Movement Speed per Frenzy Charge",
-                    "optional": true
-                },
-                {
-                    "text": "Passives granting Cold Resistance or all Elemental Resistances in Radius\nalso grant Cold Damage Converted to Chaos Damage at 100% of its value",
-                    "optional": true
-                }
-            ],
-            "flavourText": "We take root in the dirt\nand strangle those who tread upon it.",
-            "itemType": "Jewel",
-            "chaosValue": 17.0,
-            "exaltedValue": 1.2,
-            "divineValue": 0.09,
-            "count": 69,
-            "detailsId": "foulborn-the-green-nightmare-viridian-jewel",
-            "tradeInfo": [],
-            "listingCount": 1273
-        },
-        {
             "id": 128397,
             "name": "Foulborn Stormshroud",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuSmV3ZWwyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm11dGF0ZWQiOnRydWV9XQ/10396bed9f/GreenJewel2.png",
             "baseType": "Viridian Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 56,
+                "totalChange": 55,
                 "data": [
                     0,
                     -14,
@@ -3356,11 +3376,11 @@
                     0,
                     8,
                     38,
-                    56
+                    55
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 56,
+                "totalChange": 55,
                 "data": [
                     0,
                     -14,
@@ -3368,7 +3388,7 @@
                     0,
                     8,
                     38,
-                    56
+                    55
                 ]
             },
             "implicitModifiers": [],
@@ -3394,10 +3414,10 @@
             ],
             "flavourText": "The true secret of the elements\nis that all are one and the same.",
             "itemType": "Jewel",
-            "chaosValue": 15.6,
-            "exaltedValue": 1.1,
+            "chaosValue": 15.5,
+            "exaltedValue": 1.09,
             "divineValue": 0.08,
-            "count": 83,
+            "count": 82,
             "detailsId": "foulborn-stormshroud-viridian-jewel",
             "tradeInfo": [],
             "listingCount": 1034
@@ -3409,7 +3429,7 @@
             "baseType": "Timeless Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 51,
+                "totalChange": 52,
                 "data": [
                     0,
                     0,
@@ -3417,11 +3437,11 @@
                     100,
                     -1,
                     0,
-                    51
+                    52
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 51,
+                "totalChange": 52,
                 "data": [
                     0,
                     0,
@@ -3429,7 +3449,7 @@
                     100,
                     -1,
                     0,
-                    51
+                    52
                 ]
             },
             "implicitModifiers": [],
@@ -3510,13 +3530,13 @@
             "mutatedModifiers": [],
             "flavourText": "They believed themselves the utmost faithful, but that conviction became oppression.",
             "itemType": "Jewel",
-            "chaosValue": 15.1,
-            "exaltedValue": 1.06,
+            "chaosValue": 15.2,
+            "exaltedValue": 1.07,
             "divineValue": 0.08,
             "count": 399,
             "detailsId": "militant-faith-timeless-jewel",
             "tradeInfo": [],
-            "listingCount": 262177
+            "listingCount": 262185
         },
         {
             "id": 93025,
@@ -3559,7 +3579,7 @@
             "count": 399,
             "detailsId": "forbidden-flame-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 8964
+            "listingCount": 8957
         },
         {
             "id": 93067,
@@ -3602,7 +3622,7 @@
             "count": 399,
             "detailsId": "forbidden-flesh-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 8292
+            "listingCount": 8271
         },
         {
             "id": 103434,
@@ -3650,7 +3670,7 @@
             "count": 186,
             "detailsId": "bloodnotch-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 3243
+            "listingCount": 3241
         },
         {
             "id": 1977,
@@ -3707,7 +3727,7 @@
             "baseType": "Timeless Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 42,
+                "totalChange": 48,
                 "data": [
                     0,
                     0,
@@ -3715,11 +3735,11 @@
                     5,
                     0,
                     0,
-                    42
+                    48
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 42,
+                "totalChange": 48,
                 "data": [
                     0,
                     0,
@@ -3727,7 +3747,7 @@
                     5,
                     0,
                     0,
-                    42
+                    48
                 ]
             },
             "implicitModifiers": [],
@@ -3752,13 +3772,13 @@
             "mutatedModifiers": [],
             "flavourText": "They believed themselves the most ordered, but that tradition turned their forests to salt.",
             "itemType": "Jewel",
-            "chaosValue": 14.2,
-            "exaltedValue": 1.0,
+            "chaosValue": 14.8,
+            "exaltedValue": 1.04,
             "divineValue": 0.08,
             "count": 399,
             "detailsId": "brutal-restraint-timeless-jewel",
             "tradeInfo": [],
-            "listingCount": 237531
+            "listingCount": 237538
         },
         {
             "id": 95710,
@@ -4082,7 +4102,7 @@
             "count": 399,
             "detailsId": "elegant-hubris-timeless-jewel",
             "tradeInfo": [],
-            "listingCount": 243479
+            "listingCount": 243484
         },
         {
             "id": 50060,
@@ -4443,10 +4463,10 @@
             "chaosValue": 7.0,
             "exaltedValue": 0.49,
             "divineValue": 0.04,
-            "count": 387,
+            "count": 386,
             "detailsId": "primordial-harmony-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 6348
+            "listingCount": 6347
         },
         {
             "id": 40069,
@@ -4491,7 +4511,7 @@
             "chaosValue": 7.0,
             "exaltedValue": 0.49,
             "divineValue": 0.04,
-            "count": 153,
+            "count": 152,
             "detailsId": "natural-affinity-small-cluster-jewel",
             "tradeInfo": [],
             "listingCount": 3877
@@ -4711,7 +4731,7 @@
             "count": 399,
             "detailsId": "glorious-vanity-timeless-jewel",
             "tradeInfo": [],
-            "listingCount": 280824
+            "listingCount": 280832
         },
         {
             "id": 22378,
@@ -4822,7 +4842,7 @@
             "count": 399,
             "detailsId": "thread-of-hope-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 17571
+            "listingCount": 17572
         },
         {
             "id": 40072,
@@ -5282,10 +5302,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.35,
             "divineValue": 0.03,
-            "count": 227,
+            "count": 229,
             "detailsId": "foulborn-the-red-dream-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 3731
+            "listingCount": 3732
         },
         {
             "id": 40116,
@@ -5294,7 +5314,7 @@
             "baseType": "Medium Cluster Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -38.89,
+                "totalChange": -34.72,
                 "data": [
                     0,
                     -30.56,
@@ -5302,11 +5322,11 @@
                     -30.56,
                     -36.11,
                     -30.56,
-                    -38.89
+                    -34.72
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -38.89,
+                "totalChange": -34.72,
                 "data": [
                     0,
                     -30.56,
@@ -5314,20 +5334,20 @@
                     -30.56,
                     -36.11,
                     -30.56,
-                    -38.89
+                    -34.72
                 ]
             },
             "implicitModifiers": [],
             "explicitModifiers": [],
             "mutatedModifiers": [],
             "flavourText": "If you're going to act like you're better than everyone else, make sure you are.",
-            "chaosValue": 4.4,
-            "exaltedValue": 0.31,
-            "divineValue": 0.02,
+            "chaosValue": 4.7,
+            "exaltedValue": 0.33,
+            "divineValue": 0.03,
             "count": 399,
             "detailsId": "megalomaniac-medium-cluster-jewel",
             "tradeInfo": [],
-            "listingCount": 694857
+            "listingCount": 694854
         },
         {
             "id": 608,
@@ -5458,10 +5478,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.21,
             "divineValue": 0.02,
-            "count": 73,
+            "count": 74,
             "detailsId": "lioneyes-fall-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 2133
+            "listingCount": 2134
         },
         {
             "id": 2004,
@@ -5606,10 +5626,10 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.21,
             "divineValue": 0.02,
-            "count": 137,
+            "count": 135,
             "detailsId": "calamitous-visions-small-cluster-jewel",
             "tradeInfo": [],
-            "listingCount": 3867
+            "listingCount": 3866
         },
         {
             "id": 128541,
@@ -5618,7 +5638,7 @@
             "baseType": "Cobalt Jewel",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -50,
+                "totalChange": -54,
                 "data": [
                     0,
                     0,
@@ -5626,11 +5646,11 @@
                     -8,
                     -18,
                     -40,
-                    -50
+                    -54
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -50,
+                "totalChange": -54,
                 "data": [
                     0,
                     0,
@@ -5638,7 +5658,7 @@
                     -8,
                     -18,
                     -40,
-                    -50
+                    -54
                 ]
             },
             "implicitModifiers": [],
@@ -5668,13 +5688,13 @@
             ],
             "flavourText": "We crash against Chayula's body,\nand fall like rain into the place we cannot go.",
             "itemType": "Jewel",
-            "chaosValue": 2.5,
-            "exaltedValue": 0.18,
+            "chaosValue": 2.3,
+            "exaltedValue": 0.16,
             "divineValue": 0.01,
-            "count": 260,
+            "count": 258,
             "detailsId": "foulborn-the-blue-dream-cobalt-jewel",
             "tradeInfo": [],
-            "listingCount": 5689
+            "listingCount": 5688
         },
         {
             "id": 211,
@@ -5714,7 +5734,7 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.14,
             "divineValue": 0.01,
-            "count": 325,
+            "count": 324,
             "detailsId": "brute-force-solution-cobalt-jewel",
             "tradeInfo": [],
             "listingCount": 10237
@@ -6033,10 +6053,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.07,
             "divineValue": 0.01,
-            "count": 276,
+            "count": 275,
             "detailsId": "careful-planning-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 11574
+            "listingCount": 11573
         },
         {
             "id": 266,
@@ -6253,7 +6273,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.07,
             "divineValue": 0.01,
-            "count": 254,
+            "count": 253,
             "detailsId": "fertile-mind-cobalt-jewel",
             "tradeInfo": [],
             "listingCount": 13739
@@ -6342,7 +6362,7 @@
             "count": 227,
             "detailsId": "fluid-motion-viridian-jewel",
             "tradeInfo": [],
-            "listingCount": 10977
+            "listingCount": 10976
         },
         {
             "id": 624,
@@ -6935,7 +6955,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.07,
             "divineValue": 0.01,
-            "count": 131,
+            "count": 130,
             "detailsId": "the-siege-small-cluster-jewel",
             "tradeInfo": [],
             "listingCount": 4027
@@ -7029,7 +7049,7 @@
             "count": 399,
             "detailsId": "split-personality-crimson-jewel",
             "tradeInfo": [],
-            "listingCount": 70102
+            "listingCount": 70104
         },
         {
             "id": 44229,
@@ -7206,7 +7226,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.07,
             "divineValue": 0.01,
-            "count": 93,
+            "count": 94,
             "detailsId": "nadir-mode-cobalt-jewel",
             "tradeInfo": [],
             "listingCount": 1032
@@ -7301,7 +7321,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.07,
             "divineValue": 0.01,
-            "count": 68,
+            "count": 67,
             "detailsId": "firesong-crimson-jewel",
             "tradeInfo": [],
             "listingCount": 2434
