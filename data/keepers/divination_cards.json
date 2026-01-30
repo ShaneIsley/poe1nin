@@ -1252,42 +1252,6 @@
             "listingCount": 30
         },
         {
-            "id": 67916,
-            "name": "Ambitious Obsession",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Ambitious Obsession",
-            "stackSize": 4,
-            "artFilename": "AmbitiousObsession",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 12.4,
-                "data": [
-                    0,
-                    1.27,
-                    7.15,
-                    4.5,
-                    4.5,
-                    5.59,
-                    12.4
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [],
-            "mutatedModifiers": [],
-            "flavourText": "The most pathetic person in the world is someone who has sight, but no vision.",
-            "chaosValue": 194.9,
-            "exaltedValue": 25.95,
-            "divineValue": 1.0,
-            "count": 1,
-            "detailsId": "ambitious-obsession",
-            "tradeInfo": [],
-            "listingCount": 13
-        },
-        {
             "id": 93301,
             "name": "The One That Got Away",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -2994,7 +2958,12 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{One With Nothing}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "<size:25>{Seeking shelter from the night,\nin the warmth of the run-down inn,\nerstwhile foes put aside the fight,\nto bond over whiskey and gin.}",
             "chaosValue": 33.4,
@@ -3915,7 +3884,12 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<size:30>{<magicitem>{Diamond Ring of Redemption}\n<default>{Item Level:} <normal>{100}\n<default>{Redeemer Item}}",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "Love is the only redemption after succumbing to the grasps of the Wasteland.",
             "chaosValue": 20.0,
@@ -4675,6 +4649,47 @@
             "detailsId": "runic-luck",
             "tradeInfo": [],
             "listingCount": 197
+        },
+        {
+            "id": 24167,
+            "name": "Etched in Blood",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Etched in Blood",
+            "stackSize": 9,
+            "artFilename": "EtchedInBlood",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 254.7,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    254.7
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Rigwald's Quills}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "When you strive to write your name on the dense pages of History, someone else, inevitably, must be crossed out.",
+            "chaosValue": 10.64,
+            "exaltedValue": 1.42,
+            "divineValue": 0.05,
+            "count": 2,
+            "detailsId": "etched-in-blood",
+            "tradeInfo": [],
+            "listingCount": 37
         },
         {
             "id": 2595,
@@ -7024,6 +7039,55 @@
             "listingCount": 67
         },
         {
+            "id": 20777,
+            "name": "The Journey",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Journey",
+            "stackSize": 3,
+            "artFilename": "TheJourney",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -54,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -81.0,
+                    -72,
+                    -72,
+                    -54
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{Harbinger's Orb}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Oh the places you will go, the sights you will see, the things you will meet.",
+            "chaosValue": 4.6,
+            "exaltedValue": 0.61,
+            "divineValue": 0.02,
+            "count": 5,
+            "detailsId": "the-journey",
+            "tradeInfo": [],
+            "listingCount": 93
+        },
+        {
             "id": 42518,
             "name": "The Hive of Knowledge",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -7708,47 +7772,6 @@
             "listingCount": 92
         },
         {
-            "id": 20777,
-            "name": "The Journey",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Journey",
-            "stackSize": 3,
-            "artFilename": "TheJourney",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -63,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -81.0,
-                    -72,
-                    -72,
-                    -63
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{Harbinger's Orb}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Oh the places you will go, the sights you will see, the things you will meet.",
-            "chaosValue": 3.7,
-            "exaltedValue": 0.49,
-            "divineValue": 0.02,
-            "count": 4,
-            "detailsId": "the-journey",
-            "tradeInfo": [],
-            "listingCount": 92
-        },
-        {
             "id": 60055,
             "name": "Brush, Paint and Palette",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -7871,7 +7894,12 @@
                 ]
             },
             "implicitModifiers": [],
-            "explicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<size:31>{<magicitem>{Merciless Two-Hand Weapon}\n<default>{Item Level:} <normal>{100}}",
+                    "optional": false
+                }
+            ],
             "mutatedModifiers": [],
             "flavourText": "\"Through thick and thin,\nblood and bone,\na peaceful life\nis one I can't condone.\"\n- Tukohama, Father Of War",
             "chaosValue": 3.6,
@@ -8321,47 +8349,6 @@
             "detailsId": "a-dab-of-ink",
             "tradeInfo": [],
             "listingCount": 173
-        },
-        {
-            "id": 24167,
-            "name": "Etched in Blood",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Etched in Blood",
-            "stackSize": 9,
-            "artFilename": "EtchedInBlood",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Rigwald's Quills}\n<corrupted>{Two-Implicit}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "When you strive to write your name on the dense pages of History, someone else, inevitably, must be crossed out.",
-            "chaosValue": 3.0,
-            "exaltedValue": 0.4,
-            "divineValue": 0.02,
-            "count": 3,
-            "detailsId": "etched-in-blood",
-            "tradeInfo": [],
-            "listingCount": 37
         },
         {
             "id": 40045,
@@ -11368,55 +11355,6 @@
             "listingCount": 102
         },
         {
-            "id": 22510,
-            "name": "More is Never Enough",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "More is Never Enough",
-            "stackSize": 7,
-            "artFilename": "MoreIsNeverEnough",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -61.11,
-                "data": [
-                    0,
-                    -44.44,
-                    -63.89,
-                    -63.89,
-                    -63.89,
-                    -63.89,
-                    -61.11
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -61.11,
-                "data": [
-                    0,
-                    -44.44,
-                    -63.89,
-                    -63.89,
-                    -63.89,
-                    -63.89,
-                    -61.11
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{4x Scarab}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Greed is a hunger that only grows as you feed it",
-            "chaosValue": 1.4,
-            "exaltedValue": 0.19,
-            "divineValue": 0.01,
-            "count": 20,
-            "detailsId": "more-is-never-enough",
-            "tradeInfo": [],
-            "listingCount": 772
-        },
-        {
             "id": 24681,
             "name": "The Fishmonger",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12366,10 +12304,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 8,
+            "count": 9,
             "detailsId": "diallas-subjugation",
             "tradeInfo": [],
-            "listingCount": 293
+            "listingCount": 294
         },
         {
             "id": 428,
@@ -14493,7 +14431,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 7,
+            "count": 6,
             "detailsId": "the-lion",
             "tradeInfo": [],
             "listingCount": 255
@@ -15005,7 +14943,7 @@
                     null,
                     null,
                     0,
-                    null
+                    0
                 ]
             },
             "lowConfidenceSparkLine": {
@@ -15032,10 +14970,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 4,
+            "count": 5,
             "detailsId": "the-sun",
             "tradeInfo": [],
-            "listingCount": 251
+            "listingCount": 252
         },
         {
             "id": 1625,
@@ -16413,10 +16351,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 6,
+            "count": 7,
             "detailsId": "the-jewellers-boon",
             "tradeInfo": [],
-            "listingCount": 251
+            "listingCount": 252
         },
         {
             "id": 6921,
@@ -16852,6 +16790,55 @@
             "listingCount": 116
         },
         {
+            "id": 22510,
+            "name": "More is Never Enough",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "More is Never Enough",
+            "stackSize": 7,
+            "artFilename": "MoreIsNeverEnough",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -72.22,
+                "data": [
+                    0,
+                    -44.44,
+                    -63.89,
+                    -63.89,
+                    -63.89,
+                    -63.89,
+                    -72.22
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -72.22,
+                "data": [
+                    0,
+                    -44.44,
+                    -63.89,
+                    -63.89,
+                    -63.89,
+                    -63.89,
+                    -72.22
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{4x Scarab}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Greed is a hunger that only grows as you feed it",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.13,
+            "divineValue": 0.01,
+            "count": 21,
+            "detailsId": "more-is-never-enough",
+            "tradeInfo": [],
+            "listingCount": 772
+        },
+        {
             "id": 23237,
             "name": "Cameria's Cut",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -17139,10 +17126,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 22,
+            "count": 23,
             "detailsId": "societys-remorse",
             "tradeInfo": [],
-            "listingCount": 572
+            "listingCount": 573
         },
         {
             "id": 54417,
@@ -17259,7 +17246,7 @@
                     0,
                     0,
                     null,
-                    null
+                    0
                 ]
             },
             "lowConfidenceSparkLine": {
@@ -17286,7 +17273,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 4,
+            "count": 5,
             "detailsId": "the-adventuring-spirit",
             "tradeInfo": [],
             "listingCount": 423
@@ -17308,7 +17295,7 @@
                     0,
                     0,
                     0,
-                    0
+                    null
                 ]
             },
             "lowConfidenceSparkLine": {
@@ -17335,7 +17322,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 5,
+            "count": 4,
             "detailsId": "the-card-sharp",
             "tradeInfo": [],
             "listingCount": 156
@@ -17482,7 +17469,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.13,
             "divineValue": 0.01,
-            "count": 7,
+            "count": 6,
             "detailsId": "disdain",
             "tradeInfo": [],
             "listingCount": 449
