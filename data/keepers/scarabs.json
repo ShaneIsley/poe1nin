@@ -616,7 +616,7 @@
             "stackSize": 20,
             "itemClass": 0,
             "sparkLine": {
-                "totalChange": -76,
+                "totalChange": -76.67,
                 "data": [
                     0,
                     -20,
@@ -624,11 +624,11 @@
                     -75.33,
                     -76.67,
                     -76.5,
-                    -76
+                    -76.67
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -76,
+                "totalChange": -76.67,
                 "data": [
                     0,
                     -20,
@@ -636,7 +636,7 @@
                     -75.33,
                     -76.67,
                     -76.5,
-                    -76
+                    -76.67
                 ]
             },
             "implicitModifiers": [],
@@ -648,13 +648,13 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "Punctured dreams bleed into the mind.",
-            "chaosValue": 14.4,
-            "exaltedValue": 1.4,
+            "chaosValue": 14.0,
+            "exaltedValue": 1.36,
             "divineValue": 0.07,
-            "count": 80,
+            "count": 81,
             "detailsId": "horned-scarab-of-pandemonium",
             "tradeInfo": [],
-            "listingCount": 491
+            "listingCount": 492
         },
         {
             "id": 113827,
@@ -699,7 +699,7 @@
             "chaosValue": 13.0,
             "exaltedValue": 1.26,
             "divineValue": 0.07,
-            "count": 105,
+            "count": 104,
             "detailsId": "harvest-scarab-of-doubling",
             "tradeInfo": [],
             "listingCount": 883
@@ -843,7 +843,7 @@
             "chaosValue": 9.99,
             "exaltedValue": 0.97,
             "divineValue": 0.05,
-            "count": 56,
+            "count": 55,
             "detailsId": "essence-scarab-of-calcification",
             "tradeInfo": [],
             "listingCount": 547
@@ -897,54 +897,6 @@
             "listingCount": 553
         },
         {
-            "id": 125155,
-            "name": "Kalguuran Scarab of Refinement",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU2V0dGxlcnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9b76c1fb39/GreaterScarabSettlers.png",
-            "baseType": "Kalguuran Scarab of Refinement",
-            "stackSize": 20,
-            "itemClass": 0,
-            "sparkLine": {
-                "totalChange": 22.73,
-                "data": [
-                    0,
-                    21.21,
-                    51.52,
-                    63.64,
-                    46.97,
-                    24.24,
-                    22.73
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 22.73,
-                "data": [
-                    0,
-                    21.21,
-                    51.52,
-                    63.64,
-                    46.97,
-                    24.24,
-                    22.73
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Ore Deposits in Area grant Smelted Bars instead of Marking Ore",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Ore's true worth lies not in stone, but in what it becomes.",
-            "chaosValue": 8.1,
-            "exaltedValue": 0.79,
-            "divineValue": 0.04,
-            "count": 32,
-            "detailsId": "kalguuran-scarab-of-refinement",
-            "tradeInfo": [],
-            "listingCount": 473
-        },
-        {
             "id": 113830,
             "name": "Incursion Scarab of Timelines",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkluY3Vyc2lvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c651660186/Tier4ScarabIncursion.png",
@@ -991,6 +943,54 @@
             "detailsId": "incursion-scarab-of-timelines",
             "tradeInfo": [],
             "listingCount": 481
+        },
+        {
+            "id": 125155,
+            "name": "Kalguuran Scarab of Refinement",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU2V0dGxlcnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9b76c1fb39/GreaterScarabSettlers.png",
+            "baseType": "Kalguuran Scarab of Refinement",
+            "stackSize": 20,
+            "itemClass": 0,
+            "sparkLine": {
+                "totalChange": 21.21,
+                "data": [
+                    0,
+                    21.21,
+                    51.52,
+                    63.64,
+                    46.97,
+                    24.24,
+                    21.21
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 21.21,
+                "data": [
+                    0,
+                    21.21,
+                    51.52,
+                    63.64,
+                    46.97,
+                    24.24,
+                    21.21
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Ore Deposits in Area grant Smelted Bars instead of Marking Ore",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Ore's true worth lies not in stone, but in what it becomes.",
+            "chaosValue": 8.0,
+            "exaltedValue": 0.78,
+            "divineValue": 0.04,
+            "count": 31,
+            "detailsId": "kalguuran-scarab-of-refinement",
+            "tradeInfo": [],
+            "listingCount": 473
         },
         {
             "id": 121388,
@@ -1755,7 +1755,7 @@
             "chaosValue": 1.99,
             "exaltedValue": 0.19,
             "divineValue": 0.01,
-            "count": 74,
+            "count": 73,
             "detailsId": "beyond-scarab-of-the-invasion",
             "tradeInfo": [],
             "listingCount": 1034
@@ -2248,7 +2248,7 @@
             "stackSize": 20,
             "itemClass": 0,
             "sparkLine": {
-                "totalChange": 10.58,
+                "totalChange": 7.69,
                 "data": [
                     0,
                     -3.85,
@@ -2256,11 +2256,11 @@
                     -3.85,
                     -3.85,
                     -3.85,
-                    10.58
+                    7.69
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 10.58,
+                "totalChange": 7.69,
                 "data": [
                     0,
                     -3.85,
@@ -2268,7 +2268,7 @@
                     -3.85,
                     -3.85,
                     -3.85,
-                    10.58
+                    7.69
                 ]
             },
             "implicitModifiers": [],
@@ -2280,10 +2280,10 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "Even a battlefield has middle management.",
-            "chaosValue": 1.15,
+            "chaosValue": 1.12,
             "exaltedValue": 0.11,
             "divineValue": 0.01,
-            "count": 77,
+            "count": 76,
             "detailsId": "legion-scarab-of-officers",
             "tradeInfo": [],
             "listingCount": 1058
@@ -3147,7 +3147,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 110,
+            "count": 109,
             "detailsId": "blight-scarab",
             "tradeInfo": [],
             "listingCount": 1641
@@ -3195,10 +3195,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 91,
+            "count": 93,
             "detailsId": "incursion-scarab-of-invasion",
             "tradeInfo": [],
-            "listingCount": 1230
+            "listingCount": 1232
         },
         {
             "id": 113708,
@@ -3339,7 +3339,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 76,
+            "count": 75,
             "detailsId": "sulphite-scarab-of-fumes",
             "tradeInfo": [],
             "listingCount": 1067
@@ -4107,7 +4107,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 93,
+            "count": 92,
             "detailsId": "essence-scarab-of-ascent",
             "tradeInfo": [],
             "listingCount": 1163
@@ -4347,7 +4347,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 99,
+            "count": 98,
             "detailsId": "betrayal-scarab-of-reinforcements",
             "tradeInfo": [],
             "listingCount": 1272
@@ -4731,7 +4731,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 124,
+            "count": 123,
             "detailsId": "titanic-scarab",
             "tradeInfo": [],
             "listingCount": 1616

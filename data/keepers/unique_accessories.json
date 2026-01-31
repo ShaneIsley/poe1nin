@@ -453,10 +453,10 @@
             "chaosValue": 3324,
             "exaltedValue": 323.3,
             "divineValue": 17.0,
-            "count": 39,
+            "count": 40,
             "detailsId": "kalandras-touch-ring",
             "tradeInfo": [],
-            "listingCount": 123
+            "listingCount": 124
         },
         {
             "id": 607,
@@ -523,10 +523,10 @@
             "chaosValue": 2346,
             "exaltedValue": 228.2,
             "divineValue": 12.0,
-            "count": 109,
+            "count": 111,
             "detailsId": "headhunter-leather-belt",
             "tradeInfo": [],
-            "listingCount": 711
+            "listingCount": 713
         },
         {
             "id": 107337,
@@ -561,7 +561,7 @@
             },
             "implicitModifiers": [
                 {
-                    "text": "(21-36)% increased Mana Regeneration Rate",
+                    "text": "(20-36)% increased Mana Regeneration Rate",
                     "optional": false
                 }
             ],
@@ -571,7 +571,7 @@
                     "optional": false
                 },
                 {
-                    "text": "+(14-40)% to Fire Resistance",
+                    "text": "+(11-40)% to Fire Resistance",
                     "optional": false
                 },
                 {
@@ -2945,11 +2945,15 @@
                     "optional": true
                 },
                 {
-                    "text": "20% increased Movement Speed",
+                    "text": "+(48-76)% to Global Critical Strike Multiplier",
                     "optional": true
                 },
                 {
-                    "text": "(40-58)% increased Spell Damage",
+                    "text": "(40-60)% increased Spell Damage",
+                    "optional": true
+                },
+                {
+                    "text": "20% increased Movement Speed",
                     "optional": true
                 },
                 {
@@ -2978,10 +2982,6 @@
                 },
                 {
                     "text": "(40-60)% increased Fire Damage",
-                    "optional": true
-                },
-                {
-                    "text": "+(48-72)% to Global Critical Strike Multiplier",
                     "optional": true
                 },
                 {
@@ -3112,7 +3112,7 @@
             "count": 399,
             "detailsId": "eyes-of-the-greatwolf-greatwolf-talisman",
             "tradeInfo": [],
-            "listingCount": 18090
+            "listingCount": 18092
         },
         {
             "id": 2078,
@@ -3183,10 +3183,10 @@
             "chaosValue": 30.0,
             "exaltedValue": 2.92,
             "divineValue": 0.15,
-            "count": 216,
+            "count": 215,
             "detailsId": "ryslathas-coil-studded-belt",
             "tradeInfo": [],
-            "listingCount": 3405
+            "listingCount": 3404
         },
         {
             "id": 7747,
@@ -3679,6 +3679,68 @@
             "listingCount": 517
         },
         {
+            "id": 7761,
+            "name": "Ahkeli's Meadow",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUmluZ3MvUmVkQ29tcG9uZW50MiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0c950dc560/RedComponent2.png",
+            "levelRequired": 49,
+            "baseType": "Ruby Ring",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 25,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -4,
+                    -8,
+                    0,
+                    25
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 25,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -4,
+                    -8,
+                    0,
+                    25
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "+(20-30)% to Fire Resistance",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "+20 to Strength",
+                    "optional": false
+                },
+                {
+                    "text": "5% increased maximum Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "5% increased maximum Life",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Where once had stood a village, lay naught but splinters.\nSome had once been her home. \nSome had once been her creations.\nSome had once been her family.\n\n<default>{This item can be combined with a Mountain and Valley ring at a Vendor.}",
+            "itemType": "Ring",
+            "chaosValue": 25.0,
+            "exaltedValue": 2.43,
+            "divineValue": 0.13,
+            "count": 11,
+            "detailsId": "ahkelis-meadow-ruby-ring",
+            "tradeInfo": [],
+            "listingCount": 173
+        },
+        {
             "id": 124912,
             "name": "Enmity's Embrace",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUmluZ3MvRW5taXR5c0VtYnJhY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/11729d94d1/EnmitysEmbrace.png",
@@ -3973,68 +4035,6 @@
             "listingCount": 8443
         },
         {
-            "id": 7761,
-            "name": "Ahkeli's Meadow",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUmluZ3MvUmVkQ29tcG9uZW50MiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0c950dc560/RedComponent2.png",
-            "levelRequired": 49,
-            "baseType": "Ruby Ring",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 2.5,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -4,
-                    -8,
-                    0,
-                    2.5
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 2.5,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -4,
-                    -8,
-                    0,
-                    2.5
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "+(22-30)% to Fire Resistance",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "+20 to Strength",
-                    "optional": false
-                },
-                {
-                    "text": "5% increased maximum Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "5% increased maximum Life",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Where once had stood a village, lay naught but splinters.\nSome had once been her home. \nSome had once been her creations.\nSome had once been her family.\n\n<default>{This item can be combined with a Mountain and Valley ring at a Vendor.}",
-            "itemType": "Ring",
-            "chaosValue": 20.5,
-            "exaltedValue": 1.99,
-            "divineValue": 0.1,
-            "count": 12,
-            "detailsId": "ahkelis-meadow-ruby-ring",
-            "tradeInfo": [],
-            "listingCount": 173
-        },
-        {
             "id": 4759,
             "name": "Impresence",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9FbGRlckNoYW9zIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fae9c0f072/ElderChaos.png",
@@ -4082,7 +4082,7 @@
                     "optional": false
                 },
                 {
-                    "text": "+(51-70) to maximum Life",
+                    "text": "+(50-70) to maximum Life",
                     "optional": false
                 },
                 {
@@ -4120,7 +4120,7 @@
             "chaosValue": 20.0,
             "exaltedValue": 1.95,
             "divineValue": 0.1,
-            "count": 239,
+            "count": 238,
             "detailsId": "impresence-chaos-onyx-amulet",
             "tradeInfo": [],
             "listingCount": 3692
@@ -4542,10 +4542,10 @@
             "chaosValue": 20.0,
             "exaltedValue": 1.95,
             "divineValue": 0.1,
-            "count": 268,
+            "count": 269,
             "detailsId": "the-arkhons-tools-cloth-belt",
             "tradeInfo": [],
-            "listingCount": 6597
+            "listingCount": 6598
         },
         {
             "id": 128657,
@@ -4707,10 +4707,10 @@
             "chaosValue": 19.0,
             "exaltedValue": 1.85,
             "divineValue": 0.1,
-            "count": 105,
+            "count": 107,
             "detailsId": "shavronnes-revelation-moonstone-ring",
             "tradeInfo": [],
-            "listingCount": 1571
+            "listingCount": 1573
         },
         {
             "id": 2229,
@@ -4986,7 +4986,7 @@
             "count": 49,
             "detailsId": "volls-devotion-agate-amulet",
             "tradeInfo": [],
-            "listingCount": 1105
+            "listingCount": 1106
         },
         {
             "id": 124909,
@@ -5190,10 +5190,10 @@
             "chaosValue": 15.0,
             "exaltedValue": 1.46,
             "divineValue": 0.08,
-            "count": 118,
+            "count": 109,
             "detailsId": "foulborn-choir-of-the-storm-lapis-amulet",
             "tradeInfo": [],
-            "listingCount": 872
+            "listingCount": 863
         },
         {
             "id": 128907,
@@ -5274,6 +5274,76 @@
             "listingCount": 5094
         },
         {
+            "id": 22499,
+            "name": "Badge of the Brotherhood",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9Bc3Nhc3NpblVuaXF1ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3616219d7d/AssassinUnique.png",
+            "levelRequired": 60,
+            "baseType": "Turquoise Amulet",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -1.33,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -6,
+                    -1.33
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -1.33,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -6,
+                    -1.33
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "+(16-24) to Dexterity and Intelligence",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Your Maximum Frenzy Charges is equal to your Maximum Power Charges",
+                    "optional": false
+                },
+                {
+                    "text": "(7-10)% increased Cooldown Recovery Rate of Travel Skills per Frenzy Charge",
+                    "optional": false
+                },
+                {
+                    "text": "(7-10)% increased Effect of Elusive on you per Power Charge",
+                    "optional": false
+                },
+                {
+                    "text": "(20-25)% chance to lose a Frenzy Charge when you use a Travel Skill",
+                    "optional": false
+                },
+                {
+                    "text": "(20-25)% chance to lose a Power Charge when you gain Elusive",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Greater than any blade, agility and intellect will be your weapons.",
+            "itemType": "Amulet",
+            "chaosValue": 14.8,
+            "exaltedValue": 1.44,
+            "divineValue": 0.08,
+            "count": 117,
+            "detailsId": "badge-of-the-brotherhood-turquoise-amulet",
+            "tradeInfo": [],
+            "listingCount": 1726
+        },
+        {
             "id": 1993,
             "name": "Xoph's Blood",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9ZcGhldGhha2tzSGVhcnRVcGdyYWRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/259f2be84d/YphethakksHeartUpgrade.png",
@@ -5346,76 +5416,6 @@
             "detailsId": "xophs-blood-amber-amulet",
             "tradeInfo": [],
             "listingCount": 285
-        },
-        {
-            "id": 22499,
-            "name": "Badge of the Brotherhood",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9Bc3Nhc3NpblVuaXF1ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3616219d7d/AssassinUnique.png",
-            "levelRequired": 60,
-            "baseType": "Turquoise Amulet",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -6.67,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -6,
-                    -6.67
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -6.67,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -6,
-                    -6.67
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "+(16-24) to Dexterity and Intelligence",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "Your Maximum Frenzy Charges is equal to your Maximum Power Charges",
-                    "optional": false
-                },
-                {
-                    "text": "(7-10)% increased Cooldown Recovery Rate of Travel Skills per Frenzy Charge",
-                    "optional": false
-                },
-                {
-                    "text": "(7-10)% increased Effect of Elusive on you per Power Charge",
-                    "optional": false
-                },
-                {
-                    "text": "(20-25)% chance to lose a Frenzy Charge when you use a Travel Skill",
-                    "optional": false
-                },
-                {
-                    "text": "(20-25)% chance to lose a Power Charge when you gain Elusive",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Greater than any blade, agility and intellect will be your weapons.",
-            "itemType": "Amulet",
-            "chaosValue": 14.0,
-            "exaltedValue": 1.36,
-            "divineValue": 0.07,
-            "count": 117,
-            "detailsId": "badge-of-the-brotherhood-turquoise-amulet",
-            "tradeInfo": [],
-            "listingCount": 1726
         },
         {
             "id": 93064,
@@ -5536,10 +5536,6 @@
                     "optional": true
                 },
                 {
-                    "text": "(11-15)% increased Damage",
-                    "optional": true
-                },
-                {
                     "text": "Adds 13 to 24 Cold Damage",
                     "optional": true
                 },
@@ -5552,7 +5548,19 @@
                     "optional": true
                 },
                 {
-                    "text": "Adds 13 to 29 Fire Damage",
+                    "text": "+(6-20) to Dexterity",
+                    "optional": true
+                },
+                {
+                    "text": "(8-9)% faster start of Energy Shield Recharge",
+                    "optional": true
+                },
+                {
+                    "text": "(11-15)% increased Damage",
+                    "optional": true
+                },
+                {
+                    "text": "Adds (13-16) to (28-29) Fire Damage",
                     "optional": true
                 },
                 {
@@ -5572,23 +5580,11 @@
                     "optional": true
                 },
                 {
-                    "text": "+(8-19) to Dexterity",
-                    "optional": true
-                },
-                {
-                    "text": "(7-15)% increased Armour",
-                    "optional": true
-                },
-                {
                     "text": "(6-8)% increased maximum Mana",
                     "optional": true
                 },
                 {
                     "text": "(9-16)% increased Global Physical Damage",
-                    "optional": true
-                },
-                {
-                    "text": "8% faster start of Energy Shield Recharge",
                     "optional": true
                 },
                 {
@@ -5608,15 +5604,55 @@
                     "optional": true
                 },
                 {
-                    "text": "0.2% of Physical Damage Leeched as Life",
-                    "optional": true
-                },
-                {
                     "text": "(9-14)% increased Shock Duration on Enemies",
                     "optional": true
                 },
                 {
                     "text": "Gain 5% of Physical Damage as Extra Fire Damage",
+                    "optional": true
+                },
+                {
+                    "text": "You and your Minions take (9-14)% reduced Reflected Damage",
+                    "optional": true
+                },
+                {
+                    "text": "0.2% of Physical Damage Leeched as Life",
+                    "optional": true
+                },
+                {
+                    "text": "-(47-10) Cold Damage taken from Hits",
+                    "optional": true
+                },
+                {
+                    "text": "Minions have (4-10)% increased Movement Speed",
+                    "optional": true
+                },
+                {
+                    "text": "(7-15)% increased Armour",
+                    "optional": true
+                },
+                {
+                    "text": "-(60-11) Lightning Damage taken from Hits",
+                    "optional": true
+                },
+                {
+                    "text": "(14-24)% increased Elemental Damage with Attack Skills",
+                    "optional": true
+                },
+                {
+                    "text": "(10-15)% increased Light Radius",
+                    "optional": true
+                },
+                {
+                    "text": "12% increased Power Charge Duration",
+                    "optional": true
+                },
+                {
+                    "text": "(4-10)% increased maximum Energy Shield",
+                    "optional": true
+                },
+                {
+                    "text": "Regenerate (5-35.5) Life per second",
                     "optional": true
                 },
                 {
@@ -5629,10 +5665,6 @@
                 },
                 {
                     "text": "+(12-16)% to Global Critical Strike Multiplier",
-                    "optional": true
-                },
-                {
-                    "text": "Minions have (4-7)% increased Movement Speed",
                     "optional": true
                 },
                 {
@@ -5653,10 +5685,6 @@
                 },
                 {
                     "text": "+(5-8)% to Chaos Resistance",
-                    "optional": true
-                },
-                {
-                    "text": "(14-20)% increased Elemental Damage with Attack Skills",
                     "optional": true
                 },
                 {
@@ -5685,10 +5713,6 @@
                 },
                 {
                     "text": "(8-13)% increased Damage with Ailments",
-                    "optional": true
-                },
-                {
-                    "text": "(4-9)% increased maximum Energy Shield",
                     "optional": true
                 },
                 {
@@ -5725,10 +5749,6 @@
                 },
                 {
                     "text": "Regenerate (2.1-3.8) Mana per second",
-                    "optional": true
-                },
-                {
-                    "text": "Regenerate (5.3-35.5) Life per second",
                     "optional": true
                 },
                 {
@@ -5780,10 +5800,6 @@
                     "optional": true
                 },
                 {
-                    "text": "-(60-12) Lightning Damage taken from Hits",
-                    "optional": true
-                },
-                {
                     "text": "(18-27)% increased Mana Regeneration Rate",
                     "optional": true
                 },
@@ -5796,10 +5812,6 @@
                     "optional": true
                 },
                 {
-                    "text": "You and your Minions take (11-14)% reduced Reflected Damage",
-                    "optional": true
-                },
-                {
                     "text": "-(2-1) to Total Mana Cost of Skills",
                     "optional": true
                 },
@@ -5808,15 +5820,7 @@
                     "optional": true
                 },
                 {
-                    "text": "-(41-10) Cold Damage taken from Hits",
-                    "optional": true
-                },
-                {
                     "text": "4 to 7 Added Cold Damage per Frenzy Charge",
-                    "optional": true
-                },
-                {
-                    "text": "12% increased Light Radius",
                     "optional": true
                 },
                 {
@@ -5886,11 +5890,11 @@
                     "optional": true
                 },
                 {
-                    "text": "Herald of Agony has (30-40)% increased Mana Reservation Efficiency",
+                    "text": "(42-60)% increased Fire Damage while affected by Herald of Ash",
                     "optional": true
                 },
                 {
-                    "text": "(42-59)% increased Fire Damage while affected by Herald of Ash",
+                    "text": "Herald of Agony has (30-40)% increased Mana Reservation Efficiency",
                     "optional": true
                 },
                 {
@@ -6672,7 +6676,7 @@
             },
             "implicitModifiers": [
                 {
-                    "text": "Regenerate (1-1.97)% of Life per second",
+                    "text": "Regenerate (1-1.98)% of Life per second",
                     "optional": false
                 }
             ],
@@ -7071,10 +7075,10 @@
             "chaosValue": 10.0,
             "exaltedValue": 0.97,
             "divineValue": 0.05,
-            "count": 148,
+            "count": 149,
             "detailsId": "the-will-of-tul-cryonic-ring",
             "tradeInfo": [],
-            "listingCount": 4064
+            "listingCount": 4065
         },
         {
             "id": 130202,
@@ -7373,7 +7377,7 @@
             "baseType": "Primordial Fragment",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 76,
+                "totalChange": 72,
                 "data": [
                     0,
                     -24,
@@ -7381,11 +7385,11 @@
                     260,
                     260,
                     140,
-                    76
+                    72
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 76,
+                "totalChange": 72,
                 "data": [
                     0,
                     -24,
@@ -7393,7 +7397,7 @@
                     260,
                     260,
                     140,
-                    76
+                    72
                 ]
             },
             "implicitModifiers": [],
@@ -7401,10 +7405,10 @@
             "mutatedModifiers": [],
             "flavourText": "All that is will one day come to naught.",
             "itemType": "Amulet",
-            "chaosValue": 8.8,
-            "exaltedValue": 0.86,
-            "divineValue": 0.05,
-            "count": 40,
+            "chaosValue": 8.6,
+            "exaltedValue": 0.84,
+            "divineValue": 0.04,
+            "count": 39,
             "detailsId": "curio-of-decay-primordial-fragment",
             "tradeInfo": [],
             "listingCount": 1342
@@ -7466,7 +7470,7 @@
             "chaosValue": 8.0,
             "exaltedValue": 0.78,
             "divineValue": 0.04,
-            "count": 102,
+            "count": 101,
             "detailsId": "death-rush-amethyst-ring",
             "tradeInfo": [],
             "listingCount": 2053
@@ -8267,80 +8271,6 @@
             "listingCount": 357
         },
         {
-            "id": 4883,
-            "name": "Mark of the Shaper",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUmluZ3MvVWJlclNoYXBlclJpbmciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/302889cfca/UberShaperRing.png",
-            "levelRequired": 80,
-            "baseType": "Opal Ring",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -14.29,
-                "data": [
-                    0,
-                    0,
-                    -0.29,
-                    -14.29,
-                    0,
-                    0,
-                    -14.29
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -14.29,
-                "data": [
-                    0,
-                    0,
-                    -0.29,
-                    -14.29,
-                    0,
-                    0,
-                    -14.29
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "(15-25)% increased Elemental Damage",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "20% chance to Trigger Level 20 Summon Volatile Anomaly on Kill",
-                    "optional": false
-                },
-                {
-                    "text": "Adds (13-20) to (50-61) Lightning Damage to Spells",
-                    "optional": false
-                },
-                {
-                    "text": "(6-10)% increased maximum Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "(6-10)% increased maximum Life",
-                    "optional": false
-                },
-                {
-                    "text": "(60-96)% increased Spell Damage if your opposite Ring is an Elder Item",
-                    "optional": false
-                },
-                {
-                    "text": "Cannot be Stunned by Spells if your opposite Ring is a Shaper Item",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Let madness take control.",
-            "itemType": "Ring",
-            "chaosValue": 6.0,
-            "exaltedValue": 0.58,
-            "divineValue": 0.03,
-            "count": 120,
-            "detailsId": "mark-of-the-shaper-opal-ring",
-            "tradeInfo": [],
-            "listingCount": 3713
-        },
-        {
             "id": 128357,
             "name": "Woespike",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUmluZ3MvU3BsaW50ZXJoZWFydCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8583f97bed/Splinterheart.png",
@@ -8409,6 +8339,80 @@
             "detailsId": "woespike-steel-ring",
             "tradeInfo": [],
             "listingCount": 9130
+        },
+        {
+            "id": 4883,
+            "name": "Mark of the Shaper",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvUmluZ3MvVWJlclNoYXBlclJpbmciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/302889cfca/UberShaperRing.png",
+            "levelRequired": 80,
+            "baseType": "Opal Ring",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -17.14,
+                "data": [
+                    0,
+                    0,
+                    -0.29,
+                    -14.29,
+                    0,
+                    0,
+                    -17.14
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -17.14,
+                "data": [
+                    0,
+                    0,
+                    -0.29,
+                    -14.29,
+                    0,
+                    0,
+                    -17.14
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "(15-25)% increased Elemental Damage",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "20% chance to Trigger Level 20 Summon Volatile Anomaly on Kill",
+                    "optional": false
+                },
+                {
+                    "text": "Adds (13-20) to (50-61) Lightning Damage to Spells",
+                    "optional": false
+                },
+                {
+                    "text": "(6-10)% increased maximum Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "(6-10)% increased maximum Life",
+                    "optional": false
+                },
+                {
+                    "text": "(60-96)% increased Spell Damage if your opposite Ring is an Elder Item",
+                    "optional": false
+                },
+                {
+                    "text": "Cannot be Stunned by Spells if your opposite Ring is a Shaper Item",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Let madness take control.",
+            "itemType": "Ring",
+            "chaosValue": 5.8,
+            "exaltedValue": 0.56,
+            "divineValue": 0.03,
+            "count": 121,
+            "detailsId": "mark-of-the-shaper-opal-ring",
+            "tradeInfo": [],
+            "listingCount": 3714
         },
         {
             "id": 7521,
@@ -8865,10 +8869,10 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.49,
             "divineValue": 0.03,
-            "count": 100,
+            "count": 101,
             "detailsId": "solstice-vigil-onyx-amulet",
             "tradeInfo": [],
-            "listingCount": 2670
+            "listingCount": 2671
         },
         {
             "id": 95711,
@@ -9926,7 +9930,7 @@
             "count": 399,
             "detailsId": "replica-dragonfangs-flight-onyx-amulet",
             "tradeInfo": [],
-            "listingCount": 44169
+            "listingCount": 44168
         },
         {
             "id": 128261,
@@ -10159,6 +10163,76 @@
             "detailsId": "foulborn-presence-of-chayula-onyx-amulet",
             "tradeInfo": [],
             "listingCount": 1746
+        },
+        {
+            "id": 128343,
+            "name": "Bonemeld",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9EZWF0aHdhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8ba22f2bdd/Deathward.png",
+            "levelRequired": 74,
+            "baseType": "Marble Amulet",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 7.5,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    25,
+                    0,
+                    7.5
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 7.5,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    25,
+                    0,
+                    7.5
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "Regenerate (1.2-1.6)% of Life per second",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "+(10-20) to all Attributes",
+                    "optional": false
+                },
+                {
+                    "text": "+(1-2) to Level of all Minion Skill Gems",
+                    "optional": false
+                },
+                {
+                    "text": "-2% to all Resistances per Minion from your Non-Vaal Skills",
+                    "optional": false
+                },
+                {
+                    "text": "(3-4)% increased Defences per Minion from your Non-Vaal Skills",
+                    "optional": false
+                },
+                {
+                    "text": "Minions gain added Resistances equal to 50% of your Resistances",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Hills of stark and jagged white it walks,\nscratching your ribs without, within.\nThe Fiend has naught but Empty Eyes,\nthough sees you, it does, indeed.",
+            "itemType": "Amulet",
+            "chaosValue": 4.3,
+            "exaltedValue": 0.42,
+            "divineValue": 0.02,
+            "count": 326,
+            "detailsId": "bonemeld-marble-amulet",
+            "tradeInfo": [],
+            "listingCount": 10357
         },
         {
             "id": 19071,
@@ -10421,7 +10495,7 @@
             "chaosValue": 4.0,
             "exaltedValue": 0.39,
             "divineValue": 0.02,
-            "count": 160,
+            "count": 159,
             "detailsId": "snakepit-sapphire-ring",
             "tradeInfo": [],
             "listingCount": 4188
@@ -10937,76 +11011,6 @@
             "listingCount": 951
         },
         {
-            "id": 128343,
-            "name": "Bonemeld",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9EZWF0aHdhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8ba22f2bdd/Deathward.png",
-            "levelRequired": 74,
-            "baseType": "Marble Amulet",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    25,
-                    0,
-                    0
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    25,
-                    0,
-                    0
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "Regenerate (1.2-1.6)% of Life per second",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "+(10-20) to all Attributes",
-                    "optional": false
-                },
-                {
-                    "text": "+(1-2) to Level of all Minion Skill Gems",
-                    "optional": false
-                },
-                {
-                    "text": "-2% to all Resistances per Minion from your Non-Vaal Skills",
-                    "optional": false
-                },
-                {
-                    "text": "(3-4)% increased Defences per Minion from your Non-Vaal Skills",
-                    "optional": false
-                },
-                {
-                    "text": "Minions gain added Resistances equal to 50% of your Resistances",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Hills of stark and jagged white it walks,\nscratching your ribs without, within.\nThe Fiend has naught but Empty Eyes,\nthough sees you, it does, indeed.",
-            "itemType": "Amulet",
-            "chaosValue": 4.0,
-            "exaltedValue": 0.39,
-            "divineValue": 0.02,
-            "count": 327,
-            "detailsId": "bonemeld-marble-amulet",
-            "tradeInfo": [],
-            "listingCount": 10357
-        },
-        {
             "id": 130175,
             "name": "Foulborn Sunblast",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQmVsdHMvQmVsdDgiLCJ3IjoyLCJoIjoxLCJzY2FsZSI6MSwibXV0YXRlZCI6dHJ1ZX1d/dda9cc2386/Belt8.png",
@@ -11045,7 +11049,7 @@
             ],
             "explicitModifiers": [
                 {
-                    "text": "+(21-30)% to Fire Resistance",
+                    "text": "+(20-30)% to Fire Resistance",
                     "optional": false
                 },
                 {
@@ -11362,7 +11366,7 @@
             "chaosValue": 3.5,
             "exaltedValue": 0.34,
             "divineValue": 0.02,
-            "count": 192,
+            "count": 191,
             "detailsId": "foulborn-romiras-banquet-diamond-ring",
             "tradeInfo": [],
             "listingCount": 6797
@@ -11690,7 +11694,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.29,
             "divineValue": 0.02,
-            "count": 226,
+            "count": 225,
             "detailsId": "the-jinxed-juju-citrine-amulet",
             "tradeInfo": [],
             "listingCount": 7476
@@ -12358,7 +12362,7 @@
             "chaosValue": 3.0,
             "exaltedValue": 0.29,
             "divineValue": 0.02,
-            "count": 239,
+            "count": 240,
             "detailsId": "triumvirate-authority-unset-ring",
             "tradeInfo": [],
             "listingCount": 4616
@@ -13102,7 +13106,7 @@
             "baseType": "Gold Ring",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": -34.15,
+                "totalChange": -36.59,
                 "data": [
                     0,
                     -3.17,
@@ -13110,11 +13114,11 @@
                     -3.9,
                     -26.83,
                     -48.78,
-                    -34.15
+                    -36.59
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -34.15,
+                "totalChange": -36.59,
                 "data": [
                     0,
                     -3.17,
@@ -13122,7 +13126,7 @@
                     -3.9,
                     -26.83,
                     -48.78,
-                    -34.15
+                    -36.59
                 ]
             },
             "implicitModifiers": [
@@ -13173,10 +13177,10 @@
             ],
             "flavourText": "In a blaze of glory,\nAn anomaly defying all odds\nThe \"unkillable\" beast met the divine\nAnd Ventor met his latest trophy.",
             "itemType": "Ring",
-            "chaosValue": 2.7,
-            "exaltedValue": 0.26,
+            "chaosValue": 2.6,
+            "exaltedValue": 0.25,
             "divineValue": 0.01,
-            "count": 319,
+            "count": 316,
             "detailsId": "foulborn-ventors-gamble-gold-ring",
             "tradeInfo": [],
             "listingCount": 12566
@@ -13315,7 +13319,7 @@
             "count": 399,
             "detailsId": "le-heup-of-all-iron-ring",
             "tradeInfo": [],
-            "listingCount": 16986
+            "listingCount": 16985
         },
         {
             "id": 819,
@@ -13737,7 +13741,7 @@
             "count": 399,
             "detailsId": "valyrium-moonstone-ring",
             "tradeInfo": [],
-            "listingCount": 16620
+            "listingCount": 16621
         },
         {
             "id": 1914,
@@ -13865,7 +13869,7 @@
                     "optional": false
                 },
                 {
-                    "text": "+(21-40)% to Fire Resistance",
+                    "text": "+(20-40)% to Fire Resistance",
                     "optional": false
                 },
                 {
@@ -13952,7 +13956,7 @@
             "count": 399,
             "detailsId": "stormfire-opal-ring",
             "tradeInfo": [],
-            "listingCount": 11695
+            "listingCount": 11697
         },
         {
             "id": 6894,
@@ -14107,12 +14111,12 @@
                     "optional": false
                 },
                 {
-                    "text": "(50-70)% increased Damage with Hits and Ailments against Chilled Enemies",
-                    "optional": false
+                    "text": "+(17-20)% to Lightning and Chaos Resistances",
+                    "optional": true
                 },
                 {
-                    "text": "+(18-20)% to Lightning and Chaos Resistances",
-                    "optional": true
+                    "text": "(50-70)% increased Damage with Hits and Ailments against Chilled Enemies",
+                    "optional": false
                 }
             ],
             "mutatedModifiers": [],
@@ -14121,10 +14125,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.19,
             "divineValue": 0.01,
-            "count": 51,
+            "count": 52,
             "detailsId": "hyperboreus-leather-belt",
             "tradeInfo": [],
-            "listingCount": 1992
+            "listingCount": 1993
         },
         {
             "id": 23099,
@@ -14976,7 +14980,7 @@
             "count": 399,
             "detailsId": "circle-of-nostalgia-amethyst-ring",
             "tradeInfo": [],
-            "listingCount": 49323
+            "listingCount": 49324
         },
         {
             "id": 24966,
@@ -15323,10 +15327,10 @@
             "chaosValue": 2.0,
             "exaltedValue": 0.19,
             "divineValue": 0.01,
-            "count": 156,
+            "count": 157,
             "detailsId": "squirming-terror-unset-ring",
             "tradeInfo": [],
-            "listingCount": 4811
+            "listingCount": 4812
         },
         {
             "id": 128559,
@@ -16610,7 +16614,7 @@
             "count": 399,
             "detailsId": "doedres-damning-paua-ring",
             "tradeInfo": [],
-            "listingCount": 14614
+            "listingCount": 14615
         },
         {
             "id": 445,
@@ -16821,7 +16825,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 131,
+            "count": 130,
             "detailsId": "emberwake-ruby-ring",
             "tradeInfo": [],
             "listingCount": 5329
@@ -17224,7 +17228,7 @@
             "count": 399,
             "detailsId": "immortal-flesh-leather-belt",
             "tradeInfo": [],
-            "listingCount": 37754
+            "listingCount": 37755
         },
         {
             "id": 708,
@@ -18122,10 +18126,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 146,
+            "count": 147,
             "detailsId": "pyre-sapphire-ring",
             "tradeInfo": [],
-            "listingCount": 6152
+            "listingCount": 6153
         },
         {
             "id": 1013,
@@ -18250,10 +18254,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 72,
+            "count": 73,
             "detailsId": "rigwalds-crest-two-stone-ring",
             "tradeInfo": [],
-            "listingCount": 3407
+            "listingCount": 3408
         },
         {
             "id": 1067,
@@ -18830,10 +18834,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 370,
+            "count": 372,
             "detailsId": "the-aylardex-agate-amulet",
             "tradeInfo": [],
-            "listingCount": 13765
+            "listingCount": 13767
         },
         {
             "id": 1685,
@@ -19273,7 +19277,7 @@
             "count": 399,
             "detailsId": "ventors-gamble-gold-ring",
             "tradeInfo": [],
-            "listingCount": 106698
+            "listingCount": 106699
         },
         {
             "id": 1797,
@@ -19678,10 +19682,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 180,
+            "count": 179,
             "detailsId": "biscos-leash-heavy-belt",
             "tradeInfo": [],
-            "listingCount": 9763
+            "listingCount": 9762
         },
         {
             "id": 2179,
@@ -19751,7 +19755,7 @@
             "count": 399,
             "detailsId": "bloodgrip-marble-amulet",
             "tradeInfo": [],
-            "listingCount": 10600
+            "listingCount": 10602
         },
         {
             "id": 2189,
@@ -20097,7 +20101,7 @@
             "count": 399,
             "detailsId": "mark-of-submission-unset-ring",
             "tradeInfo": [],
-            "listingCount": 16187
+            "listingCount": 16188
         },
         {
             "id": 7373,
@@ -20311,7 +20315,7 @@
             "count": 399,
             "detailsId": "hyrris-truth-jade-amulet",
             "tradeInfo": [],
-            "listingCount": 18314
+            "listingCount": 18313
         },
         {
             "id": 21576,
@@ -20646,10 +20650,6 @@
                     "optional": true
                 },
                 {
-                    "text": "10% increased Effect of Cold Ailments",
-                    "optional": true
-                },
-                {
                     "text": "+(7-18) to Strength",
                     "optional": true
                 },
@@ -20798,10 +20798,6 @@
                     "optional": true
                 },
                 {
-                    "text": "8% faster start of Energy Shield Recharge",
-                    "optional": true
-                },
-                {
                     "text": "Determination has 18% increased Aura Effect",
                     "optional": true
                 },
@@ -20811,6 +20807,18 @@
                 },
                 {
                     "text": "9% increased Life Recovery from Flasks",
+                    "optional": true
+                },
+                {
+                    "text": "(9-10)% increased Effect of Cold Ailments",
+                    "optional": true
+                },
+                {
+                    "text": "Intimidate Enemies for 4 seconds on Hit with Attacks",
+                    "optional": true
+                },
+                {
+                    "text": "8% faster start of Energy Shield Recharge",
                     "optional": true
                 },
                 {
@@ -21455,7 +21463,7 @@
             "count": 399,
             "detailsId": "circle-of-fear-sapphire-ring",
             "tradeInfo": [],
-            "listingCount": 44614
+            "listingCount": 44615
         },
         {
             "id": 24994,
@@ -21818,10 +21826,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 111,
+            "count": 112,
             "detailsId": "the-felbog-fang-citrine-amulet",
             "tradeInfo": [],
-            "listingCount": 2951
+            "listingCount": 2952
         },
         {
             "id": 42662,
@@ -22400,13 +22408,13 @@
             },
             "implicitModifiers": [
                 {
-                    "text": "+(25-34) to Strength",
+                    "text": "+(25-35) to Strength",
                     "optional": false
                 }
             ],
             "explicitModifiers": [
                 {
-                    "text": "+(802-1196) to Armour",
+                    "text": "+(802-1199) to Armour",
                     "optional": false
                 },
                 {
@@ -22560,10 +22568,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 260,
+            "count": 261,
             "detailsId": "ceinture-of-benevolence-cloth-belt",
             "tradeInfo": [],
-            "listingCount": 14155
+            "listingCount": 14156
         },
         {
             "id": 103417,
@@ -23038,10 +23046,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 339,
+            "count": 340,
             "detailsId": "prosperos-protection-iron-ring",
             "tradeInfo": [],
-            "listingCount": 14312
+            "listingCount": 14313
         },
         {
             "id": 128304,
@@ -23354,10 +23362,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 176,
+            "count": 175,
             "detailsId": "foulborn-timeclasp-moonstone-ring",
             "tradeInfo": [],
-            "listingCount": 7063
+            "listingCount": 7061
         },
         {
             "id": 128358,
@@ -23433,10 +23441,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 310,
+            "count": 311,
             "detailsId": "foulborn-belt-of-the-deceiver-heavy-belt",
             "tradeInfo": [],
-            "listingCount": 18216
+            "listingCount": 18217
         },
         {
             "id": 128366,
@@ -23507,7 +23515,7 @@
             "count": 348,
             "detailsId": "foulborn-meginords-girdle-heavy-belt",
             "tradeInfo": [],
-            "listingCount": 19852
+            "listingCount": 19853
         },
         {
             "id": 128378,
@@ -23729,10 +23737,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 131,
+            "count": 132,
             "detailsId": "foulborn-gifts-from-above-diamond-ring",
             "tradeInfo": [],
-            "listingCount": 7450
+            "listingCount": 7451
         },
         {
             "id": 128410,
@@ -24099,7 +24107,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 166,
+            "count": 165,
             "detailsId": "foulborn-warped-timepiece-turquoise-amulet",
             "tradeInfo": [],
             "listingCount": 7961
@@ -24170,10 +24178,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 117,
+            "count": 118,
             "detailsId": "foulborn-heartbound-loop-moonstone-ring",
             "tradeInfo": [],
-            "listingCount": 6485
+            "listingCount": 6486
         },
         {
             "id": 128534,
@@ -24516,7 +24524,7 @@
             ],
             "mutatedModifiers": [
                 {
-                    "text": "(203-300)% increased Stun and Block Recovery",
+                    "text": "(202-300)% increased Stun and Block Recovery",
                     "optional": false
                 }
             ],
@@ -24529,75 +24537,6 @@
             "detailsId": "foulborn-dream-fragments-sapphire-ring",
             "tradeInfo": [],
             "listingCount": 1598
-        },
-        {
-            "id": 1304,
-            "name": "Sidhebreath",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9BbXVsZXQxVW5pcXVlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2a0f1c86cc/Amulet1Unique.png",
-            "baseType": "Paua Amulet",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -7,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -7
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -7,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    -7
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "(20-30)% increased Mana Regeneration Rate",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "+25% to Cold Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Minions have (10-15)% increased maximum Life",
-                    "optional": false
-                },
-                {
-                    "text": "Minions convert 50% of Physical Damage to Cold Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Minions deal (25-35) to (50-65) additional Cold Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Minions deal no Non-Cold Damage",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The breath of life is yours to give.",
-            "itemType": "Amulet",
-            "chaosValue": 0.93,
-            "exaltedValue": 0.09,
-            "divineValue": 0.0,
-            "count": 399,
-            "detailsId": "sidhebreath-paua-amulet",
-            "tradeInfo": [],
-            "listingCount": 21138
         },
         {
             "id": 856,
@@ -24724,10 +24663,79 @@
             "chaosValue": 0.82,
             "exaltedValue": 0.08,
             "divineValue": 0.0,
-            "count": 332,
+            "count": 333,
             "detailsId": "natural-hierarchy-rotfeather-talisman",
             "tradeInfo": [],
-            "listingCount": 13100
+            "listingCount": 13101
+        },
+        {
+            "id": 1304,
+            "name": "Sidhebreath",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9BbXVsZXQxVW5pcXVlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2a0f1c86cc/Amulet1Unique.png",
+            "baseType": "Paua Amulet",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -18,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -18
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -18,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -18
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "(20-30)% increased Mana Regeneration Rate",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "+25% to Cold Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Minions have (10-15)% increased maximum Life",
+                    "optional": false
+                },
+                {
+                    "text": "Minions convert 50% of Physical Damage to Cold Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Minions deal (25-35) to (50-65) additional Cold Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Minions deal no Non-Cold Damage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "The breath of life is yours to give.",
+            "itemType": "Amulet",
+            "chaosValue": 0.82,
+            "exaltedValue": 0.08,
+            "divineValue": 0.0,
+            "count": 399,
+            "detailsId": "sidhebreath-paua-amulet",
+            "tradeInfo": [],
+            "listingCount": 21139
         },
         {
             "id": 103413,
@@ -24790,10 +24798,10 @@
             "chaosValue": 0.82,
             "exaltedValue": 0.08,
             "divineValue": 0.0,
-            "count": 311,
+            "count": 312,
             "detailsId": "bloodsoaked-medallion-amber-amulet",
             "tradeInfo": [],
-            "listingCount": 11473
+            "listingCount": 11474
         },
         {
             "id": 782,
@@ -24934,10 +24942,10 @@
             "chaosValue": 0.63,
             "exaltedValue": 0.06,
             "divineValue": 0.0,
-            "count": 292,
+            "count": 295,
             "detailsId": "grattus-signet-diamond-ring",
             "tradeInfo": [],
-            "listingCount": 11646
+            "listingCount": 11649
         },
         {
             "id": 569,
@@ -25078,10 +25086,10 @@
             "chaosValue": 0.39,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 266,
+            "count": 267,
             "detailsId": "soulbound-paua-ring",
             "tradeInfo": [],
-            "listingCount": 11172
+            "listingCount": 11173
         },
         {
             "id": 866,
@@ -25225,7 +25233,7 @@
             "baseType": "Chain Belt",
             "itemClass": 3,
             "sparkLine": {
-                "totalChange": 183.3,
+                "totalChange": 166.7,
                 "data": [
                     0,
                     -16.67,
@@ -25233,11 +25241,11 @@
                     -16.67,
                     16.67,
                     83.33,
-                    183.3
+                    166.7
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 183.3,
+                "totalChange": 166.7,
                 "data": [
                     0,
                     -16.67,
@@ -25245,7 +25253,7 @@
                     -16.67,
                     16.67,
                     83.33,
-                    183.3
+                    166.7
                 ]
             },
             "implicitModifiers": [
@@ -25275,225 +25283,13 @@
             "mutatedModifiers": [],
             "flavourText": "\"A man confronted with sufficient adversity\nmay ascend to unprecedented heights\nand triumph over his coddled rivals.\"\n- Weylan the Ezomyte",
             "itemType": "Belt",
-            "chaosValue": 0.17,
-            "exaltedValue": 0.02,
-            "divineValue": 0.0,
-            "count": 263,
-            "detailsId": "chain-of-endurance-chain-belt",
-            "tradeInfo": [],
-            "listingCount": 10904
-        },
-        {
-            "id": 349,
-            "name": "Daresso's Salute",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9DaXRyaW5lQW11bGV0VW5pcXVlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ea232d0123/CitrineAmuletUnique.png",
-            "levelRequired": 16,
-            "baseType": "Citrine Amulet",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -51.52,
-                "data": [
-                    0,
-                    203.0,
-                    203.0,
-                    203.0,
-                    42.42,
-                    3.03,
-                    -51.52
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -51.52,
-                "data": [
-                    0,
-                    203.0,
-                    203.0,
-                    203.0,
-                    42.42,
-                    3.03,
-                    -51.52
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "+(16-24) to Strength and Dexterity",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "50% reduced maximum Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "+(30-40)% to Fire Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "+(30-40)% to Cold Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "10% increased Movement Speed when on Full Life",
-                    "optional": false
-                },
-                {
-                    "text": "+0.2 metres to Melee Strike Range",
-                    "optional": false
-                },
-                {
-                    "text": "60% increased Melee Damage when on Full Life",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"A bit short in the arm, are you? \nThen you'll be short of a head soon enough.\"\n- Daresso the Daring",
-            "itemType": "Amulet",
             "chaosValue": 0.16,
             "exaltedValue": 0.02,
             "divineValue": 0.0,
-            "count": 332,
-            "detailsId": "daressos-salute-citrine-amulet",
+            "count": 262,
+            "detailsId": "chain-of-endurance-chain-belt",
             "tradeInfo": [],
-            "listingCount": 16012
-        },
-        {
-            "id": 169,
-            "name": "Blightwell",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9UYWludGVkU3ByaW5ncyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a95bad91d3/TaintedSprings.png",
-            "levelRequired": 28,
-            "baseType": "Clutching Talisman",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -85,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -22,
-                    -2,
-                    -72,
-                    -85
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -85,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    -22,
-                    -2,
-                    -72,
-                    -85
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "(4-5)% increased Strength",
-                    "optional": true
-                },
-                {
-                    "text": "10% increased Movement Speed",
-                    "optional": true
-                },
-                {
-                    "text": "Grants Level 23 Purity of Ice Skill",
-                    "optional": true
-                },
-                {
-                    "text": "+15% to all Elemental Resistances",
-                    "optional": true
-                },
-                {
-                    "text": "Grants Level 23 Purity of Lightning Skill",
-                    "optional": true
-                },
-                {
-                    "text": "6% increased Dexterity",
-                    "optional": true
-                },
-                {
-                    "text": "0.5% of Fire Damage Leeched as Life",
-                    "optional": true
-                },
-                {
-                    "text": "Grants Level 21 Purity of Elements Skill",
-                    "optional": true
-                },
-                {
-                    "text": "(4-6)% increased Intelligence",
-                    "optional": true
-                },
-                {
-                    "text": "24% increased Elemental Damage with Attack Skills",
-                    "optional": true
-                },
-                {
-                    "text": "5% Chance to Block Attack Damage",
-                    "optional": true
-                },
-                {
-                    "text": "(4-5)% Chance to Block Spell Damage",
-                    "optional": true
-                },
-                {
-                    "text": "0.5% of Cold Damage Leeched as Life",
-                    "optional": true
-                },
-                {
-                    "text": "Hatred has 16% increased Aura Effect",
-                    "optional": true
-                },
-                {
-                    "text": "(15-25)% increased Global Defences",
-                    "optional": true
-                },
-                {
-                    "text": "Anger has (18-20)% increased Aura Effect",
-                    "optional": true
-                },
-                {
-                    "text": "You can apply an additional Curse",
-                    "optional": true
-                },
-                {
-                    "text": "Discipline has 17% increased Aura Effect",
-                    "optional": true
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "+(20-30) to maximum Energy Shield",
-                    "optional": false
-                },
-                {
-                    "text": "+(15-30)% to Fire Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "+(15-30)% to Lightning Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "50% slower start of Energy Shield Recharge during any Flask Effect",
-                    "optional": false
-                },
-                {
-                    "text": "(150-200)% increased Energy Shield Recharge Rate during any Flask Effect",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Long ago, the ocean was a puddle where a golden fish dwelt,\nwho lit the ocean from within and kept the water fresh.\nWhen the sky burned, the fish dived deep,\nnever to return, and the waters turned sour.",
-            "itemType": "Amulet",
-            "chaosValue": 0.15,
-            "exaltedValue": 0.01,
-            "divineValue": 0.0,
-            "count": 296,
-            "detailsId": "blightwell-clutching-talisman",
-            "tradeInfo": [],
-            "listingCount": 13850
+            "listingCount": 10904
         },
         {
             "id": 1776,
@@ -25564,10 +25360,10 @@
             "chaosValue": 0.14,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 374,
+            "count": 375,
             "detailsId": "victarios-acuity-turquoise-amulet",
             "tradeInfo": [],
-            "listingCount": 14182
+            "listingCount": 14183
         },
         {
             "id": 106478,
@@ -25698,6 +25494,218 @@
             "listingCount": 9458
         },
         {
+            "id": 169,
+            "name": "Blightwell",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9UYWludGVkU3ByaW5ncyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a95bad91d3/TaintedSprings.png",
+            "levelRequired": 28,
+            "baseType": "Clutching Talisman",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -88,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -22,
+                    -2,
+                    -72,
+                    -88
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -88,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -22,
+                    -2,
+                    -72,
+                    -88
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "(4-5)% increased Strength",
+                    "optional": true
+                },
+                {
+                    "text": "10% increased Movement Speed",
+                    "optional": true
+                },
+                {
+                    "text": "Grants Level 23 Purity of Ice Skill",
+                    "optional": true
+                },
+                {
+                    "text": "+15% to all Elemental Resistances",
+                    "optional": true
+                },
+                {
+                    "text": "Grants Level 23 Purity of Lightning Skill",
+                    "optional": true
+                },
+                {
+                    "text": "6% increased Dexterity",
+                    "optional": true
+                },
+                {
+                    "text": "0.5% of Fire Damage Leeched as Life",
+                    "optional": true
+                },
+                {
+                    "text": "Grants Level 21 Purity of Elements Skill",
+                    "optional": true
+                },
+                {
+                    "text": "(4-6)% increased Intelligence",
+                    "optional": true
+                },
+                {
+                    "text": "24% increased Elemental Damage with Attack Skills",
+                    "optional": true
+                },
+                {
+                    "text": "5% Chance to Block Attack Damage",
+                    "optional": true
+                },
+                {
+                    "text": "(4-5)% Chance to Block Spell Damage",
+                    "optional": true
+                },
+                {
+                    "text": "0.5% of Cold Damage Leeched as Life",
+                    "optional": true
+                },
+                {
+                    "text": "Hatred has 16% increased Aura Effect",
+                    "optional": true
+                },
+                {
+                    "text": "(15-25)% increased Global Defences",
+                    "optional": true
+                },
+                {
+                    "text": "Anger has (18-20)% increased Aura Effect",
+                    "optional": true
+                },
+                {
+                    "text": "You can apply an additional Curse",
+                    "optional": true
+                },
+                {
+                    "text": "Discipline has 17% increased Aura Effect",
+                    "optional": true
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "+(20-30) to maximum Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "+(15-30)% to Fire Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "+(15-30)% to Lightning Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "50% slower start of Energy Shield Recharge during any Flask Effect",
+                    "optional": false
+                },
+                {
+                    "text": "(150-200)% increased Energy Shield Recharge Rate during any Flask Effect",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Long ago, the ocean was a puddle where a golden fish dwelt,\nwho lit the ocean from within and kept the water fresh.\nWhen the sky burned, the fish dived deep,\nnever to return, and the waters turned sour.",
+            "itemType": "Amulet",
+            "chaosValue": 0.12,
+            "exaltedValue": 0.01,
+            "divineValue": 0.0,
+            "count": 297,
+            "detailsId": "blightwell-clutching-talisman",
+            "tradeInfo": [],
+            "listingCount": 13851
+        },
+        {
+            "id": 349,
+            "name": "Daresso's Salute",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9DaXRyaW5lQW11bGV0VW5pcXVlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ea232d0123/CitrineAmuletUnique.png",
+            "levelRequired": 16,
+            "baseType": "Citrine Amulet",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -63.64,
+                "data": [
+                    0,
+                    203.0,
+                    203.0,
+                    203.0,
+                    42.42,
+                    3.03,
+                    -63.64
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -63.64,
+                "data": [
+                    0,
+                    203.0,
+                    203.0,
+                    203.0,
+                    42.42,
+                    3.03,
+                    -63.64
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "+(16-24) to Strength and Dexterity",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "50% reduced maximum Energy Shield",
+                    "optional": false
+                },
+                {
+                    "text": "+(30-40)% to Fire Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "+(30-40)% to Cold Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "10% increased Movement Speed when on Full Life",
+                    "optional": false
+                },
+                {
+                    "text": "+0.2 metres to Melee Strike Range",
+                    "optional": false
+                },
+                {
+                    "text": "60% increased Melee Damage when on Full Life",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"A bit short in the arm, are you? \nThen you'll be short of a head soon enough.\"\n- Daresso the Daring",
+            "itemType": "Amulet",
+            "chaosValue": 0.12,
+            "exaltedValue": 0.01,
+            "divineValue": 0.0,
+            "count": 334,
+            "detailsId": "daressos-salute-citrine-amulet",
+            "tradeInfo": [],
+            "listingCount": 16014
+        },
+        {
             "id": 1528,
             "name": "The Ignomon",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQW11bGV0cy9BbXVsZXQ2VW5pcXVlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/41a964dea4/Amulet6Unique.png",
@@ -25766,10 +25774,10 @@
             "chaosValue": 0.12,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 225,
+            "count": 227,
             "detailsId": "the-ignomon-gold-amulet",
             "tradeInfo": [],
-            "listingCount": 9531
+            "listingCount": 9533
         },
         {
             "id": 506,
@@ -25840,10 +25848,10 @@
             "chaosValue": 0.08,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 354,
+            "count": 355,
             "detailsId": "extractor-mentis-agate-amulet",
             "tradeInfo": [],
-            "listingCount": 14694
+            "listingCount": 14696
         },
         {
             "id": 520,
@@ -25910,10 +25918,10 @@
             "chaosValue": 0.08,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 187,
+            "count": 186,
             "detailsId": "feastbind-rustic-sash",
             "tradeInfo": [],
-            "listingCount": 9452
+            "listingCount": 9453
         },
         {
             "id": 1890,
@@ -25980,10 +25988,10 @@
             "chaosValue": 0.08,
             "exaltedValue": 0.01,
             "divineValue": 0.0,
-            "count": 201,
+            "count": 202,
             "detailsId": "winterheart-gold-amulet",
             "tradeInfo": [],
-            "listingCount": 9357
+            "listingCount": 9358
         },
         {
             "id": 517,
@@ -26119,10 +26127,10 @@
             "chaosValue": 0.04,
             "exaltedValue": 0.0,
             "divineValue": 0.0,
-            "count": 193,
+            "count": 194,
             "detailsId": "araku-tiki-coral-amulet",
             "tradeInfo": [],
-            "listingCount": 7821
+            "listingCount": 7822
         },
         {
             "id": 1661,
@@ -26317,10 +26325,10 @@
             "chaosValue": 0.04,
             "exaltedValue": 0.0,
             "divineValue": 0.0,
-            "count": 169,
+            "count": 170,
             "detailsId": "ikiahos-promise-coral-amulet",
             "tradeInfo": [],
-            "listingCount": 8042
+            "listingCount": 8043
         }
     ]
 }
