@@ -55,7 +55,7 @@
             "chaosValue": 15392,
             "exaltedValue": 1499,
             "divineValue": 80.0,
-            "count": 69,
+            "count": 68,
             "detailsId": "progenesis",
             "tradeInfo": [],
             "listingCount": 165
@@ -111,10 +111,10 @@
             "chaosValue": 4367,
             "exaltedValue": 425.3,
             "divineValue": 22.7,
-            "count": 61,
+            "count": 60,
             "detailsId": "wine-of-the-prophet",
             "tradeInfo": [],
-            "listingCount": 236
+            "listingCount": 235
         },
         {
             "id": 7020,
@@ -292,10 +292,10 @@
             "chaosValue": 769.6,
             "exaltedValue": 74.94,
             "divineValue": 4.0,
-            "count": 159,
+            "count": 158,
             "detailsId": "dying-sun",
             "tradeInfo": [],
-            "listingCount": 1365
+            "listingCount": 1364
         },
         {
             "id": 20932,
@@ -1114,10 +1114,78 @@
             "chaosValue": 5.0,
             "exaltedValue": 0.49,
             "divineValue": 0.03,
-            "count": 263,
+            "count": 264,
             "detailsId": "rumis-concoction",
             "tradeInfo": [],
-            "listingCount": 5209
+            "listingCount": 5210
+        },
+        {
+            "id": 128499,
+            "name": "Wellwater Phylactery",
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvTXlzdGVyaW91c1BoeWxhY3RlcnkiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/b86da401c1/MysteriousPhylactery.png",
+            "levelRequired": 64,
+            "baseType": "Colossal Mana Flask",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": -10,
+                "data": [
+                    0,
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    -10
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -10,
+                "data": [
+                    0,
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    -20,
+                    -10
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "(201-300)% increased Charges per use",
+                    "optional": false
+                },
+                {
+                    "text": "(150-200)% increased Amount Recovered",
+                    "optional": false
+                },
+                {
+                    "text": "(40-60)% less Duration",
+                    "optional": false
+                },
+                {
+                    "text": "Removes (10-15)% of Life when Used",
+                    "optional": false
+                },
+                {
+                    "text": "Starts Energy Shield Recharge when Used",
+                    "optional": false
+                },
+                {
+                    "text": "Energy Shield Recharge is not delayed by Damage during Effect",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Let us share our thirsts. Yours, for power,\nand mine, for death. A stable alliance,\nso long as you never speak my name...\"",
+            "chaosValue": 4.5,
+            "exaltedValue": 0.44,
+            "divineValue": 0.02,
+            "count": 37,
+            "detailsId": "wellwater-phylactery",
+            "tradeInfo": [],
+            "listingCount": 1614
         },
         {
             "id": 1904,
@@ -1170,74 +1238,6 @@
             "detailsId": "zerphis-last-breath",
             "tradeInfo": [],
             "listingCount": 518
-        },
-        {
-            "id": 128499,
-            "name": "Wellwater Phylactery",
-            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvTXlzdGVyaW91c1BoeWxhY3RlcnkiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/b86da401c1/MysteriousPhylactery.png",
-            "levelRequired": 64,
-            "baseType": "Colossal Mana Flask",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -20,
-                "data": [
-                    0,
-                    -20,
-                    -20,
-                    -20,
-                    -20,
-                    -20,
-                    -20
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -20,
-                "data": [
-                    0,
-                    -20,
-                    -20,
-                    -20,
-                    -20,
-                    -20,
-                    -20
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "(201-300)% increased Charges per use",
-                    "optional": false
-                },
-                {
-                    "text": "(150-200)% increased Amount Recovered",
-                    "optional": false
-                },
-                {
-                    "text": "(40-60)% less Duration",
-                    "optional": false
-                },
-                {
-                    "text": "Removes (10-15)% of Life when Used",
-                    "optional": false
-                },
-                {
-                    "text": "Starts Energy Shield Recharge when Used",
-                    "optional": false
-                },
-                {
-                    "text": "Energy Shield Recharge is not delayed by Damage during Effect",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Let us share our thirsts. Yours, for power,\nand mine, for death. A stable alliance,\nso long as you never speak my name...\"",
-            "chaosValue": 4.0,
-            "exaltedValue": 0.39,
-            "divineValue": 0.02,
-            "count": 38,
-            "detailsId": "wellwater-phylactery",
-            "tradeInfo": [],
-            "listingCount": 1615
         },
         {
             "id": 44298,
@@ -1575,10 +1575,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 145,
+            "count": 144,
             "detailsId": "lions-roar",
             "tradeInfo": [],
-            "listingCount": 4547
+            "listingCount": 4546
         },
         {
             "id": 1068,
@@ -1817,7 +1817,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 243,
+            "count": 242,
             "detailsId": "the-writhing-jar",
             "tradeInfo": [],
             "listingCount": 7724
@@ -1878,7 +1878,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 100,
+            "count": 99,
             "detailsId": "witchfire-brew",
             "tradeInfo": [],
             "listingCount": 3185
