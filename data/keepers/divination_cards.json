@@ -417,7 +417,7 @@
                 "data": []
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 4.99,
+                "totalChange": 36.2,
                 "data": [
                     0,
                     -2.48,
@@ -425,7 +425,7 @@
                     1.28,
                     7.31,
                     8.03,
-                    4.99
+                    36.2
                 ]
             },
             "implicitModifiers": [],
@@ -437,10 +437,10 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "One person's madness is another person's reality.",
-            "chaosValue": 1405,
-            "exaltedValue": 140.6,
-            "divineValue": 7.4,
-            "count": 3,
+            "chaosValue": 1822,
+            "exaltedValue": 182.4,
+            "divineValue": 9.6,
+            "count": 2,
             "detailsId": "the-insane-cat",
             "tradeInfo": [],
             "listingCount": 22
@@ -5291,6 +5291,55 @@
             "listingCount": 527
         },
         {
+            "id": 109207,
+            "name": "Eldritch Perfection",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Eldritch Perfection",
+            "stackSize": 4,
+            "artFilename": "EldritchPerfection",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -7.89,
+                "data": [
+                    0,
+                    -7.89,
+                    -7.89,
+                    -15.79,
+                    -7.89,
+                    -7.89,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 173.7,
+                "data": [
+                    0,
+                    -7.89,
+                    -7.89,
+                    -15.79,
+                    -7.89,
+                    -7.89,
+                    173.7
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Item}\n<default>{Item Level:} <normal>{100}\n<enchanted>{Perfect Eldritch Implicit Modifier}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Embrace horror.\nBathe in its beauty.",
+            "chaosValue": 10.4,
+            "exaltedValue": 1.04,
+            "divineValue": 0.05,
+            "count": 3,
+            "detailsId": "eldritch-perfection",
+            "tradeInfo": [],
+            "listingCount": 240
+        },
+        {
             "id": 649,
             "name": "Hunter's Reward",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -6973,55 +7022,6 @@
             "detailsId": "the-cacophony",
             "tradeInfo": [],
             "listingCount": 100
-        },
-        {
-            "id": 109207,
-            "name": "Eldritch Perfection",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Eldritch Perfection",
-            "stackSize": 4,
-            "artFilename": "EldritchPerfection",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 36.84,
-                "data": [
-                    0,
-                    -7.89,
-                    -7.89,
-                    -15.79,
-                    -7.89,
-                    -7.89,
-                    36.84
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 36.84,
-                "data": [
-                    0,
-                    -7.89,
-                    -7.89,
-                    -15.79,
-                    -7.89,
-                    -7.89,
-                    36.84
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{Item}\n<default>{Item Level:} <normal>{100}\n<enchanted>{Perfect Eldritch Implicit Modifier}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Embrace horror.\nBathe in its beauty.",
-            "chaosValue": 5.2,
-            "exaltedValue": 0.52,
-            "divineValue": 0.03,
-            "count": 5,
-            "detailsId": "eldritch-perfection",
-            "tradeInfo": [],
-            "listingCount": 240
         },
         {
             "id": 771,
@@ -13068,7 +13068,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 25,
+            "count": 24,
             "detailsId": "rain-of-chaos",
             "tradeInfo": [],
             "listingCount": 2105
