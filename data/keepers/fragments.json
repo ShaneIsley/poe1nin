@@ -7,7 +7,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 232,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
                 "count": 53,
                 "value": 360.0,
                 "data_point_count": 1,
@@ -56,7 +56,7 @@
                 "league_id": 295,
                 "pay_currency_id": 258,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
                 "count": 1,
                 "value": 0.01176,
                 "data_point_count": 1,
@@ -68,19 +68,19 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 258,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
-                "count": 14,
-                "value": 150.9,
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
+                "count": 13,
+                "value": 150.6,
                 "data_point_count": 1,
                 "includes_secondary": true,
-                "listing_count": 382
+                "listing_count": 381
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 23.69,
+                "totalChange": 23.44,
                 "data": [
                     0,
                     1.64,
@@ -88,10 +88,10 @@
                     9.43,
                     21.15,
                     18.03,
-                    23.69
+                    23.44
                 ]
             },
-            "chaosEquivalent": 150.9,
+            "chaosEquivalent": 150.6,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": [
@@ -105,7 +105,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 23.69,
+                "totalChange": 23.44,
                 "data": [
                     0,
                     1.64,
@@ -113,7 +113,7 @@
                     9.43,
                     21.15,
                     18.03,
-                    23.69
+                    23.44
                 ]
             },
             "detailsId": "echo-of-reverence"
@@ -125,8 +125,8 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 236,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
-                "count": 116,
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
+                "count": 117,
                 "value": 120.0,
                 "data_point_count": 1,
                 "includes_secondary": true,
@@ -174,7 +174,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 143,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
                 "count": 12,
                 "value": 75.1,
                 "data_point_count": 1,
@@ -217,13 +217,70 @@
             "detailsId": "the-mavens-writ"
         },
         {
+            "currencyTypeName": "Simulacrum",
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 128,
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
+                "count": 21,
+                "value": 60.0,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 800
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": 500,
+                "data": [
+                    0,
+                    45,
+                    60,
+                    70,
+                    70,
+                    60,
+                    500
+                ]
+            },
+            "chaosEquivalent": 60.0,
+            "lowConfidencePaySparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null,
+                    null
+                ]
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": 500,
+                "data": [
+                    0,
+                    45,
+                    60,
+                    70,
+                    70,
+                    60,
+                    500
+                ]
+            },
+            "detailsId": "simulacrum"
+        },
+        {
             "currencyTypeName": "An Audience With The King",
             "pay": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 251,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
                 "count": 1,
                 "value": 0.05556,
                 "data_point_count": 1,
@@ -235,7 +292,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 251,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
                 "count": 11,
                 "value": 40.0,
                 "data_point_count": 1,
@@ -286,71 +343,14 @@
             "detailsId": "an-audience-with-the-king"
         },
         {
-            "currencyTypeName": "Simulacrum",
-            "receive": {
-                "id": 0,
-                "league_id": 295,
-                "pay_currency_id": 1,
-                "get_currency_id": 128,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
-                "count": 22,
-                "value": 28.5,
-                "data_point_count": 1,
-                "includes_secondary": false,
-                "listing_count": 800
-            },
-            "paySparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "receiveSparkLine": {
-                "totalChange": 185,
-                "data": [
-                    0,
-                    45,
-                    60,
-                    70,
-                    70,
-                    60,
-                    185
-                ]
-            },
-            "chaosEquivalent": 28.5,
-            "lowConfidencePaySparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceReceiveSparkLine": {
-                "totalChange": 185,
-                "data": [
-                    0,
-                    45,
-                    60,
-                    70,
-                    70,
-                    60,
-                    185
-                ]
-            },
-            "detailsId": "simulacrum"
-        },
-        {
             "currencyTypeName": "Hivebrain Gland",
             "receive": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 269,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
-                "count": 101,
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
+                "count": 99,
                 "value": 2.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
@@ -398,7 +398,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 44,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
                 "count": 19,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -447,7 +447,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 72,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
                 "count": 29,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -496,8 +496,8 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 129,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
-                "count": 23,
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
+                "count": 22,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
@@ -545,7 +545,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 31,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
                 "count": 12,
                 "value": 0.9,
                 "data_point_count": 1,
@@ -594,7 +594,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 28,
-                "sample_time_utc": "2026-02-05T04:34:50.1917722Z",
+                "sample_time_utc": "2026-02-05T05:45:11.7560409Z",
                 "count": 12,
                 "value": 0.3333,
                 "data_point_count": 1,
