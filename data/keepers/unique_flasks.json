@@ -55,10 +55,10 @@
             "chaosValue": 15666,
             "exaltedValue": 1551,
             "divineValue": 85.0,
-            "count": 44,
+            "count": 43,
             "detailsId": "progenesis",
             "tradeInfo": [],
-            "listingCount": 154
+            "listingCount": 153
         },
         {
             "id": 124913,
@@ -292,10 +292,10 @@
             "chaosValue": 737.2,
             "exaltedValue": 72.99,
             "divineValue": 4.0,
-            "count": 123,
+            "count": 121,
             "detailsId": "dying-sun",
             "tradeInfo": [],
-            "listingCount": 1354
+            "listingCount": 1353
         },
         {
             "id": 20932,
@@ -421,7 +421,7 @@
             "count": 30,
             "detailsId": "olroths-resolve",
             "tradeInfo": [],
-            "listingCount": 236
+            "listingCount": 235
         },
         {
             "id": 19060,
@@ -639,10 +639,10 @@
             "chaosValue": 25.0,
             "exaltedValue": 2.48,
             "divineValue": 0.14,
-            "count": 220,
+            "count": 222,
             "detailsId": "oriaths-end",
             "tradeInfo": [],
-            "listingCount": 2227
+            "listingCount": 2228
         },
         {
             "id": 109029,
@@ -770,6 +770,63 @@
             "listingCount": 635
         },
         {
+            "id": 1956,
+            "name": "Sin's Rebirth",
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvU2luIiwidyI6MSwiaCI6Miwic2NhbGUiOjEsImxldmVsIjoxfV0/897bffaad1/Sin.png",
+            "levelRequired": 27,
+            "baseType": "Stibnite Flask",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 11.11,
+                "data": [
+                    0,
+                    0,
+                    -1.39,
+                    11.11,
+                    11.11,
+                    6.94,
+                    11.11
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 11.11,
+                "data": [
+                    0,
+                    0,
+                    -1.39,
+                    11.11,
+                    11.11,
+                    6.94,
+                    11.11
+                ]
+            },
+            "implicitModifiers": [
+                {
+                    "text": "Creates a Smoke Cloud on Use",
+                    "optional": false
+                }
+            ],
+            "explicitModifiers": [
+                {
+                    "text": "Grants Immunity to Ignite for 4 seconds if used while Ignited\nRemoves all Burning when used",
+                    "optional": false
+                },
+                {
+                    "text": "Unholy Might during Effect",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "And from the ashes he rose, like a black cloud.\nThe Sin of one became the Sin of many.",
+            "chaosValue": 8.0,
+            "exaltedValue": 0.79,
+            "divineValue": 0.04,
+            "count": 32,
+            "detailsId": "sins-rebirth",
+            "tradeInfo": [],
+            "listingCount": 497
+        },
+        {
             "id": 68096,
             "name": "Vorana's Preparation",
             "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvQWRhcHRhdGlvbkZsYXNrMDMiLCJ3IjoxLCJoIjoyLCJzY2FsZSI6MSwibGV2ZWwiOjF9XQ/f67d3bf6f2/AdaptationFlask03.png",
@@ -837,63 +894,6 @@
             "detailsId": "voranas-preparation",
             "tradeInfo": [],
             "listingCount": 319
-        },
-        {
-            "id": 1956,
-            "name": "Sin's Rebirth",
-            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvU2luIiwidyI6MSwiaCI6Miwic2NhbGUiOjEsImxldmVsIjoxfV0/897bffaad1/Sin.png",
-            "levelRequired": 27,
-            "baseType": "Stibnite Flask",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": -1.39,
-                "data": [
-                    0,
-                    0,
-                    -1.39,
-                    11.11,
-                    11.11,
-                    6.94,
-                    -1.39
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -1.39,
-                "data": [
-                    0,
-                    0,
-                    -1.39,
-                    11.11,
-                    11.11,
-                    6.94,
-                    -1.39
-                ]
-            },
-            "implicitModifiers": [
-                {
-                    "text": "Creates a Smoke Cloud on Use",
-                    "optional": false
-                }
-            ],
-            "explicitModifiers": [
-                {
-                    "text": "Grants Immunity to Ignite for 4 seconds if used while Ignited\nRemoves all Burning when used",
-                    "optional": false
-                },
-                {
-                    "text": "Unholy Might during Effect",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "And from the ashes he rose, like a black cloud.\nThe Sin of one became the Sin of many.",
-            "chaosValue": 7.1,
-            "exaltedValue": 0.7,
-            "divineValue": 0.04,
-            "count": 33,
-            "detailsId": "sins-rebirth",
-            "tradeInfo": [],
-            "listingCount": 498
         },
         {
             "id": 44298,
@@ -1243,10 +1243,10 @@
             "chaosValue": 4.0,
             "exaltedValue": 0.4,
             "divineValue": 0.02,
-            "count": 173,
+            "count": 171,
             "detailsId": "atziris-promise",
             "tradeInfo": [],
-            "listingCount": 1904
+            "listingCount": 1903
         },
         {
             "id": 1904,
@@ -1385,66 +1385,6 @@
             "listingCount": 2834
         },
         {
-            "id": 763,
-            "name": "Lion's Roar",
-            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MveUZsYXNrNSIsInciOjEsImgiOjIsInNjYWxlIjoxLCJsZXZlbCI6MX1d/69fe070e32/yFlask5.png",
-            "levelRequired": 27,
-            "baseType": "Granite Flask",
-            "itemClass": 3,
-            "sparkLine": {
-                "totalChange": 40,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    40
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 40,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    40
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Knocks Back Enemies in an Area when you use a Flask",
-                    "optional": false
-                },
-                {
-                    "text": "75% chance to cause Enemies to Flee on use",
-                    "optional": false
-                },
-                {
-                    "text": "Adds Knockback to Melee Attacks during Effect",
-                    "optional": false
-                },
-                {
-                    "text": "(7-10)% more Melee Physical Damage during effect",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "A sprinkle of hunger, a spoonful of menace\nand three generous cups of Might.",
-            "chaosValue": 1.4,
-            "exaltedValue": 0.14,
-            "divineValue": 0.01,
-            "count": 109,
-            "detailsId": "lions-roar",
-            "tradeInfo": [],
-            "listingCount": 4531
-        },
-        {
             "id": 174,
             "name": "Blood of the Karui",
             "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MvQmxvb2RPZlRoZUthcnVpIiwidyI6MSwiaCI6Miwic2NhbGUiOjEsImxldmVsIjoxfV0/f70bd57e9f/BloodOfTheKarui.png",
@@ -1554,7 +1494,7 @@
             "count": 100,
             "detailsId": "divination-distillate",
             "tradeInfo": [],
-            "listingCount": 4255
+            "listingCount": 4254
         },
         {
             "id": 537,
@@ -1659,10 +1599,70 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 186,
+            "count": 187,
             "detailsId": "laviangas-spirit",
             "tradeInfo": [],
-            "listingCount": 8696
+            "listingCount": 8697
+        },
+        {
+            "id": 763,
+            "name": "Lion's Roar",
+            "icon": "https://web.poecdn.com/gen/image/WzksMTQseyJmIjoiMkRJdGVtcy9GbGFza3MveUZsYXNrNSIsInciOjEsImgiOjIsInNjYWxlIjoxLCJsZXZlbCI6MX1d/69fe070e32/yFlask5.png",
+            "levelRequired": 27,
+            "baseType": "Granite Flask",
+            "itemClass": 3,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Knocks Back Enemies in an Area when you use a Flask",
+                    "optional": false
+                },
+                {
+                    "text": "75% chance to cause Enemies to Flee on use",
+                    "optional": false
+                },
+                {
+                    "text": "Adds Knockback to Melee Attacks during Effect",
+                    "optional": false
+                },
+                {
+                    "text": "(7-10)% more Melee Physical Damage during effect",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "A sprinkle of hunger, a spoonful of menace\nand three generous cups of Might.",
+            "chaosValue": 1.0,
+            "exaltedValue": 0.1,
+            "divineValue": 0.01,
+            "count": 110,
+            "detailsId": "lions-roar",
+            "tradeInfo": [],
+            "listingCount": 4532
         },
         {
             "id": 1068,
@@ -1841,10 +1841,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 277,
+            "count": 276,
             "detailsId": "the-sorrow-of-the-divine",
             "tradeInfo": [],
-            "listingCount": 14466
+            "listingCount": 14465
         },
         {
             "id": 1679,
@@ -1901,10 +1901,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 207,
+            "count": 209,
             "detailsId": "the-writhing-jar",
             "tradeInfo": [],
-            "listingCount": 7732
+            "listingCount": 7735
         },
         {
             "id": 1893,
@@ -2014,10 +2014,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 116,
+            "count": 117,
             "detailsId": "the-wise-oak",
             "tradeInfo": [],
-            "listingCount": 4464
+            "listingCount": 4465
         },
         {
             "id": 6896,
@@ -2074,7 +2074,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.1,
             "divineValue": 0.01,
-            "count": 57,
+            "count": 56,
             "detailsId": "soul-catcher",
             "tradeInfo": [],
             "listingCount": 1491
@@ -2270,7 +2270,7 @@
             "chaosValue": 0.03,
             "exaltedValue": 0.0,
             "divineValue": 0.0,
-            "count": 229,
+            "count": 228,
             "detailsId": "kiaras-determination",
             "tradeInfo": [],
             "listingCount": 12966
