@@ -7,19 +7,19 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 232,
-                "sample_time_utc": "2026-02-07T14:41:33.0047646Z",
-                "count": 46,
-                "value": 366.4,
+                "sample_time_utc": "2026-02-07T15:16:39.654216Z",
+                "count": 47,
+                "value": 353.0,
                 "data_point_count": 1,
                 "includes_secondary": true,
-                "listing_count": 721
+                "listing_count": 723
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 1.79,
+                "totalChange": -1.95,
                 "data": [
                     0,
                     0,
@@ -27,16 +27,16 @@
                     0,
                     0,
                     0.22,
-                    1.79
+                    -1.95
                 ]
             },
-            "chaosEquivalent": 366.4,
+            "chaosEquivalent": 353.0,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 1.79,
+                "totalChange": -1.95,
                 "data": [
                     0,
                     0,
@@ -44,7 +44,7 @@
                     0,
                     0,
                     0.22,
-                    1.79
+                    -1.95
                 ]
             },
             "detailsId": "voidborn-reliquary-key"
@@ -56,12 +56,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 236,
-                "sample_time_utc": "2026-02-07T14:41:33.0047646Z",
-                "count": 60,
+                "sample_time_utc": "2026-02-07T15:16:39.654216Z",
+                "count": 61,
                 "value": 100.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 318
+                "listing_count": 319
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -105,7 +105,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 128,
-                "sample_time_utc": "2026-02-07T14:41:33.0047646Z",
+                "sample_time_utc": "2026-02-07T15:16:39.654216Z",
                 "count": 20,
                 "value": 55.5,
                 "data_point_count": 1,
@@ -162,7 +162,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 251,
-                "sample_time_utc": "2026-02-07T14:41:33.0047646Z",
+                "sample_time_utc": "2026-02-07T15:16:39.654216Z",
                 "count": 11,
                 "value": 40.0,
                 "data_point_count": 1,
@@ -213,42 +213,74 @@
             "detailsId": "an-audience-with-the-king"
         },
         {
-            "currencyTypeName": "Hivebrain Gland",
+            "currencyTypeName": "Timeless Vaal Splinter",
             "receive": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 1,
-                "get_currency_id": 269,
-                "sample_time_utc": "2026-02-07T14:41:33.0047646Z",
-                "count": 88,
-                "value": 2.7,
+                "get_currency_id": 107,
+                "sample_time_utc": "2026-02-07T15:16:39.654216Z",
+                "count": 11,
+                "value": 35.0,
                 "data_point_count": 1,
-                "includes_secondary": false,
-                "listing_count": 86565
+                "includes_secondary": true,
+                "listing_count": 248
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 35,
+                "totalChange": 3400,
                 "data": [
                     0,
-                    -15.0,
-                    -10.0,
                     0,
                     0,
                     0,
-                    35
+                    0,
+                    1900,
+                    3400
                 ]
             },
-            "chaosEquivalent": 2.7,
+            "chaosEquivalent": 35.0,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 35,
+                "totalChange": 3400,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    1900,
+                    3400
+                ]
+            },
+            "detailsId": "timeless-vaal-splinter"
+        },
+        {
+            "currencyTypeName": "Hivebrain Gland",
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 269,
+                "sample_time_utc": "2026-02-07T15:16:39.654216Z",
+                "count": 87,
+                "value": 2.6,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 86566
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": 30,
                 "data": [
                     0,
                     -15.0,
@@ -256,7 +288,24 @@
                     0,
                     0,
                     0,
-                    35
+                    30
+                ]
+            },
+            "chaosEquivalent": 2.6,
+            "lowConfidencePaySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": 30,
+                "data": [
+                    0,
+                    -15.0,
+                    -10.0,
+                    0,
+                    0,
+                    0,
+                    30
                 ]
             },
             "detailsId": "hivebrain-gland"
@@ -268,7 +317,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 44,
-                "sample_time_utc": "2026-02-07T14:41:33.0047646Z",
+                "sample_time_utc": "2026-02-07T15:16:39.654216Z",
                 "count": 18,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -317,7 +366,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 72,
-                "sample_time_utc": "2026-02-07T14:41:33.0047646Z",
+                "sample_time_utc": "2026-02-07T15:16:39.654216Z",
                 "count": 15,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -366,8 +415,8 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 129,
-                "sample_time_utc": "2026-02-07T14:41:33.0047646Z",
-                "count": 22,
+                "sample_time_utc": "2026-02-07T15:16:39.654216Z",
+                "count": 23,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
@@ -415,7 +464,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 31,
-                "sample_time_utc": "2026-02-07T14:41:33.0047646Z",
+                "sample_time_utc": "2026-02-07T15:16:39.654216Z",
                 "count": 11,
                 "value": 0.8889,
                 "data_point_count": 1,
@@ -464,7 +513,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 28,
-                "sample_time_utc": "2026-02-07T14:41:33.0047646Z",
+                "sample_time_utc": "2026-02-07T15:16:39.654216Z",
                 "count": 13,
                 "value": 0.4602,
                 "data_point_count": 1,
