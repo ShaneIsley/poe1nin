@@ -2,12 +2,24 @@
     "lines": [
         {
             "currencyTypeName": "Syndicate Medallion",
+            "pay": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 260,
+                "get_currency_id": 1,
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
+                "count": 1,
+                "value": 0.01111,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 1
+            },
             "receive": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 260,
-                "sample_time_utc": "2026-02-10T23:25:35.0527107Z",
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
                 "count": 12,
                 "value": 354.0,
                 "data_point_count": 1,
@@ -22,10 +34,10 @@
                 "totalChange": -1.67,
                 "data": [
                     0,
-                    0,
                     -9.95,
                     -18.87,
                     -4.56,
+                    -3.33,
                     -3.33,
                     -1.67
                 ]
@@ -35,22 +47,22 @@
                 "totalChange": 0,
                 "data": [
                     0,
-                    0,
                     null,
                     null,
                     null,
                     null,
-                    null
+                    null,
+                    0
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
                 "totalChange": -1.67,
                 "data": [
                     0,
-                    0,
                     -9.95,
                     -18.87,
                     -4.56,
+                    -3.33,
                     -3.33,
                     -1.67
                 ]
@@ -64,9 +76,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 232,
-                "sample_time_utc": "2026-02-10T23:25:35.0527107Z",
-                "count": 50,
-                "value": 287.7,
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
+                "count": 52,
+                "value": 189.3,
                 "data_point_count": 1,
                 "includes_secondary": true,
                 "listing_count": 744
@@ -76,32 +88,32 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": -20.08,
+                "totalChange": -47.42,
                 "data": [
-                    0,
                     0,
                     0.22,
                     -3.08,
                     -4.56,
                     -3.33,
-                    -20.08
+                    -16.67,
+                    -47.42
                 ]
             },
-            "chaosEquivalent": 287.7,
+            "chaosEquivalent": 189.3,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": -20.08,
+                "totalChange": -47.42,
                 "data": [
-                    0,
                     0,
                     0.22,
                     -3.08,
                     -4.56,
                     -3.33,
-                    -20.08
+                    -16.67,
+                    -47.42
                 ]
             },
             "detailsId": "voidborn-reliquary-key"
@@ -113,56 +125,117 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 236,
-                "sample_time_utc": "2026-02-10T23:25:35.0527107Z",
-                "count": 58,
-                "value": 97.8,
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
+                "count": 61,
+                "value": 99.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 335
+                "listing_count": 338
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": -18.5,
+                "totalChange": -10.81,
                 "data": [
                     0,
-                    -7.5,
-                    -16.67,
-                    -16.83,
-                    -16.67,
-                    -23.33,
-                    -18.5
+                    -9.91,
+                    -10.09,
+                    -9.91,
+                    -17.12,
+                    -13.51,
+                    -10.81
                 ]
             },
-            "chaosEquivalent": 97.8,
+            "chaosEquivalent": 99.0,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": -18.5,
+                "totalChange": -10.81,
                 "data": [
                     0,
-                    -7.5,
-                    -16.67,
-                    -16.83,
-                    -16.67,
-                    -23.33,
-                    -18.5
+                    -9.91,
+                    -10.09,
+                    -9.91,
+                    -17.12,
+                    -13.51,
+                    -10.81
                 ]
             },
             "detailsId": "valdos-puzzle-box"
         },
         {
+            "currencyTypeName": "Simulacrum",
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 128,
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
+                "count": 21,
+                "value": 70.0,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 809
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": 16.67,
+                "data": [
+                    0,
+                    0,
+                    -7.5,
+                    -46.67,
+                    -67.5,
+                    1.5,
+                    16.67
+                ]
+            },
+            "chaosEquivalent": 70.0,
+            "lowConfidencePaySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": 16.67,
+                "data": [
+                    0,
+                    0,
+                    -7.5,
+                    -46.67,
+                    -67.5,
+                    1.5,
+                    16.67
+                ]
+            },
+            "detailsId": "simulacrum"
+        },
+        {
             "currencyTypeName": "Sacred Blossom",
+            "pay": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 229,
+                "get_currency_id": 1,
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
+                "count": 1,
+                "value": 0.04167,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 2
+            },
             "receive": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 229,
-                "sample_time_utc": "2026-02-10T23:25:35.0527107Z",
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
                 "count": 17,
                 "value": 56.0,
                 "data_point_count": 1,
@@ -174,15 +247,15 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 29.63,
+                "totalChange": 14.75,
                 "data": [
                     0,
-                    12.96,
-                    13.43,
-                    13.43,
-                    10.42,
-                    24.54,
-                    29.63
+                    0.41,
+                    0.41,
+                    -2.25,
+                    10.25,
+                    10.66,
+                    14.75
                 ]
             },
             "chaosEquivalent": 56.0,
@@ -190,24 +263,24 @@
                 "totalChange": 0,
                 "data": [
                     0,
-                    0,
                     null,
                     null,
                     null,
                     null,
-                    null
+                    null,
+                    0
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 29.63,
+                "totalChange": 14.75,
                 "data": [
                     0,
-                    12.96,
-                    13.43,
-                    13.43,
-                    10.42,
-                    24.54,
-                    29.63
+                    0.41,
+                    0.41,
+                    -2.25,
+                    10.25,
+                    10.66,
+                    14.75
                 ]
             },
             "detailsId": "sacred-blossom"
@@ -219,56 +292,68 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 131,
-                "sample_time_utc": "2026-02-10T23:25:35.0527107Z",
-                "count": 13,
-                "value": 51.0,
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
+                "count": 12,
+                "value": 50.5,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 81
+                "listing_count": 78
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": -21.3,
+                "totalChange": 17.72,
                 "data": [
                     0,
-                    -33.8,
-                    -32.1,
-                    -30.86,
-                    -18.83,
-                    -13.27,
-                    -21.3
+                    2.56,
+                    4.43,
+                    22.61,
+                    31.0,
+                    29.37,
+                    17.72
                 ]
             },
-            "chaosEquivalent": 51.0,
+            "chaosEquivalent": 50.5,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": -21.3,
+                "totalChange": 17.72,
                 "data": [
                     0,
-                    -33.8,
-                    -32.1,
-                    -30.86,
-                    -18.83,
-                    -13.27,
-                    -21.3
+                    2.56,
+                    4.43,
+                    22.61,
+                    31.0,
+                    29.37,
+                    17.72
                 ]
             },
             "detailsId": "dedication-to-the-goddess"
         },
         {
             "currencyTypeName": "An Audience With The King",
+            "pay": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 251,
+                "get_currency_id": 1,
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
+                "count": 1,
+                "value": 0.05556,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 1
+            },
             "receive": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 251,
-                "sample_time_utc": "2026-02-10T23:25:35.0527107Z",
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
                 "count": 26,
                 "value": 40.0,
                 "data_point_count": 1,
@@ -280,15 +365,15 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": -12.85,
+                "totalChange": 0,
                 "data": [
                     0,
-                    -12.85,
-                    -3.05,
-                    -10.68,
-                    -1.96,
-                    -11.98,
-                    -12.85
+                    11.25,
+                    2.5,
+                    12.5,
+                    1,
+                    0,
+                    0
                 ]
             },
             "chaosEquivalent": 40.0,
@@ -296,76 +381,27 @@
                 "totalChange": 0,
                 "data": [
                     0,
-                    0,
                     null,
                     null,
                     null,
                     null,
-                    null
+                    null,
+                    0
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": -12.85,
+                "totalChange": 0,
                 "data": [
                     0,
-                    -12.85,
-                    -3.05,
-                    -10.68,
-                    -1.96,
-                    -11.98,
-                    -12.85
+                    11.25,
+                    2.5,
+                    12.5,
+                    1,
+                    0,
+                    0
                 ]
             },
             "detailsId": "an-audience-with-the-king"
-        },
-        {
-            "currencyTypeName": "Simulacrum",
-            "receive": {
-                "id": 0,
-                "league_id": 295,
-                "pay_currency_id": 1,
-                "get_currency_id": 128,
-                "sample_time_utc": "2026-02-10T23:25:35.0527107Z",
-                "count": 22,
-                "value": 20.5,
-                "data_point_count": 1,
-                "includes_secondary": false,
-                "listing_count": 811
-            },
-            "paySparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "receiveSparkLine": {
-                "totalChange": 28.12,
-                "data": [
-                    0,
-                    275,
-                    275,
-                    246.9,
-                    100,
-                    21.88,
-                    28.12
-                ]
-            },
-            "chaosEquivalent": 20.5,
-            "lowConfidencePaySparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceReceiveSparkLine": {
-                "totalChange": 28.12,
-                "data": [
-                    0,
-                    275,
-                    275,
-                    246.9,
-                    100,
-                    21.88,
-                    28.12
-                ]
-            },
-            "detailsId": "simulacrum"
         },
         {
             "currencyTypeName": "Hivebrain Gland",
@@ -374,44 +410,44 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 269,
-                "sample_time_utc": "2026-02-10T23:25:35.0527107Z",
-                "count": 101,
-                "value": 2.0,
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
+                "count": 100,
+                "value": 2.9,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 86419
+                "listing_count": 86420
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 0,
+                "totalChange": 45,
                 "data": [
-                    0,
                     0,
                     0,
                     25,
                     50,
                     50,
-                    0
+                    50,
+                    45
                 ]
             },
-            "chaosEquivalent": 2.0,
+            "chaosEquivalent": 2.9,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 0,
+                "totalChange": 45,
                 "data": [
-                    0,
                     0,
                     0,
                     25,
                     50,
                     50,
-                    0
+                    50,
+                    45
                 ]
             },
             "detailsId": "hivebrain-gland"
@@ -423,7 +459,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 44,
-                "sample_time_utc": "2026-02-10T23:25:35.0527107Z",
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
                 "count": 21,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -472,7 +508,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 72,
-                "sample_time_utc": "2026-02-10T23:25:35.0527107Z",
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
                 "count": 12,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -521,12 +557,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 129,
-                "sample_time_utc": "2026-02-10T23:25:35.0527107Z",
-                "count": 28,
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
+                "count": 29,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 5243
+                "listing_count": 5244
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -536,8 +572,8 @@
                 "totalChange": 0,
                 "data": [
                     0,
-                    0,
                     -13.33,
+                    0,
                     0,
                     0,
                     0,
@@ -553,8 +589,8 @@
                 "totalChange": 0,
                 "data": [
                     0,
-                    0,
                     -13.33,
+                    0,
                     0,
                     0,
                     0,
@@ -562,6 +598,104 @@
                 ]
             },
             "detailsId": "simulacrum-splinter"
+        },
+        {
+            "currencyTypeName": "Sacrifice at Dawn",
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 30,
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
+                "count": 11,
+                "value": 0.9615,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 1633
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": 188.5,
+                "data": [
+                    0,
+                    160.2,
+                    169.6,
+                    190.8,
+                    190.8,
+                    169.6,
+                    188.5
+                ]
+            },
+            "chaosEquivalent": 0.96,
+            "lowConfidencePaySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": 188.5,
+                "data": [
+                    0,
+                    160.2,
+                    169.6,
+                    190.8,
+                    190.8,
+                    169.6,
+                    188.5
+                ]
+            },
+            "detailsId": "sacrifice-at-dawn"
+        },
+        {
+            "currencyTypeName": "Sacrifice at Noon",
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 31,
+                "sample_time_utc": "2026-02-11T01:13:19.5959993Z",
+                "count": 11,
+                "value": 0.8889,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 1329
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": -2.44,
+                "data": [
+                    0,
+                    -1.22,
+                    -2.44,
+                    -1.22,
+                    -2.44,
+                    -8.54,
+                    -2.44
+                ]
+            },
+            "chaosEquivalent": 0.89,
+            "lowConfidencePaySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": -2.44,
+                "data": [
+                    0,
+                    -1.22,
+                    -2.44,
+                    -1.22,
+                    -2.44,
+                    -8.54,
+                    -2.44
+                ]
+            },
+            "detailsId": "sacrifice-at-noon"
         }
     ],
     "currencyDetails": [
