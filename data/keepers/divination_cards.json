@@ -911,7 +911,7 @@
             "chaosValue": 352.6,
             "exaltedValue": 26.04,
             "divineValue": 2.0,
-            "count": 3,
+            "count": 1,
             "detailsId": "buried-treasure",
             "tradeInfo": [],
             "listingCount": 59
@@ -3677,6 +3677,47 @@
             "listingCount": 134
         },
         {
+            "id": 98327,
+            "name": "Doryani's Epiphany",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Doryani's Epiphany",
+            "stackSize": 3,
+            "artFilename": "DoryanisEpiphany",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 15,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    15
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 21 Transfigured Gem}\n<default>{Quality:} <augmented>{+20%}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"Virtue gems have facets beyond those that can be seen by the mortal eye. Let us look deeper...\"",
+            "chaosValue": 23.0,
+            "exaltedValue": 1.7,
+            "divineValue": 0.13,
+            "count": 4,
+            "detailsId": "doryanis-epiphany",
+            "tradeInfo": [],
+            "listingCount": 117
+        },
+        {
             "id": 18978,
             "name": "The Nurse",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -3814,47 +3855,6 @@
             "detailsId": "peaceful-moments",
             "tradeInfo": [],
             "listingCount": 145
-        },
-        {
-            "id": 98327,
-            "name": "Doryani's Epiphany",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Doryani's Epiphany",
-            "stackSize": 3,
-            "artFilename": "DoryanisEpiphany",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 10,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    10
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Level 21 Transfigured Gem}\n<default>{Quality:} <augmented>{+20%}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"Virtue gems have facets beyond those that can be seen by the mortal eye. Let us look deeper...\"",
-            "chaosValue": 22.0,
-            "exaltedValue": 1.62,
-            "divineValue": 0.12,
-            "count": 3,
-            "detailsId": "doryanis-epiphany",
-            "tradeInfo": [],
-            "listingCount": 116
         },
         {
             "id": 634,
@@ -15235,7 +15235,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.07,
             "divineValue": 0.01,
-            "count": 12,
+            "count": 13,
             "detailsId": "the-lover",
             "tradeInfo": [],
             "listingCount": 351
