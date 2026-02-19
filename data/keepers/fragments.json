@@ -7,7 +7,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 260,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
                 "count": 16,
                 "value": 369.6,
                 "data_point_count": 1,
@@ -64,7 +64,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 232,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
                 "count": 48,
                 "value": 336.0,
                 "data_point_count": 1,
@@ -113,12 +113,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 258,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
-                "count": 13,
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
+                "count": 12,
                 "value": 168.0,
                 "data_point_count": 1,
                 "includes_secondary": true,
-                "listing_count": 385
+                "listing_count": 384
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -170,7 +170,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 128,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
                 "count": 18,
                 "value": 95.0,
                 "data_point_count": 1,
@@ -219,19 +219,19 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 236,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
-                "count": 93,
-                "value": 89.2,
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
+                "count": 94,
+                "value": 89.3,
                 "data_point_count": 1,
                 "includes_secondary": true,
-                "listing_count": 1456
+                "listing_count": 1457
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 18.15,
+                "totalChange": 18.28,
                 "data": [
                     0,
                     -9.93,
@@ -239,16 +239,16 @@
                     -9.27,
                     15.22,
                     -9.93,
-                    18.15
+                    18.28
                 ]
             },
-            "chaosEquivalent": 89.2,
+            "chaosEquivalent": 89.3,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 18.15,
+                "totalChange": 18.28,
                 "data": [
                     0,
                     -9.93,
@@ -256,10 +256,116 @@
                     -9.27,
                     15.22,
                     -9.93,
-                    18.15
+                    18.28
                 ]
             },
             "detailsId": "valdos-puzzle-box"
+        },
+        {
+            "currencyTypeName": "An Audience With The King",
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 251,
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
+                "count": 11,
+                "value": 50.0,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 613
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": 25,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    1.25,
+                    0,
+                    10,
+                    25
+                ]
+            },
+            "chaosEquivalent": 50.0,
+            "lowConfidencePaySparkLine": {
+                "totalChange": 0,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": 25,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    1.25,
+                    0,
+                    10,
+                    25
+                ]
+            },
+            "detailsId": "an-audience-with-the-king"
+        },
+        {
+            "currencyTypeName": "Echo of Loneliness",
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 259,
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
+                "count": 11,
+                "value": 35.0,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 257
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": -25.53,
+                "data": [
+                    0,
+                    -14.89,
+                    -22.13,
+                    -25.53,
+                    -24.47,
+                    -26.6,
+                    -25.53
+                ]
+            },
+            "chaosEquivalent": 35.0,
+            "lowConfidencePaySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": -25.53,
+                "data": [
+                    0,
+                    -14.89,
+                    -22.13,
+                    -25.53,
+                    -24.47,
+                    -26.6,
+                    -25.53
+                ]
+            },
+            "detailsId": "echo-of-loneliness"
         },
         {
             "currencyTypeName": "Crescent Splinter",
@@ -268,7 +374,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 142,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
                 "count": 14,
                 "value": 2.9,
                 "data_point_count": 1,
@@ -317,12 +423,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 269,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
-                "count": 134,
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
+                "count": 133,
                 "value": 2.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 86270
+                "listing_count": 86273
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -366,7 +472,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 29,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
                 "count": 13,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -415,8 +521,8 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 44,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
-                "count": 22,
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
+                "count": 21,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
@@ -464,7 +570,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 72,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
                 "count": 20,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -513,7 +619,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 129,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
                 "count": 27,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -562,7 +668,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 31,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
                 "count": 14,
                 "value": 0.9222,
                 "data_point_count": 1,
@@ -611,7 +717,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 30,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
                 "count": 15,
                 "value": 0.5846,
                 "data_point_count": 1,
@@ -660,7 +766,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 28,
-                "sample_time_utc": "2026-02-19T17:04:03.7679655Z",
+                "sample_time_utc": "2026-02-19T17:56:30.695415Z",
                 "count": 13,
                 "value": 0.4602,
                 "data_point_count": 1,
