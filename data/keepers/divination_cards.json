@@ -7376,7 +7376,7 @@
                     15.74,
                     -23.61,
                     -23.61,
-                    -23.61
+                    null
                 ]
             },
             "lowConfidenceSparkLine": {
@@ -7403,7 +7403,7 @@
             "chaosValue": 10.0,
             "exaltedValue": 0.75,
             "divineValue": 0.06,
-            "count": 5,
+            "count": 4,
             "detailsId": "a-dusty-memory",
             "tradeInfo": [],
             "listingCount": 122
@@ -7899,7 +7899,7 @@
             "artFilename": "ToxicTidings",
             "itemClass": 6,
             "sparkLine": {
-                "totalChange": -57.92,
+                "totalChange": -59.41,
                 "data": [
                     null,
                     null,
@@ -7907,11 +7907,11 @@
                     0,
                     -57.92,
                     -57.92,
-                    -57.92
+                    -59.41
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": -47.53,
+                "totalChange": -49.38,
                 "data": [
                     0,
                     17.28,
@@ -7919,7 +7919,7 @@
                     24.69,
                     -47.53,
                     -47.53,
-                    -47.53
+                    -49.38
                 ]
             },
             "implicitModifiers": [],
@@ -7931,10 +7931,10 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "A beast even Einhar\nwill not hunt.",
-            "chaosValue": 8.5,
-            "exaltedValue": 0.64,
+            "chaosValue": 8.2,
+            "exaltedValue": 0.62,
             "divineValue": 0.05,
-            "count": 6,
+            "count": 5,
             "detailsId": "toxic-tidings",
             "tradeInfo": [],
             "listingCount": 119
@@ -9928,6 +9928,55 @@
             "listingCount": 930
         },
         {
+            "id": 22439,
+            "name": "The Skeleton",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Skeleton",
+            "stackSize": 6,
+            "artFilename": "TheSkeleton",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 109.1,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    null,
+                    109.1
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 109.1,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    68.18,
+                    109.1
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 1 Summon Skeletons}\n<default>{Quality:} <augmented>{+23%}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "They stand among us, and within us.",
+            "chaosValue": 4.6,
+            "exaltedValue": 0.35,
+            "divineValue": 0.03,
+            "count": 5,
+            "detailsId": "the-skeleton",
+            "tradeInfo": [],
+            "listingCount": 371
+        },
+        {
             "id": 170,
             "name": "Blind Venture",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -10414,55 +10463,6 @@
             "detailsId": "the-finishing-touch",
             "tradeInfo": [],
             "listingCount": 401
-        },
-        {
-            "id": 22439,
-            "name": "The Skeleton",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Skeleton",
-            "stackSize": 6,
-            "artFilename": "TheSkeleton",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 68.18,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    68.18,
-                    68.18
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Level 1 Summon Skeletons}\n<default>{Quality:} <augmented>{+23%}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "They stand among us, and within us.",
-            "chaosValue": 3.7,
-            "exaltedValue": 0.28,
-            "divineValue": 0.02,
-            "count": 4,
-            "detailsId": "the-skeleton",
-            "tradeInfo": [],
-            "listingCount": 371
         },
         {
             "id": 1642,
