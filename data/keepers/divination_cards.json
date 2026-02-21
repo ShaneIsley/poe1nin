@@ -336,7 +336,7 @@
             "artFilename": "TheApothecary",
             "itemClass": 6,
             "sparkLine": {
-                "totalChange": 0.42,
+                "totalChange": -6.27,
                 "data": [
                     0,
                     1.8,
@@ -344,11 +344,11 @@
                     9.23,
                     10.01,
                     31.3,
-                    0.42
+                    -6.27
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 0.42,
+                "totalChange": -6.27,
                 "data": [
                     0,
                     1.8,
@@ -356,7 +356,7 @@
                     9.23,
                     10.01,
                     31.3,
-                    0.42
+                    -6.27
                 ]
             },
             "implicitModifiers": [],
@@ -368,9 +368,9 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "\"You seek the power of my strongest potions, but the price will be far higher than you can imagine.\"",
-            "chaosValue": 4614,
-            "exaltedValue": 241.3,
-            "divineValue": 18.03,
+            "chaosValue": 4307,
+            "exaltedValue": 225.3,
+            "divineValue": 16.83,
             "count": 7,
             "detailsId": "the-apothecary",
             "tradeInfo": [],
@@ -4869,7 +4869,7 @@
             "count": 1,
             "detailsId": "guardians-challenge",
             "tradeInfo": [],
-            "listingCount": 232
+            "listingCount": 231
         },
         {
             "id": 98281,
@@ -5837,6 +5837,55 @@
             "listingCount": 98
         },
         {
+            "id": 556,
+            "name": "Gemcutter's Promise",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Gemcutter's Promise",
+            "stackSize": 3,
+            "artFilename": "GemcuttersPromise",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 169.4,
+                "data": [
+                    null,
+                    0,
+                    0,
+                    100.4,
+                    62.6,
+                    80.4,
+                    169.4
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 76.31,
+                "data": [
+                    0,
+                    -34.55,
+                    -34.55,
+                    31.15,
+                    6.41,
+                    18.06,
+                    76.31
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Gem}\n<default>{Quality:} <augmented>{+20%}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:29>{\"I swore to use my position to help the people. What good is power when it just accumulates on the already-powerful?\" - Erasmus, Imperial Gemcutter}",
+            "chaosValue": 13.47,
+            "exaltedValue": 0.7,
+            "divineValue": 0.05,
+            "count": 7,
+            "detailsId": "gemcutters-promise",
+            "tradeInfo": [],
+            "listingCount": 358
+        },
+        {
             "id": 188,
             "name": "Bowyer's Dream",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -6089,55 +6138,6 @@
             "detailsId": "lysahs-respite",
             "tradeInfo": [],
             "listingCount": 207
-        },
-        {
-            "id": 556,
-            "name": "Gemcutter's Promise",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Gemcutter's Promise",
-            "stackSize": 3,
-            "artFilename": "GemcuttersPromise",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 141.2,
-                "data": [
-                    null,
-                    0,
-                    0,
-                    100.4,
-                    62.6,
-                    80.4,
-                    141.2
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 57.85,
-                "data": [
-                    0,
-                    -34.55,
-                    -34.55,
-                    31.15,
-                    6.41,
-                    18.06,
-                    57.85
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Gem}\n<default>{Quality:} <augmented>{+20%}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:29>{\"I swore to use my position to help the people. What good is power when it just accumulates on the already-powerful?\" - Erasmus, Imperial Gemcutter}",
-            "chaosValue": 12.06,
-            "exaltedValue": 0.63,
-            "divineValue": 0.05,
-            "count": 6,
-            "detailsId": "gemcutters-promise",
-            "tradeInfo": [],
-            "listingCount": 358
         },
         {
             "id": 744,
@@ -14840,7 +14840,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.05,
             "divineValue": 0.0,
-            "count": 10,
+            "count": 9,
             "detailsId": "the-hoarder",
             "tradeInfo": [],
             "listingCount": 379
