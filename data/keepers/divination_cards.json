@@ -44,10 +44,10 @@
             "chaosValue": 29999,
             "exaltedValue": 1409,
             "divineValue": 116.0,
-            "count": 12,
+            "count": 13,
             "detailsId": "house-of-mirrors",
             "tradeInfo": [],
-            "listingCount": 56
+            "listingCount": 52
         },
         {
             "id": 125069,
@@ -1104,55 +1104,6 @@
             "listingCount": 180
         },
         {
-            "id": 1476,
-            "name": "The Doctor",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Doctor",
-            "stackSize": 8,
-            "artFilename": "TheDoctor",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 8.29,
-                "data": [
-                    0,
-                    -2.92,
-                    -14.51,
-                    -14.26,
-                    8.29,
-                    null,
-                    null
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 20.63,
-                "data": [
-                    0,
-                    -2.92,
-                    -14.51,
-                    -14.26,
-                    8.29,
-                    16.38,
-                    20.63
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Headhunter}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"They said I needed my head examined, but I'd rather just take yours.\" - Klopek the Cannibal",
-            "chaosValue": 284.5,
-            "exaltedValue": 13.36,
-            "divineValue": 1.1,
-            "count": 3,
-            "detailsId": "the-doctor",
-            "tradeInfo": [],
-            "listingCount": 132
-        },
-        {
             "id": 98375,
             "name": "The Shieldbearer",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -1233,6 +1184,55 @@
             "detailsId": "the-fiend",
             "tradeInfo": [],
             "listingCount": 86
+        },
+        {
+            "id": 1476,
+            "name": "The Doctor",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Doctor",
+            "stackSize": 8,
+            "artFilename": "TheDoctor",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 8.29,
+                "data": [
+                    0,
+                    -2.92,
+                    -14.51,
+                    -14.26,
+                    8.29,
+                    null,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 15.14,
+                "data": [
+                    0,
+                    -2.92,
+                    -14.51,
+                    -14.26,
+                    8.29,
+                    16.38,
+                    15.14
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Headhunter}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"They said I needed my head examined, but I'd rather just take yours.\" - Klopek the Cannibal",
+            "chaosValue": 271.5,
+            "exaltedValue": 12.75,
+            "divineValue": 1.05,
+            "count": 2,
+            "detailsId": "the-doctor",
+            "tradeInfo": [],
+            "listingCount": 132
         },
         {
             "id": 42394,
@@ -6619,7 +6619,7 @@
             "chaosValue": 10.0,
             "exaltedValue": 0.47,
             "divineValue": 0.04,
-            "count": 8,
+            "count": 9,
             "detailsId": "darker-half",
             "tradeInfo": [],
             "listingCount": 197
@@ -9644,6 +9644,55 @@
             "listingCount": 91
         },
         {
+            "id": 95806,
+            "name": "A Fate Worse Than Death",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "A Fate Worse Than Death",
+            "stackSize": 4,
+            "artFilename": "AFateWorseThanDeath",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -31.67,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    0,
+                    0,
+                    -31.67
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -53.93,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    -32.58,
+                    -32.58,
+                    -53.93
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Cortex}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"It was as though my very thoughts were breaking... fracturing into tiny motes to be lost on the wind.\"",
+            "chaosValue": 4.1,
+            "exaltedValue": 0.19,
+            "divineValue": 0.02,
+            "count": 8,
+            "detailsId": "a-fate-worse-than-death",
+            "tradeInfo": [],
+            "listingCount": 170
+        },
+        {
             "id": 2595,
             "name": "Rebirth",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -9781,55 +9830,6 @@
             "detailsId": "atziris-arsenal",
             "tradeInfo": [],
             "listingCount": 177
-        },
-        {
-            "id": 95806,
-            "name": "A Fate Worse Than Death",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "A Fate Worse Than Death",
-            "stackSize": 4,
-            "artFilename": "AFateWorseThanDeath",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -36.67,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    0,
-                    0,
-                    -36.67
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -57.3,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    -32.58,
-                    -32.58,
-                    -57.3
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Cortex}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"It was as though my very thoughts were breaking... fracturing into tiny motes to be lost on the wind.\"",
-            "chaosValue": 3.8,
-            "exaltedValue": 0.18,
-            "divineValue": 0.01,
-            "count": 7,
-            "detailsId": "a-fate-worse-than-death",
-            "tradeInfo": [],
-            "listingCount": 170
         },
         {
             "id": 100534,
@@ -12087,55 +12087,6 @@
             "listingCount": 535
         },
         {
-            "id": 20767,
-            "name": "The Landing",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Landing",
-            "stackSize": 5,
-            "artFilename": "TheLanding",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -84.26,
-                "data": [
-                    0,
-                    -24.07,
-                    -24.07,
-                    -32.41,
-                    -32.41,
-                    -32.41,
-                    -84.26
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -84.26,
-                "data": [
-                    0,
-                    -24.07,
-                    -24.07,
-                    -32.41,
-                    -32.41,
-                    -32.41,
-                    -84.26
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{The Beachhead}\n<default>{Map Tier:} <normal>{15}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Warriors of a distant land, you embark on a journey from which you may not return, but which we will be all the better for.",
-            "chaosValue": 1.7,
-            "exaltedValue": 0.08,
-            "divineValue": 0.01,
-            "count": 8,
-            "detailsId": "the-landing",
-            "tradeInfo": [],
-            "listingCount": 170
-        },
-        {
             "id": 1508,
             "name": "The Gemcutter",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -12281,6 +12232,55 @@
             "detailsId": "the-undaunted",
             "tradeInfo": [],
             "listingCount": 339
+        },
+        {
+            "id": 20767,
+            "name": "The Landing",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Landing",
+            "stackSize": 5,
+            "artFilename": "TheLanding",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -85.19,
+                "data": [
+                    0,
+                    -24.07,
+                    -24.07,
+                    -32.41,
+                    -32.41,
+                    -32.41,
+                    -85.19
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -85.19,
+                "data": [
+                    0,
+                    -24.07,
+                    -24.07,
+                    -32.41,
+                    -32.41,
+                    -32.41,
+                    -85.19
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{The Beachhead}\n<default>{Map Tier:} <normal>{15}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Warriors of a distant land, you embark on a journey from which you may not return, but which we will be all the better for.",
+            "chaosValue": 1.6,
+            "exaltedValue": 0.08,
+            "divineValue": 0.01,
+            "count": 7,
+            "detailsId": "the-landing",
+            "tradeInfo": [],
+            "listingCount": 169
         },
         {
             "id": 1725,
@@ -15617,10 +15617,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.05,
             "divineValue": 0.0,
-            "count": 9,
+            "count": 10,
             "detailsId": "the-saints-treasure",
             "tradeInfo": [],
-            "listingCount": 308
+            "listingCount": 309
         },
         {
             "id": 2047,
@@ -16548,10 +16548,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.05,
             "divineValue": 0.0,
-            "count": 7,
+            "count": 8,
             "detailsId": "disdain",
             "tradeInfo": [],
-            "listingCount": 454
+            "listingCount": 455
         },
         {
             "id": 92939,
