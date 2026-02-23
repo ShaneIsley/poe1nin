@@ -197,6 +197,55 @@
             "listingCount": 17
         },
         {
+            "id": 95761,
+            "name": "The Apothecary",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Apothecary",
+            "stackSize": 5,
+            "artFilename": "TheApothecary",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 75.16,
+                "data": [
+                    0,
+                    2.82,
+                    3.56,
+                    23.6,
+                    19.18,
+                    -19.56,
+                    75.16
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 75.16,
+                "data": [
+                    0,
+                    2.82,
+                    3.56,
+                    23.6,
+                    19.18,
+                    -19.56,
+                    75.16
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Mageblood}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "\"You seek the power of my strongest potions, but the price will be far higher than you can imagine.\"",
+            "chaosValue": 8550,
+            "exaltedValue": 372.2,
+            "divineValue": 30.0,
+            "count": 6,
+            "detailsId": "the-apothecary",
+            "tradeInfo": [],
+            "listingCount": 81
+        },
+        {
             "id": 98383,
             "name": "The Enforcer",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -285,55 +334,6 @@
             "detailsId": "the-immortal",
             "tradeInfo": [],
             "listingCount": 133
-        },
-        {
-            "id": 95761,
-            "name": "The Apothecary",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Apothecary",
-            "stackSize": 5,
-            "artFilename": "TheApothecary",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 5.26,
-                "data": [
-                    0,
-                    2.82,
-                    3.56,
-                    23.6,
-                    19.18,
-                    -19.56,
-                    5.26
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 5.26,
-                "data": [
-                    0,
-                    2.82,
-                    3.56,
-                    23.6,
-                    19.18,
-                    -19.56,
-                    5.26
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Mageblood}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "\"You seek the power of my strongest potions, but the price will be far higher than you can imagine.\"",
-            "chaosValue": 5138,
-            "exaltedValue": 223.7,
-            "divineValue": 18.03,
-            "count": 7,
-            "detailsId": "the-apothecary",
-            "tradeInfo": [],
-            "listingCount": 82
         },
         {
             "id": 104061,
@@ -623,7 +623,7 @@
             "chaosValue": 855.0,
             "exaltedValue": 37.22,
             "divineValue": 3.0,
-            "count": 25,
+            "count": 26,
             "detailsId": "seven-years-bad-luck",
             "tradeInfo": [],
             "listingCount": 424
@@ -5459,47 +5459,6 @@
             "detailsId": "the-kings-heart",
             "tradeInfo": [],
             "listingCount": 96
-        },
-        {
-            "id": 6902,
-            "name": "The Jeweller's Boon",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Jeweller's Boon",
-            "stackSize": 5,
-            "artFilename": "TheJewellersBoon",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -50.36,
-                "data": [
-                    0,
-                    4.25,
-                    39.76,
-                    39.02,
-                    90.93,
-                    -68.02,
-                    -50.36
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{Five-Linked Body Armour}\n<default>{Influenced Item}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The jeweller's true talent is the capacity to see a jewel's beauty before they draw it out.",
-            "chaosValue": 10.4,
-            "exaltedValue": 0.45,
-            "divineValue": 0.04,
-            "count": 3,
-            "detailsId": "the-jewellers-boon",
-            "tradeInfo": [],
-            "listingCount": 253
         },
         {
             "id": 103554,
@@ -11098,6 +11057,55 @@
             "listingCount": 157
         },
         {
+            "id": 6901,
+            "name": "Three Voices",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Three Voices",
+            "stackSize": 3,
+            "artFilename": "ThreeVoices",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 29.41,
+                "data": [
+                    0,
+                    0,
+                    -11.76,
+                    17.65,
+                    11.76,
+                    17.65,
+                    29.41
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 29.41,
+                "data": [
+                    0,
+                    0,
+                    -11.76,
+                    17.65,
+                    11.76,
+                    17.65,
+                    29.41
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<currencyitem>{3x Essence}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "The village elders had a curious rule: If you hear three voices scream for aid, flee as fast as you can.",
+            "chaosValue": 2.2,
+            "exaltedValue": 0.1,
+            "divineValue": 0.01,
+            "count": 14,
+            "detailsId": "three-voices",
+            "tradeInfo": [],
+            "listingCount": 645
+        },
+        {
             "id": 20804,
             "name": "The Seeker",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -11185,55 +11193,6 @@
             "detailsId": "societys-remorse",
             "tradeInfo": [],
             "listingCount": 586
-        },
-        {
-            "id": 6901,
-            "name": "Three Voices",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Three Voices",
-            "stackSize": 3,
-            "artFilename": "ThreeVoices",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 23.53,
-                "data": [
-                    0,
-                    0,
-                    -11.76,
-                    17.65,
-                    11.76,
-                    17.65,
-                    23.53
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 23.53,
-                "data": [
-                    0,
-                    0,
-                    -11.76,
-                    17.65,
-                    11.76,
-                    17.65,
-                    23.53
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<currencyitem>{3x Essence}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "The village elders had a curious rule: If you hear three voices scream for aid, flee as fast as you can.",
-            "chaosValue": 2.1,
-            "exaltedValue": 0.09,
-            "divineValue": 0.01,
-            "count": 13,
-            "detailsId": "three-voices",
-            "tradeInfo": [],
-            "listingCount": 644
         },
         {
             "id": 229,
@@ -11822,6 +11781,55 @@
             "listingCount": 43
         },
         {
+            "id": 420,
+            "name": "Destined to Crumble",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Destined to Crumble",
+            "stackSize": 5,
+            "artFilename": "DestinedtoCrumble",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 70,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    80,
+                    70,
+                    70,
+                    70
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 70,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    80,
+                    70,
+                    70,
+                    70
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<rareitem>{Body Armour}\n<default>{Item Level:} <normal>{100}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:30>{\"Let us not forget the most important lesson the Vaal taught us:\nNothing is eternal.\"\n- Siosa Foaga, Imperial Scholar}",
+            "chaosValue": 1.7,
+            "exaltedValue": 0.07,
+            "divineValue": 0.01,
+            "count": 8,
+            "detailsId": "destined-to-crumble",
+            "tradeInfo": [],
+            "listingCount": 534
+        },
+        {
             "id": 1425,
             "name": "The Battle Born",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -11869,55 +11877,6 @@
             "detailsId": "the-battle-born",
             "tradeInfo": [],
             "listingCount": 397
-        },
-        {
-            "id": 420,
-            "name": "Destined to Crumble",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Destined to Crumble",
-            "stackSize": 5,
-            "artFilename": "DestinedtoCrumble",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 60,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    80,
-                    70,
-                    70,
-                    60
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 60,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    80,
-                    70,
-                    70,
-                    60
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<rareitem>{Body Armour}\n<default>{Item Level:} <normal>{100}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:30>{\"Let us not forget the most important lesson the Vaal taught us:\nNothing is eternal.\"\n- Siosa Foaga, Imperial Scholar}",
-            "chaosValue": 1.6,
-            "exaltedValue": 0.07,
-            "divineValue": 0.01,
-            "count": 7,
-            "detailsId": "destined-to-crumble",
-            "tradeInfo": [],
-            "listingCount": 534
         },
         {
             "id": 772,
@@ -12106,6 +12065,47 @@
             "detailsId": "no-traces",
             "tradeInfo": [],
             "listingCount": 344
+        },
+        {
+            "id": 6902,
+            "name": "The Jeweller's Boon",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Jeweller's Boon",
+            "stackSize": 5,
+            "artFilename": "TheJewellersBoon",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -92.36,
+                "data": [
+                    0,
+                    4.25,
+                    39.76,
+                    39.02,
+                    90.93,
+                    -68.02,
+                    -92.36
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Five-Linked Body Armour}\n<default>{Influenced Item}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "The jeweller's true talent is the capacity to see a jewel's beauty before they draw it out.",
+            "chaosValue": 1.6,
+            "exaltedValue": 0.07,
+            "divineValue": 0.01,
+            "count": 4,
+            "detailsId": "the-jewellers-boon",
+            "tradeInfo": [],
+            "listingCount": 253
         },
         {
             "id": 6951,
@@ -13254,10 +13254,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 14,
+            "count": 15,
             "detailsId": "humility",
             "tradeInfo": [],
-            "listingCount": 583
+            "listingCount": 584
         },
         {
             "id": 648,
@@ -14128,7 +14128,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 13,
+            "count": 14,
             "detailsId": "the-floras-gift",
             "tradeInfo": [],
             "listingCount": 395
@@ -14855,7 +14855,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 15,
+            "count": 16,
             "detailsId": "the-scholar",
             "tradeInfo": [],
             "listingCount": 576
@@ -15770,7 +15770,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 28,
+            "count": 27,
             "detailsId": "the-realm",
             "tradeInfo": [],
             "listingCount": 3358
