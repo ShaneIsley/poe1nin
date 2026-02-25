@@ -44,10 +44,10 @@
             "chaosValue": 38820,
             "exaltedValue": 2086,
             "divineValue": 148.0,
-            "count": 24,
+            "count": 21,
             "detailsId": "house-of-mirrors",
             "tradeInfo": [],
-            "listingCount": 63
+            "listingCount": 60
         },
         {
             "id": 125069,
@@ -5179,7 +5179,7 @@
             "count": 3,
             "detailsId": "harmony-of-souls",
             "tradeInfo": [],
-            "listingCount": 114
+            "listingCount": 113
         },
         {
             "id": 40059,
@@ -5485,47 +5485,6 @@
             "listingCount": 80
         },
         {
-            "id": 98234,
-            "name": "Something Dark",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "Something Dark",
-            "stackSize": 5,
-            "artFilename": "SomethingDark",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 0,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<whiteitem>{Blueprint}\n<default>{Area Level:} <normal>{83}\n<default>{Fully Revealed}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Even in darkness you may find a friend.",
-            "chaosValue": 12.0,
-            "exaltedValue": 0.64,
-            "divineValue": 0.05,
-            "count": 3,
-            "detailsId": "something-dark",
-            "tradeInfo": [],
-            "listingCount": 132
-        },
-        {
             "id": 1475,
             "name": "The Demoness",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -5622,6 +5581,47 @@
             "detailsId": "the-avenger",
             "tradeInfo": [],
             "listingCount": 56
+        },
+        {
+            "id": 98234,
+            "name": "Something Dark",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "Something Dark",
+            "stackSize": 5,
+            "artFilename": "SomethingDark",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -4.25,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    -4.25
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<whiteitem>{Blueprint}\n<default>{Area Level:} <normal>{83}\n<default>{Fully Revealed}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Even in darkness you may find a friend.",
+            "chaosValue": 11.49,
+            "exaltedValue": 0.62,
+            "divineValue": 0.04,
+            "count": 2,
+            "detailsId": "something-dark",
+            "tradeInfo": [],
+            "listingCount": 131
         },
         {
             "id": 1676,
@@ -6015,55 +6015,6 @@
             "detailsId": "the-polymath",
             "tradeInfo": [],
             "listingCount": 174
-        },
-        {
-            "id": 103554,
-            "name": "A Chilling Wind",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "A Chilling Wind",
-            "stackSize": 4,
-            "artFilename": "AChillingWind",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    0,
-                    0,
-                    0
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -71.11,
-                "data": [
-                    0,
-                    -44.44,
-                    -44.44,
-                    -44.44,
-                    -71.11,
-                    -71.11,
-                    -71.11
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<gemitem>{Level 21 Vaal Cold Snap}\n<default>{Quality:} <augmented>{+20%}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:26>{All things slow under winter's \nonslaught - even life itself.}",
-            "chaosValue": 10.4,
-            "exaltedValue": 0.56,
-            "divineValue": 0.04,
-            "count": 5,
-            "detailsId": "a-chilling-wind",
-            "tradeInfo": [],
-            "listingCount": 104
         },
         {
             "id": 131,
@@ -7071,6 +7022,55 @@
             "detailsId": "the-coming-storm",
             "tradeInfo": [],
             "listingCount": 156
+        },
+        {
+            "id": 103554,
+            "name": "A Chilling Wind",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "A Chilling Wind",
+            "stackSize": 4,
+            "artFilename": "AChillingWind",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": [
+                    null,
+                    null,
+                    null,
+                    null,
+                    0,
+                    0,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -75.56,
+                "data": [
+                    0,
+                    -44.44,
+                    -44.44,
+                    -44.44,
+                    -71.11,
+                    -71.11,
+                    -75.56
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<gemitem>{Level 21 Vaal Cold Snap}\n<default>{Quality:} <augmented>{+20%}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:26>{All things slow under winter's \nonslaught - even life itself.}",
+            "chaosValue": 8.8,
+            "exaltedValue": 0.47,
+            "divineValue": 0.03,
+            "count": 4,
+            "detailsId": "a-chilling-wind",
+            "tradeInfo": [],
+            "listingCount": 104
         },
         {
             "id": 11,
@@ -9205,7 +9205,7 @@
             "count": 4,
             "detailsId": "the-price-of-protection",
             "tradeInfo": [],
-            "listingCount": 656
+            "listingCount": 655
         },
         {
             "id": 588,
@@ -9704,7 +9704,7 @@
             "count": 4,
             "detailsId": "a-dusty-memory",
             "tradeInfo": [],
-            "listingCount": 123
+            "listingCount": 122
         },
         {
             "id": 1658,
@@ -11950,7 +11950,7 @@
             "count": 9,
             "detailsId": "justified-ambition",
             "tradeInfo": [],
-            "listingCount": 226
+            "listingCount": 224
         },
         {
             "id": 109207,
@@ -13387,7 +13387,7 @@
             "count": 26,
             "detailsId": "emperors-luck",
             "tradeInfo": [],
-            "listingCount": 1197
+            "listingCount": 1196
         },
         {
             "id": 572,
@@ -13534,7 +13534,7 @@
             "count": 14,
             "detailsId": "humility",
             "tradeInfo": [],
-            "listingCount": 582
+            "listingCount": 581
         },
         {
             "id": 648,
@@ -15535,7 +15535,7 @@
             "count": 28,
             "detailsId": "three-faces-in-the-dark",
             "tradeInfo": [],
-            "listingCount": 937
+            "listingCount": 936
         },
         {
             "id": 1694,
@@ -15987,7 +15987,7 @@
                     null,
                     null,
                     0,
-                    null
+                    0
                 ]
             },
             "lowConfidenceSparkLine": {
@@ -16014,7 +16014,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.05,
             "divineValue": 0.0,
-            "count": 4,
+            "count": 5,
             "detailsId": "the-jewellers-boon",
             "tradeInfo": [],
             "listingCount": 253
