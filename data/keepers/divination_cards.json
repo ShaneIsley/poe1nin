@@ -217,7 +217,7 @@
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 8.01,
+                "totalChange": 4.71,
                 "data": [
                     0,
                     -32.51,
@@ -225,7 +225,7 @@
                     28.95,
                     22.95,
                     17.52,
-                    8.01
+                    4.71
                 ]
             },
             "implicitModifiers": [],
@@ -237,9 +237,9 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "\"You seek the power of my strongest potions, but the price will be far higher than you can imagine.\"",
-            "chaosValue": 6284,
-            "exaltedValue": 365.6,
-            "divineValue": 22.9,
+            "chaosValue": 6092,
+            "exaltedValue": 354.4,
+            "divineValue": 22.2,
             "count": 4,
             "detailsId": "the-apothecary",
             "tradeInfo": [],
@@ -1612,6 +1612,55 @@
             "listingCount": 8
         },
         {
+            "id": 7393,
+            "name": "The Endless Darkness",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Endless Darkness",
+            "stackSize": 9,
+            "artFilename": "TheEndlessDarkness",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -42.69,
+                "data": [
+                    0,
+                    0.6,
+                    -0.17,
+                    null,
+                    null,
+                    null,
+                    -42.69
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -42.69,
+                "data": [
+                    0,
+                    0.6,
+                    -0.17,
+                    -12.97,
+                    -13.63,
+                    -28.67,
+                    -42.69
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Voidforge}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "Gaze towards the stars, but beware what gazes back.",
+            "chaosValue": 80.0,
+            "exaltedValue": 4.65,
+            "divineValue": 0.29,
+            "count": 6,
+            "detailsId": "the-endless-darkness",
+            "tradeInfo": [],
+            "listingCount": 137
+        },
+        {
             "id": 1574,
             "name": "The Poet",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -1651,55 +1700,6 @@
             "detailsId": "the-poet",
             "tradeInfo": [],
             "listingCount": 132
-        },
-        {
-            "id": 7393,
-            "name": "The Endless Darkness",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Endless Darkness",
-            "stackSize": 9,
-            "artFilename": "TheEndlessDarkness",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -45.56,
-                "data": [
-                    0,
-                    0.6,
-                    -0.17,
-                    null,
-                    null,
-                    null,
-                    -45.56
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -45.56,
-                "data": [
-                    0,
-                    0.6,
-                    -0.17,
-                    -12.97,
-                    -13.63,
-                    -28.67,
-                    -45.56
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Voidforge}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "Gaze towards the stars, but beware what gazes back.",
-            "chaosValue": 76.0,
-            "exaltedValue": 4.42,
-            "divineValue": 0.28,
-            "count": 5,
-            "detailsId": "the-endless-darkness",
-            "tradeInfo": [],
-            "listingCount": 136
         },
         {
             "id": 1850,
@@ -2718,6 +2718,47 @@
             "listingCount": 98
         },
         {
+            "id": 71022,
+            "name": "The Aspirant",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Aspirant",
+            "stackSize": 5,
+            "artFilename": "Dream",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 413.3,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    24.49,
+                    381.6,
+                    381.6,
+                    413.3
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<magicitem>{Item}\n<default>{Elevated Item}\n<default>{Influenced Item}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "<size:26>{Those Exiles that survive Wraeclast\ndream not of home, but of power.}",
+            "chaosValue": 50.3,
+            "exaltedValue": 2.93,
+            "divineValue": 0.18,
+            "count": 4,
+            "detailsId": "the-aspirant",
+            "tradeInfo": [],
+            "listingCount": 64
+        },
+        {
             "id": 1479,
             "name": "The Dragon's Heart",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -2888,47 +2929,6 @@
             "detailsId": "the-soul",
             "tradeInfo": [],
             "listingCount": 71
-        },
-        {
-            "id": 71022,
-            "name": "The Aspirant",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Aspirant",
-            "stackSize": 5,
-            "artFilename": "Dream",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 381.6,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    24.49,
-                    381.6,
-                    381.6,
-                    381.6
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<magicitem>{Item}\n<default>{Elevated Item}\n<default>{Influenced Item}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "<size:26>{Those Exiles that survive Wraeclast\ndream not of home, but of power.}",
-            "chaosValue": 47.2,
-            "exaltedValue": 2.75,
-            "divineValue": 0.17,
-            "count": 3,
-            "detailsId": "the-aspirant",
-            "tradeInfo": [],
-            "listingCount": 63
         },
         {
             "id": 1431,
@@ -13235,55 +13235,6 @@
             "listingCount": 150
         },
         {
-            "id": 1485,
-            "name": "The Encroaching Darkness",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
-            "baseType": "The Encroaching Darkness",
-            "stackSize": 8,
-            "artFilename": "TheEncroachingDarkness",
-            "itemClass": 6,
-            "sparkLine": {
-                "totalChange": -7.69,
-                "data": [
-                    0,
-                    0,
-                    -7.69,
-                    -7.69,
-                    -7.69,
-                    -7.69,
-                    -7.69
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": -7.69,
-                "data": [
-                    0,
-                    0,
-                    -7.69,
-                    -7.69,
-                    -7.69,
-                    -7.69,
-                    -7.69
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "<uniqueitem>{Map}\n<corrupted>{Corrupted}",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "No matter where your dreams take you, Nightmare follows close behind.",
-            "chaosValue": 1.2,
-            "exaltedValue": 0.07,
-            "divineValue": 0.0,
-            "count": 5,
-            "detailsId": "the-encroaching-darkness",
-            "tradeInfo": [],
-            "listingCount": 181
-        },
-        {
             "id": 6901,
             "name": "Three Voices",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
@@ -13331,6 +13282,55 @@
             "detailsId": "three-voices",
             "tradeInfo": [],
             "listingCount": 643
+        },
+        {
+            "id": 1485,
+            "name": "The Encroaching Darkness",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+            "baseType": "The Encroaching Darkness",
+            "stackSize": 8,
+            "artFilename": "TheEncroachingDarkness",
+            "itemClass": 6,
+            "sparkLine": {
+                "totalChange": -7.69,
+                "data": [
+                    0,
+                    0,
+                    -7.69,
+                    -7.69,
+                    -7.69,
+                    -7.69,
+                    null
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": -15.38,
+                "data": [
+                    0,
+                    0,
+                    -7.69,
+                    -7.69,
+                    -7.69,
+                    -7.69,
+                    -15.38
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "<uniqueitem>{Map}\n<corrupted>{Corrupted}",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "No matter where your dreams take you, Nightmare follows close behind.",
+            "chaosValue": 1.1,
+            "exaltedValue": 0.06,
+            "divineValue": 0.0,
+            "count": 2,
+            "detailsId": "the-encroaching-darkness",
+            "tradeInfo": [],
+            "listingCount": 181
         },
         {
             "id": 44126,
@@ -13719,7 +13719,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.0,
-            "count": 24,
+            "count": 25,
             "detailsId": "emperors-luck",
             "tradeInfo": [],
             "listingCount": 1196
@@ -14683,7 +14683,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.0,
-            "count": 11,
+            "count": 12,
             "detailsId": "the-floras-gift",
             "tradeInfo": [],
             "listingCount": 394
@@ -16333,10 +16333,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.06,
             "divineValue": 0.0,
-            "count": 15,
+            "count": 16,
             "detailsId": "more-is-never-enough",
             "tradeInfo": [],
-            "listingCount": 773
+            "listingCount": 774
         },
         {
             "id": 23237,
