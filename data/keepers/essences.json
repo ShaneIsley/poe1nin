@@ -86,7 +86,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 7.0,
-            "exaltedValue": 0.28,
+            "exaltedValue": 0.27,
             "divineValue": 0.02,
             "count": 15,
             "detailsId": "essence-of-delirium",
@@ -179,7 +179,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 6.5,
-            "exaltedValue": 0.26,
+            "exaltedValue": 0.25,
             "divineValue": 0.02,
             "count": 14,
             "detailsId": "essence-of-insanity",
@@ -272,7 +272,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 6.0,
-            "exaltedValue": 0.24,
+            "exaltedValue": 0.23,
             "divineValue": 0.02,
             "count": 15,
             "detailsId": "essence-of-horror",
@@ -357,7 +357,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 5.0,
-            "exaltedValue": 0.2,
+            "exaltedValue": 0.19,
             "divineValue": 0.01,
             "count": 38,
             "detailsId": "deafening-essence-of-scorn",
@@ -422,7 +422,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 5.0,
-            "exaltedValue": 0.2,
+            "exaltedValue": 0.19,
             "divineValue": 0.01,
             "count": 36,
             "detailsId": "deafening-essence-of-spite",
@@ -519,7 +519,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 5.0,
-            "exaltedValue": 0.2,
+            "exaltedValue": 0.19,
             "divineValue": 0.01,
             "count": 33,
             "detailsId": "deafening-essence-of-zeal",
@@ -604,7 +604,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 3.68,
-            "exaltedValue": 0.15,
+            "exaltedValue": 0.14,
             "divineValue": 0.01,
             "count": 38,
             "detailsId": "deafening-essence-of-contempt",
@@ -1163,7 +1163,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 2.6,
-            "exaltedValue": 0.11,
+            "exaltedValue": 0.1,
             "divineValue": 0.01,
             "count": 35,
             "detailsId": "deafening-essence-of-fear",
@@ -1248,7 +1248,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 2.6,
-            "exaltedValue": 0.11,
+            "exaltedValue": 0.1,
             "divineValue": 0.01,
             "count": 15,
             "detailsId": "muttering-essence-of-anger",
@@ -1831,7 +1831,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.9,
-            "exaltedValue": 0.08,
+            "exaltedValue": 0.07,
             "divineValue": 0.01,
             "count": 30,
             "detailsId": "shrieking-essence-of-dread",
@@ -1896,7 +1896,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.9,
-            "exaltedValue": 0.08,
+            "exaltedValue": 0.07,
             "divineValue": 0.01,
             "count": 20,
             "detailsId": "shrieking-essence-of-spite",
@@ -2260,7 +2260,7 @@
             "stackSize": 9,
             "itemClass": 5,
             "sparkLine": {
-                "totalChange": 50,
+                "totalChange": 60,
                 "data": [
                     0,
                     0,
@@ -2268,11 +2268,11 @@
                     60,
                     100,
                     100,
-                    50
+                    60
                 ]
             },
             "lowConfidenceSparkLine": {
-                "totalChange": 50,
+                "totalChange": 60,
                 "data": [
                     0,
                     0,
@@ -2280,7 +2280,7 @@
                     60,
                     100,
                     100,
-                    50
+                    60
                 ]
             },
             "implicitModifiers": [],
@@ -2332,13 +2332,94 @@
             ],
             "mutatedModifiers": [],
             "flavourText": "",
-            "chaosValue": 1.5,
+            "chaosValue": 1.6,
             "exaltedValue": 0.06,
             "divineValue": 0.0,
-            "count": 16,
+            "count": 17,
             "detailsId": "weeping-essence-of-fear",
             "tradeInfo": [],
             "listingCount": 490
+        },
+        {
+            "id": 369,
+            "name": "Deafening Essence of Anger",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9BbmdlcjciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2cf0a55081/Anger7.png",
+            "mapTier": 7,
+            "baseType": "Deafening Essence of Anger",
+            "stackSize": 9,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 40,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    40
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 40,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    40
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+                    "optional": false
+                },
+                {
+                    "text": "",
+                    "optional": false
+                },
+                {
+                    "text": "Bow: Adds (149-203) to (302-351) Fire Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Two Handed Melee Weapon: Adds (149-203) to (302-351) Fire Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Other Weapon: Adds (80-109) to (162-189) Fire Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Armour: (46-48)% to Fire Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Quiver: (46-48)% to Fire Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Belt: (46-48)% to Fire Resistance",
+                    "optional": false
+                },
+                {
+                    "text": "Other Jewellery: (31-34)% increased Fire Damage",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 1.4,
+            "exaltedValue": 0.05,
+            "divineValue": 0.0,
+            "count": 31,
+            "detailsId": "deafening-essence-of-anger",
+            "tradeInfo": [],
+            "listingCount": 321
         },
         {
             "id": 1291,
@@ -2418,7 +2499,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.4,
-            "exaltedValue": 0.06,
+            "exaltedValue": 0.05,
             "divineValue": 0.0,
             "count": 23,
             "detailsId": "shrieking-essence-of-scorn",
@@ -2507,93 +2588,12 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 1.38,
-            "exaltedValue": 0.06,
+            "exaltedValue": 0.05,
             "divineValue": 0.0,
             "count": 31,
             "detailsId": "deafening-essence-of-suffering",
             "tradeInfo": [],
             "listingCount": 313
-        },
-        {
-            "id": 369,
-            "name": "Deafening Essence of Anger",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9BbmdlcjciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2cf0a55081/Anger7.png",
-            "mapTier": 7,
-            "baseType": "Deafening Essence of Anger",
-            "stackSize": 9,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": 30,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    30
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 30,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    30
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-                    "optional": false
-                },
-                {
-                    "text": "",
-                    "optional": false
-                },
-                {
-                    "text": "Bow: Adds (149-203) to (302-351) Fire Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Two Handed Melee Weapon: Adds (149-203) to (302-351) Fire Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Other Weapon: Adds (80-109) to (162-189) Fire Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Armour: (46-48)% to Fire Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Quiver: (46-48)% to Fire Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Belt: (46-48)% to Fire Resistance",
-                    "optional": false
-                },
-                {
-                    "text": "Other Jewellery: (31-34)% increased Fire Damage",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 1.3,
-            "exaltedValue": 0.05,
-            "divineValue": 0.0,
-            "count": 30,
-            "detailsId": "deafening-essence-of-anger",
-            "tradeInfo": [],
-            "listingCount": 320
         },
         {
             "id": 1859,
@@ -2760,10 +2760,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 22,
+            "count": 23,
             "detailsId": "deafening-essence-of-dread",
             "tradeInfo": [],
-            "listingCount": 297
+            "listingCount": 298
         },
         {
             "id": 376,
@@ -2934,10 +2934,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 12,
+            "count": 15,
             "detailsId": "muttering-essence-of-contempt",
             "tradeInfo": [],
-            "listingCount": 483
+            "listingCount": 484
         },
         {
             "id": 849,
@@ -3266,7 +3266,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 17,
+            "count": 18,
             "detailsId": "muttering-essence-of-sorrow",
             "tradeInfo": [],
             "listingCount": 466
@@ -3529,7 +3529,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 53,
+            "count": 54,
             "detailsId": "screaming-essence-of-anguish",
             "tradeInfo": [],
             "listingCount": 1025
@@ -5950,10 +5950,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 32,
+            "count": 33,
             "detailsId": "shrieking-essence-of-torment",
             "tradeInfo": [],
-            "listingCount": 522
+            "listingCount": 523
         },
         {
             "id": 1296,
@@ -6221,10 +6221,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 25,
+            "count": 26,
             "detailsId": "shrieking-essence-of-zeal",
             "tradeInfo": [],
-            "listingCount": 438
+            "listingCount": 439
         },
         {
             "id": 1816,
@@ -6759,7 +6759,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 24,
+            "count": 26,
             "detailsId": "wailing-essence-of-greed",
             "tradeInfo": [],
             "listingCount": 530
@@ -6844,10 +6844,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 25,
+            "count": 26,
             "detailsId": "wailing-essence-of-hatred",
             "tradeInfo": [],
-            "listingCount": 548
+            "listingCount": 549
         },
         {
             "id": 1823,
@@ -7006,10 +7006,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 16,
+            "count": 19,
             "detailsId": "wailing-essence-of-rage",
             "tradeInfo": [],
-            "listingCount": 490
+            "listingCount": 492
         },
         {
             "id": 1825,
@@ -7075,10 +7075,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 25,
+            "count": 26,
             "detailsId": "wailing-essence-of-sorrow",
             "tradeInfo": [],
-            "listingCount": 543
+            "listingCount": 544
         },
         {
             "id": 1826,
@@ -7237,10 +7237,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 16,
+            "count": 17,
             "detailsId": "wailing-essence-of-suffering",
             "tradeInfo": [],
-            "listingCount": 484
+            "listingCount": 485
         },
         {
             "id": 1828,
@@ -7427,7 +7427,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 26,
+            "count": 27,
             "detailsId": "wailing-essence-of-woe",
             "tradeInfo": [],
             "listingCount": 558
@@ -7698,10 +7698,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 28,
+            "count": 29,
             "detailsId": "weeping-essence-of-anger",
             "tradeInfo": [],
-            "listingCount": 492
+            "listingCount": 493
         },
         {
             "id": 1853,
@@ -7783,10 +7783,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 23,
+            "count": 24,
             "detailsId": "weeping-essence-of-contempt",
             "tradeInfo": [],
-            "listingCount": 614
+            "listingCount": 615
         },
         {
             "id": 1854,
@@ -7860,10 +7860,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 24,
+            "count": 26,
             "detailsId": "weeping-essence-of-doubt",
             "tradeInfo": [],
-            "listingCount": 466
+            "listingCount": 468
         },
         {
             "id": 1856,
@@ -7949,7 +7949,7 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 24,
+            "count": 25,
             "detailsId": "weeping-essence-of-greed",
             "tradeInfo": [],
             "listingCount": 564
@@ -8374,10 +8374,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.04,
             "divineValue": 0.0,
-            "count": 21,
+            "count": 22,
             "detailsId": "weeping-essence-of-woe",
             "tradeInfo": [],
-            "listingCount": 565
+            "listingCount": 566
         },
         {
             "id": 1863,
