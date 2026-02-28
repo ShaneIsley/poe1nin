@@ -7,7 +7,7 @@
                 "league_id": 295,
                 "pay_currency_id": 22,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 10,
                 "value": 4.132e-06,
                 "data_point_count": 1,
@@ -19,9 +19,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 22,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 11,
-                "value": 311898,
+                "value": 310638,
                 "data_point_count": 1,
                 "includes_secondary": true,
                 "listing_count": 39
@@ -39,7 +39,7 @@
                 ]
             },
             "receiveSparkLine": {
-                "totalChange": 39.14,
+                "totalChange": 38.58,
                 "data": [
                     0,
                     -11.66,
@@ -47,10 +47,10 @@
                     15.41,
                     15.41,
                     16.05,
-                    39.14
+                    38.58
                 ]
             },
-            "chaosEquivalent": 311898,
+            "chaosEquivalent": 310638,
             "lowConfidencePaySparkLine": {
                 "totalChange": 142.0,
                 "data": [
@@ -64,7 +64,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 39.14,
+                "totalChange": 38.58,
                 "data": [
                     0,
                     -11.66,
@@ -72,7 +72,7 @@
                     15.41,
                     15.41,
                     16.05,
-                    39.14
+                    38.58
                 ]
             },
             "detailsId": "mirror-of-kalandra"
@@ -84,7 +84,7 @@
                 "league_id": 295,
                 "pay_currency_id": 250,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 0.00244,
                 "data_point_count": 1,
@@ -96,9 +96,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 250,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 15,
-                "value": 5285,
+                "value": 5263,
                 "data_point_count": 1,
                 "includes_secondary": true,
                 "listing_count": 178
@@ -108,7 +108,7 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 11.21,
+                "totalChange": 10.76,
                 "data": [
                     0,
                     -4.55,
@@ -116,10 +116,10 @@
                     3.41,
                     4.5,
                     5.05,
-                    11.21
+                    10.76
                 ]
             },
-            "chaosEquivalent": 5285,
+            "chaosEquivalent": 5263,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": [
@@ -133,7 +133,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 11.21,
+                "totalChange": 10.76,
                 "data": [
                     0,
                     -4.55,
@@ -141,10 +141,79 @@
                     3.41,
                     4.5,
                     5.05,
-                    11.21
+                    10.76
                 ]
             },
             "detailsId": "reflecting-mist"
+        },
+        {
+            "currencyTypeName": "Awakener's Orb",
+            "pay": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 116,
+                "get_currency_id": 1,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 2,
+                "value": 0.0058,
+                "data_point_count": 1,
+                "includes_secondary": false,
+                "listing_count": 4
+            },
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 116,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 11,
+                "value": 1085,
+                "data_point_count": 1,
+                "includes_secondary": true,
+                "listing_count": 180
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": 44.93,
+                "data": [
+                    0,
+                    null,
+                    8.59,
+                    38.89,
+                    null,
+                    38.89,
+                    44.93
+                ]
+            },
+            "chaosEquivalent": 1085,
+            "lowConfidencePaySparkLine": {
+                "totalChange": -15.86,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -15.86,
+                    -15.86,
+                    -15.86,
+                    -15.86
+                ]
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": 44.93,
+                "data": [
+                    0,
+                    -6.89,
+                    8.59,
+                    38.89,
+                    38.89,
+                    38.89,
+                    44.93
+                ]
+            },
+            "detailsId": "awakeners-orb"
         },
         {
             "currencyTypeName": "Tempering Orb",
@@ -153,9 +222,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 135,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 12,
-                "value": 411.3,
+                "value": 409.7,
                 "data_point_count": 1,
                 "includes_secondary": true,
                 "listing_count": 125
@@ -165,7 +234,7 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 26.02,
+                "totalChange": 25.51,
                 "data": [
                     0,
                     -35.66,
@@ -173,10 +242,10 @@
                     19.49,
                     22.67,
                     7.69,
-                    26.02
+                    25.51
                 ]
             },
-            "chaosEquivalent": 411.3,
+            "chaosEquivalent": 409.7,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": [
@@ -190,7 +259,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 26.02,
+                "totalChange": 25.51,
                 "data": [
                     0,
                     -35.66,
@@ -198,7 +267,7 @@
                     19.49,
                     22.67,
                     7.69,
-                    26.02
+                    25.51
                 ]
             },
             "detailsId": "tempering-orb"
@@ -210,7 +279,7 @@
                 "league_id": 295,
                 "pay_currency_id": 188,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 2,
                 "value": 0.01544,
                 "data_point_count": 1,
@@ -222,9 +291,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 188,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 26,
-                "value": 313.3,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 25,
+                "value": 347.3,
                 "data_point_count": 1,
                 "includes_secondary": true,
                 "listing_count": 303
@@ -234,7 +303,7 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 40.85,
+                "totalChange": 56.14,
                 "data": [
                     0,
                     -5.58,
@@ -242,10 +311,10 @@
                     -12.1,
                     -0.49,
                     16.91,
-                    40.85
+                    56.14
                 ]
             },
-            "chaosEquivalent": 313.3,
+            "chaosEquivalent": 347.3,
             "lowConfidencePaySparkLine": {
                 "totalChange": -10.05,
                 "data": [
@@ -259,7 +328,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 40.85,
+                "totalChange": 56.14,
                 "data": [
                     0,
                     -5.58,
@@ -267,7 +336,7 @@
                     -12.1,
                     -0.49,
                     16.91,
-                    40.85
+                    56.14
                 ]
             },
             "detailsId": "orb-of-conflict"
@@ -279,9 +348,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 136,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 11,
-                "value": 272.4,
+                "value": 271.3,
                 "data_point_count": 1,
                 "includes_secondary": true,
                 "listing_count": 114
@@ -291,7 +360,7 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": -43.25,
+                "totalChange": -43.48,
                 "data": [
                     0,
                     -16.5,
@@ -299,10 +368,10 @@
                     8.33,
                     8.33,
                     -29.58,
-                    -43.25
+                    -43.48
                 ]
             },
-            "chaosEquivalent": 272.4,
+            "chaosEquivalent": 271.3,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": [
@@ -316,7 +385,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": -43.25,
+                "totalChange": -43.48,
                 "data": [
                     0,
                     -16.5,
@@ -324,7 +393,7 @@
                     8.33,
                     8.33,
                     -29.58,
-                    -43.25
+                    -43.48
                 ]
             },
             "detailsId": "tailoring-orb"
@@ -336,7 +405,7 @@
                 "league_id": 295,
                 "pay_currency_id": 268,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 0.00943,
                 "data_point_count": 1,
@@ -348,19 +417,19 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 268,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 21,
-                "value": 272.4,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 20,
+                "value": 254.2,
                 "data_point_count": 1,
                 "includes_secondary": true,
-                "listing_count": 412
+                "listing_count": 411
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": -43.25,
+                "totalChange": -47.05,
                 "data": [
                     0,
                     -25.62,
@@ -368,10 +437,10 @@
                     -45.83,
                     -45.83,
                     8.33,
-                    -43.25
+                    -47.05
                 ]
             },
-            "chaosEquivalent": 272.4,
+            "chaosEquivalent": 254.2,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": [
@@ -385,7 +454,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": -43.25,
+                "totalChange": -47.05,
                 "data": [
                     0,
                     -25.62,
@@ -393,7 +462,7 @@
                     -45.83,
                     -45.83,
                     8.33,
-                    -43.25
+                    -47.05
                 ]
             },
             "detailsId": "foulborn-exalted-orb"
@@ -405,7 +474,7 @@
                 "league_id": 295,
                 "pay_currency_id": 3,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 66,
                 "value": 0.00417,
                 "data_point_count": 1,
@@ -417,12 +486,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 3,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 25,
-                "value": 272.4,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 24,
+                "value": 271.3,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 158
+                "listing_count": 157
             },
             "paySparkLine": {
                 "totalChange": 19.9,
@@ -437,7 +506,7 @@
                 ]
             },
             "receiveSparkLine": {
-                "totalChange": 13.5,
+                "totalChange": 13.04,
                 "data": [
                     0,
                     -12.5,
@@ -445,10 +514,10 @@
                     8.33,
                     8.33,
                     8.33,
-                    13.5
+                    13.04
                 ]
             },
-            "chaosEquivalent": 248.8,
+            "chaosEquivalent": 248.2,
             "lowConfidencePaySparkLine": {
                 "totalChange": 19.9,
                 "data": [
@@ -462,7 +531,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 13.5,
+                "totalChange": 13.04,
                 "data": [
                     0,
                     -12.5,
@@ -470,7 +539,7 @@
                     8.33,
                     8.33,
                     8.33,
-                    13.5
+                    13.04
                 ]
             },
             "detailsId": "divine-orb"
@@ -482,7 +551,7 @@
                 "league_id": 295,
                 "pay_currency_id": 265,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 0.0099,
                 "data_point_count": 1,
@@ -494,12 +563,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 265,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 27,
                 "value": 117.4,
                 "data_point_count": 1,
                 "includes_secondary": true,
-                "listing_count": 489
+                "listing_count": 488
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -551,7 +620,7 @@
                 "league_id": 295,
                 "pay_currency_id": 2,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 5,
                 "value": 0.1283,
                 "data_point_count": 1,
@@ -563,9 +632,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 2,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 36,
-                "value": 20.48,
+                "value": 20.43,
                 "data_point_count": 1,
                 "includes_secondary": true,
                 "listing_count": 132
@@ -583,7 +652,7 @@
                 ]
             },
             "receiveSparkLine": {
-                "totalChange": 10.92,
+                "totalChange": 10.69,
                 "data": [
                     0,
                     -11.77,
@@ -591,10 +660,10 @@
                     8.33,
                     8.33,
                     8.33,
-                    10.92
+                    10.69
                 ]
             },
-            "chaosEquivalent": 20.48,
+            "chaosEquivalent": 20.43,
             "lowConfidencePaySparkLine": {
                 "totalChange": -11.69,
                 "data": [
@@ -608,7 +677,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 10.92,
+                "totalChange": 10.69,
                 "data": [
                     0,
                     -11.77,
@@ -616,10 +685,59 @@
                     8.33,
                     8.33,
                     8.33,
-                    10.92
+                    10.69
                 ]
             },
             "detailsId": "exalted-orb"
+        },
+        {
+            "currencyTypeName": "Maven's Chisel of Divination",
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 247,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 15,
+                "value": 9.98,
+                "data_point_count": 1,
+                "includes_secondary": true,
+                "listing_count": 53
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": 53.54,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -15.38,
+                    29.23,
+                    -23.08,
+                    53.54
+                ]
+            },
+            "chaosEquivalent": 9.98,
+            "lowConfidencePaySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": 53.54,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    -15.38,
+                    29.23,
+                    -23.08,
+                    53.54
+                ]
+            },
+            "detailsId": "mavens-chisel-of-divination"
         },
         {
             "currencyTypeName": "Ancient Orb",
@@ -628,7 +746,7 @@
                 "league_id": 295,
                 "pay_currency_id": 78,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 0.5,
                 "data_point_count": 1,
@@ -640,7 +758,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 78,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 15,
                 "value": 6.0,
                 "data_point_count": 1,
@@ -697,7 +815,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 182,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 13,
                 "value": 5.2,
                 "data_point_count": 1,
@@ -746,7 +864,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 125,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 15,
                 "value": 4.6,
                 "data_point_count": 1,
@@ -795,7 +913,7 @@
                 "league_id": 295,
                 "pay_currency_id": 196,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 0.3333,
                 "data_point_count": 1,
@@ -807,7 +925,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 196,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 14,
                 "value": 4.2,
                 "data_point_count": 1,
@@ -864,7 +982,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 124,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 11,
                 "value": 4.0,
                 "data_point_count": 1,
@@ -913,19 +1031,19 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 139,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 19,
-                "value": 3.51,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 18,
+                "value": 3.27,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 418
+                "listing_count": 417
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 43.44,
+                "totalChange": 33.53,
                 "data": [
                     0,
                     -16.33,
@@ -933,16 +1051,16 @@
                     63.27,
                     23.62,
                     43.44,
-                    43.44
+                    33.53
                 ]
             },
-            "chaosEquivalent": 3.51,
+            "chaosEquivalent": 3.27,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 43.44,
+                "totalChange": 33.53,
                 "data": [
                     0,
                     -16.33,
@@ -950,7 +1068,7 @@
                     63.27,
                     23.62,
                     43.44,
-                    43.44
+                    33.53
                 ]
             },
             "detailsId": "ritual-vessel"
@@ -962,12 +1080,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 266,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 78,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 79,
                 "value": 3.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 14345
+                "listing_count": 14344
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -1011,12 +1129,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 246,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 12,
                 "value": 2.9,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 265
+                "listing_count": 264
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -1054,62 +1172,13 @@
             "detailsId": "mavens-chisel-of-proliferation"
         },
         {
-            "currencyTypeName": "Stacked Deck",
-            "receive": {
-                "id": 0,
-                "league_id": 295,
-                "pay_currency_id": 1,
-                "get_currency_id": 45,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 66,
-                "value": 2.87,
-                "data_point_count": 1,
-                "includes_secondary": true,
-                "listing_count": 372
-            },
-            "paySparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "receiveSparkLine": {
-                "totalChange": 43.62,
-                "data": [
-                    0,
-                    7.57,
-                    13.64,
-                    18.18,
-                    2.73,
-                    38.24,
-                    43.62
-                ]
-            },
-            "chaosEquivalent": 2.87,
-            "lowConfidencePaySparkLine": {
-                "totalChange": 0,
-                "data": []
-            },
-            "lowConfidenceReceiveSparkLine": {
-                "totalChange": 43.62,
-                "data": [
-                    0,
-                    7.57,
-                    13.64,
-                    18.18,
-                    2.73,
-                    38.24,
-                    43.62
-                ]
-            },
-            "detailsId": "stacked-deck"
-        },
-        {
             "currencyTypeName": "Grand Eldritch Ichor",
             "receive": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 186,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 13,
                 "value": 2.6,
                 "data_point_count": 1,
@@ -1152,13 +1221,62 @@
             "detailsId": "grand-eldritch-ichor"
         },
         {
+            "currencyTypeName": "Stacked Deck",
+            "receive": {
+                "id": 0,
+                "league_id": 295,
+                "pay_currency_id": 1,
+                "get_currency_id": 45,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 68,
+                "value": 2.52,
+                "data_point_count": 1,
+                "includes_secondary": true,
+                "listing_count": 372
+            },
+            "paySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "receiveSparkLine": {
+                "totalChange": 25.9,
+                "data": [
+                    0,
+                    7.57,
+                    13.64,
+                    18.18,
+                    2.73,
+                    38.24,
+                    25.9
+                ]
+            },
+            "chaosEquivalent": 2.52,
+            "lowConfidencePaySparkLine": {
+                "totalChange": 0,
+                "data": []
+            },
+            "lowConfidenceReceiveSparkLine": {
+                "totalChange": 25.9,
+                "data": [
+                    0,
+                    7.57,
+                    13.64,
+                    18.18,
+                    2.73,
+                    38.24,
+                    25.9
+                ]
+            },
+            "detailsId": "stacked-deck"
+        },
+        {
             "currencyTypeName": "Noxious Catalyst",
             "receive": {
                 "id": 0,
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 146,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 22,
                 "value": 2.1,
                 "data_point_count": 1,
@@ -1207,7 +1325,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 73,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 23,
                 "value": 2.0,
                 "data_point_count": 1,
@@ -1256,12 +1374,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 194,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 71,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 72,
                 "value": 2.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 11698
+                "listing_count": 11699
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -1305,12 +1423,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 199,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 16,
                 "value": 2.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 1580
+                "listing_count": 1579
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -1354,7 +1472,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 200,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 11,
                 "value": 2.0,
                 "data_point_count": 1,
@@ -1403,7 +1521,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 201,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 43,
                 "value": 2.0,
                 "data_point_count": 1,
@@ -1452,12 +1570,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 264,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 48,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 49,
                 "value": 2.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 6284
+                "listing_count": 6283
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -1501,7 +1619,7 @@
                 "league_id": 295,
                 "pay_currency_id": 15,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 2,
                 "value": 2.0,
                 "data_point_count": 1,
@@ -1513,7 +1631,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 15,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 40,
                 "value": 1.6,
                 "data_point_count": 1,
@@ -1570,7 +1688,7 @@
                 "league_id": 295,
                 "pay_currency_id": 76,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 2.0,
                 "data_point_count": 1,
@@ -1582,7 +1700,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 76,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 12,
                 "value": 1.05,
                 "data_point_count": 1,
@@ -1594,7 +1712,7 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": -12.43,
+                "totalChange": -12.48,
                 "data": [
                     0,
                     -8.34,
@@ -1602,7 +1720,7 @@
                     -16.71,
                     9.27,
                     12.98,
-                    -12.43
+                    -12.48
                 ]
             },
             "chaosEquivalent": 1.05,
@@ -1619,7 +1737,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": -12.43,
+                "totalChange": -12.48,
                 "data": [
                     0,
                     -8.34,
@@ -1627,7 +1745,7 @@
                     -16.71,
                     9.27,
                     12.98,
-                    -12.43
+                    -12.48
                 ]
             },
             "detailsId": "harbingers-orb"
@@ -1639,7 +1757,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 121,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 20,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -1688,7 +1806,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 122,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 25,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -1737,12 +1855,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 123,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 20,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 3215
+                "listing_count": 3214
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -1786,7 +1904,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 126,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 19,
                 "value": 1.0,
                 "data_point_count": 1,
@@ -1835,12 +1953,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 127,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 30,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 4497
+                "listing_count": 4496
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -1884,12 +2002,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 148,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 17,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 1696
+                "listing_count": 1695
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -1933,12 +2051,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 197,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 76,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 15180
+                "listing_count": 15179
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -1982,12 +2100,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 198,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 12,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 1440
+                "listing_count": 1439
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -2031,12 +2149,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 202,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 111,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 21748
+                "listing_count": 21747
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -2080,12 +2198,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 262,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 61,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 10963
+                "listing_count": 10961
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -2129,12 +2247,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 263,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 51,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 8687
+                "listing_count": 8685
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -2178,7 +2296,7 @@
                 "league_id": 295,
                 "pay_currency_id": 267,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 0.3333,
                 "data_point_count": 1,
@@ -2190,12 +2308,12 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 267,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 51,
                 "value": 1.0,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 7971
+                "listing_count": 7969
             },
             "paySparkLine": {
                 "totalChange": 0,
@@ -2247,7 +2365,7 @@
                 "league_id": 295,
                 "pay_currency_id": 10,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 3.9,
                 "data_point_count": 1,
@@ -2259,7 +2377,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 10,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 30,
                 "value": 0.9796,
                 "data_point_count": 1,
@@ -2316,7 +2434,7 @@
                 "league_id": 295,
                 "pay_currency_id": 9,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 3,
                 "value": 2.47,
                 "data_point_count": 1,
@@ -2328,7 +2446,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 9,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 24,
                 "value": 0.9364,
                 "data_point_count": 1,
@@ -2385,7 +2503,7 @@
                 "league_id": 295,
                 "pay_currency_id": 19,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 5.0,
                 "data_point_count": 1,
@@ -2397,9 +2515,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 19,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 18,
-                "value": 0.6996,
+                "value": 0.6974,
                 "data_point_count": 1,
                 "includes_secondary": true,
                 "listing_count": 147
@@ -2409,7 +2527,7 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": -12.66,
+                "totalChange": -12.95,
                 "data": [
                     0,
                     -19.6,
@@ -2417,7 +2535,7 @@
                     -18.17,
                     -18.17,
                     -38.48,
-                    -12.66
+                    -12.95
                 ]
             },
             "chaosEquivalent": 0.7,
@@ -2434,7 +2552,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": -12.66,
+                "totalChange": -12.95,
                 "data": [
                     0,
                     -19.6,
@@ -2442,7 +2560,7 @@
                     -18.17,
                     -18.17,
                     -38.48,
-                    -12.66
+                    -12.95
                 ]
             },
             "detailsId": "glassblowers-bauble"
@@ -2454,7 +2572,7 @@
                 "league_id": 295,
                 "pay_currency_id": 8,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 4.0,
                 "data_point_count": 1,
@@ -2466,7 +2584,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 8,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 15,
                 "value": 0.4591,
                 "data_point_count": 1,
@@ -2523,7 +2641,7 @@
                 "league_id": 295,
                 "pay_currency_id": 14,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 6.0,
                 "data_point_count": 1,
@@ -2535,7 +2653,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 14,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 19,
                 "value": 0.3333,
                 "data_point_count": 1,
@@ -2592,7 +2710,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 141,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 31,
                 "value": 0.3322,
                 "data_point_count": 1,
@@ -2641,7 +2759,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 7,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 30,
                 "value": 0.3218,
                 "data_point_count": 1,
@@ -2690,7 +2808,7 @@
                 "league_id": 295,
                 "pay_currency_id": 172,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 7.8,
                 "data_point_count": 1,
@@ -2702,7 +2820,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 172,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 13,
                 "value": 0.3167,
                 "data_point_count": 1,
@@ -2759,7 +2877,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 180,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 26,
                 "value": 0.3005,
                 "data_point_count": 1,
@@ -2808,7 +2926,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 184,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 22,
                 "value": 0.2487,
                 "data_point_count": 1,
@@ -2857,7 +2975,7 @@
                 "league_id": 295,
                 "pay_currency_id": 173,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 20.0,
                 "data_point_count": 1,
@@ -2869,7 +2987,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 173,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 23,
                 "value": 0.1996,
                 "data_point_count": 1,
@@ -2926,7 +3044,7 @@
                 "league_id": 295,
                 "pay_currency_id": 18,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 28.22,
                 "data_point_count": 1,
@@ -2938,7 +3056,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 18,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 12,
                 "value": 0.175,
                 "data_point_count": 1,
@@ -2995,7 +3113,7 @@
                 "league_id": 295,
                 "pay_currency_id": 5,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 3,
                 "value": 6.8,
                 "data_point_count": 1,
@@ -3007,9 +3125,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 5,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 88,
-                "value": 0.1739,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 89,
+                "value": 0.1744,
                 "data_point_count": 1,
                 "includes_secondary": true,
                 "listing_count": 462
@@ -3019,7 +3137,7 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": -8.72,
+                "totalChange": -8.48,
                 "data": [
                     0,
                     -12.54,
@@ -3027,7 +3145,7 @@
                     5.06,
                     4.95,
                     -3.13,
-                    -8.72
+                    -8.48
                 ]
             },
             "chaosEquivalent": 0.17,
@@ -3044,7 +3162,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": -8.72,
+                "totalChange": -8.48,
                 "data": [
                     0,
                     -12.54,
@@ -3052,7 +3170,7 @@
                     5.06,
                     4.95,
                     -3.13,
-                    -8.72
+                    -8.48
                 ]
             },
             "detailsId": "orb-of-fusing"
@@ -3064,7 +3182,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 75,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 12,
                 "value": 0.1694,
                 "data_point_count": 1,
@@ -3113,7 +3231,7 @@
                 "league_id": 295,
                 "pay_currency_id": 6,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 3,
                 "value": 10.4,
                 "data_point_count": 1,
@@ -3125,9 +3243,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 6,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 79,
-                "value": 0.1405,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 80,
+                "value": 0.1407,
                 "data_point_count": 1,
                 "includes_secondary": true,
                 "listing_count": 553
@@ -3137,7 +3255,7 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 2.18,
+                "totalChange": 2.32,
                 "data": [
                     0,
                     -7.17,
@@ -3145,7 +3263,7 @@
                     3.05,
                     3.2,
                     -0.32,
-                    2.18
+                    2.32
                 ]
             },
             "chaosEquivalent": 0.14,
@@ -3162,7 +3280,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 2.18,
+                "totalChange": 2.32,
                 "data": [
                     0,
                     -7.17,
@@ -3170,7 +3288,7 @@
                     3.05,
                     3.2,
                     -0.32,
-                    2.18
+                    2.32
                 ]
             },
             "detailsId": "orb-of-alteration"
@@ -3182,7 +3300,7 @@
                 "league_id": 295,
                 "pay_currency_id": 17,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 2,
                 "value": 24.4,
                 "data_point_count": 1,
@@ -3194,9 +3312,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 17,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 79,
-                "value": 0.1294,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 80,
+                "value": 0.1305,
                 "data_point_count": 1,
                 "includes_secondary": true,
                 "listing_count": 417
@@ -3206,7 +3324,7 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": -9.45,
+                "totalChange": -8.67,
                 "data": [
                     0,
                     -1.51,
@@ -3214,7 +3332,7 @@
                     0,
                     -0.12,
                     -4.79,
-                    -9.45
+                    -8.67
                 ]
             },
             "chaosEquivalent": 0.13,
@@ -3231,7 +3349,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": -9.45,
+                "totalChange": -8.67,
                 "data": [
                     0,
                     -1.51,
@@ -3239,7 +3357,7 @@
                     0,
                     -0.12,
                     -4.79,
-                    -9.45
+                    -8.67
                 ]
             },
             "detailsId": "chromatic-orb"
@@ -3251,7 +3369,7 @@
                 "league_id": 295,
                 "pay_currency_id": 25,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 400.0,
                 "data_point_count": 1,
@@ -3263,19 +3381,19 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 25,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 11,
-                "value": 0.1248,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 12,
+                "value": 0.1266,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 395
+                "listing_count": 396
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 55.37,
+                "totalChange": 57.61,
                 "data": [
                     0,
                     0,
@@ -3283,10 +3401,10 @@
                     45.2,
                     38.12,
                     46.75,
-                    55.37
+                    57.61
                 ]
             },
-            "chaosEquivalent": 0.12,
+            "chaosEquivalent": 0.13,
             "lowConfidencePaySparkLine": {
                 "totalChange": 0,
                 "data": [
@@ -3300,7 +3418,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 55.37,
+                "totalChange": 57.61,
                 "data": [
                     0,
                     0,
@@ -3308,7 +3426,7 @@
                     45.2,
                     38.12,
                     46.75,
-                    55.37
+                    57.61
                 ]
             },
             "detailsId": "blacksmiths-whetstone"
@@ -3320,19 +3438,19 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 26,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 12,
-                "value": 0.1125,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 13,
+                "value": 0.1139,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 355
+                "listing_count": 356
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 14.21,
+                "totalChange": 15.6,
                 "data": [
                     0,
                     0,
@@ -3340,7 +3458,7 @@
                     69.23,
                     64.98,
                     15.61,
-                    14.21
+                    15.6
                 ]
             },
             "chaosEquivalent": 0.11,
@@ -3349,7 +3467,7 @@
                 "data": []
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 14.21,
+                "totalChange": 15.6,
                 "data": [
                     0,
                     0,
@@ -3357,7 +3475,7 @@
                     69.23,
                     64.98,
                     15.61,
-                    14.21
+                    15.6
                 ]
             },
             "detailsId": "armourers-scrap"
@@ -3369,7 +3487,7 @@
                 "league_id": 295,
                 "pay_currency_id": 4,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 50.0,
                 "data_point_count": 1,
@@ -3381,19 +3499,19 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 4,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 41,
-                "value": 0.08333,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 22,
+                "value": 0.07692,
                 "data_point_count": 1,
-                "includes_secondary": true,
-                "listing_count": 315
+                "includes_secondary": false,
+                "listing_count": 581
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 6.56,
+                "totalChange": -1.64,
                 "data": [
                     0,
                     0,
@@ -3401,7 +3519,7 @@
                     -5.84,
                     -10.81,
                     5.74,
-                    6.56
+                    -1.64
                 ]
             },
             "chaosEquivalent": 0.08,
@@ -3418,7 +3536,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 6.56,
+                "totalChange": -1.64,
                 "data": [
                     0,
                     0,
@@ -3426,7 +3544,7 @@
                     -5.84,
                     -10.81,
                     5.74,
-                    6.56
+                    -1.64
                 ]
             },
             "detailsId": "orb-of-alchemy"
@@ -3438,19 +3556,19 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 16,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 24,
-                "value": 0.07308,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 26,
+                "value": 0.07418,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 589
+                "listing_count": 591
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": -5.0,
+                "totalChange": -3.57,
                 "data": [
                     0,
                     13.26,
@@ -3458,7 +3576,7 @@
                     15.48,
                     13.46,
                     -2.0,
-                    -5.0
+                    -3.57
                 ]
             },
             "chaosEquivalent": 0.07,
@@ -3467,7 +3585,7 @@
                 "data": []
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": -5.0,
+                "totalChange": -3.57,
                 "data": [
                     0,
                     13.26,
@@ -3475,7 +3593,7 @@
                     15.48,
                     13.46,
                     -2.0,
-                    -5.0
+                    -3.57
                 ]
             },
             "detailsId": "orb-of-chance"
@@ -3487,7 +3605,7 @@
                 "league_id": 295,
                 "pay_currency_id": 211,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 890.0,
                 "data_point_count": 1,
@@ -3499,9 +3617,9 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 211,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 72,
-                "value": 0.06818,
+                "value": 0.06814,
                 "data_point_count": 1,
                 "includes_secondary": true,
                 "listing_count": 613
@@ -3511,7 +3629,7 @@
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 2.26,
+                "totalChange": 2.21,
                 "data": [
                     0,
                     0.07,
@@ -3519,7 +3637,7 @@
                     9.16,
                     0,
                     0,
-                    2.26
+                    2.21
                 ]
             },
             "chaosEquivalent": 0.07,
@@ -3536,7 +3654,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 2.26,
+                "totalChange": 2.21,
                 "data": [
                     0,
                     0.07,
@@ -3544,7 +3662,7 @@
                     9.16,
                     0,
                     0,
-                    2.26
+                    2.21
                 ]
             },
             "detailsId": "vivid-crystallised-lifeforce"
@@ -3556,7 +3674,7 @@
                 "league_id": 295,
                 "pay_currency_id": 11,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 2,
                 "value": 46.0,
                 "data_point_count": 1,
@@ -3568,7 +3686,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 11,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 63,
                 "value": 0.05588,
                 "data_point_count": 1,
@@ -3625,7 +3743,7 @@
                 "league_id": 295,
                 "pay_currency_id": 24,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 200.0,
                 "data_point_count": 1,
@@ -3637,7 +3755,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 24,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 18,
                 "value": 0.03505,
                 "data_point_count": 1,
@@ -3694,7 +3812,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 74,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 11,
                 "value": 0.03846,
                 "data_point_count": 1,
@@ -3743,19 +3861,19 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 20,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 29,
-                "value": 0.03331,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 30,
+                "value": 0.03332,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 423
+                "listing_count": 424
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": -0.07,
+                "totalChange": -0.03,
                 "data": [
                     0,
                     0,
@@ -3763,7 +3881,7 @@
                     0,
                     0,
                     -0.03,
-                    -0.07
+                    -0.03
                 ]
             },
             "chaosEquivalent": 0.03,
@@ -3780,7 +3898,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": -0.07,
+                "totalChange": -0.03,
                 "data": [
                     0,
                     0,
@@ -3788,7 +3906,7 @@
                     0,
                     0,
                     -0.03,
-                    -0.07
+                    -0.03
                 ]
             },
             "detailsId": "orb-of-augmentation"
@@ -3800,7 +3918,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 23,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 18,
                 "value": 0.03226,
                 "data_point_count": 1,
@@ -3849,7 +3967,7 @@
                 "league_id": 295,
                 "pay_currency_id": 212,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 890.0,
                 "data_point_count": 1,
@@ -3861,7 +3979,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 212,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 69,
                 "value": 0.02785,
                 "data_point_count": 1,
@@ -3918,7 +4036,7 @@
                 "league_id": 295,
                 "pay_currency_id": 210,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 1,
                 "value": 890.0,
                 "data_point_count": 1,
@@ -3930,7 +4048,7 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 210,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 69,
                 "value": 0.02259,
                 "data_point_count": 1,
@@ -3987,7 +4105,7 @@
                 "league_id": 295,
                 "pay_currency_id": 21,
                 "get_currency_id": 1,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
                 "count": 2,
                 "value": 148.0,
                 "data_point_count": 1,
@@ -3999,19 +4117,19 @@
                 "league_id": 295,
                 "pay_currency_id": 1,
                 "get_currency_id": 21,
-                "sample_time_utc": "2026-02-28T17:19:27.0045015Z",
-                "count": 23,
-                "value": 0.01125,
+                "sample_time_utc": "2026-02-28T18:11:19.8124372Z",
+                "count": 24,
+                "value": 0.01192,
                 "data_point_count": 1,
                 "includes_secondary": false,
-                "listing_count": 878
+                "listing_count": 879
             },
             "paySparkLine": {
                 "totalChange": 0,
                 "data": []
             },
             "receiveSparkLine": {
-                "totalChange": 3.96,
+                "totalChange": 10.18,
                 "data": [
                     0,
                     7.67,
@@ -4019,7 +4137,7 @@
                     0,
                     7.67,
                     -12.11,
-                    3.96
+                    10.18
                 ]
             },
             "chaosEquivalent": 0.01,
@@ -4036,7 +4154,7 @@
                 ]
             },
             "lowConfidenceReceiveSparkLine": {
-                "totalChange": 3.96,
+                "totalChange": 10.18,
                 "data": [
                     0,
                     7.67,
@@ -4044,7 +4162,7 @@
                     0,
                     7.67,
                     -12.11,
-                    3.96
+                    10.18
                 ]
             },
             "detailsId": "orb-of-transmutation"
