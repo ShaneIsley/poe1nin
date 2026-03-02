@@ -179,7 +179,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 5.5,
-            "exaltedValue": 0.19,
+            "exaltedValue": 0.18,
             "divineValue": 0.02,
             "count": 12,
             "detailsId": "essence-of-delirium",
@@ -272,7 +272,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 5.5,
-            "exaltedValue": 0.19,
+            "exaltedValue": 0.18,
             "divineValue": 0.02,
             "count": 14,
             "detailsId": "essence-of-horror",
@@ -669,7 +669,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 3.7,
-            "exaltedValue": 0.13,
+            "exaltedValue": 0.12,
             "divineValue": 0.01,
             "count": 40,
             "detailsId": "deafening-essence-of-sorrow",
@@ -835,7 +835,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 3.4,
-            "exaltedValue": 0.12,
+            "exaltedValue": 0.11,
             "divineValue": 0.01,
             "count": 29,
             "detailsId": "deafening-essence-of-envy",
@@ -916,7 +916,7 @@
             "mutatedModifiers": [],
             "flavourText": "",
             "chaosValue": 3.1,
-            "exaltedValue": 0.11,
+            "exaltedValue": 0.1,
             "divineValue": 0.01,
             "count": 26,
             "detailsId": "deafening-essence-of-misery",
@@ -2260,6 +2260,91 @@
             "listingCount": 311
         },
         {
+            "id": 1291,
+            "name": "Shrieking Essence of Scorn",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TY29ybjYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/4cb0e71dc7/Scorn6.png",
+            "mapTier": 6,
+            "baseType": "Shrieking Essence of Scorn",
+            "stackSize": 9,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 90,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    30,
+                    40,
+                    60,
+                    90
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 90,
+                "data": [
+                    0,
+                    0,
+                    0,
+                    30,
+                    40,
+                    60,
+                    90
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+                    "optional": false
+                },
+                {
+                    "text": "",
+                    "optional": false
+                },
+                {
+                    "text": "Weapon: (100-109)% increased Spell Critical Strike Chance",
+                    "optional": false
+                },
+                {
+                    "text": "Body Armour: (40-45)% increased Stun Threshold",
+                    "optional": false
+                },
+                {
+                    "text": "Shield: (100-109)% increased Spell Critical Strike Chance",
+                    "optional": false
+                },
+                {
+                    "text": "Other Armour: (27-30)% chance to Avoid being Stunned",
+                    "optional": false
+                },
+                {
+                    "text": "Quiver: (30-34)% to Global Critical Strike Multiplier",
+                    "optional": false
+                },
+                {
+                    "text": "Amulet: (30-34)% to Global Critical Strike Multiplier",
+                    "optional": false
+                },
+                {
+                    "text": "Ring: (18-20)% to Global Critical Strike Multiplier",
+                    "optional": false
+                },
+                {
+                    "text": "Belt: (14-15)% reduced Enemy Stun Threshold",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 1.9,
+            "exaltedValue": 0.06,
+            "divineValue": 0.01,
+            "count": 30,
+            "detailsId": "shrieking-essence-of-scorn",
+            "tradeInfo": [],
+            "listingCount": 453
+        },
+        {
             "id": 495,
             "name": "Essence of Hysteria",
             "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9UZXJyb3IxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/80faa3ee53/Terror1.png",
@@ -2351,180 +2436,6 @@
             "detailsId": "essence-of-hysteria",
             "tradeInfo": [],
             "listingCount": 178
-        },
-        {
-            "id": 1291,
-            "name": "Shrieking Essence of Scorn",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TY29ybjYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/4cb0e71dc7/Scorn6.png",
-            "mapTier": 6,
-            "baseType": "Shrieking Essence of Scorn",
-            "stackSize": 9,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": 80,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    30,
-                    40,
-                    60,
-                    80
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 80,
-                "data": [
-                    0,
-                    0,
-                    0,
-                    30,
-                    40,
-                    60,
-                    80
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-                    "optional": false
-                },
-                {
-                    "text": "",
-                    "optional": false
-                },
-                {
-                    "text": "Weapon: (100-109)% increased Spell Critical Strike Chance",
-                    "optional": false
-                },
-                {
-                    "text": "Body Armour: (40-45)% increased Stun Threshold",
-                    "optional": false
-                },
-                {
-                    "text": "Shield: (100-109)% increased Spell Critical Strike Chance",
-                    "optional": false
-                },
-                {
-                    "text": "Other Armour: (27-30)% chance to Avoid being Stunned",
-                    "optional": false
-                },
-                {
-                    "text": "Quiver: (30-34)% to Global Critical Strike Multiplier",
-                    "optional": false
-                },
-                {
-                    "text": "Amulet: (30-34)% to Global Critical Strike Multiplier",
-                    "optional": false
-                },
-                {
-                    "text": "Ring: (18-20)% to Global Critical Strike Multiplier",
-                    "optional": false
-                },
-                {
-                    "text": "Belt: (14-15)% reduced Enemy Stun Threshold",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 1.8,
-            "exaltedValue": 0.06,
-            "divineValue": 0.01,
-            "count": 29,
-            "detailsId": "shrieking-essence-of-scorn",
-            "tradeInfo": [],
-            "listingCount": 452
-        },
-        {
-            "id": 1855,
-            "name": "Weeping Essence of Fear",
-            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyMyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7d65a73894/Fear3.png",
-            "mapTier": 3,
-            "baseType": "Weeping Essence of Fear",
-            "stackSize": 9,
-            "itemClass": 5,
-            "sparkLine": {
-                "totalChange": 12.5,
-                "data": [
-                    0,
-                    0,
-                    25,
-                    25,
-                    25,
-                    6.25,
-                    12.5
-                ]
-            },
-            "lowConfidenceSparkLine": {
-                "totalChange": 12.5,
-                "data": [
-                    0,
-                    0,
-                    25,
-                    25,
-                    25,
-                    6.25,
-                    12.5
-                ]
-            },
-            "implicitModifiers": [],
-            "explicitModifiers": [
-                {
-                    "text": "Upgrades a normal item to rare with one guaranteed property",
-                    "optional": false
-                },
-                {
-                    "text": "Properties restricted to level 60 and below",
-                    "optional": false
-                },
-                {
-                    "text": "",
-                    "optional": false
-                },
-                {
-                    "text": "One Handed Weapon: Minions deal (30-39)% increased Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Two Handed Weapon: Minions deal (45-59)% increased Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Gloves: Minions deal (16-18)% increased Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Helmet: Minions deal (16-18)% increased Damage",
-                    "optional": false
-                },
-                {
-                    "text": "Other Armour: Minions have (16-18)% increased maximum Life",
-                    "optional": false
-                },
-                {
-                    "text": "Quiver: Minions have (16-18)% increased Movement Speed",
-                    "optional": false
-                },
-                {
-                    "text": "Belt: Minions have (16-18)% increased maximum Life",
-                    "optional": false
-                },
-                {
-                    "text": "Other Jewellery: Minions have (16-18)% increased Movement Speed",
-                    "optional": false
-                }
-            ],
-            "mutatedModifiers": [],
-            "flavourText": "",
-            "chaosValue": 1.8,
-            "exaltedValue": 0.06,
-            "divineValue": 0.01,
-            "count": 19,
-            "detailsId": "weeping-essence-of-fear",
-            "tradeInfo": [],
-            "listingCount": 492
         },
         {
             "id": 1298,
@@ -2622,6 +2533,95 @@
             "detailsId": "shrieking-essence-of-zeal",
             "tradeInfo": [],
             "listingCount": 439
+        },
+        {
+            "id": 1855,
+            "name": "Weeping Essence of Fear",
+            "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyMyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7d65a73894/Fear3.png",
+            "mapTier": 3,
+            "baseType": "Weeping Essence of Fear",
+            "stackSize": 9,
+            "itemClass": 5,
+            "sparkLine": {
+                "totalChange": 6.25,
+                "data": [
+                    0,
+                    0,
+                    25,
+                    25,
+                    25,
+                    6.25,
+                    6.25
+                ]
+            },
+            "lowConfidenceSparkLine": {
+                "totalChange": 6.25,
+                "data": [
+                    0,
+                    0,
+                    25,
+                    25,
+                    25,
+                    6.25,
+                    6.25
+                ]
+            },
+            "implicitModifiers": [],
+            "explicitModifiers": [
+                {
+                    "text": "Upgrades a normal item to rare with one guaranteed property",
+                    "optional": false
+                },
+                {
+                    "text": "Properties restricted to level 60 and below",
+                    "optional": false
+                },
+                {
+                    "text": "",
+                    "optional": false
+                },
+                {
+                    "text": "One Handed Weapon: Minions deal (30-39)% increased Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Two Handed Weapon: Minions deal (45-59)% increased Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Gloves: Minions deal (16-18)% increased Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Helmet: Minions deal (16-18)% increased Damage",
+                    "optional": false
+                },
+                {
+                    "text": "Other Armour: Minions have (16-18)% increased maximum Life",
+                    "optional": false
+                },
+                {
+                    "text": "Quiver: Minions have (16-18)% increased Movement Speed",
+                    "optional": false
+                },
+                {
+                    "text": "Belt: Minions have (16-18)% increased maximum Life",
+                    "optional": false
+                },
+                {
+                    "text": "Other Jewellery: Minions have (16-18)% increased Movement Speed",
+                    "optional": false
+                }
+            ],
+            "mutatedModifiers": [],
+            "flavourText": "",
+            "chaosValue": 1.7,
+            "exaltedValue": 0.06,
+            "divineValue": 0.0,
+            "count": 18,
+            "detailsId": "weeping-essence-of-fear",
+            "tradeInfo": [],
+            "listingCount": 491
         },
         {
             "id": 1280,
@@ -3476,10 +3476,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 19,
+            "count": 18,
             "detailsId": "muttering-essence-of-fear",
             "tradeInfo": [],
-            "listingCount": 463
+            "listingCount": 462
         },
         {
             "id": 850,
@@ -3565,10 +3565,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 26,
+            "count": 25,
             "detailsId": "muttering-essence-of-greed",
             "tradeInfo": [],
-            "listingCount": 496
+            "listingCount": 495
         },
         {
             "id": 851,
@@ -4905,10 +4905,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 49,
+            "count": 48,
             "detailsId": "screaming-essence-of-scorn",
             "tradeInfo": [],
-            "listingCount": 990
+            "listingCount": 989
         },
         {
             "id": 1098,
@@ -6690,10 +6690,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 27,
+            "count": 26,
             "detailsId": "wailing-essence-of-greed",
             "tradeInfo": [],
-            "listingCount": 531
+            "listingCount": 530
         },
         {
             "id": 1822,
@@ -7544,10 +7544,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 22,
+            "count": 21,
             "detailsId": "wailing-essence-of-zeal",
             "tradeInfo": [],
-            "listingCount": 484
+            "listingCount": 483
         },
         {
             "id": 1852,
@@ -7791,10 +7791,10 @@
             "chaosValue": 1.0,
             "exaltedValue": 0.03,
             "divineValue": 0.0,
-            "count": 26,
+            "count": 25,
             "detailsId": "weeping-essence-of-doubt",
             "tradeInfo": [],
-            "listingCount": 468
+            "listingCount": 467
         },
         {
             "id": 1856,
