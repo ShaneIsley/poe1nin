@@ -1,0 +1,1279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PoE Economy Tracker — Animated Walkthrough</title>
+<style>
+:root {
+  --bg:       #0d0f14;
+  --panel:    #141920;
+  --panel2:   #1c2330;
+  --border:   #2a3444;
+  --gold:     #c8a94b;
+  --gold-dim: #7a5f20;
+  --text:     #d8cfc0;
+  --dim:      #6b7a8d;
+  --green:    #4ade80;
+  --red:      #f87171;
+  --blue:     #60a5fa;
+  --orange:   #fb923c;
+  --purple:   #c084fc;
+  --yellow:   #fbbf24;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* ─── HEADER ─── */
+header {
+  background: linear-gradient(160deg, #1a1208 0%, #0d0f14 60%, #081428 100%);
+  border-bottom: 2px solid var(--gold-dim);
+  padding: 2.5rem 2rem 2rem;
+  text-align: center;
+}
+header h1 {
+  font-size: 2rem;
+  color: var(--gold);
+  letter-spacing: 0.03em;
+  text-shadow: 0 0 30px rgba(200,169,75,.35);
+}
+header p { color: var(--dim); margin-top: .4rem; font-size: .9rem; }
+
+/* ─── NAV ─── */
+nav {
+  position: sticky; top: 0; z-index: 200;
+  background: rgba(13,15,20,.92);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  display: flex; justify-content: center; gap: .5rem;
+  padding: .6rem 1rem;
+}
+nav a {
+  color: var(--dim); text-decoration: none;
+  padding: .3rem .85rem; border-radius: 4px;
+  font-size: .8rem; border: 1px solid transparent;
+  transition: color .15s, border-color .15s;
+}
+nav a:hover { color: var(--gold); border-color: var(--gold-dim); }
+
+/* ─── SECTIONS ─── */
+.section {
+  max-width: 1180px; margin: 0 auto;
+  padding: 3rem 1.5rem 3.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.sec-head { margin-bottom: 1.5rem; }
+.badge {
+  display: inline-block;
+  background: var(--gold-dim); color: var(--gold);
+  font-size: .65rem; font-weight: 700; letter-spacing: .08em;
+  text-transform: uppercase; padding: .18rem .55rem; border-radius: 3px;
+  margin-bottom: .45rem;
+}
+.sec-head h2 { font-size: 1.35rem; color: var(--gold); margin-bottom: .35rem; }
+.sec-head p  { color: var(--dim); max-width: 680px; font-size: .87rem; }
+
+/* ─── TWO-COLUMN LAYOUT ─── */
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 260px;
+  gap: 1.25rem;
+  align-items: start;
+}
+
+/* ─── PANELS ─── */
+.viz   { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+.ctrl  { background: var(--panel); border: 1px solid var(--border); border-radius: 8px; padding: 1.25rem; }
+.ctrl h3 {
+  font-size: .72rem; color: var(--gold);
+  text-transform: uppercase; letter-spacing: .08em;
+  padding-bottom: .55rem; margin-bottom: .85rem;
+  border-bottom: 1px solid var(--border);
+}
+
+/* ─── SLIDERS ─── */
+.cg { margin-bottom: 1.1rem; }
+.cl {
+  display: flex; justify-content: space-between;
+  font-size: .75rem; color: var(--dim); margin-bottom: .35rem;
+}
+.cl span:last-child { color: var(--gold); font-weight: 600; }
+input[type=range] {
+  -webkit-appearance: none; width: 100%;
+  height: 4px; background: var(--border); border-radius: 2px; outline: none;
+}
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 13px; height: 13px; border-radius: 50%;
+  background: var(--gold); cursor: pointer;
+}
+
+/* ─── BUTTONS ─── */
+.btn-row { display: flex; gap: .5rem; margin-top: .9rem; }
+.btn {
+  flex: 1; padding: .4rem .7rem;
+  border: 1px solid var(--gold-dim); border-radius: 4px;
+  background: transparent; color: var(--gold);
+  font-size: .77rem; cursor: pointer; transition: background .15s;
+}
+.btn:hover { background: rgba(200,169,75,.15); }
+
+/* ─── STAT BOXES ─── */
+.stats { display: flex; gap: .6rem; margin-top: 1rem; }
+.stat {
+  flex: 1; background: var(--panel2);
+  border: 1px solid var(--border); border-radius: 6px;
+  padding: .6rem .5rem; text-align: center;
+}
+.stat .v { font-size: 1.35rem; font-weight: 700; display: block; }
+.stat .l { font-size: .63rem; color: var(--dim); text-transform: uppercase; letter-spacing: .06em; }
+.g { color: var(--green); }
+.o { color: var(--orange); }
+.d { color: var(--dim); }
+.b { color: var(--blue); }
+
+/* ─── CODE SNIPPET ─── */
+.snip {
+  background: #080b10; border-left: 3px solid var(--gold-dim);
+  border-radius: 0 4px 4px 0; padding: .65rem .9rem;
+  font-family: 'Cascadia Code','Fira Code', monospace; font-size: .72rem;
+  color: var(--dim); margin-top: 1rem; line-height: 1.7;
+}
+.snip .hl { color: var(--gold); }
+.snip .cm { color: #3d5069; }
+
+/* ═══════════════════════════════════════
+   SECTION 1 — FETCH PIPELINE
+═══════════════════════════════════════ */
+#cat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(115px,1fr));
+  gap: .4rem; margin-bottom: 1.25rem;
+}
+.cat-pill {
+  padding: .35rem .5rem; border-radius: 5px; text-align: center;
+  font-size: .72rem; font-weight: 500; border: 1px solid var(--border);
+  background: var(--panel2); color: var(--dim);
+  transition: background .2s, border-color .2s, color .2s;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.cat-pill.fetching { border-color: var(--yellow); color: var(--yellow); background: rgba(251,191,36,.08); }
+.cat-pill.saving    { border-color: var(--blue);   color: var(--blue);   background: rgba(96,165,250,.08); }
+.cat-pill.processing{ border-color: var(--green);  color: var(--green);  background: rgba(74,222,128,.08); }
+.cat-pill.done      { border-color: #2a4a35;       color: #3d7a50;       background: transparent; }
+
+/* Pipeline nodes */
+#pipe {
+  display: flex; align-items: center; justify-content: center;
+  gap: .6rem; padding: 1.1rem 0 .9rem;
+}
+.pnode {
+  display: flex; flex-direction: column; align-items: center; gap: .3rem;
+  padding: .65rem .9rem; border-radius: 8px;
+  border: 1px solid var(--border); background: var(--panel2);
+  font-size: .72rem; color: var(--dim); min-width: 80px;
+  transition: border-color .2s, box-shadow .2s, color .2s;
+}
+.pnode .icon { font-size: 1.4rem; }
+.pnode.lit-y { border-color: var(--yellow); color: var(--yellow); box-shadow: 0 0 14px rgba(251,191,36,.3); }
+.pnode.lit-b { border-color: var(--blue);   color: var(--blue);   box-shadow: 0 0 14px rgba(96,165,250,.3); }
+.pnode.lit-g { border-color: var(--green);  color: var(--green);  box-shadow: 0 0 14px rgba(74,222,128,.3); }
+
+.parrow { color: var(--border); font-size: 1.2rem; position: relative; width: 36px; text-align: center; }
+.parrow .dot {
+  position: absolute; top: 50%; left: 0;
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--gold); margin-top: -4px;
+  opacity: 0; transition: none;
+}
+
+#delay-wrap { margin-top: .9rem; }
+#delay-wrap .row { display: flex; justify-content: space-between; font-size: .74rem; color: var(--dim); margin-bottom: .3rem; }
+#delay-track { background: var(--border); height: 6px; border-radius: 3px; overflow: hidden; }
+#delay-bar   { background: var(--gold); height: 100%; width: 0; }
+
+/* ═══════════════════════════════════════
+   SECTION 2 — CHANGE DETECTION
+═══════════════════════════════════════ */
+.s2-inner { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+
+#item-grid {
+  display: grid; grid-template-columns: 1fr 1fr 1fr; gap: .4rem;
+}
+.icard {
+  background: var(--panel2); border: 1px solid var(--border);
+  border-radius: 6px; padding: .5rem .55rem;
+  transition: border-color .3s, background .3s;
+}
+.icard .iname { font-size: .68rem; color: var(--dim); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.icard .iprice { font-size: .88rem; font-weight: 700; color: var(--text); margin: .1rem 0; }
+.icard .ibadge { font-size: .6rem; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; }
+.icard.changed { border-color: var(--green); background: rgba(74,222,128,.07); }
+.icard.changed .ibadge { color: var(--green); }
+.icard.skipped { border-color: var(--border); background: rgba(107,122,141,.05); }
+.icard.skipped .ibadge { color: var(--dim); }
+
+/* DB tables */
+.dbtable { font-size: .7rem; }
+.dbtable .dblabel {
+  color: var(--gold); font-weight: 700; font-size: .7rem;
+  letter-spacing: .05em; margin-bottom: .3rem;
+  display: flex; justify-content: space-between; align-items: center;
+}
+.dbtable .dbhead {
+  display: grid; grid-template-columns: 1fr 80px 55px;
+  gap: .3rem; padding: .25rem .4rem;
+  background: var(--panel2); color: var(--dim);
+  border-radius: 4px 4px 0 0; border: 1px solid var(--border);
+  font-size: .65rem; font-weight: 600; text-transform: uppercase; letter-spacing: .05em;
+}
+.dbrows { max-height: 150px; overflow: hidden; border: 1px solid var(--border); border-top: none; border-radius: 0 0 4px 4px; }
+.dbrow {
+  display: grid; grid-template-columns: 1fr 80px 55px;
+  gap: .3rem; padding: .22rem .4rem;
+  border-bottom: 1px solid rgba(42,52,68,.6);
+  transition: background .3s;
+}
+.dbrow:last-child { border-bottom: none; }
+.dbrow.flash-write { background: rgba(74,222,128,.15); }
+.dbrow.new-row { animation: slideIn .3s ease; }
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(-6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.dbrow .dc { color: var(--dim); font-size: .65rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.dbrow .dv { color: var(--text); font-size: .65rem; text-align: right; }
+.dbrow .dt { color: var(--dim); font-size: .6rem; text-align: right; }
+
+#history-rows { max-height: 120px; overflow-y: auto; }
+#history-rows::-webkit-scrollbar { width: 4px; }
+#history-rows::-webkit-scrollbar-track { background: transparent; }
+#history-rows::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+.s2-stats { display: flex; gap: .5rem; margin-top: .9rem; }
+.s2-stat {
+  flex: 1; background: var(--panel2); border: 1px solid var(--border);
+  border-radius: 5px; padding: .5rem; text-align: center;
+}
+.s2-stat .v { font-size: 1.2rem; font-weight: 700; }
+.s2-stat .l { font-size: .6rem; color: var(--dim); text-transform: uppercase; letter-spacing: .05em; }
+
+/* ═══════════════════════════════════════
+   SECTION 3 — PRICE IMPUTATION
+═══════════════════════════════════════ */
+#axis-wrap { position: relative; padding: 3.5rem 1rem 1rem; min-height: 220px; }
+#axis-line {
+  position: absolute; bottom: 60px; left: 1rem; right: 1rem;
+  height: 2px; background: var(--border);
+}
+.axis-tick {
+  position: absolute; bottom: 60px;
+  display: flex; flex-direction: column; align-items: center;
+}
+.axis-tick .tick-mark { width: 1px; height: 8px; background: var(--border); }
+.axis-tick .tick-lbl { font-size: .6rem; color: var(--dim); margin-top: .3rem; white-space: nowrap; }
+
+.iitem {
+  position: absolute; bottom: 72px;
+  display: flex; flex-direction: column; align-items: center;
+  cursor: pointer; transition: left .6s cubic-bezier(.34,1.56,.64,1);
+}
+.iitem .idot {
+  width: 11px; height: 11px; border-radius: 50%;
+  border: 2px solid currentColor; background: transparent;
+  transition: transform .2s;
+}
+.iitem.divine .idot {
+  border-radius: 0; transform: rotate(45deg);
+  width: 10px; height: 10px;
+}
+.iitem:hover .idot { transform: scale(1.7); }
+.iitem.divine:hover .idot { transform: rotate(45deg) scale(1.7); }
+.iitem .ilbl { font-size: .58rem; color: var(--dim); margin-top: .3rem; text-align: center; max-width: 60px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+.iitem.chaos-type { color: var(--orange); }
+.iitem.divine     { color: var(--blue); }
+.iitem.both       { color: var(--green); }
+
+/* Tooltip */
+#imp-tooltip {
+  position: absolute; background: var(--panel2);
+  border: 1px solid var(--gold-dim); border-radius: 5px;
+  padding: .5rem .7rem; font-size: .72rem;
+  pointer-events: none; display: none; z-index: 10; min-width: 140px;
+}
+#imp-tooltip .tt-name { color: var(--gold); font-weight: 600; margin-bottom: .3rem; }
+#imp-tooltip .tt-row  { display: flex; justify-content: space-between; gap: .75rem; color: var(--dim); }
+#imp-tooltip .tt-val  { color: var(--text); }
+
+/* Legend */
+.legend { display: flex; gap: 1.25rem; margin-top: .5rem; }
+.leg-item { display: flex; align-items: center; gap: .4rem; font-size: .72rem; color: var(--dim); }
+.leg-dot { width: 9px; height: 9px; border-radius: 50%; border: 2px solid currentColor; background: transparent; }
+.leg-diamond { width: 8px; height: 8px; border: 2px solid var(--blue); transform: rotate(45deg); }
+
+/* ═══════════════════════════════════════
+   SECTION 4 — MARKET MOVERS
+═══════════════════════════════════════ */
+#movers-wrap { overflow-x: auto; }
+#movers-svg { display: block; width: 100%; min-width: 480px; }
+
+.mover-bar  { transition: height .5s cubic-bezier(.34,1,.64,1), y .5s cubic-bezier(.34,1,.64,1), fill .5s; }
+.mover-lbl  { font-size: 9px; fill: #6b7a8d; font-family: inherit; }
+.mover-pct  { font-size: 9px; font-weight: 700; font-family: inherit; transition: y .5s; }
+.mover-dimmed { opacity: .25; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>PoE Economy Tracker</h1>
+  <p>Animated visualization of the five core strategies — use the sliders to see how each parameter affects the system</p>
+</header>
+
+<nav>
+  <a href="#s1">① Fetch Pipeline</a>
+  <a href="#s2">② Change Detection</a>
+  <a href="#s3">③ Price Imputation</a>
+  <a href="#s4">④ Market Movers</a>
+</nav>
+
+<!-- ══════════════════════════════════════════════════
+     SECTION 1 — FETCH PIPELINE
+══════════════════════════════════════════════════ -->
+<div class="section" id="s1">
+  <div class="sec-head">
+    <div class="badge">Strategy 1</div>
+    <h2>API Fetch Pipeline &amp; Rate Limiting</h2>
+    <p>Every 30 minutes GitHub Actions runs <code>fetch_data.py</code>, which loops through all 17 item categories, calling poe.ninja, saving raw JSON, then writing to SQLite — with a courtesy delay between each request.</p>
+  </div>
+  <div class="layout">
+    <div class="viz">
+      <div id="cat-grid"></div>
+      <div id="pipe">
+        <div class="pnode" id="pn-api"><div class="icon">🌐</div><div>poe.ninja</div></div>
+        <div class="parrow" id="pa1"><span>→</span><div class="dot" id="dot1"></div></div>
+        <div class="pnode" id="pn-py"><div class="icon">🐍</div><div>fetch_data</div></div>
+        <div class="parrow" id="pa2"><span>→</span><div class="dot" id="dot2"></div></div>
+        <div class="pnode" id="pn-json"><div class="icon">📄</div><div>data/keepers</div></div>
+        <div class="parrow" id="pa3"><span>→</span><div class="dot" id="dot3"></div></div>
+        <div class="pnode" id="pn-db"><div class="icon">🗄️</div><div>SQLite DB</div></div>
+      </div>
+      <div id="delay-wrap">
+        <div class="row"><span>Rate-limit delay</span><span id="delay-txt" style="color:var(--gold)">—</span></div>
+        <div id="delay-track"><div id="delay-bar"></div></div>
+      </div>
+      <div class="snip">
+        REQUEST_DELAY = <span class="hl" id="cr-delay">1.5</span>&nbsp;&nbsp;<span class="cm"># seconds between requests</span><br>
+        time.sleep(REQUEST_DELAY)&nbsp;&nbsp;<span class="cm"># fetch_data.py line 219</span>
+      </div>
+      <div class="stats" style="margin-top:.85rem">
+        <div class="stat"><span class="v b" id="s1-fetched">0</span><span class="l">Fetched</span></div>
+        <div class="stat"><span class="v" id="s1-elapsed" style="color:var(--gold)">0.0s</span><span class="l">Elapsed</span></div>
+        <div class="stat"><span class="v d" id="s1-remain">17</span><span class="l">Remaining</span></div>
+      </div>
+    </div>
+    <div class="ctrl">
+      <h3>Controls</h3>
+      <div class="cg">
+        <div class="cl"><span>Request Delay</span><span id="lbl-delay">1.5 s</span></div>
+        <input type="range" id="sl-delay" min="0.3" max="3.0" step="0.1" value="1.5">
+      </div>
+      <div class="cg">
+        <div class="cl"><span>Categories to Fetch</span><span id="lbl-cats">17</span></div>
+        <input type="range" id="sl-cats" min="3" max="17" step="1" value="17">
+      </div>
+      <div class="btn-row">
+        <button class="btn" id="btn1-restart">↺ Restart</button>
+        <button class="btn" id="btn1-pause">⏸ Pause</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════
+     SECTION 2 — CHANGE DETECTION
+══════════════════════════════════════════════════ -->
+<div class="section" id="s2">
+  <div class="sec-head">
+    <div class="badge">Strategy 2</div>
+    <h2>Change Detection &amp; Two-Tier Database</h2>
+    <p>Rather than writing every price on every run, the script compares incoming prices to <code>current_prices</code> and only logs a new row to <code>price_history</code> when the value actually changed — dramatically reducing DB growth.</p>
+  </div>
+  <div class="layout">
+    <div class="viz">
+      <div class="s2-inner">
+        <div>
+          <div style="font-size:.72rem;color:var(--dim);margin-bottom:.45rem;">Incoming API data — this tick</div>
+          <div id="item-grid"></div>
+          <div class="s2-stats" id="s2-counters">
+            <div class="s2-stat"><div class="v g" id="s2-added">0</div><div class="l">Added</div></div>
+            <div class="s2-stat"><div class="v o" id="s2-updated">0</div><div class="l">Updated</div></div>
+            <div class="s2-stat"><div class="v d" id="s2-skipped">0</div><div class="l">Skipped</div></div>
+          </div>
+        </div>
+        <div>
+          <div class="dbtable" style="margin-bottom:.8rem">
+            <div class="dblabel">
+              <span>current_prices</span>
+              <span style="color:var(--dim);font-weight:400">1 row / item</span>
+            </div>
+            <div class="dbhead"><span>item</span><span style="text-align:right">chaos</span><span style="text-align:right">updated</span></div>
+            <div class="dbrows" id="cp-rows"></div>
+          </div>
+          <div class="dbtable">
+            <div class="dblabel">
+              <span>price_history</span>
+              <span style="color:var(--dim);font-weight:400" id="hist-count">0 rows</span>
+            </div>
+            <div class="dbhead"><span>item</span><span style="text-align:right">chaos</span><span style="text-align:right">ts</span></div>
+            <div class="dbrows" id="history-rows"></div>
+          </div>
+        </div>
+      </div>
+      <div class="snip" style="margin-top:.75rem">
+        <span class="cm"># fetch_data.py lines 148–161</span><br>
+        old_price = cursor.fetchone()<br>
+        <span class="hl">if not old_price:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cm">→ INSERT both tables</span><br>
+        <span class="hl">elif old_price != new_price:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cm">→ INSERT + UPSERT</span><br>
+        <span class="hl">else:</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="cm">→ skip (items_skipped++)</span>
+      </div>
+    </div>
+    <div class="ctrl">
+      <h3>Controls</h3>
+      <div class="cg">
+        <div class="cl"><span>Price Volatility</span><span id="lbl-vol">30%</span></div>
+        <input type="range" id="sl-vol" min="5" max="95" step="5" value="30">
+      </div>
+      <div class="cg">
+        <div class="cl"><span>Simulation Speed</span><span id="lbl-spd">1.0×</span></div>
+        <input type="range" id="sl-spd" min="0.5" max="3" step="0.5" value="1">
+      </div>
+      <div class="btn-row">
+        <button class="btn" id="btn2-reset">↺ Reset</button>
+        <button class="btn" id="btn2-pause">⏸ Pause</button>
+      </div>
+      <div style="margin-top:1.1rem;padding-top:.9rem;border-top:1px solid var(--border)">
+        <div style="font-size:.72rem;color:var(--dim);margin-bottom:.5rem">Total across all ticks</div>
+        <div class="stats" style="flex-direction:column;gap:.4rem">
+          <div class="stat"><span class="v g" id="s2-total-w">0</span><span class="l">Total DB writes</span></div>
+          <div class="stat"><span class="v d" id="s2-total-s">0</span><span class="l">Total skipped</span></div>
+          <div class="stat"><span class="v" id="s2-ratio" style="color:var(--purple)">—</span><span class="l">Write efficiency</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════
+     SECTION 3 — PRICE IMPUTATION
+══════════════════════════════════════════════════ -->
+<div class="section" id="s3">
+  <div class="sec-head">
+    <div class="badge">Strategy 3</div>
+    <h2>Price Imputation — Unifying Chaos &amp; Divine Values</h2>
+    <p>PoE has two main currencies. poe.ninja reports some items in Chaos, others in Divine. <code>analysis.py</code> looks up the current Divine→Chaos rate and converts everything to a single <code>imputed_chaos_value</code> for comparison. Drag the slider to see items shift.</p>
+  </div>
+  <div class="layout">
+    <div class="viz">
+      <div style="font-size:.75rem;color:var(--dim);margin-bottom:.5rem">
+        Formula: &nbsp;
+        <code style="color:var(--text)">imputed = chaos_val <span style="color:var(--gold)">??</span> (divine_val × <span style="color:var(--blue)" id="rate-formula">260</span>c)</code>
+      </div>
+      <div id="axis-wrap">
+        <div id="axis-line"></div>
+        <div id="axis-ticks"></div>
+        <div id="imp-items"></div>
+        <div id="imp-tooltip">
+          <div class="tt-name" id="tt-name"></div>
+          <div class="tt-row"><span>chaos_value</span><span class="tt-val" id="tt-chaos">—</span></div>
+          <div class="tt-row"><span>divine_value</span><span class="tt-val" id="tt-divine">—</span></div>
+          <div class="tt-row"><span style="color:var(--gold)">imputed</span><span class="tt-val" id="tt-imp" style="color:var(--gold)">—</span></div>
+        </div>
+      </div>
+      <div style="margin-top:.3rem">
+        <div class="legend">
+          <div class="leg-item"><div class="leg-dot" style="color:var(--orange)"></div><span>chaos_value known</span></div>
+          <div class="leg-item"><div class="leg-diamond"></div><span>divine_value only (moves with rate)</span></div>
+          <div class="leg-item"><div class="leg-dot" style="color:var(--green)"></div><span>both (chaos wins)</span></div>
+        </div>
+      </div>
+      <div class="snip">
+        <span class="cm"># analysis.py lines 58–64</span><br>
+        divine_to_chaos_rate = divine_orb_entry[<span class="hl">'chaos_value'</span>]<br>
+        <br>
+        <span class="cm">def impute_price(row):</span><br>
+        &nbsp;&nbsp;if pd.notna(row[<span class="hl">'chaos_value'</span>]): return row[<span class="hl">'chaos_value'</span>]<br>
+        &nbsp;&nbsp;return row[<span class="hl">'divine_value'</span>] * divine_to_chaos_rate
+      </div>
+    </div>
+    <div class="ctrl">
+      <h3>Controls</h3>
+      <div class="cg">
+        <div class="cl"><span>Divine → Chaos Rate</span><span id="lbl-rate">260c</span></div>
+        <input type="range" id="sl-rate" min="100" max="500" step="5" value="260">
+      </div>
+      <div style="margin-top:1.2rem;padding-top:1rem;border-top:1px solid var(--border)">
+        <div style="font-size:.72rem;color:var(--dim);margin-bottom:.6rem">Live item values</div>
+        <div id="imp-list" style="display:flex;flex-direction:column;gap:.35rem"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════════════════
+     SECTION 4 — MARKET MOVERS
+══════════════════════════════════════════════════ -->
+<div class="section" id="s4">
+  <div class="sec-head">
+    <div class="badge">Strategy 4</div>
+    <h2>Market Movers Analysis</h2>
+    <p>Every analysis run computes <code>% change = (current − previous) / previous × 100</code> for each item, filters out low-value noise, and surfaces the biggest gainers and losers. Adjust volatility to simulate different market conditions.</p>
+  </div>
+  <div class="layout">
+    <div class="viz">
+      <div id="movers-wrap">
+        <svg id="movers-svg" height="320"></svg>
+      </div>
+      <div class="snip">
+        <span class="cm"># analysis.py lines 103–107</span><br>
+        df_movers = df[ df[<span class="hl">'imputed_chaos_value'</span>] > <span class="hl" id="cr-minchaos">10</span> ]<br>
+        df_movers[<span class="hl">'change'</span>] = ((current - previous) / previous) * 100<br>
+        top_gainers = df_movers.sort_values(<span class="hl">'change'</span>).tail(10)<br>
+        top_losers&nbsp; = df_movers.sort_values(<span class="hl">'change'</span>).head(10)
+      </div>
+    </div>
+    <div class="ctrl">
+      <h3>Controls</h3>
+      <div class="cg">
+        <div class="cl"><span>Price Volatility</span><span id="lbl-mover-vol">10%</span></div>
+        <input type="range" id="sl-mover-vol" min="1" max="30" step="1" value="10">
+      </div>
+      <div class="cg">
+        <div class="cl"><span>Min Chaos Filter</span><span id="lbl-minchaos">10c</span></div>
+        <input type="range" id="sl-minchaos" min="1" max="200" step="1" value="10">
+      </div>
+      <div class="btn-row">
+        <button class="btn" id="btn4-pause">⏸ Pause</button>
+        <button class="btn" id="btn4-reset">↺ Reset</button>
+      </div>
+      <div style="margin-top:1.1rem;padding-top:.9rem;border-top:1px solid var(--border)">
+        <div style="font-size:.72rem;color:var(--dim);margin-bottom:.5rem">Tick stats</div>
+        <div class="stats" style="flex-direction:column;gap:.4rem">
+          <div class="stat"><span class="v g" id="m-top-gainer">—</span><span class="l">Top Gainer</span></div>
+          <div class="stat"><span class="v r" id="m-top-loser" style="color:var(--red)">—</span><span class="l">Top Loser</span></div>
+          <div class="stat"><span class="v d" id="m-filtered">0</span><span class="l">Filtered by min</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+'use strict';
+
+/* ══════════════════════════════════════════════════════
+   SHARED DATA
+══════════════════════════════════════════════════════ */
+const CATEGORIES = [
+  'Currency','Fragments','Tattoos','Oils','Incubators',
+  'Scarabs','Delirium Orbs','Essences','Divination Cards',
+  'Skill Gems','Cluster Jewels','Maps','Unique Jewels',
+  'Unique Flasks','Unique Weapons','Unique Armours','Unique Accessories'
+];
+
+// items with real values from the repo's data files
+const ITEMS = [
+  { name:'Divine Orb',          short:'Divine',     chaos:306,     divine:1,     cat:'Currency',    chaosOnly:false, divineOnly:false },
+  { name:'Chaos Orb',           short:'Chaos',      chaos:1,       divine:null,  cat:'Currency',    chaosOnly:true,  divineOnly:false },
+  { name:'Mirror Shard',        short:'Mirror Sh.', chaos:1850,    divine:null,  cat:'Currency',    chaosOnly:true,  divineOnly:false },
+  { name:'Exalted Implant',     short:'Ex. Implant',chaos:3.6,     divine:null,  cat:'Currency',    chaosOnly:true,  divineOnly:false },
+  { name:'Awakened Enlighten',  short:'A. Enlighten',chaos:92430,  divine:null,  cat:'Skill Gems',  chaosOnly:true,  divineOnly:false },
+  { name:'Original Sin',        short:'Orig. Sin',  chaos:25878,   divine:null,  cat:'Accessories', chaosOnly:true,  divineOnly:false },
+  { name:'Voices (7p)',         short:'Voices',     chaos:18343,   divine:null,  cat:'Jewels',      chaosOnly:true,  divineOnly:false },
+  { name:'Headhunter',          short:'Headhunter', chaos:4200,    divine:null,  cat:'Accessories', chaosOnly:true,  divineOnly:false },
+  { name:'Progenesis',          short:'Progenesis', chaos:8259,    divine:null,  cat:'Flasks',      chaosOnly:true,  divineOnly:false },
+  { name:'Mageblood',           short:'Mageblood',  chaos:null,    divine:8.5,   cat:'Accessories', chaosOnly:false, divineOnly:true  },
+  { name:'Forbidden Jewel',     short:'Forb. Jewel',chaos:null,    divine:12,    cat:'Jewels',      chaosOnly:false, divineOnly:true  },
+  { name:'Tabula Rasa',         short:'Tabula',     chaos:12,      divine:null,  cat:'Armours',     chaosOnly:true,  divineOnly:false },
+];
+
+/* ══════════════════════════════════════════════════════
+   SECTION 1 — FETCH PIPELINE
+══════════════════════════════════════════════════════ */
+const S1 = (() => {
+  // state
+  let delay = 1.5, numCats = 17;
+  let idx = -1, phase = 'idle';
+  let paused = false;
+  let elapsed = 0, elapsedTick = null;
+  let phaseTimer = null;
+  let delayRAF = null, delayStart = 0;
+
+  const PHASE_DUR = { fetching:700, saving:350, processing:450 };
+  const NODES = {
+    fetching:  ['pn-api','pn-py'],
+    saving:    ['pn-py','pn-json'],
+    processing:['pn-json','pn-db']
+  };
+  const DOTS  = { fetching:'dot1', saving:'dot2', processing:'dot3' };
+  const LITS  = { fetching:'lit-y', saving:'lit-b', processing:'lit-g' };
+
+  function init() {
+    buildGrid();
+    bindControls();
+    start();
+  }
+
+  function buildGrid() {
+    const g = document.getElementById('cat-grid');
+    g.innerHTML = '';
+    CATEGORIES.slice(0,numCats).forEach((c,i) => {
+      const d = document.createElement('div');
+      d.className = 'cat-pill';
+      d.textContent = c;
+      d.id = 'pill-' + i;
+      g.appendChild(d);
+    });
+  }
+
+  function start() {
+    clearAll();
+    idx = -1; elapsed = 0;
+    document.getElementById('s1-fetched').textContent = '0';
+    document.getElementById('s1-elapsed').textContent = '0.0s';
+    document.getElementById('s1-remain').textContent = numCats;
+    document.getElementById('delay-bar').style.transition = 'none';
+    document.getElementById('delay-bar').style.width = '0%';
+    document.getElementById('delay-txt').textContent = '—';
+    allDim();
+    elapsedTick = setInterval(() => {
+      if (!paused) { elapsed += 0.1; document.getElementById('s1-elapsed').textContent = elapsed.toFixed(1)+'s'; }
+    }, 100);
+    nextCat();
+  }
+
+  function clearAll() {
+    clearTimeout(phaseTimer); cancelAnimationFrame(delayRAF);
+    if (elapsedTick) clearInterval(elapsedTick);
+  }
+
+  function allDim() {
+    ['pn-api','pn-py','pn-json','pn-db'].forEach(id => {
+      const n = document.getElementById(id);
+      n.className = 'pnode';
+    });
+    ['dot1','dot2','dot3'].forEach(id => {
+      document.getElementById(id).style.opacity = '0';
+    });
+  }
+
+  function nextCat() {
+    idx = (idx + 1) % numCats;
+    // mark previous done
+    const prev = document.getElementById('pill-' + ((idx - 1 + numCats) % numCats));
+    if (prev) prev.className = 'cat-pill done';
+    setPhase('fetching');
+  }
+
+  function setPhase(p) {
+    phase = p;
+    allDim();
+    // light up relevant nodes
+    (NODES[p] || []).forEach(id => {
+      document.getElementById(id).classList.add(LITS[p]);
+    });
+    // animate pill
+    const pill = document.getElementById('pill-' + idx);
+    if (pill) pill.className = 'cat-pill ' + p;
+    // animate dot
+    const dotId = DOTS[p];
+    if (dotId) animateDot(dotId);
+    // hide delay bar during phases
+    document.getElementById('delay-bar').style.transition = 'none';
+    document.getElementById('delay-bar').style.width = '0%';
+    document.getElementById('delay-txt').textContent = '—';
+
+    if (!paused) phaseTimer = setTimeout(advancePhase, PHASE_DUR[p]);
+  }
+
+  function animateDot(id) {
+    const dot = document.getElementById(id);
+    dot.style.transition = 'none';
+    dot.style.left = '0';
+    dot.style.opacity = '1';
+    requestAnimationFrame(() => {
+      dot.style.transition = 'left 0.35s linear, opacity 0.2s';
+      dot.style.left = '28px';
+      setTimeout(() => { dot.style.opacity = '0'; }, 300);
+    });
+  }
+
+  function advancePhase() {
+    if (phase === 'fetching')   { setPhase('saving'); }
+    else if (phase === 'saving'){ setPhase('processing'); }
+    else if (phase === 'processing') {
+      // done with this category
+      const pill = document.getElementById('pill-' + idx);
+      if (pill) pill.className = 'cat-pill done';
+      allDim();
+      const fetched = idx + 1;
+      document.getElementById('s1-fetched').textContent = fetched;
+      document.getElementById('s1-remain').textContent = numCats - fetched;
+      startDelay();
+    }
+  }
+
+  function startDelay() {
+    document.getElementById('cr-delay').textContent = delay.toFixed(1);
+    const dur = delay * 1000;
+    delayStart = performance.now();
+    function update() {
+      if (paused) { delayRAF = requestAnimationFrame(update); return; }
+      const spent = performance.now() - delayStart;
+      const pct = Math.min(100, (spent / dur) * 100);
+      const bar = document.getElementById('delay-bar');
+      bar.style.transition = 'none';
+      bar.style.width = (100 - pct) + '%';
+      const rem = Math.max(0, (dur - spent) / 1000);
+      document.getElementById('delay-txt').textContent = rem.toFixed(1) + 's';
+      if (spent < dur) {
+        delayRAF = requestAnimationFrame(update);
+      } else {
+        document.getElementById('delay-bar').style.width = '0%';
+        document.getElementById('delay-txt').textContent = '—';
+        if (idx + 1 < numCats) nextCat();
+        else { allDim(); clearInterval(elapsedTick); } // done
+      }
+    }
+    delayRAF = requestAnimationFrame(update);
+  }
+
+  function bindControls() {
+    document.getElementById('sl-delay').addEventListener('input', e => {
+      delay = +e.target.value;
+      document.getElementById('lbl-delay').textContent = delay.toFixed(1) + ' s';
+      document.getElementById('cr-delay').textContent = delay.toFixed(1);
+    });
+    document.getElementById('sl-cats').addEventListener('input', e => {
+      numCats = +e.target.value;
+      document.getElementById('lbl-cats').textContent = numCats;
+      buildGrid(); start();
+    });
+    document.getElementById('btn1-restart').addEventListener('click', () => { buildGrid(); start(); });
+    document.getElementById('btn1-pause').addEventListener('click', function() {
+      paused = !paused;
+      this.textContent = paused ? '▶ Resume' : '⏸ Pause';
+      if (!paused) {
+        // resume current phase
+        if (phase === 'fetching' || phase === 'saving' || phase === 'processing') {
+          phaseTimer = setTimeout(advancePhase, PHASE_DUR[phase]);
+        }
+      } else {
+        clearTimeout(phaseTimer);
+      }
+    });
+  }
+
+  return { init };
+})();
+
+
+/* ══════════════════════════════════════════════════════
+   SECTION 2 — CHANGE DETECTION
+══════════════════════════════════════════════════════ */
+const S2 = (() => {
+  const DEMO = [
+    { name:'Divine Orb',   short:'Divine',    price:306   },
+    { name:'Mirror Shard', short:'Mirror Sh.',price:1850  },
+    { name:'Chaos Orb',    short:'Chaos',     price:1     },
+    { name:'Exalted Impl.',short:'Ex. Impl.', price:3.6   },
+    { name:'A. Enlighten', short:'A.Enlight.',price:92430 },
+    { name:'Original Sin', short:'Orig. Sin', price:25878 },
+    { name:'Voices (7p)',  short:'Voices',    price:18343 },
+    { name:'Headhunter',   short:'HH',        price:4200  },
+    { name:'Progenesis',   short:'Progenesis',price:8259  },
+    { name:'Lethal Pride', short:'L. Pride',  price:45    },
+    { name:'Tabula Rasa',  short:'Tabula',    price:12    },
+    { name:'Mageblood',    short:'Mageblood', price:2210  },
+  ];
+
+  let items = DEMO.map(d => ({ ...d }));
+  let vol = 0.30, speed = 1.0, paused = false;
+  let timer = null;
+  let added = 0, updated = 0, skipped = 0;
+  let totalWrites = 0, totalSkipped = 0;
+  let historyCount = 0;
+  let tick = 0;
+
+  function init() {
+    buildItemGrid();
+    buildCurrentPricesTable();
+    buildHistoryTable();
+    bindControls();
+    startTimer();
+  }
+
+  function buildItemGrid() {
+    const g = document.getElementById('item-grid');
+    g.innerHTML = '';
+    items.forEach((item, i) => {
+      const d = document.createElement('div');
+      d.className = 'icard';
+      d.id = 'ic-' + i;
+      d.innerHTML = `<div class="iname">${item.short}</div>
+        <div class="iprice" id="ip-${i}">${fmtC(item.price)}</div>
+        <div class="ibadge" id="ib-${i}"></div>`;
+      g.appendChild(d);
+    });
+  }
+
+  function buildCurrentPricesTable() {
+    const r = document.getElementById('cp-rows');
+    r.innerHTML = '';
+    items.forEach((item, i) => {
+      const row = document.createElement('div');
+      row.className = 'dbrow';
+      row.id = 'cp-' + i;
+      row.innerHTML = `<span class="dc">${item.short}</span>
+        <span class="dv" id="cpv-${i}">${fmtC(item.price)}</span>
+        <span class="dt" id="cpt-${i}">t0</span>`;
+      r.appendChild(row);
+    });
+  }
+
+  function buildHistoryTable() {
+    document.getElementById('history-rows').innerHTML = '';
+    document.getElementById('hist-count').textContent = '0 rows';
+    historyCount = 0;
+  }
+
+  function startTimer() {
+    clearInterval(timer);
+    timer = setInterval(doTick, Math.round(2000 / speed));
+  }
+
+  function doTick() {
+    if (paused) return;
+    tick++;
+    added = 0; updated = 0; skipped = 0;
+
+    items.forEach((item, i) => {
+      const changed = Math.random() < vol;
+      const card = document.getElementById('ic-' + i);
+
+      if (changed) {
+        const delta = 1 + (Math.random() * 2 - 1) * 0.15;
+        const oldPrice = item.price;
+        item.price = Math.max(0.1, item.price * delta);
+        document.getElementById('ip-' + i).textContent = fmtC(item.price);
+        document.getElementById('ib-' + i).textContent = 'WRITE ↓';
+        card.className = 'icard changed';
+
+        // update current_prices row
+        const cpRow = document.getElementById('cp-' + i);
+        if (cpRow) {
+          document.getElementById('cpv-' + i).textContent = fmtC(item.price);
+          document.getElementById('cpt-' + i).textContent = 't' + tick;
+          cpRow.classList.add('flash-write');
+          setTimeout(() => cpRow.classList.remove('flash-write'), 500);
+        }
+
+        // prepend to history
+        addHistoryRow(item.short, item.price, tick);
+
+        if (oldPrice === DEMO.find(d => d.name === item.name)?.price) added++;
+        else updated++;
+      } else {
+        document.getElementById('ib-' + i).textContent = 'SKIP';
+        card.className = 'icard skipped';
+        skipped++;
+      }
+
+      setTimeout(() => { card.className = 'icard'; document.getElementById('ib-' + i).textContent = ''; }, 800);
+    });
+
+    totalWrites += added + updated;
+    totalSkipped += skipped;
+
+    document.getElementById('s2-added').textContent   = added;
+    document.getElementById('s2-updated').textContent = updated;
+    document.getElementById('s2-skipped').textContent = skipped;
+    document.getElementById('s2-total-w').textContent = totalWrites;
+    document.getElementById('s2-total-s').textContent = totalSkipped;
+    const total = totalWrites + totalSkipped;
+    document.getElementById('s2-ratio').textContent = total ? Math.round(totalWrites/total*100)+'%' : '—';
+  }
+
+  function addHistoryRow(name, price, t) {
+    historyCount++;
+    document.getElementById('hist-count').textContent = historyCount + ' rows';
+    const r = document.getElementById('history-rows');
+    const row = document.createElement('div');
+    row.className = 'dbrow new-row';
+    row.innerHTML = `<span class="dc">${name}</span>
+      <span class="dv">${fmtC(price)}</span>
+      <span class="dt">t${t}</span>`;
+    r.insertBefore(row, r.firstChild);
+    // keep max ~40 rows visible
+    while (r.children.length > 40) r.removeChild(r.lastChild);
+  }
+
+  function fmtC(v) {
+    if (v >= 10000) return (v/1000).toFixed(0)+'k c';
+    if (v >= 100)  return v.toFixed(0) + 'c';
+    return v.toFixed(1) + 'c';
+  }
+
+  function bindControls() {
+    document.getElementById('sl-vol').addEventListener('input', e => {
+      vol = +e.target.value / 100;
+      document.getElementById('lbl-vol').textContent = e.target.value + '%';
+    });
+    document.getElementById('sl-spd').addEventListener('input', e => {
+      speed = +e.target.value;
+      document.getElementById('lbl-spd').textContent = speed.toFixed(1) + '×';
+      startTimer();
+    });
+    document.getElementById('btn2-reset').addEventListener('click', () => {
+      items = DEMO.map(d => ({ ...d }));
+      added = updated = skipped = totalWrites = totalSkipped = tick = 0;
+      buildItemGrid(); buildCurrentPricesTable(); buildHistoryTable();
+      ['s2-added','s2-updated','s2-skipped','s2-total-w','s2-total-s'].forEach(id => {
+        document.getElementById(id).textContent = '0';
+      });
+      document.getElementById('s2-ratio').textContent = '—';
+    });
+    document.getElementById('btn2-pause').addEventListener('click', function() {
+      paused = !paused;
+      this.textContent = paused ? '▶ Resume' : '⏸ Pause';
+    });
+  }
+
+  return { init };
+})();
+
+
+/* ══════════════════════════════════════════════════════
+   SECTION 3 — PRICE IMPUTATION
+══════════════════════════════════════════════════════ */
+const S3 = (() => {
+  let rate = 260;
+
+  // Use a subset optimised for visual spread on a log scale
+  const IMP_ITEMS = [
+    { name:'Chaos Orb',        chaos:1,     divine:null, type:'chaos' },
+    { name:'Tabula Rasa',      chaos:12,    divine:null, type:'chaos' },
+    { name:'Exalted Implant',  chaos:3.6,   divine:null, type:'chaos' },
+    { name:'Lethal Pride',     chaos:45,    divine:null, type:'chaos' },
+    { name:'Divine Orb',       chaos:306,   divine:1,    type:'both'  },
+    { name:'Mirror Shard',     chaos:1850,  divine:null, type:'chaos' },
+    { name:'Mageblood',        chaos:null,  divine:8.5,  type:'divine'},
+    { name:'Forbidden Jewel',  chaos:null,  divine:12,   type:'divine'},
+    { name:'Progenesis',       chaos:8259,  divine:null, type:'chaos' },
+    { name:'Original Sin',     chaos:25878, divine:null, type:'chaos' },
+    { name:'Voices (7p)',      chaos:18343, divine:null, type:'chaos' },
+    { name:'Awakened Enlighten',chaos:92430,divine:null, type:'chaos' },
+  ];
+
+  const LOG_MIN = Math.log10(0.9);
+  const LOG_MAX = Math.log10(150000);
+
+  function imputed(item) {
+    if (item.chaos !== null) return item.chaos;
+    return item.divine * rate;
+  }
+
+  function xPct(val) {
+    const l = Math.log10(Math.max(0.9, val));
+    return Math.max(0, Math.min(100, (l - LOG_MIN) / (LOG_MAX - LOG_MIN) * 100));
+  }
+
+  function init() {
+    buildTicks();
+    buildItems();
+    buildList();
+    bindControls();
+  }
+
+  function buildTicks() {
+    const wrap = document.getElementById('axis-ticks');
+    wrap.innerHTML = '';
+    const vals = [1, 10, 100, 1000, 10000, 100000];
+    const line = document.getElementById('axis-line');
+    const W = line.offsetWidth || 600;
+    vals.forEach(v => {
+      const d = document.createElement('div');
+      d.className = 'axis-tick';
+      d.style.left = (xPct(v) / 100 * W + 16) + 'px'; // 16 = left padding of axis-wrap
+      d.innerHTML = `<div class="tick-mark"></div><div class="tick-lbl">${v>=1000?(v/1000)+'k':v}c</div>`;
+      wrap.appendChild(d);
+    });
+  }
+
+  function buildItems() {
+    const wrap = document.getElementById('imp-items');
+    wrap.innerHTML = '';
+    const line = document.getElementById('axis-line');
+    const W = line.offsetWidth || 600;
+    const STAGGER = [0, -22, 22, -44, 44, -14, 14, -32, 32, -50, 50, -60];
+
+    IMP_ITEMS.forEach((item, i) => {
+      const el = document.createElement('div');
+      el.className = 'iitem ' + (item.type === 'divine' ? 'divine' : item.type === 'both' ? 'both' : 'chaos-type');
+      el.id = 'ii-' + i;
+      const val = imputed(item);
+      const pct = xPct(val);
+      el.style.left = (pct / 100 * W + 16) + 'px';
+      el.style.bottom = (72 + (STAGGER[i] || 0)) + 'px';
+      el.innerHTML = `<div class="idot"></div><div class="ilbl">${item.name.length>10?item.name.slice(0,9)+'…':item.name}</div>`;
+      el.addEventListener('mouseenter', e => showTooltip(e, item));
+      el.addEventListener('mouseleave', () => { document.getElementById('imp-tooltip').style.display = 'none'; });
+      wrap.appendChild(el);
+    });
+  }
+
+  function buildList() {
+    const ul = document.getElementById('imp-list');
+    ul.innerHTML = '';
+    IMP_ITEMS.forEach((item, i) => {
+      const val = imputed(item);
+      const col = item.type === 'divine' ? 'var(--blue)' : item.type === 'both' ? 'var(--green)' : 'var(--orange)';
+      const d = document.createElement('div');
+      d.id = 'il-' + i;
+      d.style.cssText = 'display:flex;justify-content:space-between;align-items:center;font-size:.7rem';
+      d.innerHTML = `<span style="color:var(--dim);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:110px">${item.name}</span>
+        <span style="color:${col};font-weight:700;white-space:nowrap">${fmtV(val)}c</span>`;
+      ul.appendChild(d);
+    });
+  }
+
+  function updatePositions() {
+    const line = document.getElementById('axis-line');
+    const W = line.offsetWidth || 600;
+    IMP_ITEMS.forEach((item, i) => {
+      const val = imputed(item);
+      const pct = xPct(val);
+      const el = document.getElementById('ii-' + i);
+      if (el) el.style.left = (pct / 100 * W + 16) + 'px';
+      const li = document.getElementById('il-' + i);
+      if (li) li.querySelector('span:last-child').textContent = fmtV(val) + 'c';
+    });
+  }
+
+  function showTooltip(e, item) {
+    const tt = document.getElementById('imp-tooltip');
+    document.getElementById('tt-name').textContent   = item.name;
+    document.getElementById('tt-chaos').textContent  = item.chaos !== null ? item.chaos + 'c' : '—';
+    document.getElementById('tt-divine').textContent = item.divine !== null ? item.divine + ' div' : '—';
+    document.getElementById('tt-imp').textContent    = fmtV(imputed(item)) + 'c';
+    const rect = document.getElementById('axis-wrap').getBoundingClientRect();
+    tt.style.left = Math.min(e.clientX - rect.left + 8, rect.width - 160) + 'px';
+    tt.style.top  = (e.clientY - rect.top - 70) + 'px';
+    tt.style.display = 'block';
+  }
+
+  function fmtV(v) {
+    if (v >= 1000000) return (v/1000000).toFixed(2)+'M';
+    if (v >= 10000)   return (v/1000).toFixed(1)+'k';
+    if (v >= 100)     return v.toFixed(0);
+    return v.toFixed(1);
+  }
+
+  function bindControls() {
+    document.getElementById('sl-rate').addEventListener('input', e => {
+      rate = +e.target.value;
+      document.getElementById('lbl-rate').textContent = rate + 'c';
+      document.getElementById('rate-formula').textContent = rate;
+      updatePositions();
+    });
+    // rebuild ticks on resize
+    window.addEventListener('resize', () => { buildTicks(); updatePositions(); });
+  }
+
+  return { init };
+})();
+
+
+/* ══════════════════════════════════════════════════════
+   SECTION 4 — MARKET MOVERS
+══════════════════════════════════════════════════════ */
+const S4 = (() => {
+  const MOVER_ITEMS = [
+    { name:'Divine Orb',     price:306   },
+    { name:'A. Enlighten',   price:92430 },
+    { name:'Original Sin',   price:25878 },
+    { name:'Voices (7p)',    price:18343 },
+    { name:'Headhunter',     price:4200  },
+    { name:'Progenesis',     price:8259  },
+    { name:'Mirror Shard',   price:1850  },
+    { name:'Mageblood',      price:2210  },
+    { name:'Lethal Pride',   price:45    },
+    { name:'Tabula Rasa',    price:12    },
+  ];
+
+  let items = MOVER_ITEMS.map(d => ({ ...d, prev: d.price }));
+  let vol = 0.10, minChaos = 10, paused = false;
+  let timer = null;
+
+  // SVG dimensions
+  const MARGIN = { top:20, right:14, bottom:52, left:20 };
+
+  function init() {
+    buildSVG();
+    render();
+    bindControls();
+    timer = setInterval(tick, 1800);
+  }
+
+  function tick() {
+    if (paused) return;
+    items.forEach(item => {
+      item.prev = item.price;
+      const swing = 1 + (Math.random() * 2 - 1) * vol;
+      item.price = Math.max(0.1, item.price * swing);
+    });
+    render();
+  }
+
+  function pct(item) {
+    if (item.prev === 0) return 0;
+    return (item.price - item.prev) / item.prev * 100;
+  }
+
+  function render() {
+    const svg = document.getElementById('movers-svg');
+    const W = svg.clientWidth || 640;
+    const H = 320;
+    svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+
+    const sorted = [...items].sort((a,b) => pct(b) - pct(a));
+    const filtered = sorted.filter(it => it.price >= minChaos);
+    const dimmed   = sorted.filter(it => it.price <  minChaos);
+    const display  = [...filtered, ...dimmed];
+
+    const n = display.length;
+    const barW = Math.max(8, (W - MARGIN.left - MARGIN.right) / n - 4);
+    const midY = MARGIN.top + (H - MARGIN.top - MARGIN.bottom) / 2;
+    const maxPct = Math.max(5, ...display.map(it => Math.abs(pct(it))));
+    const scale = (H - MARGIN.top - MARGIN.bottom) / 2 / maxPct;
+
+    svg.innerHTML = '';
+
+    // zero line
+    const zl = makeSVG('line');
+    Object.assign(zl, {});
+    zl.setAttribute('x1', MARGIN.left); zl.setAttribute('x2', W - MARGIN.right);
+    zl.setAttribute('y1', midY); zl.setAttribute('y2', midY);
+    zl.setAttribute('stroke', '#2a3444'); zl.setAttribute('stroke-width', '1');
+    svg.appendChild(zl);
+
+    let topGainer = null, topLoser = null, filteredCount = 0;
+
+    display.forEach((item, i) => {
+      const x = MARGIN.left + i * ((W - MARGIN.left - MARGIN.right) / n) + ((W - MARGIN.left - MARGIN.right) / n - barW) / 2;
+      const p = pct(item);
+      const isDimmed = item.price < minChaos;
+      if (isDimmed) filteredCount++;
+
+      const barH = Math.max(2, Math.abs(p) * scale);
+      const barY = p >= 0 ? midY - barH : midY;
+
+      // bar colour: green positive, red negative
+      const col = isDimmed ? '#2a3444' : p >= 0
+        ? `hsl(${120 - Math.min(120, Math.abs(p)*3)}, 70%, 55%)`
+        : `hsl(${Math.max(0, Math.abs(p)*3)}, 70%, 55%)`;
+
+      const rect = makeSVG('rect');
+      rect.setAttribute('x', x); rect.setAttribute('y', barY);
+      rect.setAttribute('width', barW); rect.setAttribute('height', barH);
+      rect.setAttribute('fill', col); rect.setAttribute('rx', '2');
+      rect.setAttribute('class', 'mover-bar' + (isDimmed ? ' mover-dimmed' : ''));
+      svg.appendChild(rect);
+
+      // % label
+      const lbl = makeSVG('text');
+      lbl.setAttribute('x', x + barW/2);
+      lbl.setAttribute('y', p >= 0 ? barY - 3 : barY + barH + 10);
+      lbl.setAttribute('text-anchor', 'middle');
+      lbl.setAttribute('class', 'mover-pct');
+      lbl.setAttribute('fill', isDimmed ? '#3d5069' : col);
+      lbl.textContent = (p >= 0 ? '+' : '') + p.toFixed(1) + '%';
+      svg.appendChild(lbl);
+
+      // item name label
+      const nlbl = makeSVG('text');
+      nlbl.setAttribute('x', x + barW/2);
+      nlbl.setAttribute('y', H - MARGIN.bottom + 14);
+      nlbl.setAttribute('text-anchor', 'middle');
+      nlbl.setAttribute('transform', `rotate(-35 ${x + barW/2} ${H - MARGIN.bottom + 14})`);
+      nlbl.setAttribute('class', 'mover-lbl');
+      nlbl.setAttribute('fill', isDimmed ? '#2d3e52' : '#6b7a8d');
+      nlbl.textContent = item.name.length > 11 ? item.name.slice(0,10)+'…' : item.name;
+      svg.appendChild(nlbl);
+
+      if (!isDimmed) {
+        if (!topGainer || p > pct(topGainer)) topGainer = item;
+        if (!topLoser  || p < pct(topLoser))  topLoser  = item;
+      }
+    });
+
+    // update sidebar stats
+    document.getElementById('m-top-gainer').textContent = topGainer ? '+' + pct(topGainer).toFixed(1)+'%' : '—';
+    document.getElementById('m-top-loser').textContent  = topLoser  ? pct(topLoser).toFixed(1)+'%'  : '—';
+    document.getElementById('m-filtered').textContent   = filteredCount;
+    document.getElementById('cr-minchaos').textContent  = minChaos;
+  }
+
+  function makeSVG(tag) {
+    return document.createElementNS('http://www.w3.org/2000/svg', tag);
+  }
+
+  function buildSVG() {
+    // initial empty render, dimensions set in render()
+  }
+
+  function bindControls() {
+    document.getElementById('sl-mover-vol').addEventListener('input', e => {
+      vol = +e.target.value / 100;
+      document.getElementById('lbl-mover-vol').textContent = e.target.value + '%';
+    });
+    document.getElementById('sl-minchaos').addEventListener('input', e => {
+      minChaos = +e.target.value;
+      document.getElementById('lbl-minchaos').textContent = minChaos + 'c';
+      render();
+    });
+    document.getElementById('btn4-pause').addEventListener('click', function() {
+      paused = !paused;
+      this.textContent = paused ? '▶ Resume' : '⏸ Pause';
+    });
+    document.getElementById('btn4-reset').addEventListener('click', () => {
+      items = MOVER_ITEMS.map(d => ({ ...d, prev: d.price }));
+      render();
+    });
+    window.addEventListener('resize', render);
+  }
+
+  return { init };
+})();
+
+
+/* ══════════════════════════════════════════════════════
+   BOOT
+══════════════════════════════════════════════════════ */
+document.addEventListener('DOMContentLoaded', () => {
+  S1.init();
+  S2.init();
+  S3.init();
+  S4.init();
+});
+</script>
+</body>
+</html>
